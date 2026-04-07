@@ -1,0 +1,122 @@
+[
+  {
+    "id": 125,
+    "seq": 125,
+    "name": "JP 4.5 Year Anniversary Login Campaign",
+    "startAt": 1774897200000,
+    "endAt": 1775991599000,
+    "assetbundleName": "4-5th_anniversary",
+    "closeAt": 1775473200000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 162,
+        "quantity": 3000
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "seq": 125,
+    "name": "4.5 Year Anniversary Login Campaign",
+    "startAt": 1780858800000,
+    "endAt": 1782817199000,
+    "assetbundleName": "4-5th_anniversary",
+    "closeAt": 1782298800000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 162,
+        "quantity": 3000
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "seq": 137,
+    "name": "JP 5th Anniversary Your Memories Gift",
+    "startAt": 1791111600000,
+    "endAt": 1791197999000,
+    "assetbundleName": "5th_praise_login_05_03",
+    "closeAt": 1791197999000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 193,
+        "quantity": 400
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "seq": 137,
+    "name": "JP 5th Anniversary Your Memories Gift",
+    "startAt": 1791111600000,
+    "endAt": 1791197999000,
+    "assetbundleName": "5th_praise_login_05_02",
+    "closeAt": 1791197999000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 194,
+        "quantity": 300
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "seq": 137,
+    "name": "JP 5th Anniversary Your Memories Gift",
+    "startAt": 1791111600000,
+    "endAt": 1791197999000,
+    "assetbundleName": "5th_praise_login_05_01",
+    "closeAt": 1791197999000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 195,
+        "quantity": 200
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "seq": 137,
+    "name": "JP 5th Anniversary Your Memories Gift",
+    "startAt": 1791111600000,
+    "endAt": 1791197999000,
+    "assetbundleName": "5th_praise_login_05_00",
+    "closeAt": 1791197999000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 196,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "seq": 138,
+    "name": "JP 5th Anniversary Login Campaign",
+    "startAt": 1790751600000,
+    "endAt": 1791802799000,
+    "assetbundleName": "5th_anniversary",
+    "closeAt": 1791284400000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 205,
+        "quantity": 5000
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "seq": 138,
+    "name": "5th Anniversary Login Campaign",
+    "startAt": 1796673600000,
+    "endAt": 1798631999000,
+    "assetbundleName": "5th_anniversary",
+    "closeAt": 1798113600000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 205,
+        "quantity": 5000
+      }
+    ]
+  }
+]

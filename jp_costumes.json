@@ -1,0 +1,2025 @@
+[
+  {
+    "id": 53,
+    "costumes": [
+      {
+        "name": "ラピススカイ・セーラー",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0145_body_01",
+          "cos0145_body_03",
+          "cos0145_body",
+          "cos0145_body_02"
+        ],
+        "headAssets": [
+          "cos0145_head_01",
+          "cos0145_head",
+          "cos0145_head_02",
+          "cos0145_head_03"
+        ]
+      },
+      {
+        "name": "ラピススカイ・ブレザー",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0146_body_02",
+          "cos0146_body_01",
+          "cos0146_body_03",
+          "cos0146_body"
+        ],
+        "headAssets": [
+          "cos0146_head",
+          "cos0146_head_03",
+          "cos0146_head_02",
+          "cos0146_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "costumes": [
+      {
+        "name": "スタッズスターズ・サスペンダー",
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0147_body_01",
+          "cos0147_body_02",
+          "cos0147_body",
+          "cos0147_body_03"
+        ],
+        "headAssets": [
+          "cos0147_head_01",
+          "cos0147_head",
+          "cos0147_head_03",
+          "cos0147_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "costumes": [
+      {
+        "name": "シャーリングテイル・クローバー",
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0148_body",
+          "cos0148_body_01",
+          "cos0148_body_03",
+          "cos0148_body_02"
+        ],
+        "headAssets": [
+          "cos0148_head_03",
+          "cos0148_head_02",
+          "cos0148_head_01",
+          "cos0148_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "costumes": [
+      {
+        "name": "ストカジュ・ハーネスベルト",
+        "char_ids": [9, 10, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0149_body_01",
+          "cos0149_body_03",
+          "cos0149_body",
+          "cos0149_body_02"
+        ],
+        "headAssets": [
+          "cos0149_head_01",
+          "cos0149_head_03",
+          "cos0149_head",
+          "cos0149_head_02"
+        ]
+      },
+      {
+        "name": "フーディー・ハーネスベルト",
+        "char_ids": [26, 11, 12, 23],
+        "bodyAssets": [
+          "cos0150_body_01",
+          "cos0150_body_02",
+          "cos0150_body",
+          "cos0150_body_03"
+        ],
+        "headAssets": [
+          "cos0150_head",
+          "cos0150_head_03",
+          "cos0150_head_02",
+          "cos0150_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "costumes": [
+      {
+        "name": "ロイヤルローズホース",
+        "char_ids": [16, 26, 13, 23],
+        "bodyAssets": [
+          "cos0152_body",
+          "cos0152_body_02",
+          "cos0152_body_03",
+          "cos0152_body_01"
+        ],
+        "headAssets": [
+          "cos0152_head_01",
+          "cos0152_head_02",
+          "cos0152_head_03",
+          "cos0152_head"
+        ]
+      },
+      {
+        "name": "スイーティーカップドレス",
+        "char_ids": [14, 15, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0151_body_02",
+          "cos0151_body_01",
+          "cos0151_body",
+          "cos0151_body_03"
+        ],
+        "headAssets": [
+          "cos0151_head_03",
+          "cos0151_head_01",
+          "cos0151_head",
+          "cos0151_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "costumes": [
+      {
+        "name": "ナイトリードロワーズ",
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0153_body",
+          "cos0153_body_01",
+          "cos0153_body_02",
+          "cos0153_body_03"
+        ],
+        "headAssets": [
+          "cos0153_head_02",
+          "cos0153_head_03",
+          "cos0153_head_01",
+          "cos0153_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "costumes": [
+      {
+        "name": "オシャタイガースタイル",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0187_body",
+          "cos0187_body_03",
+          "cos0187_body_02",
+          "cos0187_body_01"
+        ],
+        "headAssets": [
+          "cos0187_head_03",
+          "cos0187_head_02",
+          "cos0187_head",
+          "cos0187_head_01"
+        ]
+      },
+      {
+        "name": "キュートタイガースタイル",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0186_body_03",
+          "cos0186_body_01",
+          "cos0186_body_02",
+          "cos0186_body"
+        ],
+        "headAssets": [
+          "cos0186_head_03",
+          "cos0186_head_01",
+          "cos0186_head",
+          "cos0186_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "costumes": []
+  },
+  {
+    "id": 100,
+    "costumes": [
+      {
+        "name": "想いのオーバーレイテール",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0227_body",
+          "cos0227_body_02",
+          "cos0227_body_03",
+          "cos0227_body_01"
+        ],
+        "headAssets": [
+          "cos0227_head",
+          "cos0227_head_01",
+          "cos0227_head_02",
+          "cos0227_head_03"
+        ]
+      },
+      {
+        "name": "想いのリアンモルソードレス",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0226_body_03",
+          "cos0226_body_02",
+          "cos0226_body",
+          "cos0226_body_01"
+        ],
+        "headAssets": [
+          "cos0226_head_02",
+          "cos0226_head",
+          "cos0226_head_03",
+          "cos0226_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "costumes": [
+      {
+        "name": "ドリーミング・ジャーニーズ",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0299_body",
+          "cos0299_body_03",
+          "cos0299_body_01",
+          "cos0299_body_02"
+        ],
+        "headAssets": [
+          "cos0299_head_03",
+          "cos0299_head_02",
+          "cos0299_head",
+          "cos0299_head_01"
+        ]
+      },
+      {
+        "name": "アンビシャス・ジャーニーズ",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0300_body",
+          "cos0300_body_02",
+          "cos0300_body_03",
+          "cos0300_body_01"
+        ],
+        "headAssets": [
+          "cos0300_head_03",
+          "cos0300_head_01",
+          "cos0300_head_02",
+          "cos0300_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "costumes": [
+      {
+        "name": "ロイヤリティ・ロックブレザー",
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0301_body",
+          "cos0301_body_02",
+          "cos0301_body_01",
+          "cos0301_body_03"
+        ],
+        "headAssets": [
+          "cos0301_head",
+          "cos0301_head_03",
+          "cos0301_head_01",
+          "cos0301_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "costumes": [
+      {
+        "name": "クラブクラウン・レヴァリードレス",
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0302_body",
+          "cos0302_body_01",
+          "cos0302_body_02",
+          "cos0302_body_03"
+        ],
+        "headAssets": [
+          "cos0302_head",
+          "cos0302_head_03",
+          "cos0302_head_01",
+          "cos0302_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "costumes": [
+      {
+        "name": "キルティング・モードスタイル",
+        "char_ids": [26, 11, 12, 23],
+        "bodyAssets": [
+          "cos0304_body_03",
+          "cos0304_body_02",
+          "cos0304_body",
+          "cos0304_body_01"
+        ],
+        "headAssets": [
+          "cos0304_head_03",
+          "cos0304_head_01",
+          "cos0304_head",
+          "cos0304_head_02"
+        ]
+      },
+      {
+        "name": "キルティング・フォーマル",
+        "char_ids": [9, 10, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0303_body_03",
+          "cos0303_body_01",
+          "cos0303_body_02",
+          "cos0303_body"
+        ],
+        "headAssets": [
+          "cos0303_head_03",
+          "cos0303_head_01",
+          "cos0303_head_02",
+          "cos0303_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "costumes": [
+      {
+        "name": "ポップフューチャー・プリンス",
+        "char_ids": [16, 26, 13, 23],
+        "bodyAssets": [
+          "cos0306_body_02",
+          "cos0306_body_03",
+          "cos0306_body_01",
+          "cos0306_body"
+        ],
+        "headAssets": [
+          "cos0306_head_01",
+          "cos0306_head_02",
+          "cos0306_head",
+          "cos0306_head_03"
+        ]
+      },
+      {
+        "name": "ポップフューチャー・プリンセス",
+        "char_ids": [14, 15, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0305_body_01",
+          "cos0305_body_02",
+          "cos0305_body",
+          "cos0305_body_03"
+        ],
+        "headAssets": [
+          "cos0305_head_01",
+          "cos0305_head_03",
+          "cos0305_head_02",
+          "cos0305_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "costumes": [
+      {
+        "name": "ノクティス・モナカ",
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0307_body_01",
+          "cos0307_body",
+          "cos0307_body_02",
+          "cos0307_body_03"
+        ],
+        "headAssets": [
+          "cos0307_head_02",
+          "cos0307_head_03",
+          "cos0307_head",
+          "cos0307_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "costumes": [
+      {
+        "name": "ウサモコットカーディガン",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0354_body_02",
+          "cos0354_body_03",
+          "cos0354_body",
+          "cos0354_body_01"
+        ],
+        "headAssets": [
+          "cos0354_head_01",
+          "cos0354_head_02",
+          "cos0354_head",
+          "cos0354_head_03"
+        ]
+      },
+      {
+        "name": "ウサキャロットコート",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0353_body_01",
+          "cos0353_body_02",
+          "cos0353_body",
+          "cos0353_body_03"
+        ],
+        "headAssets": [
+          "cos0353_head_03",
+          "cos0353_head_01",
+          "cos0353_head",
+          "cos0353_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "costumes": []
+  },
+  {
+    "id": 244,
+    "costumes": [
+      {
+        "name": "Sekai Star",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0468_body",
+          "cos0468_body_02",
+          "cos0468_body_01",
+          "cos0468_body_03"
+        ],
+        "headAssets": []
+      },
+      {
+        "name": "Sekai Sky",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0467_body_01",
+          "cos0467_body_02",
+          "cos0467_body_03",
+          "cos0467_body"
+        ],
+        "headAssets": [
+          "cos0467_head",
+          "cos0467_head_02",
+          "cos0467_head_03",
+          "cos0467_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "costumes": [
+      {
+        "name": "フォローイング・コンパス",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0470_body",
+          "cos0470_body_02",
+          "cos0470_body_01",
+          "cos0470_body_03"
+        ],
+        "headAssets": []
+      },
+      {
+        "name": "エクシード・サザンクロス",
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0469_body_02",
+          "cos0469_body_03",
+          "cos0469_body",
+          "cos0469_body_01"
+        ],
+        "headAssets": [
+          "cos0469_head_01",
+          "cos0469_head_02",
+          "cos0469_head_03",
+          "cos0469_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "costumes": [
+      {
+        "name": "トゥインクル・クローバー",
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0471_body_01",
+          "cos0471_body_03",
+          "cos0471_body_02",
+          "cos0471_body"
+        ],
+        "headAssets": [
+          "cos0471_head_01",
+          "cos0471_head_03",
+          "cos0471_head",
+          "cos0471_head_02"
+        ]
+      },
+      {
+        "name": "ブライト・クローバー",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0472_body",
+          "cos0472_body_02",
+          "cos0472_body_03",
+          "cos0472_body_01"
+        ],
+        "headAssets": [
+          "cos0472_head_01",
+          "cos0472_head_03",
+          "cos0472_head",
+          "cos0472_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "costumes": [
+      {
+        "name": "Vivid Argyle",
+        "char_ids": [9, 10, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0473_body_01",
+          "cos0473_body_03",
+          "cos0473_body_02",
+          "cos0473_body"
+        ],
+        "headAssets": [
+          "cos0473_head_01",
+          "cos0473_head_03",
+          "cos0473_head_02",
+          "cos0473_head"
+        ]
+      },
+      {
+        "name": "BAD Argyle",
+        "char_ids": [26, 11, 12, 23],
+        "bodyAssets": [
+          "cos0474_body_03",
+          "cos0474_body",
+          "cos0474_body_02",
+          "cos0474_body_01"
+        ],
+        "headAssets": [
+          "cos0474_head",
+          "cos0474_head_01",
+          "cos0474_head_03",
+          "cos0474_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "costumes": [
+      {
+        "name": "太陽と月と星のパレード",
+        "char_ids": [14, 15, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0475_body",
+          "cos0475_body_02",
+          "cos0475_body_03",
+          "cos0475_body_01"
+        ],
+        "headAssets": [
+          "cos0475_head_01",
+          "cos0475_head_03",
+          "cos0475_head_02",
+          "cos0475_head"
+        ]
+      },
+      {
+        "name": "太陽と月と星のカーニバル",
+        "char_ids": [16, 26, 13, 23],
+        "bodyAssets": [
+          "cos0476_body_01",
+          "cos0476_body_02",
+          "cos0476_body",
+          "cos0476_body_03"
+        ],
+        "headAssets": [
+          "cos0476_head_02",
+          "cos0476_head_03",
+          "cos0476_head_01",
+          "cos0476_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "costumes": [
+      {
+        "name": "Trail of Butterflies",
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0477_body_03",
+          "cos0477_body_01",
+          "cos0477_body",
+          "cos0477_body_02"
+        ],
+        "headAssets": [
+          "cos0477_head_02",
+          "cos0477_head",
+          "cos0477_head_03",
+          "cos0477_head_01"
+        ]
+      },
+      {
+        "name": "Flutter of Butterflies",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0478_body_03",
+          "cos0478_body",
+          "cos0478_body_01",
+          "cos0478_body_02"
+        ],
+        "headAssets": [
+          "cos0478_head",
+          "cos0478_head_03",
+          "cos0478_head_02",
+          "cos0478_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "costumes": [
+      {
+        "name": "辰スカスラックス",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0532_body_02",
+          "cos0532_body",
+          "cos0532_body_03",
+          "cos0532_body_01"
+        ],
+        "headAssets": [
+          "cos0532_head_01",
+          "cos0532_head_02",
+          "cos0532_head",
+          "cos0532_head_03"
+        ]
+      },
+      {
+        "name": "辰ジャンタイトスカート",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0531_body_03",
+          "cos0531_body_02",
+          "cos0531_body",
+          "cos0531_body_01"
+        ],
+        "headAssets": [
+          "cos0531_head_01",
+          "cos0531_head",
+          "cos0531_head_03",
+          "cos0531_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "costumes": [
+      {
+        "name": "PunkyStarRider（レディース）",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0571_body_03",
+          "cos0571_body_02",
+          "cos0571_body_01",
+          "cos0571_body"
+        ],
+        "headAssets": [
+          "cos0571_head_02",
+          "cos0571_head_01",
+          "cos0571_head",
+          "cos0571_head_03"
+        ]
+      },
+      {
+        "name": "PunkyStarRider（メンズ）",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0572_body",
+          "cos0572_body_03",
+          "cos0572_body_02",
+          "cos0572_body_01"
+        ],
+        "headAssets": [
+          "cos0572_head_03",
+          "cos0572_head",
+          "cos0572_head_02",
+          "cos0572_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "costumes": [
+      {
+        "name": "ゲームドレス・エトワール",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0580_body",
+          "cos0580_body_03",
+          "cos0580_body_01",
+          "cos0580_body_02"
+        ],
+        "headAssets": [
+          "cos0580_head",
+          "cos0580_head_03",
+          "cos0580_head_02",
+          "cos0580_head_01"
+        ]
+      },
+      {
+        "name": "ゲームウェア・メテオール",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0581_body_02",
+          "cos0581_body_01",
+          "cos0581_body_03",
+          "cos0581_body"
+        ],
+        "headAssets": [
+          "cos0581_head_01",
+          "cos0581_head",
+          "cos0581_head_02",
+          "cos0581_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "costumes": [
+      {
+        "name": "Glamorous Peacock Ensemble",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0585_body_01",
+          "cos0585_body",
+          "cos0585_body_02",
+          "cos0585_body_03"
+        ],
+        "headAssets": [
+          "cos0585_head",
+          "cos0585_head_01",
+          "cos0585_head_02",
+          "cos0585_head_03"
+        ]
+      },
+      {
+        "name": "Glamorous Peacock Suit",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0586_body_03",
+          "cos0586_body_01",
+          "cos0586_body",
+          "cos0586_body_02"
+        ],
+        "headAssets": [
+          "cos0586_head_02",
+          "cos0586_head",
+          "cos0586_head_03",
+          "cos0586_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "costumes": [
+      {
+        "name": "Connect Rock'n Beat(メンズ)",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0608_body_01",
+          "cos0608_body_02",
+          "cos0608_body_03",
+          "cos0608_body"
+        ],
+        "headAssets": [
+          "cos0608_head_01",
+          "cos0608_head",
+          "cos0608_head_02",
+          "cos0608_head_03"
+        ]
+      },
+      {
+        "name": "Connect Rock'n Beat(レディース)",
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0607_body_01",
+          "cos0607_body",
+          "cos0607_body_03",
+          "cos0607_body_02"
+        ],
+        "headAssets": [
+          "cos0607_head_03",
+          "cos0607_head",
+          "cos0607_head_01",
+          "cos0607_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "costumes": [
+      {
+        "name": "Connect Street Beat(メンズ)",
+        "char_ids": [26, 11, 12, 23],
+        "bodyAssets": [
+          "cos0610_body_01",
+          "cos0610_body_02",
+          "cos0610_body",
+          "cos0610_body_03"
+        ],
+        "headAssets": [
+          "cos0610_head_02",
+          "cos0610_head_03",
+          "cos0610_head",
+          "cos0610_head_01"
+        ]
+      },
+      {
+        "name": "Connect Street Beat(レディース)",
+        "char_ids": [9, 10, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0609_body_03",
+          "cos0609_body_02",
+          "cos0609_body",
+          "cos0609_body_01"
+        ],
+        "headAssets": [
+          "cos0609_head",
+          "cos0609_head_01",
+          "cos0609_head_03",
+          "cos0609_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "costumes": [
+      {
+        "name": "初音ミク「マジカルミライ 2024」",
+        "char_ids": [21],
+        "bodyAssets": ["cos0642_body"],
+        "headAssets": ["cos0642_unique_head"],
+        "hairAssets": ["cos0642_unique_hair"]
+      },
+      {
+        "name": "ファンファントリップボーイ",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0644_body_01",
+          "cos0644_body_03",
+          "cos0644_body",
+          "cos0644_body_02"
+        ],
+        "headAssets": [
+          "cos0644_head_01",
+          "cos0644_head_03",
+          "cos0644_head_02",
+          "cos0644_head"
+        ]
+      },
+      {
+        "name": "ファンファントリップガール",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0643_body_02",
+          "cos0643_body",
+          "cos0643_body_03",
+          "cos0643_body_01"
+        ],
+        "headAssets": [
+          "cos0643_head",
+          "cos0643_head_01",
+          "cos0643_head_03",
+          "cos0643_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "costumes": []
+  },
+  {
+    "id": 384,
+    "costumes": [
+      {
+        "name": "Starry night dance party!(レディース)",
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0658_body_02",
+          "cos0658_body",
+          "cos0658_body_03",
+          "cos0658_body_01"
+        ],
+        "headAssets": [
+          "cos0658_head_02",
+          "cos0658_head_01",
+          "cos0658_head",
+          "cos0658_head_03"
+        ]
+      },
+      {
+        "name": "Starry night dance party!(メンズ)",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0659_body",
+          "cos0659_body_01",
+          "cos0659_body_03",
+          "cos0659_body_02"
+        ],
+        "headAssets": [
+          "cos0659_head_01",
+          "cos0659_head_03",
+          "cos0659_head",
+          "cos0659_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "costumes": [
+      {
+        "name": "Sweet & Rose(レディース)",
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0660_body_01",
+          "cos0660_body_02",
+          "cos0660_body",
+          "cos0660_body_03"
+        ],
+        "headAssets": [
+          "cos0660_head_02",
+          "cos0660_head_03",
+          "cos0660_head_01",
+          "cos0660_head"
+        ]
+      },
+      {
+        "name": "Sweet & Rose(メンズ)",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0661_body",
+          "cos0661_body_02",
+          "cos0661_body_03",
+          "cos0661_body_01"
+        ],
+        "headAssets": [
+          "cos0661_head_02",
+          "cos0661_head",
+          "cos0661_head_03",
+          "cos0661_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "costumes": [
+      {
+        "name": "Red step rabbit(メンズ)",
+        "char_ids": [26, 11, 12, 23],
+        "bodyAssets": [
+          "cos0663_body_02",
+          "cos0663_body",
+          "cos0663_body_03",
+          "cos0663_body_01"
+        ],
+        "headAssets": [
+          "cos0663_head_02",
+          "cos0663_head_03",
+          "cos0663_head",
+          "cos0663_head_01"
+        ]
+      },
+      {
+        "name": "Red step rabbit(レディース)",
+        "char_ids": [9, 10, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0662_body_01",
+          "cos0662_body_03",
+          "cos0662_body_02",
+          "cos0662_body"
+        ],
+        "headAssets": [
+          "cos0662_head_01",
+          "cos0662_head_02",
+          "cos0662_head_03",
+          "cos0662_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "costumes": [
+      {
+        "name": "Wonderful Symphony(メンズ)",
+        "char_ids": [16, 26, 13, 23],
+        "bodyAssets": [
+          "cos0665_body_03",
+          "cos0665_body_01",
+          "cos0665_body",
+          "cos0665_body_02"
+        ],
+        "headAssets": [
+          "cos0665_head_02",
+          "cos0665_head_03",
+          "cos0665_head",
+          "cos0665_head_01"
+        ]
+      },
+      {
+        "name": "Wonderful Symphony(レディース)",
+        "char_ids": [14, 15, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0664_body_01",
+          "cos0664_body_02",
+          "cos0664_body",
+          "cos0664_body_03"
+        ],
+        "headAssets": [
+          "cos0664_head_01",
+          "cos0664_head_02",
+          "cos0664_head",
+          "cos0664_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "costumes": [
+      {
+        "name": "Midnight Celebration Tea Party(レディース)",
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0666_body_03",
+          "cos0666_body",
+          "cos0666_body_02",
+          "cos0666_body_01"
+        ],
+        "headAssets": [
+          "cos0666_head",
+          "cos0666_head_03",
+          "cos0666_head_02",
+          "cos0666_head_01"
+        ]
+      },
+      {
+        "name": "Midnight Celebration Tea Party(メンズ)",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0667_body",
+          "cos0667_body_01",
+          "cos0667_body_03",
+          "cos0667_body_02"
+        ],
+        "headAssets": [
+          "cos0667_head_01",
+          "cos0667_head_03",
+          "cos0667_head_02",
+          "cos0667_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "costumes": [
+      {
+        "name": "チアフレッシュ・ドレス",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0698_body_01",
+          "cos0698_body_03",
+          "cos0698_body_02",
+          "cos0698_body"
+        ],
+        "headAssets": [
+          "cos0698_head_02",
+          "cos0698_head_01",
+          "cos0698_head_03",
+          "cos0698_head"
+        ]
+      },
+      {
+        "name": "チアスプラッシュ・ユニフォーム",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0699_body_02",
+          "cos0699_body",
+          "cos0699_body_03",
+          "cos0699_body_01"
+        ],
+        "headAssets": [
+          "cos0699_head",
+          "cos0699_head_03",
+          "cos0699_head_01",
+          "cos0699_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "costumes": [
+      {
+        "name": "生命のヘビーダンサー",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0712_body_01",
+          "cos0712_body",
+          "cos0712_body_03",
+          "cos0712_body_02"
+        ],
+        "headAssets": [
+          "cos0712_head_03",
+          "cos0712_head_02",
+          "cos0712_head_01",
+          "cos0712_head"
+        ]
+      },
+      {
+        "name": "豊穣のヘビーダンサー",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0711_body_02",
+          "cos0711_body_03",
+          "cos0711_body_01",
+          "cos0711_body"
+        ],
+        "headAssets": [
+          "cos0711_head",
+          "cos0711_head_02",
+          "cos0711_head_01",
+          "cos0711_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "costumes": []
+  },
+  {
+    "id": 445,
+    "costumes": [
+      {
+        "name": "ASTRO FES COSTUME（彰人）",
+        "char_ids": [11],
+        "bodyAssets": ["cos0739_body"],
+        "headAssets": ["cos0739_unique_head"]
+      },
+      {
+        "name": "ASTRO FES COSTUME（KAITO）",
+        "char_ids": [26],
+        "bodyAssets": ["cos0738_body"],
+        "headAssets": ["cos0738_unique_head"]
+      },
+      {
+        "name": "ASTRO FES COSTUME（レン）",
+        "char_ids": [23],
+        "bodyAssets": ["cos0737_body"],
+        "headAssets": ["cos0737_unique_head"]
+      },
+      {
+        "name": "ASTRO FES COSTUME（類）",
+        "char_ids": [16],
+        "bodyAssets": ["cos0742_body"],
+        "headAssets": ["cos0742_unique_head"]
+      },
+      {
+        "name": "ASTRO FES COSTUME（司）",
+        "char_ids": [13],
+        "bodyAssets": ["cos0741_body"],
+        "headAssets": ["cos0741_unique_head"]
+      },
+      {
+        "name": "ASTRO FES COSTUME（冬弥）",
+        "char_ids": [12],
+        "bodyAssets": ["cos0740_body"],
+        "headAssets": ["cos0740_unique_head"]
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "costumes": [
+      {
+        "name": "Prismatic Floret",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0752_body_01",
+          "cos0752_body_03",
+          "cos0752_body_02",
+          "cos0752_body"
+        ],
+        "headAssets": [
+          "cos0752_head_01",
+          "cos0752_head_03",
+          "cos0752_head_02",
+          "cos0752_head"
+        ]
+      },
+      {
+        "name": "Prismatic Blossom",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0751_body_01",
+          "cos0751_body_02",
+          "cos0751_body",
+          "cos0751_body_03"
+        ],
+        "headAssets": [
+          "cos0751_head_03",
+          "cos0751_head_01",
+          "cos0751_head",
+          "cos0751_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "costumes": [
+      {
+        "name": "Attend Your Future",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0764_body_02",
+          "cos0764_body_01",
+          "cos0764_body",
+          "cos0764_body_03"
+        ],
+        "headAssets": [
+          "cos0764_head_02",
+          "cos0764_head",
+          "cos0764_head_01",
+          "cos0764_head_03"
+        ]
+      },
+      {
+        "name": "Attend Your Dream",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0765_body",
+          "cos0765_body_02",
+          "cos0765_body_01",
+          "cos0765_body_03"
+        ],
+        "headAssets": [
+          "cos0765_head_01",
+          "cos0765_head",
+          "cos0765_head_03",
+          "cos0765_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "costumes": [
+      {
+        "name": "Connect Moonlight Dream（レディース）",
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0817_body_03",
+          "cos0817_body",
+          "cos0817_body_01",
+          "cos0817_body_02"
+        ],
+        "headAssets": [
+          "cos0817_head_02",
+          "cos0817_head_03",
+          "cos0817_head_01",
+          "cos0817_head"
+        ]
+      },
+      {
+        "name": "Connect Moonlight Dream（メンズ）",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0818_body",
+          "cos0818_body_03",
+          "cos0818_body_02",
+          "cos0818_body_01"
+        ],
+        "headAssets": [
+          "cos0818_head",
+          "cos0818_head_02",
+          "cos0818_head_01",
+          "cos0818_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "costumes": [
+      {
+        "name": "Connect Sunshine Dream（メンズ）",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0820_body_01",
+          "cos0820_body_02",
+          "cos0820_body_03",
+          "cos0820_body"
+        ],
+        "headAssets": [
+          "cos0820_head",
+          "cos0820_head_03",
+          "cos0820_head_01",
+          "cos0820_head_02"
+        ]
+      },
+      {
+        "name": "Connect Sunshine Dream（レディース）",
+        "char_ids": [24, 25, 21, 22],
+        "bodyAssets": [
+          "cos0819_body",
+          "cos0819_body_01",
+          "cos0819_body_03",
+          "cos0819_body_02"
+        ],
+        "headAssets": [
+          "cos0819_head",
+          "cos0819_head_01",
+          "cos0819_head_03",
+          "cos0819_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "costumes": [
+      {
+        "name": "Code name: Joker",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0827_body_03",
+          "cos0827_body_02",
+          "cos0827_body",
+          "cos0827_body_01"
+        ],
+        "headAssets": [
+          "cos0827_head",
+          "cos0827_head_03",
+          "cos0827_head_01",
+          "cos0827_head_02"
+        ]
+      },
+      {
+        "name": "Code name: Violet",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0826_body_02",
+          "cos0826_body_01",
+          "cos0826_body_03",
+          "cos0826_body"
+        ],
+        "headAssets": [
+          "cos0826_head_01",
+          "cos0826_head_02",
+          "cos0826_head_03",
+          "cos0826_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "costumes": [
+      {
+        "name": "サマーミルキーウェイ・ベガ",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0836_body",
+          "cos0836_body_01",
+          "cos0836_body_02",
+          "cos0836_body_03"
+        ],
+        "headAssets": [
+          "cos0836_head_02",
+          "cos0836_head",
+          "cos0836_head_01",
+          "cos0836_head_03"
+        ]
+      },
+      {
+        "name": "初音ミク「マジカルミライ 2025」",
+        "char_ids": [21],
+        "bodyAssets": ["cos0835_body"],
+        "headAssets": ["cos0835_unique_head"],
+        "hairAssets": ["cos0835_unique_hair"]
+      },
+      {
+        "name": "サマーミルキーウェイ・アルタイル",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0837_body_03",
+          "cos0837_body_01",
+          "cos0837_body",
+          "cos0837_body_02"
+        ],
+        "headAssets": [
+          "cos0837_head_01",
+          "cos0837_head_03",
+          "cos0837_head",
+          "cos0837_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "costumes": [
+      {
+        "name": "flower champagne(レディース)",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0857_body_03",
+          "cos0857_body_02",
+          "cos0857_body_01",
+          "cos0857_body"
+        ],
+        "headAssets": [
+          "cos0857_head",
+          "cos0857_head_03",
+          "cos0857_head_02",
+          "cos0857_head_01"
+        ]
+      },
+      {
+        "name": "flower champagne(メンズ)",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0858_body",
+          "cos0858_body_02",
+          "cos0858_body_01",
+          "cos0858_body_03"
+        ],
+        "headAssets": [
+          "cos0858_head",
+          "cos0858_head_03",
+          "cos0858_head_01",
+          "cos0858_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 538,
+    "costumes": [
+      {
+        "name": "heroic featherias(メンズ)",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0862_body_01",
+          "cos0862_body",
+          "cos0862_body_03",
+          "cos0862_body_02"
+        ],
+        "headAssets": [
+          "cos0862_head",
+          "cos0862_head_02",
+          "cos0862_head_03",
+          "cos0862_head_01"
+        ]
+      },
+      {
+        "name": "heroic featherias (レディース)",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0861_body_03",
+          "cos0861_body_02",
+          "cos0861_body_01",
+          "cos0861_body"
+        ],
+        "headAssets": [
+          "cos0861_head",
+          "cos0861_head_03",
+          "cos0861_head_01",
+          "cos0861_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 539,
+    "costumes": [
+      {
+        "name": "crystal meteor(メンズ)",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0856_body",
+          "cos0856_body_01",
+          "cos0856_body_03",
+          "cos0856_body_02"
+        ],
+        "headAssets": [
+          "cos0856_head_02",
+          "cos0856_head",
+          "cos0856_head_01",
+          "cos0856_head_03"
+        ]
+      },
+      {
+        "name": "crystal meteor(レディース)",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0855_body_03",
+          "cos0855_body_02",
+          "cos0855_body_01",
+          "cos0855_body"
+        ],
+        "headAssets": [
+          "cos0855_head",
+          "cos0855_head_02",
+          "cos0855_head_01",
+          "cos0855_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 541,
+    "costumes": []
+  },
+  {
+    "id": 543,
+    "costumes": [
+      {
+        "name": "syzygy(メンズ)",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0864_body_03",
+          "cos0864_body",
+          "cos0864_body_01",
+          "cos0864_body_02"
+        ],
+        "headAssets": [
+          "cos0864_head_02",
+          "cos0864_head_03",
+          "cos0864_head",
+          "cos0864_head_01"
+        ]
+      },
+      {
+        "name": "syzygy(レディース)",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0863_body_01",
+          "cos0863_body_02",
+          "cos0863_body_03",
+          "cos0863_body"
+        ],
+        "headAssets": [
+          "cos0863_head_03",
+          "cos0863_head_02",
+          "cos0863_head_01",
+          "cos0863_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 544,
+    "costumes": [
+      {
+        "name": "legendarily radiance(レディース)",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0859_body_02",
+          "cos0859_body_03",
+          "cos0859_body_01",
+          "cos0859_body"
+        ],
+        "headAssets": [
+          "cos0859_head_03",
+          "cos0859_head",
+          "cos0859_head_02",
+          "cos0859_head_01"
+        ]
+      },
+      {
+        "name": "legendarily radiance(メンズ)",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0860_body_02",
+          "cos0860_body",
+          "cos0860_body_01",
+          "cos0860_body_03"
+        ],
+        "headAssets": [
+          "cos0860_head",
+          "cos0860_head_01",
+          "cos0860_head_03",
+          "cos0860_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "costumes": [
+      {
+        "name": "Road to CHAMPION（レディース）",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0876_body_03",
+          "cos0876_body_01",
+          "cos0876_body",
+          "cos0876_body_02"
+        ],
+        "headAssets": [
+          "cos0876_head",
+          "cos0876_head_02",
+          "cos0876_head_01",
+          "cos0876_head_03"
+        ]
+      },
+      {
+        "name": "Road to CHAMPION（メンズ）",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0877_body_01",
+          "cos0877_body",
+          "cos0877_body_03",
+          "cos0877_body_02"
+        ],
+        "headAssets": [
+          "cos0877_head_03",
+          "cos0877_head_02",
+          "cos0877_head_01",
+          "cos0877_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 560,
+    "costumes": [
+      {
+        "name": "Connect Hopeful Hour（メンズ）",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0887_body_01",
+          "cos0887_body",
+          "cos0887_body_02",
+          "cos0887_body_03"
+        ],
+        "headAssets": [
+          "cos0887_head_01",
+          "cos0887_head_03",
+          "cos0887_head_02",
+          "cos0887_head"
+        ]
+      },
+      {
+        "name": "Connect Hopeful Hour（レディース）",
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0886_body_02",
+          "cos0886_body_03",
+          "cos0886_body_01",
+          "cos0886_body"
+        ],
+        "headAssets": [
+          "cos0886_head_01",
+          "cos0886_head_02",
+          "cos0886_head_03",
+          "cos0886_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 561,
+    "costumes": [
+      {
+        "name": "Connect Smileful Hour（レディース）",
+        "char_ids": [14, 15, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0888_body_01",
+          "cos0888_body_02",
+          "cos0888_body_03",
+          "cos0888_body"
+        ],
+        "headAssets": [
+          "cos0888_head",
+          "cos0888_head_03",
+          "cos0888_head_01",
+          "cos0888_head_02"
+        ]
+      },
+      {
+        "name": "Connect Smileful Hour（メンズ）",
+        "char_ids": [16, 26, 13, 23],
+        "bodyAssets": [
+          "cos0889_body_01",
+          "cos0889_body",
+          "cos0889_body_02",
+          "cos0889_body_03"
+        ],
+        "headAssets": [
+          "cos0889_head_01",
+          "cos0889_head",
+          "cos0889_head_03",
+          "cos0889_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 576,
+    "costumes": [
+      {
+        "name": "おとぎ話の森コーデ（レディース）",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0904_body_03",
+          "cos0904_body_02",
+          "cos0904_body",
+          "cos0904_body_01"
+        ],
+        "headAssets": [
+          "cos0904_head_02",
+          "cos0904_head_03",
+          "cos0904_head",
+          "cos0904_head_01"
+        ]
+      },
+      {
+        "name": "おとぎ話の森コーデ（メンズ）",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0905_body_02",
+          "cos0905_body_03",
+          "cos0905_body",
+          "cos0905_body_01"
+        ],
+        "headAssets": [
+          "cos0905_head",
+          "cos0905_head_01",
+          "cos0905_head_03",
+          "cos0905_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "costumes": [
+      {
+        "name": "聖夜の星明り",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0909_body_01",
+          "cos0909_body_02",
+          "cos0909_body",
+          "cos0909_body_03"
+        ],
+        "headAssets": [
+          "cos0909_head",
+          "cos0909_head_01",
+          "cos0909_head_03",
+          "cos0909_head_02"
+        ]
+      },
+      {
+        "name": "贈り物を包む兵士",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0910_body_01",
+          "cos0910_body_03",
+          "cos0910_body",
+          "cos0910_body_02"
+        ],
+        "headAssets": [
+          "cos0910_head_01",
+          "cos0910_head",
+          "cos0910_head_03",
+          "cos0910_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 583,
+    "costumes": [
+      {
+        "name": "ハレギサラブレイト（レディース）",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0916_body_03",
+          "cos0916_body",
+          "cos0916_body_02",
+          "cos0916_body_01"
+        ],
+        "headAssets": [
+          "cos0916_head_03",
+          "cos0916_head_02",
+          "cos0916_head_01",
+          "cos0916_head"
+        ]
+      },
+      {
+        "name": "ハレギサラブレイト（メンズ）",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0917_body_03",
+          "cos0917_body_01",
+          "cos0917_body",
+          "cos0917_body_02"
+        ],
+        "headAssets": [
+          "cos0917_head_02",
+          "cos0917_head_01",
+          "cos0917_head_03",
+          "cos0917_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "costumes": [
+      {
+        "name": "Go Frontier（レディース）",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0926_body",
+          "cos0926_body_01",
+          "cos0926_body_03",
+          "cos0926_body_02"
+        ],
+        "headAssets": [
+          "cos0926_head_03",
+          "cos0926_head",
+          "cos0926_head_01",
+          "cos0926_head_02"
+        ]
+      },
+      {
+        "name": "Go Frontier（メンズ）",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0927_body_02",
+          "cos0927_body_01",
+          "cos0927_body_03",
+          "cos0927_body"
+        ],
+        "headAssets": [
+          "cos0927_head_01",
+          "cos0927_head_02",
+          "cos0927_head",
+          "cos0927_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 626,
+    "costumes": [
+      {
+        "name": "bubble♥ice cream（レディース）",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos0955_body_02",
+          "cos0955_body",
+          "cos0955_body_01",
+          "cos0955_body_03"
+        ],
+        "headAssets": [
+          "cos0955_head",
+          "cos0955_head_03",
+          "cos0955_head_01",
+          "cos0955_head_02"
+        ]
+      },
+      {
+        "name": "bubble♥ice cream（メンズ）",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos0956_body_01",
+          "cos0956_body_03",
+          "cos0956_body",
+          "cos0956_body_02"
+        ],
+        "headAssets": [
+          "cos0956_head",
+          "cos0956_head_03",
+          "cos0956_head_01",
+          "cos0956_head_02"
+        ]
+      }
+    ]
+  }
+]
