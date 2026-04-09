@@ -3811,7 +3811,8 @@
       "kanade6"
     ],
     "type": "Kanade 6th Focus Event",
-    "music_id": 630
+    "music_id": 630,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Knocking_on_a_Dream_That_Never_Wakes"
   },
   {
     "id": 193,
@@ -3892,7 +3893,8 @@
       "focus"
     ],
     "type": "Emu 7th Focus Event",
-    "music_id": 660
+    "music_id": 660,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/CHANGE!_Emu_Is_a_Princess!%3F"
   },
   {
     "id": 197,
@@ -3904,7 +3906,8 @@
     "close": 1773122399000,
     "event_type": "marathon",
     "keywords": ["white day", "wd", "wd5"],
-    "type": "White Day Event (?)"
+    "type": "White Day Event (?)",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Sing_the_Night_Away_in_the_Garden_of_Nightmares"
   },
   {
     "id": 198,
@@ -3917,7 +3920,8 @@
     "event_type": "marathon",
     "keywords": ["mmj", "more more jump", "momojan", "airi", "airi7", "focus"],
     "type": "Airi 7th Focus Event",
-    "music_id": 683
+    "music_id": 683,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Open_up_new_horizons!"
   },
   {
     "id": 199,
@@ -3938,7 +3942,8 @@
       "mizu7"
     ],
     "type": "Mizuki 7th Focus Event",
-    "music_id": 662
+    "music_id": 662,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Amid_the_Wavering_Light"
   },
   {
     "id": 200,
@@ -3960,7 +3965,8 @@
       "focus"
     ],
     "type": "Rui 6th Focus Event",
-    "music_id": 735
+    "music_id": 735,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Afterglow%27s_Inside_Direction"
   },
   {
     "id": 201,

@@ -20160,7 +20160,8 @@
     "charId": 3,
     "character": "Mochizuki Honami",
     "unit": "Leo/Need",
-    "skillId": 9
+    "skillId": 9,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/It%27s_Like_Stepping_Into_That_World"
   },
   {
     "id": 1349,
@@ -20174,7 +20175,8 @@
     "charId": 17,
     "character": "Yoisaki Kanade",
     "unit": "Nightcord at 25:00",
-    "skillId": 5
+    "skillId": 5,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Thank-You_Gift_for_the_Invitation"
   },
   {
     "id": 1350,
@@ -20188,7 +20190,8 @@
     "charId": 7,
     "character": "Momoi Airi",
     "unit": "MORE MORE JUMP!",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Tears_That_Flow_From_the_Heart"
   },
   {
     "id": 1351,
@@ -20202,7 +20205,8 @@
     "charId": 5,
     "character": "Hanasato Minori",
     "unit": "MORE MORE JUMP!",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Slip_of_the_Tongue"
   },
   {
     "id": 1352,
@@ -20216,7 +20220,8 @@
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/So_Many_Choices_to_Choose_From!"
   },
   {
     "id": 1353,
@@ -20230,7 +20235,8 @@
     "charId": 6,
     "character": "Kiritani Haruka",
     "unit": "MORE MORE JUMP!",
-    "skillId": 9
+    "skillId": 9,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Focused_Manga-Reading_Time"
   },
   {
     "id": 1354,
@@ -20245,7 +20251,8 @@
     "character": "KAITO",
     "unit": "Virtual Singers",
     "skillId": 2,
-    "sub_unit": "MORE MORE JUMP!"
+    "sub_unit": "MORE MORE JUMP!",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Gushing_Fan_Spirit"
   },
   {
     "id": 1355,
@@ -20259,7 +20266,8 @@
     "charId": 7,
     "character": "Momoi Airi",
     "unit": "MORE MORE JUMP!",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Airi)"
   },
   {
     "id": 1356,
@@ -20273,7 +20281,8 @@
     "charId": 20,
     "character": "Akiyama Mizuki",
     "unit": "Nightcord at 25:00",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Hard_Work_and_Struggle_of_Making_Clothes"
   },
   {
     "id": 1357,
@@ -20287,7 +20296,8 @@
     "charId": 17,
     "character": "Yoisaki Kanade",
     "unit": "Nightcord at 25:00",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Morning_Sun_and_Hot_Chocolate"
   },
   {
     "id": 1358,
@@ -20302,7 +20312,8 @@
     "character": "Hatsune Miku",
     "unit": "Virtual Singers",
     "skillId": 4,
-    "sub_unit": "Nightcord at 25:00"
+    "sub_unit": "Nightcord at 25:00",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/An_Outfit_That_I_Like"
   },
   {
     "id": 1359,
@@ -20316,7 +20327,8 @@
     "charId": 18,
     "character": "Asahina Mafuyu",
     "unit": "Nightcord at 25:00",
-    "skillId": 6
+    "skillId": 6,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Things_I_Can_Only_Understand_Through_Miku"
   },
   {
     "id": 1360,
@@ -20330,7 +20342,8 @@
     "charId": 19,
     "character": "Shinonome Ena",
     "unit": "Nightcord at 25:00",
-    "skillId": 2
+    "skillId": 2,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Rare_Pair"
   },
   {
     "id": 1361,
@@ -20344,7 +20357,8 @@
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
-    "skillId": 23
+    "skillId": 23,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Following_the_Footprints"
   },
   {
     "id": 1362,
@@ -20358,7 +20372,8 @@
     "charId": 18,
     "character": "Asahina Mafuyu",
     "unit": "Nightcord at 25:00",
-    "skillId": 23
+    "skillId": 23,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Because_I_Was_Found"
   },
   {
     "id": 1363,
@@ -20372,7 +20387,8 @@
     "charId": 16,
     "character": "Kamishiro Rui",
     "unit": "Wonderlands x Showtime",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Image_I_Envisioned"
   },
   {
     "id": 1364,
@@ -20386,7 +20402,8 @@
     "charId": 15,
     "character": "Kusanagi Nene",
     "unit": "Wonderlands x Showtime",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Feelings_That_Can%27t_Be_Put_Into_Words"
   },
   {
     "id": 1365,
@@ -20401,7 +20418,8 @@
     "character": "MEIKO",
     "unit": "Virtual Singers",
     "skillId": 18,
-    "sub_unit": "Wonderlands x Showtime"
+    "sub_unit": "Wonderlands x Showtime",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Detective_MEIKO!%3F"
   },
   {
     "id": 1366,
@@ -20415,7 +20433,8 @@
     "charId": 13,
     "character": "Tenma Tsukasa",
     "unit": "Wonderlands x Showtime",
-    "skillId": 9
+    "skillId": 9,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Youngster%27s_Passionate_Words_of_Encouragement"
   },
   {
     "id": 1367,
@@ -20429,7 +20448,8 @@
     "charId": 14,
     "character": "Otori Emu",
     "unit": "Wonderlands x Showtime",
-    "skillId": 5
+    "skillId": 5,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Enthusiastic_Cheerleading_Captain"
   },
   {
     "id": 1368,
