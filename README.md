@@ -20,18 +20,5 @@ This repository serves as the main DB for the following:
 
 ---
 
-## Credits & Acknowledgements
-
-This project’s data was made possible thanks to the amazing work from these repositories:
-
-| Project      | Link |
-|:------------:|:----:|
-| sssekai | https://github.com/mos9527/sssekai |
-| sekai-apphash | https://github.com/mos9527/sekai-apphash |
-| sekai-master-db-diff | https://github.com/Sekai-World/sekai-master-db-diff |
-
-
----
-
 
 
