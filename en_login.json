@@ -118,5 +118,35 @@
         "quantity": 5000
       }
     ]
+  },
+  {
+    "id": 213,
+    "seq": 159,
+    "name": "JP 5.5 Year Anniversary Login Campaign",
+    "startAt": 1806433200000,
+    "endAt": 1807527599000,
+    "assetbundleName": "5-5th_anniversary",
+    "closeAt": 1775415600000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 228,
+        "quantity": 3000
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "seq": 125,
+    "name": "5.5 Year Anniversary Login Campaign",
+    "startAt": 1812394800000,
+    "endAt": 1814353199000,
+    "assetbundleName": "4-5th_anniversary",
+    "closeAt": 1813834800000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 162,
+        "quantity": 3000
+      }
+    ]
   }
 ]
