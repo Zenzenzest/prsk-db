@@ -559215,5 +559215,6652 @@
         "weight": 400000
       }
     ]
+  },
+  {
+    "id": 731,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 253331,
+        "cardId": 4,
+        "weight": 4557
+      },
+      {
+        "id": 253376,
+        "cardId": 88,
+        "weight": 4557
+      },
+      {
+        "id": 253379,
+        "cardId": 92,
+        "weight": 4557
+      },
+      {
+        "id": 253382,
+        "cardId": 96,
+        "weight": 4557
+      },
+      {
+        "id": 253389,
+        "cardId": 109,
+        "weight": 4557
+      },
+      {
+        "id": 253390,
+        "cardId": 110,
+        "weight": 4557
+      },
+      {
+        "id": 253391,
+        "cardId": 111,
+        "weight": 4557
+      },
+      {
+        "id": 253394,
+        "cardId": 114,
+        "weight": 4557
+      },
+      {
+        "id": 253395,
+        "cardId": 115,
+        "weight": 4557
+      },
+      {
+        "id": 253396,
+        "cardId": 116,
+        "weight": 4557
+      },
+      {
+        "id": 253399,
+        "cardId": 119,
+        "weight": 4557
+      },
+      {
+        "id": 253400,
+        "cardId": 120,
+        "weight": 4557
+      },
+      {
+        "id": 253401,
+        "cardId": 121,
+        "weight": 4557
+      },
+      {
+        "id": 253404,
+        "cardId": 124,
+        "weight": 4557
+      },
+      {
+        "id": 253405,
+        "cardId": 125,
+        "weight": 4557
+      },
+      {
+        "id": 253406,
+        "cardId": 126,
+        "weight": 4557
+      },
+      {
+        "id": 253409,
+        "cardId": 129,
+        "weight": 4557
+      },
+      {
+        "id": 253410,
+        "cardId": 130,
+        "weight": 4557
+      },
+      {
+        "id": 253411,
+        "cardId": 131,
+        "weight": 4557
+      },
+      {
+        "id": 253414,
+        "cardId": 134,
+        "weight": 4557
+      },
+      {
+        "id": 253415,
+        "cardId": 135,
+        "weight": 4557
+      },
+      {
+        "id": 253416,
+        "cardId": 136,
+        "weight": 4557
+      },
+      {
+        "id": 253419,
+        "cardId": 139,
+        "weight": 4557
+      },
+      {
+        "id": 253420,
+        "cardId": 140,
+        "weight": 4557
+      },
+      {
+        "id": 253421,
+        "cardId": 141,
+        "weight": 4557
+      },
+      {
+        "id": 253424,
+        "cardId": 144,
+        "weight": 4557
+      },
+      {
+        "id": 253425,
+        "cardId": 145,
+        "weight": 4557
+      },
+      {
+        "id": 253426,
+        "cardId": 146,
+        "weight": 4557
+      },
+      {
+        "id": 253429,
+        "cardId": 149,
+        "weight": 4557
+      },
+      {
+        "id": 253430,
+        "cardId": 150,
+        "weight": 4557
+      },
+      {
+        "id": 253431,
+        "cardId": 151,
+        "weight": 4557
+      },
+      {
+        "id": 253432,
+        "cardId": 152,
+        "weight": 4557
+      },
+      {
+        "id": 253435,
+        "cardId": 155,
+        "weight": 4557
+      },
+      {
+        "id": 253436,
+        "cardId": 156,
+        "weight": 4557
+      },
+      {
+        "id": 253437,
+        "cardId": 157,
+        "weight": 4557
+      },
+      {
+        "id": 253440,
+        "cardId": 160,
+        "weight": 4557
+      },
+      {
+        "id": 253441,
+        "cardId": 161,
+        "weight": 4557
+      },
+      {
+        "id": 253442,
+        "cardId": 162,
+        "weight": 4557
+      },
+      {
+        "id": 253445,
+        "cardId": 165,
+        "weight": 4557
+      },
+      {
+        "id": 253446,
+        "cardId": 166,
+        "weight": 4557
+      },
+      {
+        "id": 253447,
+        "cardId": 167,
+        "weight": 4557
+      },
+      {
+        "id": 253450,
+        "cardId": 170,
+        "weight": 4557
+      },
+      {
+        "id": 253451,
+        "cardId": 171,
+        "weight": 4557
+      },
+      {
+        "id": 253452,
+        "cardId": 172,
+        "weight": 4557
+      },
+      {
+        "id": 253455,
+        "cardId": 175,
+        "weight": 4557
+      },
+      {
+        "id": 253456,
+        "cardId": 176,
+        "weight": 4557
+      },
+      {
+        "id": 253457,
+        "cardId": 177,
+        "weight": 4557
+      },
+      {
+        "id": 253460,
+        "cardId": 182,
+        "weight": 4557
+      },
+      {
+        "id": 253463,
+        "cardId": 185,
+        "weight": 4557
+      },
+      {
+        "id": 253464,
+        "cardId": 186,
+        "weight": 4557
+      },
+      {
+        "id": 253465,
+        "cardId": 187,
+        "weight": 4557
+      },
+      {
+        "id": 253468,
+        "cardId": 190,
+        "weight": 4557
+      },
+      {
+        "id": 253469,
+        "cardId": 191,
+        "weight": 4557
+      },
+      {
+        "id": 253470,
+        "cardId": 192,
+        "weight": 4557
+      },
+      {
+        "id": 253473,
+        "cardId": 197,
+        "weight": 4557
+      },
+      {
+        "id": 253474,
+        "cardId": 198,
+        "weight": 4557
+      },
+      {
+        "id": 253475,
+        "cardId": 199,
+        "weight": 4557
+      },
+      {
+        "id": 253478,
+        "cardId": 202,
+        "weight": 4557
+      },
+      {
+        "id": 253479,
+        "cardId": 203,
+        "weight": 4557
+      },
+      {
+        "id": 253480,
+        "cardId": 204,
+        "weight": 4557
+      },
+      {
+        "id": 253483,
+        "cardId": 207,
+        "weight": 4557
+      },
+      {
+        "id": 253484,
+        "cardId": 208,
+        "weight": 4557
+      },
+      {
+        "id": 253485,
+        "cardId": 209,
+        "weight": 4557
+      },
+      {
+        "id": 253488,
+        "cardId": 214,
+        "weight": 4557
+      },
+      {
+        "id": 253491,
+        "cardId": 217,
+        "weight": 4557
+      },
+      {
+        "id": 253492,
+        "cardId": 218,
+        "weight": 4557
+      },
+      {
+        "id": 253493,
+        "cardId": 219,
+        "weight": 4557
+      },
+      {
+        "id": 253496,
+        "cardId": 222,
+        "weight": 4557
+      },
+      {
+        "id": 253497,
+        "cardId": 223,
+        "weight": 4557
+      },
+      {
+        "id": 253498,
+        "cardId": 224,
+        "weight": 4557
+      },
+      {
+        "id": 253501,
+        "cardId": 229,
+        "weight": 4557
+      },
+      {
+        "id": 253504,
+        "cardId": 232,
+        "weight": 4557
+      },
+      {
+        "id": 253505,
+        "cardId": 233,
+        "weight": 4557
+      },
+      {
+        "id": 253506,
+        "cardId": 234,
+        "weight": 4557
+      },
+      {
+        "id": 253509,
+        "cardId": 237,
+        "weight": 4557
+      },
+      {
+        "id": 253510,
+        "cardId": 238,
+        "weight": 4557
+      },
+      {
+        "id": 253511,
+        "cardId": 239,
+        "weight": 4557
+      },
+      {
+        "id": 253514,
+        "cardId": 244,
+        "weight": 4557
+      },
+      {
+        "id": 253515,
+        "cardId": 245,
+        "weight": 4557
+      },
+      {
+        "id": 253516,
+        "cardId": 246,
+        "weight": 4557
+      },
+      {
+        "id": 253519,
+        "cardId": 249,
+        "weight": 4557
+      },
+      {
+        "id": 253520,
+        "cardId": 250,
+        "weight": 4557
+      },
+      {
+        "id": 253521,
+        "cardId": 251,
+        "weight": 4557
+      },
+      {
+        "id": 253524,
+        "cardId": 254,
+        "weight": 4557
+      },
+      {
+        "id": 253525,
+        "cardId": 255,
+        "weight": 4557
+      },
+      {
+        "id": 253526,
+        "cardId": 256,
+        "weight": 4557
+      },
+      {
+        "id": 253529,
+        "cardId": 261,
+        "weight": 4557
+      },
+      {
+        "id": 253532,
+        "cardId": 264,
+        "weight": 4557
+      },
+      {
+        "id": 253533,
+        "cardId": 265,
+        "weight": 4557
+      },
+      {
+        "id": 253534,
+        "cardId": 266,
+        "weight": 4557
+      },
+      {
+        "id": 253537,
+        "cardId": 269,
+        "weight": 4557
+      },
+      {
+        "id": 253538,
+        "cardId": 270,
+        "weight": 4557
+      },
+      {
+        "id": 253539,
+        "cardId": 271,
+        "weight": 4557
+      },
+      {
+        "id": 253542,
+        "cardId": 276,
+        "weight": 4557
+      },
+      {
+        "id": 253545,
+        "cardId": 279,
+        "weight": 4557
+      },
+      {
+        "id": 253546,
+        "cardId": 280,
+        "weight": 4557
+      },
+      {
+        "id": 253547,
+        "cardId": 281,
+        "weight": 4557
+      },
+      {
+        "id": 253550,
+        "cardId": 284,
+        "weight": 4557
+      },
+      {
+        "id": 253551,
+        "cardId": 285,
+        "weight": 4557
+      },
+      {
+        "id": 253552,
+        "cardId": 286,
+        "weight": 4557
+      },
+      {
+        "id": 253556,
+        "cardId": 296,
+        "weight": 4557
+      },
+      {
+        "id": 253557,
+        "cardId": 297,
+        "weight": 4557
+      },
+      {
+        "id": 253558,
+        "cardId": 298,
+        "weight": 4557
+      },
+      {
+        "id": 253561,
+        "cardId": 301,
+        "weight": 4557
+      },
+      {
+        "id": 253562,
+        "cardId": 302,
+        "weight": 4557
+      },
+      {
+        "id": 253563,
+        "cardId": 303,
+        "weight": 4557
+      },
+      {
+        "id": 253566,
+        "cardId": 309,
+        "weight": 4557
+      },
+      {
+        "id": 253569,
+        "cardId": 313,
+        "weight": 4557
+      },
+      {
+        "id": 253570,
+        "cardId": 314,
+        "weight": 4557
+      },
+      {
+        "id": 253571,
+        "cardId": 315,
+        "weight": 4557
+      },
+      {
+        "id": 253574,
+        "cardId": 319,
+        "weight": 4557
+      },
+      {
+        "id": 253575,
+        "cardId": 320,
+        "weight": 4557
+      },
+      {
+        "id": 253576,
+        "cardId": 321,
+        "weight": 4557
+      },
+      {
+        "id": 253579,
+        "cardId": 326,
+        "weight": 4557
+      },
+      {
+        "id": 253582,
+        "cardId": 330,
+        "weight": 4557
+      },
+      {
+        "id": 253583,
+        "cardId": 331,
+        "weight": 4557
+      },
+      {
+        "id": 253584,
+        "cardId": 332,
+        "weight": 4557
+      },
+      {
+        "id": 253587,
+        "cardId": 341,
+        "weight": 4557
+      },
+      {
+        "id": 253588,
+        "cardId": 342,
+        "weight": 4557
+      },
+      {
+        "id": 253589,
+        "cardId": 343,
+        "weight": 4557
+      },
+      {
+        "id": 253594,
+        "cardId": 356,
+        "weight": 4557
+      },
+      {
+        "id": 253595,
+        "cardId": 357,
+        "weight": 4557
+      },
+      {
+        "id": 253596,
+        "cardId": 358,
+        "weight": 4557
+      },
+      {
+        "id": 253599,
+        "cardId": 361,
+        "weight": 4557
+      },
+      {
+        "id": 253600,
+        "cardId": 362,
+        "weight": 4557
+      },
+      {
+        "id": 253601,
+        "cardId": 363,
+        "weight": 4557
+      },
+      {
+        "id": 253606,
+        "cardId": 373,
+        "weight": 4557
+      },
+      {
+        "id": 253607,
+        "cardId": 374,
+        "weight": 4557
+      },
+      {
+        "id": 253608,
+        "cardId": 375,
+        "weight": 4557
+      },
+      {
+        "id": 253611,
+        "cardId": 380,
+        "weight": 4557
+      },
+      {
+        "id": 253612,
+        "cardId": 381,
+        "weight": 4557
+      },
+      {
+        "id": 253613,
+        "cardId": 382,
+        "weight": 4557
+      },
+      {
+        "id": 253618,
+        "cardId": 391,
+        "weight": 4557
+      },
+      {
+        "id": 253619,
+        "cardId": 392,
+        "weight": 4557
+      },
+      {
+        "id": 253620,
+        "cardId": 393,
+        "weight": 4557
+      },
+      {
+        "id": 253623,
+        "cardId": 397,
+        "weight": 4557
+      },
+      {
+        "id": 253624,
+        "cardId": 398,
+        "weight": 4557
+      },
+      {
+        "id": 253625,
+        "cardId": 399,
+        "weight": 4557
+      },
+      {
+        "id": 253630,
+        "cardId": 410,
+        "weight": 4557
+      },
+      {
+        "id": 253631,
+        "cardId": 411,
+        "weight": 4557
+      },
+      {
+        "id": 253632,
+        "cardId": 412,
+        "weight": 4557
+      },
+      {
+        "id": 253635,
+        "cardId": 416,
+        "weight": 4557
+      },
+      {
+        "id": 253636,
+        "cardId": 417,
+        "weight": 4557
+      },
+      {
+        "id": 253637,
+        "cardId": 418,
+        "weight": 4557
+      },
+      {
+        "id": 253642,
+        "cardId": 428,
+        "weight": 4557
+      },
+      {
+        "id": 253643,
+        "cardId": 429,
+        "weight": 4557
+      },
+      {
+        "id": 253644,
+        "cardId": 430,
+        "weight": 4557
+      },
+      {
+        "id": 253647,
+        "cardId": 434,
+        "weight": 4557
+      },
+      {
+        "id": 253648,
+        "cardId": 435,
+        "weight": 4557
+      },
+      {
+        "id": 253649,
+        "cardId": 436,
+        "weight": 4557
+      },
+      {
+        "id": 253654,
+        "cardId": 445,
+        "weight": 4557
+      },
+      {
+        "id": 253655,
+        "cardId": 446,
+        "weight": 4557
+      },
+      {
+        "id": 253656,
+        "cardId": 447,
+        "weight": 4557
+      },
+      {
+        "id": 253659,
+        "cardId": 450,
+        "weight": 4557
+      },
+      {
+        "id": 253660,
+        "cardId": 451,
+        "weight": 4557
+      },
+      {
+        "id": 253661,
+        "cardId": 452,
+        "weight": 4557
+      },
+      {
+        "id": 253666,
+        "cardId": 463,
+        "weight": 4557
+      },
+      {
+        "id": 253667,
+        "cardId": 464,
+        "weight": 4557
+      },
+      {
+        "id": 253668,
+        "cardId": 465,
+        "weight": 4557
+      },
+      {
+        "id": 253671,
+        "cardId": 469,
+        "weight": 4557
+      },
+      {
+        "id": 253672,
+        "cardId": 470,
+        "weight": 4557
+      },
+      {
+        "id": 253673,
+        "cardId": 471,
+        "weight": 4557
+      },
+      {
+        "id": 253678,
+        "cardId": 481,
+        "weight": 4557
+      },
+      {
+        "id": 253679,
+        "cardId": 482,
+        "weight": 4557
+      },
+      {
+        "id": 253680,
+        "cardId": 483,
+        "weight": 4557
+      },
+      {
+        "id": 253683,
+        "cardId": 486,
+        "weight": 4557
+      },
+      {
+        "id": 253684,
+        "cardId": 487,
+        "weight": 4557
+      },
+      {
+        "id": 253685,
+        "cardId": 488,
+        "weight": 4557
+      },
+      {
+        "id": 253690,
+        "cardId": 499,
+        "weight": 4557
+      },
+      {
+        "id": 253691,
+        "cardId": 500,
+        "weight": 4557
+      },
+      {
+        "id": 253692,
+        "cardId": 501,
+        "weight": 4557
+      },
+      {
+        "id": 253695,
+        "cardId": 504,
+        "weight": 4557
+      },
+      {
+        "id": 253696,
+        "cardId": 505,
+        "weight": 4557
+      },
+      {
+        "id": 253697,
+        "cardId": 506,
+        "weight": 4557
+      },
+      {
+        "id": 253701,
+        "cardId": 517,
+        "weight": 4557
+      },
+      {
+        "id": 253702,
+        "cardId": 518,
+        "weight": 4557
+      },
+      {
+        "id": 253703,
+        "cardId": 519,
+        "weight": 4557
+      },
+      {
+        "id": 253706,
+        "cardId": 522,
+        "weight": 4557
+      },
+      {
+        "id": 253707,
+        "cardId": 523,
+        "weight": 4557
+      },
+      {
+        "id": 253708,
+        "cardId": 524,
+        "weight": 4557
+      },
+      {
+        "id": 253713,
+        "cardId": 535,
+        "weight": 4557
+      },
+      {
+        "id": 253714,
+        "cardId": 536,
+        "weight": 4557
+      },
+      {
+        "id": 253715,
+        "cardId": 537,
+        "weight": 4557
+      },
+      {
+        "id": 253718,
+        "cardId": 540,
+        "weight": 4557
+      },
+      {
+        "id": 253719,
+        "cardId": 541,
+        "weight": 4557
+      },
+      {
+        "id": 253720,
+        "cardId": 542,
+        "weight": 4557
+      },
+      {
+        "id": 253725,
+        "cardId": 551,
+        "weight": 4557
+      },
+      {
+        "id": 253726,
+        "cardId": 552,
+        "weight": 4557
+      },
+      {
+        "id": 253727,
+        "cardId": 553,
+        "weight": 4557
+      },
+      {
+        "id": 253730,
+        "cardId": 556,
+        "weight": 4557
+      },
+      {
+        "id": 253731,
+        "cardId": 557,
+        "weight": 4557
+      },
+      {
+        "id": 253732,
+        "cardId": 558,
+        "weight": 4557
+      },
+      {
+        "id": 253737,
+        "cardId": 571,
+        "weight": 4557
+      },
+      {
+        "id": 253738,
+        "cardId": 572,
+        "weight": 4557
+      },
+      {
+        "id": 253739,
+        "cardId": 573,
+        "weight": 4557
+      },
+      {
+        "id": 253742,
+        "cardId": 576,
+        "weight": 4557
+      },
+      {
+        "id": 253743,
+        "cardId": 577,
+        "weight": 4557
+      },
+      {
+        "id": 253744,
+        "cardId": 578,
+        "weight": 4557
+      },
+      {
+        "id": 253749,
+        "cardId": 589,
+        "weight": 4557
+      },
+      {
+        "id": 253750,
+        "cardId": 590,
+        "weight": 4557
+      },
+      {
+        "id": 253751,
+        "cardId": 591,
+        "weight": 4557
+      },
+      {
+        "id": 253754,
+        "cardId": 595,
+        "weight": 4557
+      },
+      {
+        "id": 253755,
+        "cardId": 596,
+        "weight": 4557
+      },
+      {
+        "id": 253756,
+        "cardId": 597,
+        "weight": 4557
+      },
+      {
+        "id": 253761,
+        "cardId": 606,
+        "weight": 4557
+      },
+      {
+        "id": 253762,
+        "cardId": 607,
+        "weight": 4557
+      },
+      {
+        "id": 253763,
+        "cardId": 608,
+        "weight": 4557
+      },
+      {
+        "id": 253766,
+        "cardId": 612,
+        "weight": 4557
+      },
+      {
+        "id": 253767,
+        "cardId": 613,
+        "weight": 4557
+      },
+      {
+        "id": 253768,
+        "cardId": 614,
+        "weight": 4557
+      },
+      {
+        "id": 253772,
+        "cardId": 624,
+        "weight": 4557
+      },
+      {
+        "id": 253773,
+        "cardId": 625,
+        "weight": 4557
+      },
+      {
+        "id": 253774,
+        "cardId": 626,
+        "weight": 4557
+      },
+      {
+        "id": 253777,
+        "cardId": 630,
+        "weight": 4557
+      },
+      {
+        "id": 253778,
+        "cardId": 631,
+        "weight": 4557
+      },
+      {
+        "id": 253779,
+        "cardId": 632,
+        "weight": 4557
+      },
+      {
+        "id": 253784,
+        "cardId": 642,
+        "weight": 4557
+      },
+      {
+        "id": 253785,
+        "cardId": 643,
+        "weight": 4557
+      },
+      {
+        "id": 253786,
+        "cardId": 644,
+        "weight": 4557
+      },
+      {
+        "id": 253789,
+        "cardId": 648,
+        "weight": 4557
+      },
+      {
+        "id": 253790,
+        "cardId": 649,
+        "weight": 4557
+      },
+      {
+        "id": 253791,
+        "cardId": 650,
+        "weight": 4557
+      },
+      {
+        "id": 253796,
+        "cardId": 659,
+        "weight": 4557
+      },
+      {
+        "id": 253797,
+        "cardId": 660,
+        "weight": 4557
+      },
+      {
+        "id": 253798,
+        "cardId": 661,
+        "weight": 4557
+      },
+      {
+        "id": 253801,
+        "cardId": 664,
+        "weight": 4557
+      },
+      {
+        "id": 253802,
+        "cardId": 665,
+        "weight": 4557
+      },
+      {
+        "id": 253803,
+        "cardId": 666,
+        "weight": 4557
+      },
+      {
+        "id": 253808,
+        "cardId": 677,
+        "weight": 4557
+      },
+      {
+        "id": 253809,
+        "cardId": 678,
+        "weight": 4557
+      },
+      {
+        "id": 253810,
+        "cardId": 679,
+        "weight": 4557
+      },
+      {
+        "id": 253813,
+        "cardId": 683,
+        "weight": 4557
+      },
+      {
+        "id": 253814,
+        "cardId": 684,
+        "weight": 4557
+      },
+      {
+        "id": 253815,
+        "cardId": 685,
+        "weight": 4557
+      },
+      {
+        "id": 253820,
+        "cardId": 694,
+        "weight": 4557
+      },
+      {
+        "id": 253821,
+        "cardId": 695,
+        "weight": 4557
+      },
+      {
+        "id": 253822,
+        "cardId": 696,
+        "weight": 4557
+      },
+      {
+        "id": 253825,
+        "cardId": 700,
+        "weight": 4557
+      },
+      {
+        "id": 253826,
+        "cardId": 701,
+        "weight": 4557
+      },
+      {
+        "id": 253827,
+        "cardId": 702,
+        "weight": 4557
+      },
+      {
+        "id": 253832,
+        "cardId": 714,
+        "weight": 4557
+      },
+      {
+        "id": 253833,
+        "cardId": 715,
+        "weight": 4557
+      },
+      {
+        "id": 253834,
+        "cardId": 716,
+        "weight": 4557
+      },
+      {
+        "id": 253837,
+        "cardId": 719,
+        "weight": 4557
+      },
+      {
+        "id": 253838,
+        "cardId": 720,
+        "weight": 4557
+      },
+      {
+        "id": 253839,
+        "cardId": 721,
+        "weight": 4557
+      },
+      {
+        "id": 253879,
+        "cardId": 768,
+        "weight": 4557
+      },
+      {
+        "id": 253880,
+        "cardId": 769,
+        "weight": 4557
+      },
+      {
+        "id": 253881,
+        "cardId": 770,
+        "weight": 4557
+      },
+      {
+        "id": 253884,
+        "cardId": 773,
+        "weight": 4557
+      },
+      {
+        "id": 253885,
+        "cardId": 774,
+        "weight": 4557
+      },
+      {
+        "id": 253886,
+        "cardId": 775,
+        "weight": 4557
+      },
+      {
+        "id": 253892,
+        "cardId": 791,
+        "weight": 4557
+      },
+      {
+        "id": 253893,
+        "cardId": 792,
+        "weight": 4557
+      },
+      {
+        "id": 253894,
+        "cardId": 793,
+        "weight": 4557
+      },
+      {
+        "id": 253899,
+        "cardId": 828,
+        "weight": 4557
+      },
+      {
+        "id": 253900,
+        "cardId": 829,
+        "weight": 4557
+      },
+      {
+        "id": 253901,
+        "cardId": 830,
+        "weight": 4557
+      },
+      {
+        "id": 253904,
+        "cardId": 833,
+        "weight": 4557
+      },
+      {
+        "id": 253905,
+        "cardId": 834,
+        "weight": 4557
+      },
+      {
+        "id": 253906,
+        "cardId": 835,
+        "weight": 4557
+      },
+      {
+        "id": 253911,
+        "cardId": 848,
+        "weight": 4557
+      },
+      {
+        "id": 253912,
+        "cardId": 849,
+        "weight": 4557
+      },
+      {
+        "id": 253913,
+        "cardId": 850,
+        "weight": 4557
+      },
+      {
+        "id": 253914,
+        "cardId": 851,
+        "weight": 4557
+      },
+      {
+        "id": 253917,
+        "cardId": 854,
+        "weight": 4557
+      },
+      {
+        "id": 253918,
+        "cardId": 855,
+        "weight": 4557
+      },
+      {
+        "id": 253919,
+        "cardId": 856,
+        "weight": 4557
+      },
+      {
+        "id": 253924,
+        "cardId": 867,
+        "weight": 4557
+      },
+      {
+        "id": 253925,
+        "cardId": 868,
+        "weight": 4557
+      },
+      {
+        "id": 253926,
+        "cardId": 869,
+        "weight": 4557
+      },
+      {
+        "id": 253929,
+        "cardId": 873,
+        "weight": 4557
+      },
+      {
+        "id": 253930,
+        "cardId": 874,
+        "weight": 4557
+      },
+      {
+        "id": 253931,
+        "cardId": 875,
+        "weight": 4557
+      },
+      {
+        "id": 253937,
+        "cardId": 890,
+        "weight": 4557
+      },
+      {
+        "id": 253938,
+        "cardId": 891,
+        "weight": 4557
+      },
+      {
+        "id": 253939,
+        "cardId": 892,
+        "weight": 4557
+      },
+      {
+        "id": 253944,
+        "cardId": 903,
+        "weight": 4557
+      },
+      {
+        "id": 253945,
+        "cardId": 904,
+        "weight": 4557
+      },
+      {
+        "id": 253946,
+        "cardId": 905,
+        "weight": 4557
+      },
+      {
+        "id": 253949,
+        "cardId": 909,
+        "weight": 4557
+      },
+      {
+        "id": 253950,
+        "cardId": 910,
+        "weight": 4557
+      },
+      {
+        "id": 253951,
+        "cardId": 911,
+        "weight": 4557
+      },
+      {
+        "id": 253957,
+        "cardId": 927,
+        "weight": 4557
+      },
+      {
+        "id": 253958,
+        "cardId": 928,
+        "weight": 4557
+      },
+      {
+        "id": 253959,
+        "cardId": 929,
+        "weight": 4557
+      },
+      {
+        "id": 253964,
+        "cardId": 938,
+        "weight": 4557
+      },
+      {
+        "id": 253965,
+        "cardId": 939,
+        "weight": 4557
+      },
+      {
+        "id": 253966,
+        "cardId": 940,
+        "weight": 4557
+      },
+      {
+        "id": 253969,
+        "cardId": 943,
+        "weight": 4557
+      },
+      {
+        "id": 253970,
+        "cardId": 944,
+        "weight": 4557
+      },
+      {
+        "id": 253971,
+        "cardId": 945,
+        "weight": 4557
+      },
+      {
+        "id": 253976,
+        "cardId": 956,
+        "weight": 4557
+      },
+      {
+        "id": 253977,
+        "cardId": 957,
+        "weight": 4557
+      },
+      {
+        "id": 253978,
+        "cardId": 958,
+        "weight": 4557
+      },
+      {
+        "id": 253984,
+        "cardId": 973,
+        "weight": 4557
+      },
+      {
+        "id": 253985,
+        "cardId": 974,
+        "weight": 4557
+      },
+      {
+        "id": 253986,
+        "cardId": 975,
+        "weight": 4557
+      },
+      {
+        "id": 253991,
+        "cardId": 993,
+        "weight": 4557
+      },
+      {
+        "id": 253992,
+        "cardId": 994,
+        "weight": 4557
+      },
+      {
+        "id": 253993,
+        "cardId": 995,
+        "weight": 4557
+      },
+      {
+        "id": 253996,
+        "cardId": 998,
+        "weight": 4557
+      },
+      {
+        "id": 253997,
+        "cardId": 999,
+        "weight": 4557
+      },
+      {
+        "id": 253998,
+        "cardId": 1000,
+        "weight": 4557
+      },
+      {
+        "id": 254002,
+        "cardId": 1011,
+        "weight": 4557
+      },
+      {
+        "id": 254003,
+        "cardId": 1012,
+        "weight": 4557
+      },
+      {
+        "id": 254004,
+        "cardId": 1013,
+        "weight": 4557
+      },
+      {
+        "id": 254007,
+        "cardId": 1016,
+        "weight": 4557
+      },
+      {
+        "id": 254008,
+        "cardId": 1017,
+        "weight": 4557
+      },
+      {
+        "id": 254009,
+        "cardId": 1018,
+        "weight": 4557
+      },
+      {
+        "id": 254014,
+        "cardId": 1028,
+        "weight": 4557
+      },
+      {
+        "id": 254015,
+        "cardId": 1029,
+        "weight": 4557
+      },
+      {
+        "id": 254016,
+        "cardId": 1030,
+        "weight": 4557
+      },
+      {
+        "id": 254019,
+        "cardId": 1034,
+        "weight": 4557
+      },
+      {
+        "id": 254020,
+        "cardId": 1035,
+        "weight": 4557
+      },
+      {
+        "id": 254021,
+        "cardId": 1036,
+        "weight": 4557
+      },
+      {
+        "id": 254026,
+        "cardId": 1045,
+        "weight": 4557
+      },
+      {
+        "id": 254027,
+        "cardId": 1046,
+        "weight": 4557
+      },
+      {
+        "id": 254028,
+        "cardId": 1047,
+        "weight": 4557
+      },
+      {
+        "id": 254031,
+        "cardId": 1050,
+        "weight": 4557
+      },
+      {
+        "id": 254032,
+        "cardId": 1051,
+        "weight": 4557
+      },
+      {
+        "id": 254033,
+        "cardId": 1052,
+        "weight": 4557
+      },
+      {
+        "id": 254038,
+        "cardId": 1065,
+        "weight": 4557
+      },
+      {
+        "id": 254039,
+        "cardId": 1066,
+        "weight": 4557
+      },
+      {
+        "id": 254040,
+        "cardId": 1067,
+        "weight": 4557
+      },
+      {
+        "id": 254043,
+        "cardId": 1097,
+        "weight": 4557
+      },
+      {
+        "id": 254044,
+        "cardId": 1098,
+        "weight": 4557
+      },
+      {
+        "id": 254045,
+        "cardId": 1099,
+        "weight": 4557
+      },
+      {
+        "id": 254050,
+        "cardId": 1110,
+        "weight": 4557
+      },
+      {
+        "id": 254051,
+        "cardId": 1111,
+        "weight": 4557
+      },
+      {
+        "id": 254052,
+        "cardId": 1112,
+        "weight": 4557
+      },
+      {
+        "id": 254055,
+        "cardId": 1122,
+        "weight": 4557
+      },
+      {
+        "id": 254056,
+        "cardId": 1123,
+        "weight": 4557
+      },
+      {
+        "id": 254057,
+        "cardId": 1124,
+        "weight": 4557
+      },
+      {
+        "id": 254062,
+        "cardId": 1133,
+        "weight": 4557
+      },
+      {
+        "id": 254063,
+        "cardId": 1134,
+        "weight": 4557
+      },
+      {
+        "id": 254064,
+        "cardId": 1135,
+        "weight": 4557
+      },
+      {
+        "id": 254067,
+        "cardId": 1139,
+        "weight": 4557
+      },
+      {
+        "id": 254068,
+        "cardId": 1140,
+        "weight": 4557
+      },
+      {
+        "id": 254069,
+        "cardId": 1141,
+        "weight": 4557
+      },
+      {
+        "id": 254074,
+        "cardId": 1151,
+        "weight": 4557
+      },
+      {
+        "id": 254075,
+        "cardId": 1152,
+        "weight": 4557
+      },
+      {
+        "id": 254076,
+        "cardId": 1153,
+        "weight": 4557
+      },
+      {
+        "id": 254077,
+        "cardId": 1154,
+        "weight": 4557
+      },
+      {
+        "id": 254078,
+        "cardId": 1156,
+        "weight": 4557
+      },
+      {
+        "id": 254079,
+        "cardId": 1157,
+        "weight": 4557
+      },
+      {
+        "id": 254080,
+        "cardId": 1158,
+        "weight": 4557
+      },
+      {
+        "id": 254085,
+        "cardId": 1174,
+        "weight": 4557
+      },
+      {
+        "id": 254086,
+        "cardId": 1175,
+        "weight": 4557
+      },
+      {
+        "id": 254087,
+        "cardId": 1176,
+        "weight": 4557
+      },
+      {
+        "id": 254094,
+        "cardId": 1201,
+        "weight": 4557
+      },
+      {
+        "id": 254095,
+        "cardId": 1202,
+        "weight": 4557
+      },
+      {
+        "id": 254096,
+        "cardId": 1203,
+        "weight": 4557
+      },
+      {
+        "id": 254099,
+        "cardId": 1207,
+        "weight": 4557
+      },
+      {
+        "id": 254100,
+        "cardId": 1208,
+        "weight": 4557
+      },
+      {
+        "id": 254101,
+        "cardId": 1209,
+        "weight": 4557
+      },
+      {
+        "id": 254106,
+        "cardId": 1223,
+        "weight": 4557
+      },
+      {
+        "id": 254107,
+        "cardId": 1224,
+        "weight": 4557
+      },
+      {
+        "id": 254108,
+        "cardId": 1225,
+        "weight": 4557
+      },
+      {
+        "id": 254113,
+        "cardId": 1261,
+        "weight": 4557
+      },
+      {
+        "id": 254114,
+        "cardId": 1262,
+        "weight": 4557
+      },
+      {
+        "id": 254115,
+        "cardId": 1263,
+        "weight": 4557
+      },
+      {
+        "id": 254116,
+        "cardId": 1266,
+        "weight": 4557
+      },
+      {
+        "id": 254117,
+        "cardId": 1267,
+        "weight": 4557
+      },
+      {
+        "id": 254118,
+        "cardId": 1268,
+        "weight": 4557
+      },
+      {
+        "id": 254119,
+        "cardId": 1279,
+        "weight": 4557
+      },
+      {
+        "id": 254120,
+        "cardId": 1280,
+        "weight": 4557
+      },
+      {
+        "id": 254121,
+        "cardId": 1281,
+        "weight": 4557
+      },
+      {
+        "id": 254122,
+        "cardId": 1284,
+        "weight": 4557
+      },
+      {
+        "id": 254123,
+        "cardId": 1285,
+        "weight": 4557
+      },
+      {
+        "id": 254124,
+        "cardId": 1286,
+        "weight": 4557
+      },
+      {
+        "id": 254125,
+        "cardId": 1295,
+        "weight": 4557
+      },
+      {
+        "id": 254126,
+        "cardId": 1296,
+        "weight": 4557
+      },
+      {
+        "id": 254127,
+        "cardId": 1297,
+        "weight": 4557
+      },
+      {
+        "id": 254128,
+        "cardId": 1300,
+        "weight": 4557
+      },
+      {
+        "id": 254129,
+        "cardId": 1301,
+        "weight": 4557
+      },
+      {
+        "id": 254130,
+        "cardId": 1302,
+        "weight": 4557
+      },
+      {
+        "id": 254131,
+        "cardId": 1315,
+        "weight": 4557
+      },
+      {
+        "id": 254132,
+        "cardId": 1316,
+        "weight": 4557
+      },
+      {
+        "id": 254133,
+        "cardId": 1317,
+        "weight": 4557
+      },
+      {
+        "id": 254134,
+        "cardId": 1320,
+        "weight": 4557
+      },
+      {
+        "id": 254135,
+        "cardId": 1321,
+        "weight": 4557
+      },
+      {
+        "id": 254136,
+        "cardId": 1322,
+        "weight": 4557
+      },
+      {
+        "id": 254137,
+        "cardId": 1333,
+        "weight": 4557
+      },
+      {
+        "id": 254138,
+        "cardId": 1334,
+        "weight": 4557
+      },
+      {
+        "id": 254139,
+        "cardId": 1335,
+        "weight": 4557
+      },
+      {
+        "id": 254140,
+        "cardId": 1339,
+        "weight": 4557
+      },
+      {
+        "id": 254141,
+        "cardId": 1340,
+        "weight": 4557
+      },
+      {
+        "id": 254142,
+        "cardId": 1341,
+        "weight": 4557
+      },
+      {
+        "id": 254143,
+        "cardId": 1350,
+        "weight": 4557
+      },
+      {
+        "id": 254144,
+        "cardId": 1351,
+        "weight": 4557
+      },
+      {
+        "id": 254145,
+        "cardId": 1352,
+        "weight": 4557
+      },
+      {
+        "id": 254146,
+        "cardId": 1356,
+        "weight": 4557
+      },
+      {
+        "id": 254147,
+        "cardId": 1357,
+        "weight": 4557
+      },
+      {
+        "id": 254148,
+        "cardId": 1358,
+        "weight": 4557
+      },
+      {
+        "id": 254149,
+        "cardId": 1368,
+        "weight": 400000
+      },
+      {
+        "id": 254150,
+        "cardId": 1369,
+        "weight": 400000
+      },
+      {
+        "id": 254151,
+        "cardId": 1370,
+        "weight": 400000
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "gachaCardRarityRates": [
+      {
+        "id": 9,
+        "groupId": 4,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 10,
+        "groupId": 4,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 11,
+        "groupId": 4,
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 254167,
+        "cardId": 1373,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "gachaCardRarityRates": [
+      {
+        "id": 9,
+        "groupId": 4,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 10,
+        "groupId": 4,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 11,
+        "groupId": 4,
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 254173,
+        "cardId": 415,
+        "weight": 1
+      },
+      {
+        "id": 254176,
+        "cardId": 629,
+        "weight": 1
+      },
+      {
+        "id": 254183,
+        "cardId": 908,
+        "weight": 1
+      },
+      {
+        "id": 254186,
+        "cardId": 1155,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "gachaCardRarityRates": [
+      {
+        "id": 23,
+        "groupId": 9,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 24,
+        "groupId": 9,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 25,
+        "groupId": 9,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 0.6000000238418579
+      },
+      {
+        "id": 26,
+        "groupId": 9,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "rate_choice_first",
+        "rate": 0.800000011920929
+      },
+      {
+        "id": 27,
+        "groupId": 9,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "rate_choice_second",
+        "rate": 1.600000023841858
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 254189,
+        "cardId": 4,
+        "weight": 1
+      },
+      {
+        "id": 254202,
+        "cardId": 88,
+        "weight": 1
+      },
+      {
+        "id": 254204,
+        "cardId": 115,
+        "weight": 1
+      },
+      {
+        "id": 254205,
+        "cardId": 116,
+        "weight": 1
+      },
+      {
+        "id": 254207,
+        "cardId": 124,
+        "weight": 1
+      },
+      {
+        "id": 254208,
+        "cardId": 125,
+        "weight": 1
+      },
+      {
+        "id": 254209,
+        "cardId": 126,
+        "weight": 1
+      },
+      {
+        "id": 254211,
+        "cardId": 145,
+        "weight": 1
+      },
+      {
+        "id": 254213,
+        "cardId": 149,
+        "weight": 1
+      },
+      {
+        "id": 254214,
+        "cardId": 157,
+        "weight": 1
+      },
+      {
+        "id": 254216,
+        "cardId": 177,
+        "weight": 1
+      },
+      {
+        "id": 254217,
+        "cardId": 191,
+        "weight": 1
+      },
+      {
+        "id": 254218,
+        "cardId": 197,
+        "weight": 1
+      },
+      {
+        "id": 254219,
+        "cardId": 198,
+        "weight": 1
+      },
+      {
+        "id": 254223,
+        "cardId": 222,
+        "weight": 1
+      },
+      {
+        "id": 254224,
+        "cardId": 233,
+        "weight": 1
+      },
+      {
+        "id": 254225,
+        "cardId": 237,
+        "weight": 1
+      },
+      {
+        "id": 254227,
+        "cardId": 261,
+        "weight": 1
+      },
+      {
+        "id": 254229,
+        "cardId": 266,
+        "weight": 1
+      },
+      {
+        "id": 254232,
+        "cardId": 279,
+        "weight": 1
+      },
+      {
+        "id": 254235,
+        "cardId": 298,
+        "weight": 1
+      },
+      {
+        "id": 254236,
+        "cardId": 302,
+        "weight": 1
+      },
+      {
+        "id": 254237,
+        "cardId": 309,
+        "weight": 1
+      },
+      {
+        "id": 254239,
+        "cardId": 321,
+        "weight": 1
+      },
+      {
+        "id": 254240,
+        "cardId": 326,
+        "weight": 1
+      },
+      {
+        "id": 254244,
+        "cardId": 356,
+        "weight": 1
+      },
+      {
+        "id": 254245,
+        "cardId": 361,
+        "weight": 1
+      },
+      {
+        "id": 254247,
+        "cardId": 381,
+        "weight": 1
+      },
+      {
+        "id": 254248,
+        "cardId": 393,
+        "weight": 1
+      },
+      {
+        "id": 254250,
+        "cardId": 398,
+        "weight": 1
+      },
+      {
+        "id": 254253,
+        "cardId": 416,
+        "weight": 1
+      },
+      {
+        "id": 254256,
+        "cardId": 452,
+        "weight": 1
+      },
+      {
+        "id": 254258,
+        "cardId": 470,
+        "weight": 1
+      },
+      {
+        "id": 254261,
+        "cardId": 487,
+        "weight": 1
+      },
+      {
+        "id": 254262,
+        "cardId": 501,
+        "weight": 1
+      },
+      {
+        "id": 254264,
+        "cardId": 518,
+        "weight": 1
+      },
+      {
+        "id": 254268,
+        "cardId": 535,
+        "weight": 1
+      },
+      {
+        "id": 254269,
+        "cardId": 537,
+        "weight": 1
+      },
+      {
+        "id": 254270,
+        "cardId": 541,
+        "weight": 1
+      },
+      {
+        "id": 254271,
+        "cardId": 571,
+        "weight": 1
+      },
+      {
+        "id": 254276,
+        "cardId": 607,
+        "weight": 1
+      },
+      {
+        "id": 254277,
+        "cardId": 612,
+        "weight": 1
+      },
+      {
+        "id": 254279,
+        "cardId": 631,
+        "weight": 1
+      },
+      {
+        "id": 254280,
+        "cardId": 642,
+        "weight": 1
+      },
+      {
+        "id": 254281,
+        "cardId": 643,
+        "weight": 1
+      },
+      {
+        "id": 254282,
+        "cardId": 644,
+        "weight": 1
+      },
+      {
+        "id": 254285,
+        "cardId": 678,
+        "weight": 1
+      },
+      {
+        "id": 254286,
+        "cardId": 683,
+        "weight": 1
+      },
+      {
+        "id": 254289,
+        "cardId": 700,
+        "weight": 1
+      },
+      {
+        "id": 254290,
+        "cardId": 716,
+        "weight": 1
+      },
+      {
+        "id": 254303,
+        "cardId": 785,
+        "weight": 1
+      },
+      {
+        "id": 254308,
+        "cardId": 833,
+        "weight": 1
+      },
+      {
+        "id": 254310,
+        "cardId": 868,
+        "weight": 1
+      },
+      {
+        "id": 254311,
+        "cardId": 874,
+        "weight": 1
+      },
+      {
+        "id": 254312,
+        "cardId": 875,
+        "weight": 1
+      },
+      {
+        "id": 254313,
+        "cardId": 885,
+        "weight": 1
+      },
+      {
+        "id": 254316,
+        "cardId": 922,
+        "weight": 1
+      },
+      {
+        "id": 254317,
+        "cardId": 927,
+        "weight": 1
+      },
+      {
+        "id": 254318,
+        "cardId": 938,
+        "weight": 1
+      },
+      {
+        "id": 254321,
+        "cardId": 961,
+        "weight": 1
+      },
+      {
+        "id": 254322,
+        "cardId": 974,
+        "weight": 1
+      },
+      {
+        "id": 254323,
+        "cardId": 979,
+        "weight": 1
+      },
+      {
+        "id": 254324,
+        "cardId": 993,
+        "weight": 1
+      },
+      {
+        "id": 254325,
+        "cardId": 998,
+        "weight": 1
+      },
+      {
+        "id": 254327,
+        "cardId": 1035,
+        "weight": 1
+      },
+      {
+        "id": 254329,
+        "cardId": 1047,
+        "weight": 1
+      },
+      {
+        "id": 254332,
+        "cardId": 1097,
+        "weight": 1
+      },
+      {
+        "id": 254335,
+        "cardId": 1110,
+        "weight": 1
+      },
+      {
+        "id": 254337,
+        "cardId": 1139,
+        "weight": 1
+      },
+      {
+        "id": 254338,
+        "cardId": 1156,
+        "weight": 1
+      },
+      {
+        "id": 254339,
+        "cardId": 1170,
+        "weight": 1
+      },
+      {
+        "id": 254341,
+        "cardId": 1185,
+        "weight": 1
+      },
+      {
+        "id": 254342,
+        "cardId": 1189,
+        "weight": 1
+      },
+      {
+        "id": 254344,
+        "cardId": 1202,
+        "weight": 1
+      },
+      {
+        "id": 254345,
+        "cardId": 1208,
+        "weight": 1
+      },
+      {
+        "id": 254346,
+        "cardId": 1219,
+        "weight": 1
+      },
+      {
+        "id": 254349,
+        "cardId": 1235,
+        "weight": 1
+      },
+      {
+        "id": 254350,
+        "cardId": 1261,
+        "weight": 1
+      },
+      {
+        "id": 254351,
+        "cardId": 1280,
+        "weight": 1
+      },
+      {
+        "id": 254352,
+        "cardId": 1300,
+        "weight": 1
+      },
+      {
+        "id": 254353,
+        "cardId": 1315,
+        "weight": 1
+      },
+      {
+        "id": 254354,
+        "cardId": 1339,
+        "weight": 1
+      },
+      {
+        "id": 254355,
+        "cardId": 1357,
+        "weight": 1
+      },
+      {
+        "id": 254356,
+        "cardId": 1358,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 735,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 254359,
+        "cardId": 4,
+        "weight": 4522
+      },
+      {
+        "id": 254404,
+        "cardId": 88,
+        "weight": 4522
+      },
+      {
+        "id": 254407,
+        "cardId": 92,
+        "weight": 4522
+      },
+      {
+        "id": 254410,
+        "cardId": 96,
+        "weight": 4522
+      },
+      {
+        "id": 254417,
+        "cardId": 109,
+        "weight": 4522
+      },
+      {
+        "id": 254418,
+        "cardId": 110,
+        "weight": 4522
+      },
+      {
+        "id": 254419,
+        "cardId": 111,
+        "weight": 4522
+      },
+      {
+        "id": 254422,
+        "cardId": 114,
+        "weight": 4522
+      },
+      {
+        "id": 254423,
+        "cardId": 115,
+        "weight": 4522
+      },
+      {
+        "id": 254424,
+        "cardId": 116,
+        "weight": 4522
+      },
+      {
+        "id": 254427,
+        "cardId": 119,
+        "weight": 4522
+      },
+      {
+        "id": 254428,
+        "cardId": 120,
+        "weight": 4522
+      },
+      {
+        "id": 254429,
+        "cardId": 121,
+        "weight": 4522
+      },
+      {
+        "id": 254432,
+        "cardId": 124,
+        "weight": 4522
+      },
+      {
+        "id": 254433,
+        "cardId": 125,
+        "weight": 4522
+      },
+      {
+        "id": 254434,
+        "cardId": 126,
+        "weight": 4522
+      },
+      {
+        "id": 254437,
+        "cardId": 129,
+        "weight": 4522
+      },
+      {
+        "id": 254438,
+        "cardId": 130,
+        "weight": 4522
+      },
+      {
+        "id": 254439,
+        "cardId": 131,
+        "weight": 4522
+      },
+      {
+        "id": 254442,
+        "cardId": 134,
+        "weight": 4522
+      },
+      {
+        "id": 254443,
+        "cardId": 135,
+        "weight": 4522
+      },
+      {
+        "id": 254444,
+        "cardId": 136,
+        "weight": 4522
+      },
+      {
+        "id": 254447,
+        "cardId": 139,
+        "weight": 4522
+      },
+      {
+        "id": 254448,
+        "cardId": 140,
+        "weight": 4522
+      },
+      {
+        "id": 254449,
+        "cardId": 141,
+        "weight": 4522
+      },
+      {
+        "id": 254452,
+        "cardId": 144,
+        "weight": 4522
+      },
+      {
+        "id": 254453,
+        "cardId": 145,
+        "weight": 4522
+      },
+      {
+        "id": 254454,
+        "cardId": 146,
+        "weight": 4522
+      },
+      {
+        "id": 254457,
+        "cardId": 149,
+        "weight": 4522
+      },
+      {
+        "id": 254458,
+        "cardId": 150,
+        "weight": 4522
+      },
+      {
+        "id": 254459,
+        "cardId": 151,
+        "weight": 4522
+      },
+      {
+        "id": 254460,
+        "cardId": 152,
+        "weight": 4522
+      },
+      {
+        "id": 254463,
+        "cardId": 155,
+        "weight": 4522
+      },
+      {
+        "id": 254464,
+        "cardId": 156,
+        "weight": 4522
+      },
+      {
+        "id": 254465,
+        "cardId": 157,
+        "weight": 4522
+      },
+      {
+        "id": 254468,
+        "cardId": 160,
+        "weight": 4522
+      },
+      {
+        "id": 254469,
+        "cardId": 161,
+        "weight": 4522
+      },
+      {
+        "id": 254470,
+        "cardId": 162,
+        "weight": 4522
+      },
+      {
+        "id": 254473,
+        "cardId": 165,
+        "weight": 4522
+      },
+      {
+        "id": 254474,
+        "cardId": 166,
+        "weight": 4522
+      },
+      {
+        "id": 254475,
+        "cardId": 167,
+        "weight": 4522
+      },
+      {
+        "id": 254478,
+        "cardId": 170,
+        "weight": 4522
+      },
+      {
+        "id": 254479,
+        "cardId": 171,
+        "weight": 4522
+      },
+      {
+        "id": 254480,
+        "cardId": 172,
+        "weight": 4522
+      },
+      {
+        "id": 254483,
+        "cardId": 175,
+        "weight": 4522
+      },
+      {
+        "id": 254484,
+        "cardId": 176,
+        "weight": 4522
+      },
+      {
+        "id": 254485,
+        "cardId": 177,
+        "weight": 4522
+      },
+      {
+        "id": 254488,
+        "cardId": 182,
+        "weight": 4522
+      },
+      {
+        "id": 254491,
+        "cardId": 185,
+        "weight": 4522
+      },
+      {
+        "id": 254492,
+        "cardId": 186,
+        "weight": 4522
+      },
+      {
+        "id": 254493,
+        "cardId": 187,
+        "weight": 4522
+      },
+      {
+        "id": 254496,
+        "cardId": 190,
+        "weight": 4522
+      },
+      {
+        "id": 254497,
+        "cardId": 191,
+        "weight": 4522
+      },
+      {
+        "id": 254498,
+        "cardId": 192,
+        "weight": 4522
+      },
+      {
+        "id": 254501,
+        "cardId": 197,
+        "weight": 4522
+      },
+      {
+        "id": 254502,
+        "cardId": 198,
+        "weight": 4522
+      },
+      {
+        "id": 254503,
+        "cardId": 199,
+        "weight": 4522
+      },
+      {
+        "id": 254506,
+        "cardId": 202,
+        "weight": 4522
+      },
+      {
+        "id": 254507,
+        "cardId": 203,
+        "weight": 4522
+      },
+      {
+        "id": 254508,
+        "cardId": 204,
+        "weight": 4522
+      },
+      {
+        "id": 254511,
+        "cardId": 207,
+        "weight": 4522
+      },
+      {
+        "id": 254512,
+        "cardId": 208,
+        "weight": 4522
+      },
+      {
+        "id": 254513,
+        "cardId": 209,
+        "weight": 4522
+      },
+      {
+        "id": 254516,
+        "cardId": 214,
+        "weight": 4522
+      },
+      {
+        "id": 254519,
+        "cardId": 217,
+        "weight": 4522
+      },
+      {
+        "id": 254520,
+        "cardId": 218,
+        "weight": 4522
+      },
+      {
+        "id": 254521,
+        "cardId": 219,
+        "weight": 4522
+      },
+      {
+        "id": 254524,
+        "cardId": 222,
+        "weight": 4522
+      },
+      {
+        "id": 254525,
+        "cardId": 223,
+        "weight": 4522
+      },
+      {
+        "id": 254526,
+        "cardId": 224,
+        "weight": 4522
+      },
+      {
+        "id": 254529,
+        "cardId": 229,
+        "weight": 4522
+      },
+      {
+        "id": 254532,
+        "cardId": 232,
+        "weight": 4522
+      },
+      {
+        "id": 254533,
+        "cardId": 233,
+        "weight": 4522
+      },
+      {
+        "id": 254534,
+        "cardId": 234,
+        "weight": 4522
+      },
+      {
+        "id": 254537,
+        "cardId": 237,
+        "weight": 4522
+      },
+      {
+        "id": 254538,
+        "cardId": 238,
+        "weight": 4522
+      },
+      {
+        "id": 254539,
+        "cardId": 239,
+        "weight": 4522
+      },
+      {
+        "id": 254542,
+        "cardId": 244,
+        "weight": 4522
+      },
+      {
+        "id": 254543,
+        "cardId": 245,
+        "weight": 4522
+      },
+      {
+        "id": 254544,
+        "cardId": 246,
+        "weight": 4522
+      },
+      {
+        "id": 254547,
+        "cardId": 249,
+        "weight": 4522
+      },
+      {
+        "id": 254548,
+        "cardId": 250,
+        "weight": 4522
+      },
+      {
+        "id": 254549,
+        "cardId": 251,
+        "weight": 4522
+      },
+      {
+        "id": 254552,
+        "cardId": 254,
+        "weight": 4522
+      },
+      {
+        "id": 254553,
+        "cardId": 255,
+        "weight": 4522
+      },
+      {
+        "id": 254554,
+        "cardId": 256,
+        "weight": 4522
+      },
+      {
+        "id": 254557,
+        "cardId": 261,
+        "weight": 4522
+      },
+      {
+        "id": 254560,
+        "cardId": 264,
+        "weight": 4522
+      },
+      {
+        "id": 254561,
+        "cardId": 265,
+        "weight": 4522
+      },
+      {
+        "id": 254562,
+        "cardId": 266,
+        "weight": 4522
+      },
+      {
+        "id": 254565,
+        "cardId": 269,
+        "weight": 4522
+      },
+      {
+        "id": 254566,
+        "cardId": 270,
+        "weight": 4522
+      },
+      {
+        "id": 254567,
+        "cardId": 271,
+        "weight": 4522
+      },
+      {
+        "id": 254570,
+        "cardId": 276,
+        "weight": 4522
+      },
+      {
+        "id": 254573,
+        "cardId": 279,
+        "weight": 4522
+      },
+      {
+        "id": 254574,
+        "cardId": 280,
+        "weight": 4522
+      },
+      {
+        "id": 254575,
+        "cardId": 281,
+        "weight": 4522
+      },
+      {
+        "id": 254578,
+        "cardId": 284,
+        "weight": 4522
+      },
+      {
+        "id": 254579,
+        "cardId": 285,
+        "weight": 4522
+      },
+      {
+        "id": 254580,
+        "cardId": 286,
+        "weight": 4522
+      },
+      {
+        "id": 254584,
+        "cardId": 296,
+        "weight": 4522
+      },
+      {
+        "id": 254585,
+        "cardId": 297,
+        "weight": 4522
+      },
+      {
+        "id": 254586,
+        "cardId": 298,
+        "weight": 4522
+      },
+      {
+        "id": 254589,
+        "cardId": 301,
+        "weight": 4522
+      },
+      {
+        "id": 254590,
+        "cardId": 302,
+        "weight": 4522
+      },
+      {
+        "id": 254591,
+        "cardId": 303,
+        "weight": 4522
+      },
+      {
+        "id": 254594,
+        "cardId": 309,
+        "weight": 4522
+      },
+      {
+        "id": 254597,
+        "cardId": 313,
+        "weight": 4522
+      },
+      {
+        "id": 254598,
+        "cardId": 314,
+        "weight": 4522
+      },
+      {
+        "id": 254599,
+        "cardId": 315,
+        "weight": 4522
+      },
+      {
+        "id": 254602,
+        "cardId": 319,
+        "weight": 4522
+      },
+      {
+        "id": 254603,
+        "cardId": 320,
+        "weight": 4522
+      },
+      {
+        "id": 254604,
+        "cardId": 321,
+        "weight": 4522
+      },
+      {
+        "id": 254607,
+        "cardId": 326,
+        "weight": 4522
+      },
+      {
+        "id": 254610,
+        "cardId": 330,
+        "weight": 4522
+      },
+      {
+        "id": 254611,
+        "cardId": 331,
+        "weight": 4522
+      },
+      {
+        "id": 254612,
+        "cardId": 332,
+        "weight": 4522
+      },
+      {
+        "id": 254615,
+        "cardId": 341,
+        "weight": 4522
+      },
+      {
+        "id": 254616,
+        "cardId": 342,
+        "weight": 4522
+      },
+      {
+        "id": 254617,
+        "cardId": 343,
+        "weight": 4522
+      },
+      {
+        "id": 254622,
+        "cardId": 356,
+        "weight": 4522
+      },
+      {
+        "id": 254623,
+        "cardId": 357,
+        "weight": 4522
+      },
+      {
+        "id": 254624,
+        "cardId": 358,
+        "weight": 4522
+      },
+      {
+        "id": 254627,
+        "cardId": 361,
+        "weight": 4522
+      },
+      {
+        "id": 254628,
+        "cardId": 362,
+        "weight": 4522
+      },
+      {
+        "id": 254629,
+        "cardId": 363,
+        "weight": 4522
+      },
+      {
+        "id": 254634,
+        "cardId": 373,
+        "weight": 4522
+      },
+      {
+        "id": 254635,
+        "cardId": 374,
+        "weight": 4522
+      },
+      {
+        "id": 254636,
+        "cardId": 375,
+        "weight": 4522
+      },
+      {
+        "id": 254639,
+        "cardId": 380,
+        "weight": 4522
+      },
+      {
+        "id": 254640,
+        "cardId": 381,
+        "weight": 4522
+      },
+      {
+        "id": 254641,
+        "cardId": 382,
+        "weight": 4522
+      },
+      {
+        "id": 254646,
+        "cardId": 391,
+        "weight": 4522
+      },
+      {
+        "id": 254647,
+        "cardId": 392,
+        "weight": 4522
+      },
+      {
+        "id": 254648,
+        "cardId": 393,
+        "weight": 4522
+      },
+      {
+        "id": 254651,
+        "cardId": 397,
+        "weight": 4522
+      },
+      {
+        "id": 254652,
+        "cardId": 398,
+        "weight": 4522
+      },
+      {
+        "id": 254653,
+        "cardId": 399,
+        "weight": 4522
+      },
+      {
+        "id": 254658,
+        "cardId": 410,
+        "weight": 4522
+      },
+      {
+        "id": 254659,
+        "cardId": 411,
+        "weight": 4522
+      },
+      {
+        "id": 254660,
+        "cardId": 412,
+        "weight": 4522
+      },
+      {
+        "id": 254663,
+        "cardId": 416,
+        "weight": 4522
+      },
+      {
+        "id": 254664,
+        "cardId": 417,
+        "weight": 4522
+      },
+      {
+        "id": 254665,
+        "cardId": 418,
+        "weight": 4522
+      },
+      {
+        "id": 254670,
+        "cardId": 428,
+        "weight": 4522
+      },
+      {
+        "id": 254671,
+        "cardId": 429,
+        "weight": 4522
+      },
+      {
+        "id": 254672,
+        "cardId": 430,
+        "weight": 4522
+      },
+      {
+        "id": 254675,
+        "cardId": 434,
+        "weight": 4522
+      },
+      {
+        "id": 254676,
+        "cardId": 435,
+        "weight": 4522
+      },
+      {
+        "id": 254677,
+        "cardId": 436,
+        "weight": 4522
+      },
+      {
+        "id": 254682,
+        "cardId": 445,
+        "weight": 4522
+      },
+      {
+        "id": 254683,
+        "cardId": 446,
+        "weight": 4522
+      },
+      {
+        "id": 254684,
+        "cardId": 447,
+        "weight": 4522
+      },
+      {
+        "id": 254687,
+        "cardId": 450,
+        "weight": 4522
+      },
+      {
+        "id": 254688,
+        "cardId": 451,
+        "weight": 4522
+      },
+      {
+        "id": 254689,
+        "cardId": 452,
+        "weight": 4522
+      },
+      {
+        "id": 254694,
+        "cardId": 463,
+        "weight": 4522
+      },
+      {
+        "id": 254695,
+        "cardId": 464,
+        "weight": 4522
+      },
+      {
+        "id": 254696,
+        "cardId": 465,
+        "weight": 4522
+      },
+      {
+        "id": 254699,
+        "cardId": 469,
+        "weight": 4522
+      },
+      {
+        "id": 254700,
+        "cardId": 470,
+        "weight": 4522
+      },
+      {
+        "id": 254701,
+        "cardId": 471,
+        "weight": 4522
+      },
+      {
+        "id": 254706,
+        "cardId": 481,
+        "weight": 4522
+      },
+      {
+        "id": 254707,
+        "cardId": 482,
+        "weight": 4522
+      },
+      {
+        "id": 254708,
+        "cardId": 483,
+        "weight": 4522
+      },
+      {
+        "id": 254711,
+        "cardId": 486,
+        "weight": 4522
+      },
+      {
+        "id": 254712,
+        "cardId": 487,
+        "weight": 4522
+      },
+      {
+        "id": 254713,
+        "cardId": 488,
+        "weight": 4522
+      },
+      {
+        "id": 254718,
+        "cardId": 499,
+        "weight": 4522
+      },
+      {
+        "id": 254719,
+        "cardId": 500,
+        "weight": 4522
+      },
+      {
+        "id": 254720,
+        "cardId": 501,
+        "weight": 4522
+      },
+      {
+        "id": 254723,
+        "cardId": 504,
+        "weight": 4522
+      },
+      {
+        "id": 254724,
+        "cardId": 505,
+        "weight": 4522
+      },
+      {
+        "id": 254725,
+        "cardId": 506,
+        "weight": 4522
+      },
+      {
+        "id": 254729,
+        "cardId": 517,
+        "weight": 4522
+      },
+      {
+        "id": 254730,
+        "cardId": 518,
+        "weight": 4522
+      },
+      {
+        "id": 254731,
+        "cardId": 519,
+        "weight": 4522
+      },
+      {
+        "id": 254734,
+        "cardId": 522,
+        "weight": 4522
+      },
+      {
+        "id": 254735,
+        "cardId": 523,
+        "weight": 4522
+      },
+      {
+        "id": 254736,
+        "cardId": 524,
+        "weight": 4522
+      },
+      {
+        "id": 254741,
+        "cardId": 535,
+        "weight": 4522
+      },
+      {
+        "id": 254742,
+        "cardId": 536,
+        "weight": 4522
+      },
+      {
+        "id": 254743,
+        "cardId": 537,
+        "weight": 4522
+      },
+      {
+        "id": 254746,
+        "cardId": 540,
+        "weight": 4522
+      },
+      {
+        "id": 254747,
+        "cardId": 541,
+        "weight": 4522
+      },
+      {
+        "id": 254748,
+        "cardId": 542,
+        "weight": 4522
+      },
+      {
+        "id": 254753,
+        "cardId": 551,
+        "weight": 4522
+      },
+      {
+        "id": 254754,
+        "cardId": 552,
+        "weight": 4522
+      },
+      {
+        "id": 254755,
+        "cardId": 553,
+        "weight": 4522
+      },
+      {
+        "id": 254758,
+        "cardId": 556,
+        "weight": 4522
+      },
+      {
+        "id": 254759,
+        "cardId": 557,
+        "weight": 4522
+      },
+      {
+        "id": 254760,
+        "cardId": 558,
+        "weight": 4522
+      },
+      {
+        "id": 254765,
+        "cardId": 571,
+        "weight": 4522
+      },
+      {
+        "id": 254766,
+        "cardId": 572,
+        "weight": 4522
+      },
+      {
+        "id": 254767,
+        "cardId": 573,
+        "weight": 4522
+      },
+      {
+        "id": 254770,
+        "cardId": 576,
+        "weight": 4522
+      },
+      {
+        "id": 254771,
+        "cardId": 577,
+        "weight": 4522
+      },
+      {
+        "id": 254772,
+        "cardId": 578,
+        "weight": 4522
+      },
+      {
+        "id": 254777,
+        "cardId": 589,
+        "weight": 4522
+      },
+      {
+        "id": 254778,
+        "cardId": 590,
+        "weight": 4522
+      },
+      {
+        "id": 254779,
+        "cardId": 591,
+        "weight": 4522
+      },
+      {
+        "id": 254782,
+        "cardId": 595,
+        "weight": 4522
+      },
+      {
+        "id": 254783,
+        "cardId": 596,
+        "weight": 4522
+      },
+      {
+        "id": 254784,
+        "cardId": 597,
+        "weight": 4522
+      },
+      {
+        "id": 254789,
+        "cardId": 606,
+        "weight": 4522
+      },
+      {
+        "id": 254790,
+        "cardId": 607,
+        "weight": 4522
+      },
+      {
+        "id": 254791,
+        "cardId": 608,
+        "weight": 4522
+      },
+      {
+        "id": 254794,
+        "cardId": 612,
+        "weight": 4522
+      },
+      {
+        "id": 254795,
+        "cardId": 613,
+        "weight": 4522
+      },
+      {
+        "id": 254796,
+        "cardId": 614,
+        "weight": 4522
+      },
+      {
+        "id": 254800,
+        "cardId": 624,
+        "weight": 4522
+      },
+      {
+        "id": 254801,
+        "cardId": 625,
+        "weight": 4522
+      },
+      {
+        "id": 254802,
+        "cardId": 626,
+        "weight": 4522
+      },
+      {
+        "id": 254805,
+        "cardId": 630,
+        "weight": 4522
+      },
+      {
+        "id": 254806,
+        "cardId": 631,
+        "weight": 4522
+      },
+      {
+        "id": 254807,
+        "cardId": 632,
+        "weight": 4522
+      },
+      {
+        "id": 254812,
+        "cardId": 642,
+        "weight": 4522
+      },
+      {
+        "id": 254813,
+        "cardId": 643,
+        "weight": 4522
+      },
+      {
+        "id": 254814,
+        "cardId": 644,
+        "weight": 4522
+      },
+      {
+        "id": 254817,
+        "cardId": 648,
+        "weight": 4522
+      },
+      {
+        "id": 254818,
+        "cardId": 649,
+        "weight": 4522
+      },
+      {
+        "id": 254819,
+        "cardId": 650,
+        "weight": 4522
+      },
+      {
+        "id": 254824,
+        "cardId": 659,
+        "weight": 4522
+      },
+      {
+        "id": 254825,
+        "cardId": 660,
+        "weight": 4522
+      },
+      {
+        "id": 254826,
+        "cardId": 661,
+        "weight": 4522
+      },
+      {
+        "id": 254829,
+        "cardId": 664,
+        "weight": 4522
+      },
+      {
+        "id": 254830,
+        "cardId": 665,
+        "weight": 4522
+      },
+      {
+        "id": 254831,
+        "cardId": 666,
+        "weight": 4522
+      },
+      {
+        "id": 254836,
+        "cardId": 677,
+        "weight": 4522
+      },
+      {
+        "id": 254837,
+        "cardId": 678,
+        "weight": 4522
+      },
+      {
+        "id": 254838,
+        "cardId": 679,
+        "weight": 4522
+      },
+      {
+        "id": 254841,
+        "cardId": 683,
+        "weight": 4522
+      },
+      {
+        "id": 254842,
+        "cardId": 684,
+        "weight": 4522
+      },
+      {
+        "id": 254843,
+        "cardId": 685,
+        "weight": 4522
+      },
+      {
+        "id": 254848,
+        "cardId": 694,
+        "weight": 4522
+      },
+      {
+        "id": 254849,
+        "cardId": 695,
+        "weight": 4522
+      },
+      {
+        "id": 254850,
+        "cardId": 696,
+        "weight": 4522
+      },
+      {
+        "id": 254853,
+        "cardId": 700,
+        "weight": 4522
+      },
+      {
+        "id": 254854,
+        "cardId": 701,
+        "weight": 4522
+      },
+      {
+        "id": 254855,
+        "cardId": 702,
+        "weight": 4522
+      },
+      {
+        "id": 254860,
+        "cardId": 714,
+        "weight": 4522
+      },
+      {
+        "id": 254861,
+        "cardId": 715,
+        "weight": 4522
+      },
+      {
+        "id": 254862,
+        "cardId": 716,
+        "weight": 4522
+      },
+      {
+        "id": 254865,
+        "cardId": 719,
+        "weight": 4522
+      },
+      {
+        "id": 254866,
+        "cardId": 720,
+        "weight": 4522
+      },
+      {
+        "id": 254867,
+        "cardId": 721,
+        "weight": 4522
+      },
+      {
+        "id": 254907,
+        "cardId": 768,
+        "weight": 4522
+      },
+      {
+        "id": 254908,
+        "cardId": 769,
+        "weight": 4522
+      },
+      {
+        "id": 254909,
+        "cardId": 770,
+        "weight": 4522
+      },
+      {
+        "id": 254912,
+        "cardId": 773,
+        "weight": 4522
+      },
+      {
+        "id": 254913,
+        "cardId": 774,
+        "weight": 4522
+      },
+      {
+        "id": 254914,
+        "cardId": 775,
+        "weight": 4522
+      },
+      {
+        "id": 254920,
+        "cardId": 791,
+        "weight": 4522
+      },
+      {
+        "id": 254921,
+        "cardId": 792,
+        "weight": 4522
+      },
+      {
+        "id": 254922,
+        "cardId": 793,
+        "weight": 4522
+      },
+      {
+        "id": 254927,
+        "cardId": 828,
+        "weight": 4522
+      },
+      {
+        "id": 254928,
+        "cardId": 829,
+        "weight": 4522
+      },
+      {
+        "id": 254929,
+        "cardId": 830,
+        "weight": 4522
+      },
+      {
+        "id": 254932,
+        "cardId": 833,
+        "weight": 4522
+      },
+      {
+        "id": 254933,
+        "cardId": 834,
+        "weight": 4522
+      },
+      {
+        "id": 254934,
+        "cardId": 835,
+        "weight": 4522
+      },
+      {
+        "id": 254941,
+        "cardId": 854,
+        "weight": 4522
+      },
+      {
+        "id": 254942,
+        "cardId": 855,
+        "weight": 4522
+      },
+      {
+        "id": 254943,
+        "cardId": 856,
+        "weight": 4522
+      },
+      {
+        "id": 254948,
+        "cardId": 867,
+        "weight": 4522
+      },
+      {
+        "id": 254949,
+        "cardId": 868,
+        "weight": 4522
+      },
+      {
+        "id": 254950,
+        "cardId": 869,
+        "weight": 4522
+      },
+      {
+        "id": 254953,
+        "cardId": 873,
+        "weight": 4522
+      },
+      {
+        "id": 254954,
+        "cardId": 874,
+        "weight": 4522
+      },
+      {
+        "id": 254955,
+        "cardId": 875,
+        "weight": 4522
+      },
+      {
+        "id": 254961,
+        "cardId": 890,
+        "weight": 4522
+      },
+      {
+        "id": 254962,
+        "cardId": 891,
+        "weight": 4522
+      },
+      {
+        "id": 254963,
+        "cardId": 892,
+        "weight": 4522
+      },
+      {
+        "id": 254968,
+        "cardId": 903,
+        "weight": 4522
+      },
+      {
+        "id": 254969,
+        "cardId": 904,
+        "weight": 4522
+      },
+      {
+        "id": 254970,
+        "cardId": 905,
+        "weight": 4522
+      },
+      {
+        "id": 254973,
+        "cardId": 909,
+        "weight": 4522
+      },
+      {
+        "id": 254974,
+        "cardId": 910,
+        "weight": 4522
+      },
+      {
+        "id": 254975,
+        "cardId": 911,
+        "weight": 4522
+      },
+      {
+        "id": 254981,
+        "cardId": 927,
+        "weight": 4522
+      },
+      {
+        "id": 254982,
+        "cardId": 928,
+        "weight": 4522
+      },
+      {
+        "id": 254983,
+        "cardId": 929,
+        "weight": 4522
+      },
+      {
+        "id": 254988,
+        "cardId": 938,
+        "weight": 4522
+      },
+      {
+        "id": 254989,
+        "cardId": 939,
+        "weight": 4522
+      },
+      {
+        "id": 254990,
+        "cardId": 940,
+        "weight": 4522
+      },
+      {
+        "id": 254993,
+        "cardId": 943,
+        "weight": 4522
+      },
+      {
+        "id": 254994,
+        "cardId": 944,
+        "weight": 4522
+      },
+      {
+        "id": 254995,
+        "cardId": 945,
+        "weight": 4522
+      },
+      {
+        "id": 255000,
+        "cardId": 956,
+        "weight": 4522
+      },
+      {
+        "id": 255001,
+        "cardId": 957,
+        "weight": 4522
+      },
+      {
+        "id": 255002,
+        "cardId": 958,
+        "weight": 4522
+      },
+      {
+        "id": 255005,
+        "cardId": 961,
+        "weight": 4522
+      },
+      {
+        "id": 255006,
+        "cardId": 962,
+        "weight": 4522
+      },
+      {
+        "id": 255007,
+        "cardId": 963,
+        "weight": 4522
+      },
+      {
+        "id": 255008,
+        "cardId": 964,
+        "weight": 4522
+      },
+      {
+        "id": 255012,
+        "cardId": 973,
+        "weight": 4522
+      },
+      {
+        "id": 255013,
+        "cardId": 974,
+        "weight": 4522
+      },
+      {
+        "id": 255014,
+        "cardId": 975,
+        "weight": 4522
+      },
+      {
+        "id": 255019,
+        "cardId": 993,
+        "weight": 4522
+      },
+      {
+        "id": 255020,
+        "cardId": 994,
+        "weight": 4522
+      },
+      {
+        "id": 255021,
+        "cardId": 995,
+        "weight": 4522
+      },
+      {
+        "id": 255024,
+        "cardId": 998,
+        "weight": 4522
+      },
+      {
+        "id": 255025,
+        "cardId": 999,
+        "weight": 4522
+      },
+      {
+        "id": 255026,
+        "cardId": 1000,
+        "weight": 4522
+      },
+      {
+        "id": 255030,
+        "cardId": 1011,
+        "weight": 4522
+      },
+      {
+        "id": 255031,
+        "cardId": 1012,
+        "weight": 4522
+      },
+      {
+        "id": 255032,
+        "cardId": 1013,
+        "weight": 4522
+      },
+      {
+        "id": 255035,
+        "cardId": 1016,
+        "weight": 4522
+      },
+      {
+        "id": 255036,
+        "cardId": 1017,
+        "weight": 4522
+      },
+      {
+        "id": 255037,
+        "cardId": 1018,
+        "weight": 4522
+      },
+      {
+        "id": 255042,
+        "cardId": 1028,
+        "weight": 4522
+      },
+      {
+        "id": 255043,
+        "cardId": 1029,
+        "weight": 4522
+      },
+      {
+        "id": 255044,
+        "cardId": 1030,
+        "weight": 4522
+      },
+      {
+        "id": 255047,
+        "cardId": 1034,
+        "weight": 4522
+      },
+      {
+        "id": 255048,
+        "cardId": 1035,
+        "weight": 4522
+      },
+      {
+        "id": 255049,
+        "cardId": 1036,
+        "weight": 4522
+      },
+      {
+        "id": 255054,
+        "cardId": 1045,
+        "weight": 4522
+      },
+      {
+        "id": 255055,
+        "cardId": 1046,
+        "weight": 4522
+      },
+      {
+        "id": 255056,
+        "cardId": 1047,
+        "weight": 4522
+      },
+      {
+        "id": 255059,
+        "cardId": 1050,
+        "weight": 4522
+      },
+      {
+        "id": 255060,
+        "cardId": 1051,
+        "weight": 4522
+      },
+      {
+        "id": 255061,
+        "cardId": 1052,
+        "weight": 4522
+      },
+      {
+        "id": 255066,
+        "cardId": 1065,
+        "weight": 4522
+      },
+      {
+        "id": 255067,
+        "cardId": 1066,
+        "weight": 4522
+      },
+      {
+        "id": 255068,
+        "cardId": 1067,
+        "weight": 4522
+      },
+      {
+        "id": 255071,
+        "cardId": 1097,
+        "weight": 4522
+      },
+      {
+        "id": 255072,
+        "cardId": 1098,
+        "weight": 4522
+      },
+      {
+        "id": 255073,
+        "cardId": 1099,
+        "weight": 4522
+      },
+      {
+        "id": 255078,
+        "cardId": 1110,
+        "weight": 4522
+      },
+      {
+        "id": 255079,
+        "cardId": 1111,
+        "weight": 4522
+      },
+      {
+        "id": 255080,
+        "cardId": 1112,
+        "weight": 4522
+      },
+      {
+        "id": 255083,
+        "cardId": 1122,
+        "weight": 4522
+      },
+      {
+        "id": 255084,
+        "cardId": 1123,
+        "weight": 4522
+      },
+      {
+        "id": 255085,
+        "cardId": 1124,
+        "weight": 4522
+      },
+      {
+        "id": 255090,
+        "cardId": 1133,
+        "weight": 4522
+      },
+      {
+        "id": 255091,
+        "cardId": 1134,
+        "weight": 4522
+      },
+      {
+        "id": 255092,
+        "cardId": 1135,
+        "weight": 4522
+      },
+      {
+        "id": 255095,
+        "cardId": 1139,
+        "weight": 4522
+      },
+      {
+        "id": 255096,
+        "cardId": 1140,
+        "weight": 4522
+      },
+      {
+        "id": 255097,
+        "cardId": 1141,
+        "weight": 4522
+      },
+      {
+        "id": 255100,
+        "cardId": 1146,
+        "weight": 400000
+      },
+      {
+        "id": 255101,
+        "cardId": 1147,
+        "weight": 400000
+      },
+      {
+        "id": 255102,
+        "cardId": 1148,
+        "weight": 400000
+      },
+      {
+        "id": 255105,
+        "cardId": 1156,
+        "weight": 4522
+      },
+      {
+        "id": 255106,
+        "cardId": 1157,
+        "weight": 4522
+      },
+      {
+        "id": 255107,
+        "cardId": 1158,
+        "weight": 4522
+      },
+      {
+        "id": 255112,
+        "cardId": 1174,
+        "weight": 4522
+      },
+      {
+        "id": 255113,
+        "cardId": 1175,
+        "weight": 4522
+      },
+      {
+        "id": 255114,
+        "cardId": 1176,
+        "weight": 4522
+      },
+      {
+        "id": 255119,
+        "cardId": 1189,
+        "weight": 4522
+      },
+      {
+        "id": 255120,
+        "cardId": 1190,
+        "weight": 4522
+      },
+      {
+        "id": 255121,
+        "cardId": 1191,
+        "weight": 4522
+      },
+      {
+        "id": 255122,
+        "cardId": 1192,
+        "weight": 4522
+      },
+      {
+        "id": 255125,
+        "cardId": 1201,
+        "weight": 4522
+      },
+      {
+        "id": 255126,
+        "cardId": 1202,
+        "weight": 4522
+      },
+      {
+        "id": 255127,
+        "cardId": 1203,
+        "weight": 4522
+      },
+      {
+        "id": 255130,
+        "cardId": 1207,
+        "weight": 4522
+      },
+      {
+        "id": 255131,
+        "cardId": 1208,
+        "weight": 4522
+      },
+      {
+        "id": 255132,
+        "cardId": 1209,
+        "weight": 4522
+      },
+      {
+        "id": 255137,
+        "cardId": 1223,
+        "weight": 4522
+      },
+      {
+        "id": 255138,
+        "cardId": 1224,
+        "weight": 4522
+      },
+      {
+        "id": 255139,
+        "cardId": 1225,
+        "weight": 4522
+      },
+      {
+        "id": 255144,
+        "cardId": 1261,
+        "weight": 4522
+      },
+      {
+        "id": 255145,
+        "cardId": 1262,
+        "weight": 4522
+      },
+      {
+        "id": 255146,
+        "cardId": 1263,
+        "weight": 4522
+      },
+      {
+        "id": 255147,
+        "cardId": 1266,
+        "weight": 4522
+      },
+      {
+        "id": 255148,
+        "cardId": 1267,
+        "weight": 4522
+      },
+      {
+        "id": 255149,
+        "cardId": 1268,
+        "weight": 4522
+      },
+      {
+        "id": 255150,
+        "cardId": 1279,
+        "weight": 4522
+      },
+      {
+        "id": 255151,
+        "cardId": 1280,
+        "weight": 4522
+      },
+      {
+        "id": 255152,
+        "cardId": 1281,
+        "weight": 4522
+      },
+      {
+        "id": 255153,
+        "cardId": 1284,
+        "weight": 4522
+      },
+      {
+        "id": 255154,
+        "cardId": 1285,
+        "weight": 4522
+      },
+      {
+        "id": 255155,
+        "cardId": 1286,
+        "weight": 4522
+      },
+      {
+        "id": 255156,
+        "cardId": 1295,
+        "weight": 4522
+      },
+      {
+        "id": 255157,
+        "cardId": 1296,
+        "weight": 4522
+      },
+      {
+        "id": 255158,
+        "cardId": 1297,
+        "weight": 4522
+      },
+      {
+        "id": 255159,
+        "cardId": 1300,
+        "weight": 4522
+      },
+      {
+        "id": 255160,
+        "cardId": 1301,
+        "weight": 4522
+      },
+      {
+        "id": 255161,
+        "cardId": 1302,
+        "weight": 4522
+      },
+      {
+        "id": 255162,
+        "cardId": 1315,
+        "weight": 4522
+      },
+      {
+        "id": 255163,
+        "cardId": 1316,
+        "weight": 4522
+      },
+      {
+        "id": 255164,
+        "cardId": 1317,
+        "weight": 4522
+      },
+      {
+        "id": 255165,
+        "cardId": 1320,
+        "weight": 4522
+      },
+      {
+        "id": 255166,
+        "cardId": 1321,
+        "weight": 4522
+      },
+      {
+        "id": 255167,
+        "cardId": 1322,
+        "weight": 4522
+      },
+      {
+        "id": 255168,
+        "cardId": 1333,
+        "weight": 4522
+      },
+      {
+        "id": 255169,
+        "cardId": 1334,
+        "weight": 4522
+      },
+      {
+        "id": 255170,
+        "cardId": 1335,
+        "weight": 4522
+      },
+      {
+        "id": 255171,
+        "cardId": 1339,
+        "weight": 4522
+      },
+      {
+        "id": 255172,
+        "cardId": 1340,
+        "weight": 4522
+      },
+      {
+        "id": 255173,
+        "cardId": 1341,
+        "weight": 4522
+      },
+      {
+        "id": 255174,
+        "cardId": 1350,
+        "weight": 4522
+      },
+      {
+        "id": 255175,
+        "cardId": 1351,
+        "weight": 4522
+      },
+      {
+        "id": 255176,
+        "cardId": 1352,
+        "weight": 4522
+      },
+      {
+        "id": 255177,
+        "cardId": 1356,
+        "weight": 4522
+      },
+      {
+        "id": 255178,
+        "cardId": 1357,
+        "weight": 4522
+      },
+      {
+        "id": 255179,
+        "cardId": 1358,
+        "weight": 4522
+      },
+      {
+        "id": 255180,
+        "cardId": 1368,
+        "weight": 4522
+      },
+      {
+        "id": 255181,
+        "cardId": 1369,
+        "weight": 4522
+      },
+      {
+        "id": 255182,
+        "cardId": 1370,
+        "weight": 4522
+      }
+    ]
+  },
+  {
+    "id": 736,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 255185,
+        "cardId": 4,
+        "weight": 4477
+      },
+      {
+        "id": 255230,
+        "cardId": 88,
+        "weight": 4477
+      },
+      {
+        "id": 255233,
+        "cardId": 92,
+        "weight": 4477
+      },
+      {
+        "id": 255236,
+        "cardId": 96,
+        "weight": 4477
+      },
+      {
+        "id": 255243,
+        "cardId": 109,
+        "weight": 4477
+      },
+      {
+        "id": 255244,
+        "cardId": 110,
+        "weight": 4477
+      },
+      {
+        "id": 255245,
+        "cardId": 111,
+        "weight": 4477
+      },
+      {
+        "id": 255248,
+        "cardId": 114,
+        "weight": 4477
+      },
+      {
+        "id": 255249,
+        "cardId": 115,
+        "weight": 4477
+      },
+      {
+        "id": 255250,
+        "cardId": 116,
+        "weight": 4477
+      },
+      {
+        "id": 255253,
+        "cardId": 119,
+        "weight": 4477
+      },
+      {
+        "id": 255254,
+        "cardId": 120,
+        "weight": 4477
+      },
+      {
+        "id": 255255,
+        "cardId": 121,
+        "weight": 4477
+      },
+      {
+        "id": 255258,
+        "cardId": 124,
+        "weight": 4477
+      },
+      {
+        "id": 255259,
+        "cardId": 125,
+        "weight": 4477
+      },
+      {
+        "id": 255260,
+        "cardId": 126,
+        "weight": 4477
+      },
+      {
+        "id": 255263,
+        "cardId": 129,
+        "weight": 4477
+      },
+      {
+        "id": 255264,
+        "cardId": 130,
+        "weight": 4477
+      },
+      {
+        "id": 255265,
+        "cardId": 131,
+        "weight": 4477
+      },
+      {
+        "id": 255268,
+        "cardId": 134,
+        "weight": 4477
+      },
+      {
+        "id": 255269,
+        "cardId": 135,
+        "weight": 4477
+      },
+      {
+        "id": 255270,
+        "cardId": 136,
+        "weight": 4477
+      },
+      {
+        "id": 255273,
+        "cardId": 139,
+        "weight": 4477
+      },
+      {
+        "id": 255274,
+        "cardId": 140,
+        "weight": 4477
+      },
+      {
+        "id": 255275,
+        "cardId": 141,
+        "weight": 4477
+      },
+      {
+        "id": 255278,
+        "cardId": 144,
+        "weight": 4477
+      },
+      {
+        "id": 255279,
+        "cardId": 145,
+        "weight": 4477
+      },
+      {
+        "id": 255280,
+        "cardId": 146,
+        "weight": 4477
+      },
+      {
+        "id": 255283,
+        "cardId": 149,
+        "weight": 4477
+      },
+      {
+        "id": 255284,
+        "cardId": 150,
+        "weight": 4477
+      },
+      {
+        "id": 255285,
+        "cardId": 151,
+        "weight": 4477
+      },
+      {
+        "id": 255286,
+        "cardId": 152,
+        "weight": 4477
+      },
+      {
+        "id": 255289,
+        "cardId": 155,
+        "weight": 4477
+      },
+      {
+        "id": 255290,
+        "cardId": 156,
+        "weight": 4477
+      },
+      {
+        "id": 255291,
+        "cardId": 157,
+        "weight": 4477
+      },
+      {
+        "id": 255294,
+        "cardId": 160,
+        "weight": 4477
+      },
+      {
+        "id": 255295,
+        "cardId": 161,
+        "weight": 4477
+      },
+      {
+        "id": 255296,
+        "cardId": 162,
+        "weight": 4477
+      },
+      {
+        "id": 255299,
+        "cardId": 165,
+        "weight": 4477
+      },
+      {
+        "id": 255300,
+        "cardId": 166,
+        "weight": 4477
+      },
+      {
+        "id": 255301,
+        "cardId": 167,
+        "weight": 4477
+      },
+      {
+        "id": 255304,
+        "cardId": 170,
+        "weight": 4477
+      },
+      {
+        "id": 255305,
+        "cardId": 171,
+        "weight": 4477
+      },
+      {
+        "id": 255306,
+        "cardId": 172,
+        "weight": 4477
+      },
+      {
+        "id": 255309,
+        "cardId": 175,
+        "weight": 4477
+      },
+      {
+        "id": 255310,
+        "cardId": 176,
+        "weight": 4477
+      },
+      {
+        "id": 255311,
+        "cardId": 177,
+        "weight": 4477
+      },
+      {
+        "id": 255314,
+        "cardId": 182,
+        "weight": 4477
+      },
+      {
+        "id": 255317,
+        "cardId": 185,
+        "weight": 4477
+      },
+      {
+        "id": 255318,
+        "cardId": 186,
+        "weight": 4477
+      },
+      {
+        "id": 255319,
+        "cardId": 187,
+        "weight": 4477
+      },
+      {
+        "id": 255322,
+        "cardId": 190,
+        "weight": 4477
+      },
+      {
+        "id": 255323,
+        "cardId": 191,
+        "weight": 4477
+      },
+      {
+        "id": 255324,
+        "cardId": 192,
+        "weight": 4477
+      },
+      {
+        "id": 255327,
+        "cardId": 197,
+        "weight": 4477
+      },
+      {
+        "id": 255328,
+        "cardId": 198,
+        "weight": 4477
+      },
+      {
+        "id": 255329,
+        "cardId": 199,
+        "weight": 4477
+      },
+      {
+        "id": 255332,
+        "cardId": 202,
+        "weight": 4477
+      },
+      {
+        "id": 255333,
+        "cardId": 203,
+        "weight": 4477
+      },
+      {
+        "id": 255334,
+        "cardId": 204,
+        "weight": 4477
+      },
+      {
+        "id": 255337,
+        "cardId": 207,
+        "weight": 4477
+      },
+      {
+        "id": 255338,
+        "cardId": 208,
+        "weight": 4477
+      },
+      {
+        "id": 255339,
+        "cardId": 209,
+        "weight": 4477
+      },
+      {
+        "id": 255342,
+        "cardId": 214,
+        "weight": 4477
+      },
+      {
+        "id": 255345,
+        "cardId": 217,
+        "weight": 4477
+      },
+      {
+        "id": 255346,
+        "cardId": 218,
+        "weight": 4477
+      },
+      {
+        "id": 255347,
+        "cardId": 219,
+        "weight": 4477
+      },
+      {
+        "id": 255350,
+        "cardId": 222,
+        "weight": 4477
+      },
+      {
+        "id": 255351,
+        "cardId": 223,
+        "weight": 4477
+      },
+      {
+        "id": 255352,
+        "cardId": 224,
+        "weight": 4477
+      },
+      {
+        "id": 255355,
+        "cardId": 229,
+        "weight": 4477
+      },
+      {
+        "id": 255358,
+        "cardId": 232,
+        "weight": 4477
+      },
+      {
+        "id": 255359,
+        "cardId": 233,
+        "weight": 4477
+      },
+      {
+        "id": 255360,
+        "cardId": 234,
+        "weight": 4477
+      },
+      {
+        "id": 255363,
+        "cardId": 237,
+        "weight": 4477
+      },
+      {
+        "id": 255364,
+        "cardId": 238,
+        "weight": 4477
+      },
+      {
+        "id": 255365,
+        "cardId": 239,
+        "weight": 4477
+      },
+      {
+        "id": 255368,
+        "cardId": 244,
+        "weight": 4477
+      },
+      {
+        "id": 255369,
+        "cardId": 245,
+        "weight": 4477
+      },
+      {
+        "id": 255370,
+        "cardId": 246,
+        "weight": 4477
+      },
+      {
+        "id": 255373,
+        "cardId": 249,
+        "weight": 4477
+      },
+      {
+        "id": 255374,
+        "cardId": 250,
+        "weight": 4477
+      },
+      {
+        "id": 255375,
+        "cardId": 251,
+        "weight": 4477
+      },
+      {
+        "id": 255378,
+        "cardId": 254,
+        "weight": 4477
+      },
+      {
+        "id": 255379,
+        "cardId": 255,
+        "weight": 4477
+      },
+      {
+        "id": 255380,
+        "cardId": 256,
+        "weight": 4477
+      },
+      {
+        "id": 255383,
+        "cardId": 261,
+        "weight": 4477
+      },
+      {
+        "id": 255386,
+        "cardId": 264,
+        "weight": 4477
+      },
+      {
+        "id": 255387,
+        "cardId": 265,
+        "weight": 4477
+      },
+      {
+        "id": 255388,
+        "cardId": 266,
+        "weight": 4477
+      },
+      {
+        "id": 255391,
+        "cardId": 269,
+        "weight": 4477
+      },
+      {
+        "id": 255392,
+        "cardId": 270,
+        "weight": 4477
+      },
+      {
+        "id": 255393,
+        "cardId": 271,
+        "weight": 4477
+      },
+      {
+        "id": 255396,
+        "cardId": 276,
+        "weight": 4477
+      },
+      {
+        "id": 255399,
+        "cardId": 279,
+        "weight": 4477
+      },
+      {
+        "id": 255400,
+        "cardId": 280,
+        "weight": 4477
+      },
+      {
+        "id": 255401,
+        "cardId": 281,
+        "weight": 4477
+      },
+      {
+        "id": 255404,
+        "cardId": 284,
+        "weight": 4477
+      },
+      {
+        "id": 255405,
+        "cardId": 285,
+        "weight": 4477
+      },
+      {
+        "id": 255406,
+        "cardId": 286,
+        "weight": 4477
+      },
+      {
+        "id": 255410,
+        "cardId": 296,
+        "weight": 4477
+      },
+      {
+        "id": 255411,
+        "cardId": 297,
+        "weight": 4477
+      },
+      {
+        "id": 255412,
+        "cardId": 298,
+        "weight": 4477
+      },
+      {
+        "id": 255415,
+        "cardId": 301,
+        "weight": 4477
+      },
+      {
+        "id": 255416,
+        "cardId": 302,
+        "weight": 4477
+      },
+      {
+        "id": 255417,
+        "cardId": 303,
+        "weight": 4477
+      },
+      {
+        "id": 255420,
+        "cardId": 309,
+        "weight": 4477
+      },
+      {
+        "id": 255423,
+        "cardId": 313,
+        "weight": 4477
+      },
+      {
+        "id": 255424,
+        "cardId": 314,
+        "weight": 4477
+      },
+      {
+        "id": 255425,
+        "cardId": 315,
+        "weight": 4477
+      },
+      {
+        "id": 255428,
+        "cardId": 319,
+        "weight": 4477
+      },
+      {
+        "id": 255429,
+        "cardId": 320,
+        "weight": 4477
+      },
+      {
+        "id": 255430,
+        "cardId": 321,
+        "weight": 4477
+      },
+      {
+        "id": 255433,
+        "cardId": 326,
+        "weight": 4477
+      },
+      {
+        "id": 255436,
+        "cardId": 330,
+        "weight": 4477
+      },
+      {
+        "id": 255437,
+        "cardId": 331,
+        "weight": 4477
+      },
+      {
+        "id": 255438,
+        "cardId": 332,
+        "weight": 4477
+      },
+      {
+        "id": 255441,
+        "cardId": 341,
+        "weight": 4477
+      },
+      {
+        "id": 255442,
+        "cardId": 342,
+        "weight": 4477
+      },
+      {
+        "id": 255443,
+        "cardId": 343,
+        "weight": 4477
+      },
+      {
+        "id": 255448,
+        "cardId": 356,
+        "weight": 4477
+      },
+      {
+        "id": 255449,
+        "cardId": 357,
+        "weight": 4477
+      },
+      {
+        "id": 255450,
+        "cardId": 358,
+        "weight": 4477
+      },
+      {
+        "id": 255453,
+        "cardId": 361,
+        "weight": 4477
+      },
+      {
+        "id": 255454,
+        "cardId": 362,
+        "weight": 4477
+      },
+      {
+        "id": 255455,
+        "cardId": 363,
+        "weight": 4477
+      },
+      {
+        "id": 255460,
+        "cardId": 373,
+        "weight": 4477
+      },
+      {
+        "id": 255461,
+        "cardId": 374,
+        "weight": 4477
+      },
+      {
+        "id": 255462,
+        "cardId": 375,
+        "weight": 4477
+      },
+      {
+        "id": 255465,
+        "cardId": 380,
+        "weight": 4477
+      },
+      {
+        "id": 255466,
+        "cardId": 381,
+        "weight": 4477
+      },
+      {
+        "id": 255467,
+        "cardId": 382,
+        "weight": 4477
+      },
+      {
+        "id": 255472,
+        "cardId": 391,
+        "weight": 4477
+      },
+      {
+        "id": 255473,
+        "cardId": 392,
+        "weight": 4477
+      },
+      {
+        "id": 255474,
+        "cardId": 393,
+        "weight": 4477
+      },
+      {
+        "id": 255477,
+        "cardId": 397,
+        "weight": 4477
+      },
+      {
+        "id": 255478,
+        "cardId": 398,
+        "weight": 4477
+      },
+      {
+        "id": 255479,
+        "cardId": 399,
+        "weight": 4477
+      },
+      {
+        "id": 255484,
+        "cardId": 410,
+        "weight": 4477
+      },
+      {
+        "id": 255485,
+        "cardId": 411,
+        "weight": 4477
+      },
+      {
+        "id": 255486,
+        "cardId": 412,
+        "weight": 4477
+      },
+      {
+        "id": 255489,
+        "cardId": 416,
+        "weight": 4477
+      },
+      {
+        "id": 255490,
+        "cardId": 417,
+        "weight": 4477
+      },
+      {
+        "id": 255491,
+        "cardId": 418,
+        "weight": 4477
+      },
+      {
+        "id": 255496,
+        "cardId": 428,
+        "weight": 4477
+      },
+      {
+        "id": 255497,
+        "cardId": 429,
+        "weight": 4477
+      },
+      {
+        "id": 255498,
+        "cardId": 430,
+        "weight": 4477
+      },
+      {
+        "id": 255501,
+        "cardId": 434,
+        "weight": 4477
+      },
+      {
+        "id": 255502,
+        "cardId": 435,
+        "weight": 4477
+      },
+      {
+        "id": 255503,
+        "cardId": 436,
+        "weight": 4477
+      },
+      {
+        "id": 255508,
+        "cardId": 445,
+        "weight": 4477
+      },
+      {
+        "id": 255509,
+        "cardId": 446,
+        "weight": 4477
+      },
+      {
+        "id": 255510,
+        "cardId": 447,
+        "weight": 4477
+      },
+      {
+        "id": 255513,
+        "cardId": 450,
+        "weight": 4477
+      },
+      {
+        "id": 255514,
+        "cardId": 451,
+        "weight": 4477
+      },
+      {
+        "id": 255515,
+        "cardId": 452,
+        "weight": 4477
+      },
+      {
+        "id": 255520,
+        "cardId": 463,
+        "weight": 4477
+      },
+      {
+        "id": 255521,
+        "cardId": 464,
+        "weight": 4477
+      },
+      {
+        "id": 255522,
+        "cardId": 465,
+        "weight": 4477
+      },
+      {
+        "id": 255525,
+        "cardId": 469,
+        "weight": 4477
+      },
+      {
+        "id": 255526,
+        "cardId": 470,
+        "weight": 4477
+      },
+      {
+        "id": 255527,
+        "cardId": 471,
+        "weight": 4477
+      },
+      {
+        "id": 255532,
+        "cardId": 481,
+        "weight": 4477
+      },
+      {
+        "id": 255533,
+        "cardId": 482,
+        "weight": 4477
+      },
+      {
+        "id": 255534,
+        "cardId": 483,
+        "weight": 4477
+      },
+      {
+        "id": 255537,
+        "cardId": 486,
+        "weight": 4477
+      },
+      {
+        "id": 255538,
+        "cardId": 487,
+        "weight": 4477
+      },
+      {
+        "id": 255539,
+        "cardId": 488,
+        "weight": 4477
+      },
+      {
+        "id": 255544,
+        "cardId": 499,
+        "weight": 4477
+      },
+      {
+        "id": 255545,
+        "cardId": 500,
+        "weight": 4477
+      },
+      {
+        "id": 255546,
+        "cardId": 501,
+        "weight": 4477
+      },
+      {
+        "id": 255549,
+        "cardId": 504,
+        "weight": 4477
+      },
+      {
+        "id": 255550,
+        "cardId": 505,
+        "weight": 4477
+      },
+      {
+        "id": 255551,
+        "cardId": 506,
+        "weight": 4477
+      },
+      {
+        "id": 255555,
+        "cardId": 517,
+        "weight": 4477
+      },
+      {
+        "id": 255556,
+        "cardId": 518,
+        "weight": 4477
+      },
+      {
+        "id": 255557,
+        "cardId": 519,
+        "weight": 4477
+      },
+      {
+        "id": 255560,
+        "cardId": 522,
+        "weight": 4477
+      },
+      {
+        "id": 255561,
+        "cardId": 523,
+        "weight": 4477
+      },
+      {
+        "id": 255562,
+        "cardId": 524,
+        "weight": 4477
+      },
+      {
+        "id": 255567,
+        "cardId": 535,
+        "weight": 4477
+      },
+      {
+        "id": 255568,
+        "cardId": 536,
+        "weight": 4477
+      },
+      {
+        "id": 255569,
+        "cardId": 537,
+        "weight": 4477
+      },
+      {
+        "id": 255572,
+        "cardId": 540,
+        "weight": 4477
+      },
+      {
+        "id": 255573,
+        "cardId": 541,
+        "weight": 4477
+      },
+      {
+        "id": 255574,
+        "cardId": 542,
+        "weight": 4477
+      },
+      {
+        "id": 255579,
+        "cardId": 551,
+        "weight": 4477
+      },
+      {
+        "id": 255580,
+        "cardId": 552,
+        "weight": 4477
+      },
+      {
+        "id": 255581,
+        "cardId": 553,
+        "weight": 4477
+      },
+      {
+        "id": 255584,
+        "cardId": 556,
+        "weight": 4477
+      },
+      {
+        "id": 255585,
+        "cardId": 557,
+        "weight": 4477
+      },
+      {
+        "id": 255586,
+        "cardId": 558,
+        "weight": 4477
+      },
+      {
+        "id": 255591,
+        "cardId": 571,
+        "weight": 4477
+      },
+      {
+        "id": 255592,
+        "cardId": 572,
+        "weight": 4477
+      },
+      {
+        "id": 255593,
+        "cardId": 573,
+        "weight": 4477
+      },
+      {
+        "id": 255596,
+        "cardId": 576,
+        "weight": 4477
+      },
+      {
+        "id": 255597,
+        "cardId": 577,
+        "weight": 4477
+      },
+      {
+        "id": 255598,
+        "cardId": 578,
+        "weight": 4477
+      },
+      {
+        "id": 255603,
+        "cardId": 589,
+        "weight": 4477
+      },
+      {
+        "id": 255604,
+        "cardId": 590,
+        "weight": 4477
+      },
+      {
+        "id": 255605,
+        "cardId": 591,
+        "weight": 4477
+      },
+      {
+        "id": 255608,
+        "cardId": 595,
+        "weight": 4477
+      },
+      {
+        "id": 255609,
+        "cardId": 596,
+        "weight": 4477
+      },
+      {
+        "id": 255610,
+        "cardId": 597,
+        "weight": 4477
+      },
+      {
+        "id": 255615,
+        "cardId": 606,
+        "weight": 4477
+      },
+      {
+        "id": 255616,
+        "cardId": 607,
+        "weight": 4477
+      },
+      {
+        "id": 255617,
+        "cardId": 608,
+        "weight": 4477
+      },
+      {
+        "id": 255620,
+        "cardId": 612,
+        "weight": 4477
+      },
+      {
+        "id": 255621,
+        "cardId": 613,
+        "weight": 4477
+      },
+      {
+        "id": 255622,
+        "cardId": 614,
+        "weight": 4477
+      },
+      {
+        "id": 255626,
+        "cardId": 624,
+        "weight": 4477
+      },
+      {
+        "id": 255627,
+        "cardId": 625,
+        "weight": 4477
+      },
+      {
+        "id": 255628,
+        "cardId": 626,
+        "weight": 4477
+      },
+      {
+        "id": 255631,
+        "cardId": 630,
+        "weight": 4477
+      },
+      {
+        "id": 255632,
+        "cardId": 631,
+        "weight": 4477
+      },
+      {
+        "id": 255633,
+        "cardId": 632,
+        "weight": 4477
+      },
+      {
+        "id": 255638,
+        "cardId": 642,
+        "weight": 4477
+      },
+      {
+        "id": 255639,
+        "cardId": 643,
+        "weight": 4477
+      },
+      {
+        "id": 255640,
+        "cardId": 644,
+        "weight": 4477
+      },
+      {
+        "id": 255643,
+        "cardId": 648,
+        "weight": 4477
+      },
+      {
+        "id": 255644,
+        "cardId": 649,
+        "weight": 4477
+      },
+      {
+        "id": 255645,
+        "cardId": 650,
+        "weight": 4477
+      },
+      {
+        "id": 255650,
+        "cardId": 659,
+        "weight": 4477
+      },
+      {
+        "id": 255651,
+        "cardId": 660,
+        "weight": 4477
+      },
+      {
+        "id": 255652,
+        "cardId": 661,
+        "weight": 4477
+      },
+      {
+        "id": 255655,
+        "cardId": 664,
+        "weight": 4477
+      },
+      {
+        "id": 255656,
+        "cardId": 665,
+        "weight": 4477
+      },
+      {
+        "id": 255657,
+        "cardId": 666,
+        "weight": 4477
+      },
+      {
+        "id": 255662,
+        "cardId": 677,
+        "weight": 4477
+      },
+      {
+        "id": 255663,
+        "cardId": 678,
+        "weight": 4477
+      },
+      {
+        "id": 255664,
+        "cardId": 679,
+        "weight": 4477
+      },
+      {
+        "id": 255667,
+        "cardId": 683,
+        "weight": 4477
+      },
+      {
+        "id": 255668,
+        "cardId": 684,
+        "weight": 4477
+      },
+      {
+        "id": 255669,
+        "cardId": 685,
+        "weight": 4477
+      },
+      {
+        "id": 255674,
+        "cardId": 694,
+        "weight": 4477
+      },
+      {
+        "id": 255675,
+        "cardId": 695,
+        "weight": 4477
+      },
+      {
+        "id": 255676,
+        "cardId": 696,
+        "weight": 4477
+      },
+      {
+        "id": 255679,
+        "cardId": 700,
+        "weight": 4477
+      },
+      {
+        "id": 255680,
+        "cardId": 701,
+        "weight": 4477
+      },
+      {
+        "id": 255681,
+        "cardId": 702,
+        "weight": 4477
+      },
+      {
+        "id": 255686,
+        "cardId": 714,
+        "weight": 4477
+      },
+      {
+        "id": 255687,
+        "cardId": 715,
+        "weight": 4477
+      },
+      {
+        "id": 255688,
+        "cardId": 716,
+        "weight": 4477
+      },
+      {
+        "id": 255691,
+        "cardId": 719,
+        "weight": 4477
+      },
+      {
+        "id": 255692,
+        "cardId": 720,
+        "weight": 4477
+      },
+      {
+        "id": 255693,
+        "cardId": 721,
+        "weight": 4477
+      },
+      {
+        "id": 255733,
+        "cardId": 768,
+        "weight": 4477
+      },
+      {
+        "id": 255734,
+        "cardId": 769,
+        "weight": 4477
+      },
+      {
+        "id": 255735,
+        "cardId": 770,
+        "weight": 4477
+      },
+      {
+        "id": 255738,
+        "cardId": 773,
+        "weight": 4477
+      },
+      {
+        "id": 255739,
+        "cardId": 774,
+        "weight": 4477
+      },
+      {
+        "id": 255740,
+        "cardId": 775,
+        "weight": 4477
+      },
+      {
+        "id": 255746,
+        "cardId": 791,
+        "weight": 4477
+      },
+      {
+        "id": 255747,
+        "cardId": 792,
+        "weight": 4477
+      },
+      {
+        "id": 255748,
+        "cardId": 793,
+        "weight": 4477
+      },
+      {
+        "id": 255753,
+        "cardId": 828,
+        "weight": 4477
+      },
+      {
+        "id": 255754,
+        "cardId": 829,
+        "weight": 4477
+      },
+      {
+        "id": 255755,
+        "cardId": 830,
+        "weight": 4477
+      },
+      {
+        "id": 255758,
+        "cardId": 833,
+        "weight": 4477
+      },
+      {
+        "id": 255759,
+        "cardId": 834,
+        "weight": 4477
+      },
+      {
+        "id": 255760,
+        "cardId": 835,
+        "weight": 4477
+      },
+      {
+        "id": 255767,
+        "cardId": 854,
+        "weight": 4477
+      },
+      {
+        "id": 255768,
+        "cardId": 855,
+        "weight": 4477
+      },
+      {
+        "id": 255769,
+        "cardId": 856,
+        "weight": 4477
+      },
+      {
+        "id": 255774,
+        "cardId": 867,
+        "weight": 4477
+      },
+      {
+        "id": 255775,
+        "cardId": 868,
+        "weight": 4477
+      },
+      {
+        "id": 255776,
+        "cardId": 869,
+        "weight": 4477
+      },
+      {
+        "id": 255779,
+        "cardId": 873,
+        "weight": 4477
+      },
+      {
+        "id": 255780,
+        "cardId": 874,
+        "weight": 4477
+      },
+      {
+        "id": 255781,
+        "cardId": 875,
+        "weight": 4477
+      },
+      {
+        "id": 255787,
+        "cardId": 890,
+        "weight": 4477
+      },
+      {
+        "id": 255788,
+        "cardId": 891,
+        "weight": 4477
+      },
+      {
+        "id": 255789,
+        "cardId": 892,
+        "weight": 4477
+      },
+      {
+        "id": 255794,
+        "cardId": 903,
+        "weight": 4477
+      },
+      {
+        "id": 255795,
+        "cardId": 904,
+        "weight": 4477
+      },
+      {
+        "id": 255796,
+        "cardId": 905,
+        "weight": 4477
+      },
+      {
+        "id": 255799,
+        "cardId": 909,
+        "weight": 4477
+      },
+      {
+        "id": 255800,
+        "cardId": 910,
+        "weight": 4477
+      },
+      {
+        "id": 255801,
+        "cardId": 911,
+        "weight": 4477
+      },
+      {
+        "id": 255807,
+        "cardId": 927,
+        "weight": 4477
+      },
+      {
+        "id": 255808,
+        "cardId": 928,
+        "weight": 4477
+      },
+      {
+        "id": 255809,
+        "cardId": 929,
+        "weight": 4477
+      },
+      {
+        "id": 255814,
+        "cardId": 938,
+        "weight": 4477
+      },
+      {
+        "id": 255815,
+        "cardId": 939,
+        "weight": 4477
+      },
+      {
+        "id": 255816,
+        "cardId": 940,
+        "weight": 4477
+      },
+      {
+        "id": 255819,
+        "cardId": 943,
+        "weight": 4477
+      },
+      {
+        "id": 255820,
+        "cardId": 944,
+        "weight": 4477
+      },
+      {
+        "id": 255821,
+        "cardId": 945,
+        "weight": 4477
+      },
+      {
+        "id": 255826,
+        "cardId": 956,
+        "weight": 4477
+      },
+      {
+        "id": 255827,
+        "cardId": 957,
+        "weight": 4477
+      },
+      {
+        "id": 255828,
+        "cardId": 958,
+        "weight": 4477
+      },
+      {
+        "id": 255834,
+        "cardId": 973,
+        "weight": 4477
+      },
+      {
+        "id": 255835,
+        "cardId": 974,
+        "weight": 4477
+      },
+      {
+        "id": 255836,
+        "cardId": 975,
+        "weight": 4477
+      },
+      {
+        "id": 255839,
+        "cardId": 979,
+        "weight": 4477
+      },
+      {
+        "id": 255840,
+        "cardId": 980,
+        "weight": 4477
+      },
+      {
+        "id": 255841,
+        "cardId": 981,
+        "weight": 4477
+      },
+      {
+        "id": 255842,
+        "cardId": 982,
+        "weight": 4477
+      },
+      {
+        "id": 255843,
+        "cardId": 983,
+        "weight": 4477
+      },
+      {
+        "id": 255844,
+        "cardId": 984,
+        "weight": 4477
+      },
+      {
+        "id": 255845,
+        "cardId": 987,
+        "weight": 400000
+      },
+      {
+        "id": 255846,
+        "cardId": 988,
+        "weight": 400000
+      },
+      {
+        "id": 255847,
+        "cardId": 989,
+        "weight": 400000
+      },
+      {
+        "id": 255850,
+        "cardId": 993,
+        "weight": 4477
+      },
+      {
+        "id": 255851,
+        "cardId": 994,
+        "weight": 4477
+      },
+      {
+        "id": 255852,
+        "cardId": 995,
+        "weight": 4477
+      },
+      {
+        "id": 255855,
+        "cardId": 998,
+        "weight": 4477
+      },
+      {
+        "id": 255856,
+        "cardId": 999,
+        "weight": 4477
+      },
+      {
+        "id": 255857,
+        "cardId": 1000,
+        "weight": 4477
+      },
+      {
+        "id": 255861,
+        "cardId": 1011,
+        "weight": 4477
+      },
+      {
+        "id": 255862,
+        "cardId": 1012,
+        "weight": 4477
+      },
+      {
+        "id": 255863,
+        "cardId": 1013,
+        "weight": 4477
+      },
+      {
+        "id": 255866,
+        "cardId": 1016,
+        "weight": 4477
+      },
+      {
+        "id": 255867,
+        "cardId": 1017,
+        "weight": 4477
+      },
+      {
+        "id": 255868,
+        "cardId": 1018,
+        "weight": 4477
+      },
+      {
+        "id": 255873,
+        "cardId": 1028,
+        "weight": 4477
+      },
+      {
+        "id": 255874,
+        "cardId": 1029,
+        "weight": 4477
+      },
+      {
+        "id": 255875,
+        "cardId": 1030,
+        "weight": 4477
+      },
+      {
+        "id": 255878,
+        "cardId": 1034,
+        "weight": 4477
+      },
+      {
+        "id": 255879,
+        "cardId": 1035,
+        "weight": 4477
+      },
+      {
+        "id": 255880,
+        "cardId": 1036,
+        "weight": 4477
+      },
+      {
+        "id": 255885,
+        "cardId": 1045,
+        "weight": 4477
+      },
+      {
+        "id": 255886,
+        "cardId": 1046,
+        "weight": 4477
+      },
+      {
+        "id": 255887,
+        "cardId": 1047,
+        "weight": 4477
+      },
+      {
+        "id": 255890,
+        "cardId": 1050,
+        "weight": 4477
+      },
+      {
+        "id": 255891,
+        "cardId": 1051,
+        "weight": 4477
+      },
+      {
+        "id": 255892,
+        "cardId": 1052,
+        "weight": 4477
+      },
+      {
+        "id": 255897,
+        "cardId": 1065,
+        "weight": 4477
+      },
+      {
+        "id": 255898,
+        "cardId": 1066,
+        "weight": 4477
+      },
+      {
+        "id": 255899,
+        "cardId": 1067,
+        "weight": 4477
+      },
+      {
+        "id": 255902,
+        "cardId": 1097,
+        "weight": 4477
+      },
+      {
+        "id": 255903,
+        "cardId": 1098,
+        "weight": 4477
+      },
+      {
+        "id": 255904,
+        "cardId": 1099,
+        "weight": 4477
+      },
+      {
+        "id": 255909,
+        "cardId": 1110,
+        "weight": 4477
+      },
+      {
+        "id": 255910,
+        "cardId": 1111,
+        "weight": 4477
+      },
+      {
+        "id": 255911,
+        "cardId": 1112,
+        "weight": 4477
+      },
+      {
+        "id": 255914,
+        "cardId": 1122,
+        "weight": 4477
+      },
+      {
+        "id": 255915,
+        "cardId": 1123,
+        "weight": 4477
+      },
+      {
+        "id": 255916,
+        "cardId": 1124,
+        "weight": 4477
+      },
+      {
+        "id": 255921,
+        "cardId": 1133,
+        "weight": 4477
+      },
+      {
+        "id": 255922,
+        "cardId": 1134,
+        "weight": 4477
+      },
+      {
+        "id": 255923,
+        "cardId": 1135,
+        "weight": 4477
+      },
+      {
+        "id": 255926,
+        "cardId": 1139,
+        "weight": 4477
+      },
+      {
+        "id": 255927,
+        "cardId": 1140,
+        "weight": 4477
+      },
+      {
+        "id": 255928,
+        "cardId": 1141,
+        "weight": 4477
+      },
+      {
+        "id": 255933,
+        "cardId": 1156,
+        "weight": 4477
+      },
+      {
+        "id": 255934,
+        "cardId": 1157,
+        "weight": 4477
+      },
+      {
+        "id": 255935,
+        "cardId": 1158,
+        "weight": 4477
+      },
+      {
+        "id": 255940,
+        "cardId": 1174,
+        "weight": 4477
+      },
+      {
+        "id": 255941,
+        "cardId": 1175,
+        "weight": 4477
+      },
+      {
+        "id": 255942,
+        "cardId": 1176,
+        "weight": 4477
+      },
+      {
+        "id": 255949,
+        "cardId": 1201,
+        "weight": 4477
+      },
+      {
+        "id": 255950,
+        "cardId": 1202,
+        "weight": 4477
+      },
+      {
+        "id": 255951,
+        "cardId": 1203,
+        "weight": 4477
+      },
+      {
+        "id": 255954,
+        "cardId": 1207,
+        "weight": 4477
+      },
+      {
+        "id": 255955,
+        "cardId": 1208,
+        "weight": 4477
+      },
+      {
+        "id": 255956,
+        "cardId": 1209,
+        "weight": 4477
+      },
+      {
+        "id": 255961,
+        "cardId": 1223,
+        "weight": 4477
+      },
+      {
+        "id": 255962,
+        "cardId": 1224,
+        "weight": 4477
+      },
+      {
+        "id": 255963,
+        "cardId": 1225,
+        "weight": 4477
+      },
+      {
+        "id": 255968,
+        "cardId": 1235,
+        "weight": 4477
+      },
+      {
+        "id": 255969,
+        "cardId": 1236,
+        "weight": 4477
+      },
+      {
+        "id": 255970,
+        "cardId": 1237,
+        "weight": 4477
+      },
+      {
+        "id": 255971,
+        "cardId": 1238,
+        "weight": 4477
+      },
+      {
+        "id": 255972,
+        "cardId": 1239,
+        "weight": 4477
+      },
+      {
+        "id": 255973,
+        "cardId": 1240,
+        "weight": 4477
+      },
+      {
+        "id": 255974,
+        "cardId": 1261,
+        "weight": 4477
+      },
+      {
+        "id": 255975,
+        "cardId": 1262,
+        "weight": 4477
+      },
+      {
+        "id": 255976,
+        "cardId": 1263,
+        "weight": 4477
+      },
+      {
+        "id": 255977,
+        "cardId": 1266,
+        "weight": 4477
+      },
+      {
+        "id": 255978,
+        "cardId": 1267,
+        "weight": 4477
+      },
+      {
+        "id": 255979,
+        "cardId": 1268,
+        "weight": 4477
+      },
+      {
+        "id": 255980,
+        "cardId": 1279,
+        "weight": 4477
+      },
+      {
+        "id": 255981,
+        "cardId": 1280,
+        "weight": 4477
+      },
+      {
+        "id": 255982,
+        "cardId": 1281,
+        "weight": 4477
+      },
+      {
+        "id": 255983,
+        "cardId": 1284,
+        "weight": 4477
+      },
+      {
+        "id": 255984,
+        "cardId": 1285,
+        "weight": 4477
+      },
+      {
+        "id": 255985,
+        "cardId": 1286,
+        "weight": 4477
+      },
+      {
+        "id": 255986,
+        "cardId": 1295,
+        "weight": 4477
+      },
+      {
+        "id": 255987,
+        "cardId": 1296,
+        "weight": 4477
+      },
+      {
+        "id": 255988,
+        "cardId": 1297,
+        "weight": 4477
+      },
+      {
+        "id": 255989,
+        "cardId": 1300,
+        "weight": 4477
+      },
+      {
+        "id": 255990,
+        "cardId": 1301,
+        "weight": 4477
+      },
+      {
+        "id": 255991,
+        "cardId": 1302,
+        "weight": 4477
+      },
+      {
+        "id": 255992,
+        "cardId": 1315,
+        "weight": 4477
+      },
+      {
+        "id": 255993,
+        "cardId": 1316,
+        "weight": 4477
+      },
+      {
+        "id": 255994,
+        "cardId": 1317,
+        "weight": 4477
+      },
+      {
+        "id": 255995,
+        "cardId": 1320,
+        "weight": 4477
+      },
+      {
+        "id": 255996,
+        "cardId": 1321,
+        "weight": 4477
+      },
+      {
+        "id": 255997,
+        "cardId": 1322,
+        "weight": 4477
+      },
+      {
+        "id": 255998,
+        "cardId": 1333,
+        "weight": 4477
+      },
+      {
+        "id": 255999,
+        "cardId": 1334,
+        "weight": 4477
+      },
+      {
+        "id": 256000,
+        "cardId": 1335,
+        "weight": 4477
+      },
+      {
+        "id": 256001,
+        "cardId": 1339,
+        "weight": 4477
+      },
+      {
+        "id": 256002,
+        "cardId": 1340,
+        "weight": 4477
+      },
+      {
+        "id": 256003,
+        "cardId": 1341,
+        "weight": 4477
+      },
+      {
+        "id": 256004,
+        "cardId": 1350,
+        "weight": 4477
+      },
+      {
+        "id": 256005,
+        "cardId": 1351,
+        "weight": 4477
+      },
+      {
+        "id": 256006,
+        "cardId": 1352,
+        "weight": 4477
+      },
+      {
+        "id": 256007,
+        "cardId": 1356,
+        "weight": 4477
+      },
+      {
+        "id": 256008,
+        "cardId": 1357,
+        "weight": 4477
+      },
+      {
+        "id": 256009,
+        "cardId": 1358,
+        "weight": 4477
+      },
+      {
+        "id": 256010,
+        "cardId": 1368,
+        "weight": 4477
+      },
+      {
+        "id": 256011,
+        "cardId": 1369,
+        "weight": 4477
+      },
+      {
+        "id": 256012,
+        "cardId": 1370,
+        "weight": 4477
+      }
+    ]
   }
 ]
