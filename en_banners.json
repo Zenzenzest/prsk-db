@@ -9555,5 +9555,16 @@
     "type": "rerun_estimation",
     "rerun": [1807066800000, 1808708399000],
     "tag": "Last Rerun"
+  },
+  {
+    "id": 737,
+    "name": "2026 April Premium Gift Gacha",
+    "sekai_id": 1160,
+    "start": 1775934000000,
+    "end": 1777575599000,
+    "cards": [1098, 1050, 1099, 1110, 904, 1016],
+    "banner_type": "Premium Gift",
+    "keywords": [],
+    "characters": [2, 6, 11, 16, 18, 22]
   }
 ]
