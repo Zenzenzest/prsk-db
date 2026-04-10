@@ -20032,7 +20032,8 @@
     "charId": 14,
     "character": "Otori Emu",
     "unit": "Wonderlands x Showtime",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Shockingly_Perfect_Look-Alike!%3F"
   },
   {
     "id": 1340,
@@ -20046,7 +20047,8 @@
     "charId": 16,
     "character": "Kamishiro Rui",
     "unit": "Wonderlands x Showtime",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Hectic_Cosmic_Shooter!"
   },
   {
     "id": 1341,
@@ -20061,7 +20063,8 @@
     "character": "Kagamine Rin",
     "unit": "Virtual Singers",
     "skillId": 11,
-    "sub_unit": "Wonderlands x Showtime"
+    "sub_unit": "Wonderlands x Showtime",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Rin_Is_Right_Here_With_You!"
   },
   {
     "id": 1342,
@@ -20075,7 +20078,8 @@
     "charId": 15,
     "character": "Kusanagi Nene",
     "unit": "Wonderlands x Showtime",
-    "skillId": 6
+    "skillId": 6,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Battle_in_Front_of_the_Mirror"
   },
   {
     "id": 1343,
@@ -20089,7 +20093,8 @@
     "charId": 13,
     "character": "Tenma Tsukasa",
     "unit": "Wonderlands x Showtime",
-    "skillId": 8
+    "skillId": 8,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/When_You_Can%27t_Sleep_at_Night"
   },
   {
     "id": 1344,
@@ -20103,7 +20108,8 @@
     "charId": 9,
     "character": "Azusawa Kohane",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Kohane)"
   },
   {
     "id": 1345,
@@ -20117,7 +20123,8 @@
     "charId": 19,
     "character": "Shinonome Ena",
     "unit": "Nightcord at 25:00",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Song_That_Echoes_in_the_World_of_Nightmares"
   },
   {
     "id": 1346,
@@ -20131,7 +20138,8 @@
     "charId": 9,
     "character": "Azusawa Kohane",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Dark_Garden_and_Curiosity"
   },
   {
     "id": 1347,
@@ -20146,7 +20154,8 @@
     "character": "Kagamine Len",
     "unit": "Virtual Singers",
     "skillId": 19,
-    "sub_unit": "Nightcord at 25:00"
+    "sub_unit": "Nightcord at 25:00",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Path_Shown_by_the_Finger"
   },
   {
     "id": 1348,
