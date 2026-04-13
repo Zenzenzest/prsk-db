@@ -5,26 +5,7 @@
       {
         "name": "Lapis Sky Sailor",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0145_body_01",
@@ -41,14 +22,7 @@
       },
       {
         "name": "Lapis Sky Blazer",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0146_body_02",
           "cos0146_body_01",
@@ -69,16 +43,7 @@
     "costumes": [
       {
         "name": "Studded Stars Suspenders",
-        "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0147_body_01",
           "cos0147_body_02",
@@ -99,16 +64,7 @@
     "costumes": [
       {
         "name": "Shirring Tail Clover",
-        "char_ids": [
-          5,
-          6,
-          7,
-          8,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0148_body",
           "cos0148_body_01",
@@ -129,14 +85,7 @@
     "costumes": [
       {
         "name": "Street Casual Harness Belts",
-        "char_ids": [
-          9,
-          10,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [9, 10, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0149_body_01",
           "cos0149_body_03",
@@ -152,12 +101,7 @@
       },
       {
         "name": "Hoodie Harness Belts",
-        "char_ids": [
-          26,
-          11,
-          12,
-          23
-        ],
+        "char_ids": [26, 11, 12, 23],
         "bodyAssets": [
           "cos0150_body_01",
           "cos0150_body_02",
@@ -178,12 +122,7 @@
     "costumes": [
       {
         "name": "Royal Rose Equestrian",
-        "char_ids": [
-          16,
-          26,
-          13,
-          23
-        ],
+        "char_ids": [16, 26, 13, 23],
         "bodyAssets": [
           "cos0152_body",
           "cos0152_body_02",
@@ -199,14 +138,7 @@
       },
       {
         "name": "Sweetie Cup Dress",
-        "char_ids": [
-          14,
-          15,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [14, 15, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0151_body_02",
           "cos0151_body_01",
@@ -227,16 +159,7 @@
     "costumes": [
       {
         "name": "Nightly Bloomers",
-        "char_ids": [
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0153_body",
           "cos0153_body_01",
@@ -258,26 +181,7 @@
       {
         "name": "Cute Tiger Style",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0186_body_03",
@@ -294,14 +198,7 @@
       },
       {
         "name": "Stylish Tiger Style",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0187_body",
           "cos0187_body_03",
@@ -322,9 +219,7 @@
     "costumes": [
       {
         "name": "SNOW MIKU 2022 (Hatsune Miku)",
-        "char_ids": [
-          21
-        ],
+        "char_ids": [21],
         "bodyAssets": [
           "cos0201_body_02",
           "cos0201_body_01",
@@ -340,9 +235,7 @@
       },
       {
         "name": "SNOW MIKU 2022 (Megurine Luka)",
-        "char_ids": [
-          24
-        ],
+        "char_ids": [24],
         "bodyAssets": [
           "cos0204_body_02",
           "cos0204_body_01",
@@ -358,9 +251,7 @@
       },
       {
         "name": "SNOW MIKU 2022 (Kagamine Rin)",
-        "char_ids": [
-          22
-        ],
+        "char_ids": [22],
         "bodyAssets": [
           "cos0202_body_01",
           "cos0202_body_02",
@@ -376,9 +267,7 @@
       },
       {
         "name": "SNOW MIKU 2022 (Kagamine Len)",
-        "char_ids": [
-          23
-        ],
+        "char_ids": [23],
         "bodyAssets": [
           "cos0203_body_02",
           "cos0203_body_01",
@@ -394,9 +283,7 @@
       },
       {
         "name": "SNOW MIKU 2022 (MEIKO)",
-        "char_ids": [
-          25
-        ],
+        "char_ids": [25],
         "bodyAssets": [
           "cos0205_body_01",
           "cos0205_body_02",
@@ -412,9 +299,7 @@
       },
       {
         "name": "SNOW MIKU 2022 (KAITO)",
-        "char_ids": [
-          26
-        ],
+        "char_ids": [26],
         "bodyAssets": [
           "cos0206_body_03",
           "cos0206_body_01",
@@ -436,26 +321,7 @@
       {
         "name": "Lien Morceau Dress of Feelings",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0226_body_03",
@@ -472,14 +338,7 @@
       },
       {
         "name": "Overlay Tailcoat of Feelings",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0227_body",
           "cos0227_body_02",
@@ -501,26 +360,7 @@
       {
         "name": "Lien Morceau Dress of Feelings",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0226_body_03",
@@ -537,14 +377,7 @@
       },
       {
         "name": "Overlay Tailcoat of Feelings",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0227_body",
           "cos0227_body_02",
@@ -565,14 +398,7 @@
     "costumes": [
       {
         "name": "Ambitious Journeys",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0300_body",
           "cos0300_body_02",
@@ -589,26 +415,7 @@
       {
         "name": "Dreaming Journeys",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0299_body",
@@ -630,16 +437,7 @@
     "costumes": [
       {
         "name": "Royalty Rock Blazer",
-        "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0301_body",
           "cos0301_body_02",
@@ -660,16 +458,7 @@
     "costumes": [
       {
         "name": "Club Crown Reverie Dress",
-        "char_ids": [
-          5,
-          6,
-          7,
-          8,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0302_body",
           "cos0302_body_01",
@@ -690,12 +479,7 @@
     "costumes": [
       {
         "name": "Quilting Mode Style",
-        "char_ids": [
-          26,
-          11,
-          12,
-          23
-        ],
+        "char_ids": [26, 11, 12, 23],
         "bodyAssets": [
           "cos0304_body_03",
           "cos0304_body_02",
@@ -711,14 +495,7 @@
       },
       {
         "name": "Quilting Formal",
-        "char_ids": [
-          9,
-          10,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [9, 10, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0303_body_03",
           "cos0303_body_01",
@@ -739,14 +516,7 @@
     "costumes": [
       {
         "name": "Pop Future Princess",
-        "char_ids": [
-          14,
-          15,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [14, 15, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0305_body_01",
           "cos0305_body_02",
@@ -762,12 +532,7 @@
       },
       {
         "name": "Pop Future Prince",
-        "char_ids": [
-          16,
-          26,
-          13,
-          23
-        ],
+        "char_ids": [16, 26, 13, 23],
         "bodyAssets": [
           "cos0306_body_02",
           "cos0306_body_03",
@@ -788,16 +553,7 @@
     "costumes": [
       {
         "name": "Noctis Monaca",
-        "char_ids": [
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0307_body_01",
           "cos0307_body",
@@ -818,16 +574,7 @@
     "costumes": [
       {
         "name": "Royalty Rock Blazer",
-        "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0301_body",
           "cos0301_body_02",
@@ -848,16 +595,7 @@
     "costumes": [
       {
         "name": "Club Crown Reverie Dress",
-        "char_ids": [
-          5,
-          6,
-          7,
-          8,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0302_body",
           "cos0302_body_01",
@@ -878,12 +616,7 @@
     "costumes": [
       {
         "name": "Quilting Mode Style",
-        "char_ids": [
-          26,
-          11,
-          12,
-          23
-        ],
+        "char_ids": [26, 11, 12, 23],
         "bodyAssets": [
           "cos0304_body_03",
           "cos0304_body_02",
@@ -899,14 +632,7 @@
       },
       {
         "name": "Quilting Formal",
-        "char_ids": [
-          9,
-          10,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [9, 10, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0303_body_03",
           "cos0303_body_01",
@@ -927,14 +653,7 @@
     "costumes": [
       {
         "name": "Pop Future Princess",
-        "char_ids": [
-          14,
-          15,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [14, 15, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0305_body_01",
           "cos0305_body_02",
@@ -950,12 +669,7 @@
       },
       {
         "name": "Pop Future Prince",
-        "char_ids": [
-          16,
-          26,
-          13,
-          23
-        ],
+        "char_ids": [16, 26, 13, 23],
         "bodyAssets": [
           "cos0306_body_02",
           "cos0306_body_03",
@@ -976,16 +690,7 @@
     "costumes": [
       {
         "name": "Noctis Monaca",
-        "char_ids": [
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0307_body_01",
           "cos0307_body",
@@ -1007,26 +712,7 @@
       {
         "name": "Bunny Carrot Coat",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0353_body_01",
@@ -1043,14 +729,7 @@
       },
       {
         "name": "Fluffy Bunny Cardigan",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0354_body_02",
           "cos0354_body_03",
@@ -1071,14 +750,7 @@
     "costumes": [
       {
         "name": "Meteor Gamer Gear",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8020_body_02",
           "cos8020_body_01",
@@ -1095,26 +767,7 @@
       {
         "name": "Etoile Gamer Gear",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8019_body_03",
@@ -1136,14 +789,7 @@
     "costumes": [
       {
         "name": "Summer Wave",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8027_body_01",
           "cos8027_body_02",
@@ -1160,26 +806,7 @@
       {
         "name": "Seaside Splash",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8026_body_01",
@@ -1202,26 +829,7 @@
       {
         "name": "Mare Rider",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8028_body_03",
@@ -1238,14 +846,7 @@
       },
       {
         "name": "Stallion Rider",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8029_body_03",
           "cos8029_body_01",
@@ -1266,14 +867,7 @@
     "costumes": [
       {
         "name": "Fan Fun Trip Boy",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8031_body",
           "cos8031_body_02",
@@ -1290,26 +884,7 @@
       {
         "name": "Fan Fun Trip Girl",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8030_body_03",
@@ -1326,18 +901,10 @@
       },
       {
         "name": "Hatsune Miku Magical Mirai 2024",
-        "char_ids": [
-          21
-        ],
-        "bodyAssets": [
-          "cos8025_body"
-        ],
-        "headAssets": [
-          "cos8025_unique_head"
-        ],
-        "hairAssets": [
-          "cos8025_unique_hair"
-        ]
+        "char_ids": [21],
+        "bodyAssets": ["cos8025_body"],
+        "headAssets": ["cos8025_unique_head"],
+        "hairAssets": ["cos8025_unique_hair"]
       }
     ]
   },
@@ -1347,26 +914,7 @@
       {
         "name": "Magical Junior",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8032_body",
@@ -1383,14 +931,7 @@
       },
       {
         "name": "Spectral Senior",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8033_body",
           "cos8033_body_02",
@@ -1411,14 +952,7 @@
     "costumes": [
       {
         "name": "SEKAI Star",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0468_body",
           "cos0468_body_02",
@@ -1430,26 +964,7 @@
       {
         "name": "SEKAI Sky",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0467_body_01",
@@ -1471,16 +986,7 @@
     "costumes": [
       {
         "name": "Blooming Southern Cross",
-        "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0469_body_02",
           "cos0469_body_03",
@@ -1496,10 +1002,7 @@
       },
       {
         "name": "Following My Compass",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0470_body",
           "cos0470_body_02",
@@ -1515,16 +1018,7 @@
     "costumes": [
       {
         "name": "Twinkling Clover",
-        "char_ids": [
-          5,
-          6,
-          7,
-          8,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0471_body_01",
           "cos0471_body_03",
@@ -1540,10 +1034,7 @@
       },
       {
         "name": "Bright Clover",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0472_body",
           "cos0472_body_02",
@@ -1564,14 +1055,7 @@
     "costumes": [
       {
         "name": "Vivid Argyle",
-        "char_ids": [
-          9,
-          10,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [9, 10, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0473_body_01",
           "cos0473_body_03",
@@ -1587,12 +1071,7 @@
       },
       {
         "name": "BAD Argyle",
-        "char_ids": [
-          26,
-          11,
-          12,
-          23
-        ],
+        "char_ids": [26, 11, 12, 23],
         "bodyAssets": [
           "cos0474_body_03",
           "cos0474_body",
@@ -1613,12 +1092,7 @@
     "costumes": [
       {
         "name": "Cosmic Carnival",
-        "char_ids": [
-          16,
-          26,
-          13,
-          23
-        ],
+        "char_ids": [16, 26, 13, 23],
         "bodyAssets": [
           "cos0476_body_01",
           "cos0476_body_02",
@@ -1634,14 +1108,7 @@
       },
       {
         "name": "Cosmic Parade",
-        "char_ids": [
-          14,
-          15,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [14, 15, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0475_body",
           "cos0475_body_02",
@@ -1662,16 +1129,7 @@
     "costumes": [
       {
         "name": "Trail of Butterflies",
-        "char_ids": [
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0477_body_03",
           "cos0477_body_01",
@@ -1687,10 +1145,7 @@
       },
       {
         "name": "Flutter of Butterflies",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0478_body_03",
           "cos0478_body",
@@ -1711,14 +1166,7 @@
     "costumes": [
       {
         "name": "Eerie Marionette",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8035_body_03",
           "cos8035_body_02",
@@ -1735,26 +1183,7 @@
       {
         "name": "Haunted Doll",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8034_body_02",
@@ -1776,14 +1205,7 @@
     "costumes": [
       {
         "name": "SEKAI Star",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0468_body",
           "cos0468_body_02",
@@ -1795,26 +1217,7 @@
       {
         "name": "SEKAI Sky",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0467_body_01",
@@ -1836,16 +1239,7 @@
     "costumes": [
       {
         "name": "Blooming Southern Cross",
-        "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0469_body_02",
           "cos0469_body_03",
@@ -1861,10 +1255,7 @@
       },
       {
         "name": "Following My Compass",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0470_body",
           "cos0470_body_02",
@@ -1880,16 +1271,7 @@
     "costumes": [
       {
         "name": "Twinkling Clover",
-        "char_ids": [
-          5,
-          6,
-          7,
-          8,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0471_body_01",
           "cos0471_body_03",
@@ -1905,10 +1287,7 @@
       },
       {
         "name": "Bright Clover",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0472_body",
           "cos0472_body_02",
@@ -1929,14 +1308,7 @@
     "costumes": [
       {
         "name": "Vivid Argyle",
-        "char_ids": [
-          9,
-          10,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [9, 10, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0473_body_01",
           "cos0473_body_03",
@@ -1952,12 +1324,7 @@
       },
       {
         "name": "BAD Argyle",
-        "char_ids": [
-          26,
-          11,
-          12,
-          23
-        ],
+        "char_ids": [26, 11, 12, 23],
         "bodyAssets": [
           "cos0474_body_03",
           "cos0474_body",
@@ -1978,12 +1345,7 @@
     "costumes": [
       {
         "name": "Cosmic Carnival",
-        "char_ids": [
-          16,
-          26,
-          13,
-          23
-        ],
+        "char_ids": [16, 26, 13, 23],
         "bodyAssets": [
           "cos0476_body_01",
           "cos0476_body_02",
@@ -1999,14 +1361,7 @@
       },
       {
         "name": "Cosmic Parade",
-        "char_ids": [
-          14,
-          15,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [14, 15, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0475_body",
           "cos0475_body_02",
@@ -2027,16 +1382,7 @@
     "costumes": [
       {
         "name": "Trail of Butterflies",
-        "char_ids": [
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0477_body_03",
           "cos0477_body_01",
@@ -2052,10 +1398,7 @@
       },
       {
         "name": "Flutter of Butterflies",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0478_body_03",
           "cos0478_body",
@@ -2076,14 +1419,7 @@
     "costumes": [
       {
         "name": "Trendy Concert Attire",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8037_body",
           "cos8037_body_02",
@@ -2100,26 +1436,7 @@
       {
         "name": "Floret Festival Ensemble",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8036_body",
@@ -2142,26 +1459,7 @@
       {
         "name": "Cheerful Sweater",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8038_body",
@@ -2178,14 +1476,7 @@
       },
       {
         "name": "Cozy Fleece",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8039_body_01",
           "cos8039_body_02",
@@ -2206,14 +1497,7 @@
     "costumes": [
       {
         "name": "Dragon Sukajan-Slacks Look",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0532_body_02",
           "cos0532_body",
@@ -2230,26 +1514,7 @@
       {
         "name": "Dragon Sukajan-Skirt Look",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0531_body_03",
@@ -2271,14 +1536,7 @@
     "costumes": [
       {
         "name": "Frosty Ensemble",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8041_body_02",
           "cos8041_body",
@@ -2295,26 +1553,7 @@
       {
         "name": "Wintry Garb",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8040_body",
@@ -2337,26 +1576,7 @@
       {
         "name": "Snug Knitted Romper",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8042_body_02",
@@ -2373,14 +1593,7 @@
       },
       {
         "name": "Cozy Ribbon Sweater",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8043_body_02",
           "cos8043_body",
@@ -2401,14 +1614,7 @@
     "costumes": [
       {
         "name": "Punky Star Rider (M)",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0572_body",
           "cos0572_body_03",
@@ -2425,26 +1631,7 @@
       {
         "name": "Punky Star Rider (F)",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0571_body_03",
@@ -2467,26 +1654,7 @@
       {
         "name": "Floral Fae Ensemble",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8046_body_01",
@@ -2503,14 +1671,7 @@
       },
       {
         "name": "Enchanting Fae Regalia",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8047_body_01",
           "cos8047_body_02",
@@ -2532,26 +1693,7 @@
       {
         "name": "Dotted Froggy Raincoat",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8048_body_01",
@@ -2568,14 +1710,7 @@
       },
       {
         "name": "Polka-dotted Bear Raincoat",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8049_body_01",
           "cos8049_body",
@@ -2596,14 +1731,7 @@
     "costumes": [
       {
         "name": "Avian Songster",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8051_body_03",
           "cos8051_body",
@@ -2620,26 +1748,7 @@
       {
         "name": "Enchanting Songstress",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8050_body",
@@ -2661,16 +1770,7 @@
     "costumes": [
       {
         "name": "Connect Rock'n Beat (F)",
-        "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0607_body_01",
           "cos0607_body",
@@ -2686,10 +1786,7 @@
       },
       {
         "name": "Connect Rock'n Beat (M)",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0608_body_01",
           "cos0608_body_02",
@@ -2710,12 +1807,7 @@
     "costumes": [
       {
         "name": "Connect Street Beat (M)",
-        "char_ids": [
-          26,
-          11,
-          12,
-          23
-        ],
+        "char_ids": [26, 11, 12, 23],
         "bodyAssets": [
           "cos0610_body_01",
           "cos0610_body_02",
@@ -2731,14 +1823,7 @@
       },
       {
         "name": "Connect Street Beat (F)",
-        "char_ids": [
-          9,
-          10,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [9, 10, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0609_body_03",
           "cos0609_body_02",
@@ -2759,14 +1844,7 @@
     "costumes": [
       {
         "name": "Vintage Vacation Wear",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8053_body_01",
           "cos8053_body",
@@ -2783,26 +1861,7 @@
       {
         "name": "Retro Polka-dot Swimsuit",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8052_body_01",
@@ -2824,14 +1883,7 @@
     "costumes": [
       {
         "name": "Code Name: Joker",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0827_body_03",
           "cos0827_body_02",
@@ -2848,26 +1900,7 @@
       {
         "name": "Code Name: Violet",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0826_body_02",
@@ -2890,26 +1923,7 @@
       {
         "name": "Summer Milky Way Vega",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0836_body",
@@ -2926,14 +1940,7 @@
       },
       {
         "name": "Summer Milky Way Altair",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0837_body_03",
           "cos0837_body_01",
@@ -2949,18 +1956,10 @@
       },
       {
         "name": "Hatsune Miku Magical Mirai 2025",
-        "char_ids": [
-          21
-        ],
-        "bodyAssets": [
-          "cos0835_body"
-        ],
-        "headAssets": [
-          "cos0835_unique_head"
-        ],
-        "hairAssets": [
-          "cos0835_unique_hair"
-        ]
+        "char_ids": [21],
+        "bodyAssets": ["cos0835_body"],
+        "headAssets": ["cos0835_unique_head"],
+        "hairAssets": ["cos0835_unique_hair"]
       }
     ]
   },
@@ -2969,75 +1968,39 @@
     "costumes": [
       {
         "name": "ASTRO FES COSTUME (Akito)",
-        "char_ids": [
-          11
-        ],
-        "bodyAssets": [
-          "cos0739_body"
-        ],
-        "headAssets": [
-          "cos0739_unique_head"
-        ]
+        "char_ids": [11],
+        "bodyAssets": ["cos0739_body"],
+        "headAssets": ["cos0739_unique_head"]
       },
       {
         "name": "ASTRO FES COSTUME (Tsukasa)",
-        "char_ids": [
-          13
-        ],
-        "bodyAssets": [
-          "cos0741_body"
-        ],
-        "headAssets": [
-          "cos0741_unique_head"
-        ]
+        "char_ids": [13],
+        "bodyAssets": ["cos0741_body"],
+        "headAssets": ["cos0741_unique_head"]
       },
       {
         "name": "ASTRO FES COSTUME (KAITO)",
-        "char_ids": [
-          26
-        ],
-        "bodyAssets": [
-          "cos0738_body"
-        ],
-        "headAssets": [
-          "cos0738_unique_head"
-        ]
+        "char_ids": [26],
+        "bodyAssets": ["cos0738_body"],
+        "headAssets": ["cos0738_unique_head"]
       },
       {
         "name": "ASTRO FES COSTUME (Len)",
-        "char_ids": [
-          23
-        ],
-        "bodyAssets": [
-          "cos0737_body"
-        ],
-        "headAssets": [
-          "cos0737_unique_head"
-        ]
+        "char_ids": [23],
+        "bodyAssets": ["cos0737_body"],
+        "headAssets": ["cos0737_unique_head"]
       },
       {
         "name": "ASTRO FES COSTUME (Rui)",
-        "char_ids": [
-          16
-        ],
-        "bodyAssets": [
-          "cos0742_body"
-        ],
-        "headAssets": [
-          "cos0742_unique_head"
-        ]
+        "char_ids": [16],
+        "bodyAssets": ["cos0742_body"],
+        "headAssets": ["cos0742_unique_head"]
       },
       {
         "name": "ASTRO FES COSTUME (Toya)",
-        "char_ids": [
-          12
-        ],
-        "bodyAssets": [
-          "cos0740_body"
-        ],
-        "headAssets": [
-          "cos0740_unique_head"
-        ]
+        "char_ids": [12],
+        "bodyAssets": ["cos0740_body"],
+        "headAssets": ["cos0740_unique_head"]
       }
     ]
   },
@@ -3050,10 +2013,7 @@
     "costumes": [
       {
         "name": "Starry Night Dance Party! (M)",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0659_body",
           "cos0659_body_01",
@@ -3069,16 +2029,7 @@
       },
       {
         "name": "Starry Night Dance Party! (F)",
-        "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [1, 2, 3, 4, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0658_body_02",
           "cos0658_body",
@@ -3099,16 +2050,7 @@
     "costumes": [
       {
         "name": "Sweet & Rose (F)",
-        "char_ids": [
-          5,
-          6,
-          7,
-          8,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0660_body_01",
           "cos0660_body_02",
@@ -3124,10 +2066,7 @@
       },
       {
         "name": "Sweet & Rose (M)",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0661_body",
           "cos0661_body_02",
@@ -3148,14 +2087,7 @@
     "costumes": [
       {
         "name": "Red Step Rabbit (F)",
-        "char_ids": [
-          9,
-          10,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [9, 10, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0662_body_01",
           "cos0662_body_03",
@@ -3171,12 +2103,7 @@
       },
       {
         "name": "Red Step Rabbit (M)",
-        "char_ids": [
-          26,
-          11,
-          12,
-          23
-        ],
+        "char_ids": [26, 11, 12, 23],
         "bodyAssets": [
           "cos0663_body_02",
           "cos0663_body",
@@ -3197,12 +2124,7 @@
     "costumes": [
       {
         "name": "Wonderful Symphony (M)",
-        "char_ids": [
-          16,
-          26,
-          13,
-          23
-        ],
+        "char_ids": [16, 26, 13, 23],
         "bodyAssets": [
           "cos0665_body_03",
           "cos0665_body_01",
@@ -3218,14 +2140,7 @@
       },
       {
         "name": "Wonderful Symphony (F)",
-        "char_ids": [
-          14,
-          15,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [14, 15, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0664_body_01",
           "cos0664_body_02",
@@ -3246,16 +2161,7 @@
     "costumes": [
       {
         "name": "Midnight Celebration Tea Party (F)",
-        "char_ids": [
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
-        ],
+        "char_ids": [17, 18, 19, 20, 21, 22, 24, 25],
         "bodyAssets": [
           "cos0666_body_03",
           "cos0666_body",
@@ -3271,10 +2177,7 @@
       },
       {
         "name": "Midnight Celebration Tea Party (M)",
-        "char_ids": [
-          26,
-          23
-        ],
+        "char_ids": [26, 23],
         "bodyAssets": [
           "cos0667_body",
           "cos0667_body_01",
@@ -3295,14 +2198,7 @@
     "costumes": [
       {
         "name": "Crystal Enchanter",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8055_body_03",
           "cos8055_body_02",
@@ -3319,26 +2215,7 @@
       {
         "name": "Crystalline Enchantress",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8054_body",
@@ -3361,26 +2238,7 @@
       {
         "name": "Blooming Picnic Wear",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8056_body",
@@ -3397,14 +2255,7 @@
       },
       {
         "name": "Floral Picnic Wear",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8057_body_02",
           "cos8057_body",
@@ -3426,26 +2277,7 @@
       {
         "name": "Ruler of Webs",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8058_body",
@@ -3462,14 +2294,7 @@
       },
       {
         "name": "Spider Overlord",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8059_body_02",
           "cos8059_body",
@@ -3490,14 +2315,7 @@
     "costumes": [
       {
         "name": "Trendy Concert Attire",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8037_body",
           "cos8037_body_02",
@@ -3514,26 +2332,7 @@
       {
         "name": "Floret Festival Ensemble",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8036_body",
@@ -3555,14 +2354,7 @@
     "costumes": [
       {
         "name": "Summer Wave",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8027_body_01",
           "cos8027_body_02",
@@ -3579,26 +2371,7 @@
       {
         "name": "Seaside Splash",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8026_body_01",
@@ -3621,26 +2394,7 @@
       {
         "name": "Winter Trobairitz",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8009_body_01",
@@ -3657,14 +2411,7 @@
       },
       {
         "name": "Winter Troubadour",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8010_body",
           "cos8010_body_03",
@@ -3686,26 +2433,7 @@
       {
         "name": "Starborn Muse",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8060_body_03",
@@ -3722,14 +2450,7 @@
       },
       {
         "name": "Astral Voyager",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8061_body",
           "cos8061_body_01",
@@ -3751,26 +2472,7 @@
       {
         "name": "Cheer Fresh Dress",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0698_body_01",
@@ -3787,14 +2489,7 @@
       },
       {
         "name": "Cheer Splash Uniform",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0699_body_02",
           "cos0699_body",
@@ -3815,14 +2510,7 @@
     "costumes": [
       {
         "name": "Dancer of Vitality",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0712_body_01",
           "cos0712_body",
@@ -3839,26 +2527,7 @@
       {
         "name": "Dancer of Abundance",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0711_body_02",
@@ -3880,14 +2549,7 @@
     "costumes": [
       {
         "name": "Glacial Caribou",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8063_body",
           "cos8063_body_01",
@@ -3904,26 +2566,7 @@
       {
         "name": "Arctic Reindeer",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8062_body",
@@ -3946,26 +2589,7 @@
       {
         "name": "Attend Your Future",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0764_body_02",
@@ -3982,14 +2606,7 @@
       },
       {
         "name": "Attend Your Dream",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0765_body",
           "cos0765_body_02",
@@ -4011,26 +2628,7 @@
       {
         "name": "ハレギサラブレイト（レディース）",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0916_body_03",
@@ -4047,14 +2645,7 @@
       },
       {
         "name": "ハレギサラブレイト（メンズ）",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0917_body_03",
           "cos0917_body_01",
@@ -4076,26 +2667,7 @@
       {
         "name": "Gleaming Rose",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8064_body_02",
@@ -4112,14 +2684,7 @@
       },
       {
         "name": "Shimmering Rose",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8065_body",
           "cos8065_body_01",
@@ -4140,14 +2705,7 @@
     "costumes": [
       {
         "name": "Ribbon Dear",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8067_body",
           "cos8067_body_03",
@@ -4164,26 +2722,7 @@
       {
         "name": "Ribbon Darling",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8066_body_03",
@@ -4206,26 +2745,7 @@
       {
         "name": "Snug Knitted Romper",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8042_body",
@@ -4242,14 +2762,7 @@
       },
       {
         "name": "Cozy Ribbon Sweater",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8043_body_01",
           "cos8043_body_02",
@@ -4270,14 +2783,7 @@
     "costumes": [
       {
         "name": "Prismatic Floret",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8045_body_02",
           "cos8045_body",
@@ -4294,26 +2800,7 @@
       {
         "name": "Prismatic Blossom",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8044_body",
@@ -4335,14 +2822,7 @@
     "costumes": [
       {
         "name": "Chrysalis Suit",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8069_body_03",
           "cos8069_body_02",
@@ -4359,26 +2839,7 @@
       {
         "name": "Fluttering Maiden",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8068_body_03",
@@ -4400,14 +2861,7 @@
     "costumes": [
       {
         "name": "Attend Your Dream",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos0765_body_02",
           "cos0765_body_01",
@@ -4424,26 +2878,7 @@
       {
         "name": "Attend Your Future",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos0764_body_02",
@@ -4466,26 +2901,7 @@
       {
         "name": "Scintillating Carousel",
         "char_ids": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          14,
-          15,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          24,
-          25
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
         ],
         "bodyAssets": [
           "cos8070_body_03",
@@ -4502,14 +2918,7 @@
       },
       {
         "name": "Luminary Carnival",
-        "char_ids": [
-          11,
-          12,
-          13,
-          16,
-          23,
-          26
-        ],
+        "char_ids": [11, 12, 13, 16, 23, 26],
         "bodyAssets": [
           "cos8071_body_03",
           "cos8071_body_01",
