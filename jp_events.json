@@ -3989,5 +3989,17 @@
     "type": "An 7th Focus Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Show_%27em_what%27s_up!",
     "music_id": 679
+  },
+  {
+    "id": 202,
+    "name": "約束のPasserelle",
+    "unit": "mixed",
+    "cards": [1374, 1375, 1376, 1377, 1378],
+    "start": 1776510000000,
+    "end": 1777373999000,
+    "close": 1777528799000,
+    "event_type": "world_link",
+    "keywords": [],
+    "type": "Mixed Event"
   }
 ]

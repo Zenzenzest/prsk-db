@@ -9566,5 +9566,50 @@
     "banner_type": "Premium Gift",
     "keywords": [],
     "characters": [2, 6, 11, 16, 18, 22]
+  },
+  {
+    "id": 738,
+    "name": "YELL of Messengers Gacha",
+    "sekai_id": 937,
+    "characters": [1, 6, 14, 17, 21],
+    "cards": [1374, 1375, 1376, 1377, 1378],
+    "banner_type": "World Link Event",
+    "keywords": ["wl3", "wl", "world link 3"],
+    "start": 1808074800000,
+    "end": 1809111599000,
+    "event_id": 202
+  },
+  {
+    "id": 739,
+    "name": "Happiness Package Gacha",
+    "sekai_id": 938,
+    "characters": [2, 7, 10, 13, 18, 24],
+    "cards": [1052, 714, 1267, 891, 1133, 904],
+    "banner_type": "Happiness Package",
+    "keywords": [],
+    "start": 1808679600000,
+    "end": 1809457199000
+  },
+  {
+    "id": 740,
+    "name": "Ena Shinonome Happy Birthday 2027 Gacha",
+    "sekai_id": 939,
+    "characters": [19],
+    "cards": [1379],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1808722800000,
+    "end": 1809327599000
+  },
+  {
+    "id": 741,
+    "name": "Ena Shinonome Happy Birthday Memories Gacha",
+    "sekai_id": 940,
+    "characters": [19],
+    "cards": [1161, 914, 635, 421],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1808722800000,
+    "end": 1809327599000
   }
 ]

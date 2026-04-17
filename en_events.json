@@ -3926,5 +3926,17 @@
     "type": "An 7th Focus Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Show_%27em_what%27s_up!",
     "music_id": 679
+  },
+  {
+    "id": 202,
+    "name": "The Promised Passerelle",
+    "unit": "mixed",
+    "cards": [1374, 1375, 1376, 1377, 1378],
+    "start": 1808103600000,
+    "end": 1808967599000,
+    "close": 1809122399000,
+    "event_type": "world_link",
+    "keywords": [],
+    "type": "Mixed Event"
   }
 ]

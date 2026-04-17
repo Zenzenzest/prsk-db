@@ -9140,5 +9140,54 @@
     "cards": [1115, 1116, 1117, 1118],
     "keywords": ["Ensemble"],
     "en_id": 738
+  },
+  {
+    "id": 637,
+    "name": "YELL of Messengersガチャ",
+    "sekai_id": 937,
+    "characters": [1, 6, 14, 17, 21],
+    "banner_type": "World Link Event",
+    "start": 1776481200000,
+    "end": 1777517999000,
+    "cards": [1374, 1375, 1376, 1377, 1378],
+    "keywords": ["wl3", "wl", "world link 3"],
+    "en_id": 738,
+    "event_id": 202
+  },
+  {
+    "id": 638,
+    "name": "ハピネスパッケージガチャ",
+    "sekai_id": 938,
+    "characters": [2, 7, 10, 13, 18, 24],
+    "banner_type": "Happiness Package",
+    "start": 1777086000000,
+    "end": 1777863599000,
+    "cards": [1052, 714, 1267, 891, 1133, 904],
+    "keywords": [],
+    "en_id": 739
+  },
+  {
+    "id": 639,
+    "name": "[東雲絵名]HAPPY BIRTHDAY2026ガチャ",
+    "sekai_id": 939,
+    "characters": [19],
+    "banner_type": "Birthday",
+    "start": 1777129200000,
+    "end": 1777733999000,
+    "cards": [1379],
+    "keywords": [],
+    "en_id": 740
+  },
+  {
+    "id": 640,
+    "name": "[東雲絵名]HAPPY BIRTHDAYメモリーズガチャ",
+    "sekai_id": 940,
+    "characters": [19],
+    "banner_type": "Birthday",
+    "start": 1777129200000,
+    "end": 1777733999000,
+    "cards": [1161, 914, 635, 421],
+    "keywords": [],
+    "en_id": 741
   }
 ]
