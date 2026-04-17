@@ -3999,7 +3999,7 @@
     "end": 1777373999000,
     "close": 1777528799000,
     "event_type": "world_link",
-    "keywords": [],
+    "keywords": ["wl3", "wl", "world link 3"],
     "type": "World Link 3 Event"
   }
 ]
