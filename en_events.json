@@ -3098,7 +3098,7 @@
   },
   {
     "id": 165,
-    "name": "And So, The Clock Hands Started Ticking ",
+    "name": "The Stopped Hand Moves Once More",
     "unit": "n25",
     "cards": [1162, 1163, 1164, 1165, 1166],
     "keywords": [
@@ -3964,6 +3964,7 @@
         "start": 1808794800000,
         "end": 1808967599000
       }
-    ]
+    ],
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Promised_Passerelle"
   }
 ]
