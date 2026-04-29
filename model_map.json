@@ -1,46 +1,4 @@
 {
-  "0000": {
-    "textures": {
-      "ehlC": "/models/characterv2/face/06/0000/sourceimages/tex_ehl_IDL_B_00_C.png",
-      "eyeC": "/models/characterv2/face/06/0000/sourceimages/tex_eye_IDL_B_00_C.png",
-      "chrH": "/models/characterv2/face/06/0000/sourceimages/tex_chr_IDL_B_00_H.png",
-      "faceSdf": "/models/characterv2/face/06/0000/sourceimages/faceSdf.png",
-      "chrC": "/models/characterv2/face/06/0000/sourceimages/tex_chr_IDL_B_00_C.png",
-      "chrS": "/models/characterv2/face/06/0000/sourceimages/tex_chr_IDL_B_00_S.png"
-    },
-    "variations": {},
-    "faceObj": "/models/characterv2/face/06/0000/fbx/Face.obj",
-    "hairObj": "/models/characterv2/face/06/0000/fbx/Hair.obj"
-  },
-  "0001": {
-    "textures": {
-      "ehlC": "/models/characterv2/face/12/0001/sourceimages/tex_ehl_STR_D_00_C.png",
-      "faceSdf": "/models/characterv2/face/12/0001/sourceimages/faceSdf.png",
-      "eyeC": "/models/characterv2/face/12/0001/sourceimages/tex_eye_STR_D_00_C.png",
-      "chrC": "/models/characterv2/face/12/0001/sourceimages/tex_chr_STR_D_00_C.png",
-      "chrS": "/models/characterv2/face/12/0001/sourceimages/tex_chr_STR_D_00_S.png",
-      "chrH": "/models/characterv2/face/12/0001/sourceimages/tex_chr_STR_D_00_H.png",
-      "accS": "/models/characterv2/face/30/0001/sourceimages/tex_acc_MIK_01_S.png",
-      "accH": "/models/characterv2/face/30/0001/sourceimages/tex_acc_MIK_01_H.png",
-      "accC": "/models/characterv2/face/30/0001/sourceimages/tex_acc_MIK_01_C.png"
-    },
-    "variations": {},
-    "faceObj": "/models/characterv2/face/12/0001/fbx/Face.obj",
-    "hairObj": "/models/characterv2/face/12/0001/fbx/Hair.obj",
-    "accObj": "/models/characterv2/face/30/0001/fbx/Acc.obj",
-    "default": {
-      "textures": {
-        "faceSdf": "/models/characterv2/face/01/0001/sourceimages/faceSdf.png",
-        "chrS": "/models/characterv2/face/01/0001/sourceimages/tex_chr_KEI_A_00_S.png",
-        "chrC": "/models/characterv2/face/01/0001/sourceimages/tex_chr_KEI_A_00_C.png",
-        "eyeC": "/models/characterv2/face/01/0001/sourceimages/tex_eye_KEI_A_00_C.png",
-        "ehlC": "/models/characterv2/face/01/0001/sourceimages/tex_ehl_KEI_A_00_C.png",
-        "chrH": "/models/characterv2/face/01/0001/sourceimages/tex_chr_KEI_A_00_H.png"
-      },
-      "faceObj": "/models/characterv2/face/01/0001/fbx/Face.obj",
-      "hairObj": "/models/characterv2/face/01/0001/fbx/Hair.obj"
-    }
-  },
   "4": {
     "textures": {
       "bodyC": "/models/characterv2/body/99/0016/ladies_m/sourceimages/tex_bdy_COM_15_01_C.png",
