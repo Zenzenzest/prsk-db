@@ -61086,22 +61086,5 @@
       "faceObj": "/models/characterv2/face/17/0001/fbx/Face.obj",
       "hairObj": "/models/characterv2/face/17/0001/fbx/Hair.obj"
     }
-  },
-  "9001": {
-    "textures": {
-      "ehlC": "/models/characterv2/face/19/9001/sourceimages/tex_ehl_SCL_C_00_C.png",
-      "chrH": "/models/characterv2/face/19/9001/sourceimages/tex_chr_SCL_C_00_H.png",
-      "accH": "/models/characterv2/face/19/9001/sourceimages/tex_acc_SCL_C_00v_H.png",
-      "faceSdf": "/models/characterv2/face/19/9001/sourceimages/faceSdf.png",
-      "accS": "/models/characterv2/face/19/9001/sourceimages/tex_acc_SCL_C_00v_S.png",
-      "eyeC": "/models/characterv2/face/19/9001/sourceimages/tex_eye_SCL_C_00_C.png",
-      "chrC": "/models/characterv2/face/19/9001/sourceimages/tex_chr_SCL_C_00_C.png",
-      "chrS": "/models/characterv2/face/19/9001/sourceimages/tex_chr_SCL_C_00_S.png",
-      "accC": "/models/characterv2/face/19/9001/sourceimages/tex_acc_SCL_C_00v_C.png"
-    },
-    "variations": {},
-    "faceObj": "/models/characterv2/face/19/9001/fbx/Face.obj",
-    "accObj": "/models/characterv2/face/19/9001/fbx/Acc.obj",
-    "hairObj": "/models/characterv2/face/19/9001/fbx/Hair.obj"
   }
 }
