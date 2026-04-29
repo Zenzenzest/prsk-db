@@ -49891,14 +49891,14 @@
         "partType": "head",
         "colorId": 1,
         "assetbundleName": "08/0945",
-        "thumbnailAssetbundleName": "cos0816_unique_head"
+        "thumbnail": "cos0816_unique_head"
       },
       {
         "id": 816058,
         "partType": "body",
         "colorId": 1,
         "assetbundleName": "99/0945",
-        "thumbnailAssetbundleName": "cos0816_body"
+        "thumbnail": "cos0816_body"
       },
       {
         "id": 816059,
@@ -49912,63 +49912,63 @@
         "partType": "body",
         "colorId": 2,
         "assetbundleName": "99/0945",
-        "thumbnailAssetbundleName": "cos0816_body_01"
+        "thumbnail": "cos0816_body_01"
       },
       {
         "id": 816061,
         "partType": "head",
         "colorId": 3,
         "assetbundleName": "08/0945b",
-        "thumbnailAssetbundleName": "cos0816_unique_head_02"
+        "thumbnail": "cos0816_unique_head_02"
       },
       {
         "id": 816062,
         "partType": "body",
         "colorId": 3,
         "assetbundleName": "99/0945",
-        "thumbnailAssetbundleName": "cos0816_body_02"
+        "thumbnail": "cos0816_body_02"
       },
       {
         "id": 816063,
         "partType": "head",
         "colorId": 4,
         "assetbundleName": "08/0945c",
-        "thumbnailAssetbundleName": "cos0816_unique_head_03"
+        "thumbnail": "cos0816_unique_head_03"
       },
       {
         "id": 816064,
         "partType": "body",
         "colorId": 4,
         "assetbundleName": "99/0945",
-        "thumbnailAssetbundleName": "cos0816_body_03"
+        "thumbnail": "cos0816_body_03"
       },
       {
         "id": 816161,
         "partType": "head",
         "colorId": 1,
         "assetbundleName": "0945/a02",
-        "thumbnailAssetbundleName": "cos0816_head"
+        "thumbnail": "cos0816_head"
       },
       {
         "id": 816162,
         "partType": "head",
         "colorId": 2,
         "assetbundleName": "0945/a02",
-        "thumbnailAssetbundleName": "cos0816_head_01"
+        "thumbnail": "cos0816_head_01"
       },
       {
         "id": 816163,
         "partType": "head",
         "colorId": 3,
         "assetbundleName": "0945/a02",
-        "thumbnailAssetbundleName": "cos0816_head_02"
+        "thumbnail": "cos0816_head_02"
       },
       {
         "id": 816164,
         "partType": "head",
         "colorId": 4,
         "assetbundleName": "0945/a02",
-        "thumbnailAssetbundleName": "cos0816_head_03"
+        "thumbnail": "cos0816_head_03"
       }
     ]
   },
@@ -56352,84 +56352,84 @@
         "partType": "head",
         "colorId": 1,
         "assetbundleName": "24/2068",
-        "thumbnailAssetbundleName": "cos0935_unique_head"
+        "thumbnail": "cos0935_unique_head"
       },
       {
         "id": 935146,
         "partType": "body",
         "colorId": 1,
         "assetbundleName": "99/2068",
-        "thumbnailAssetbundleName": "cos0935_body"
+        "thumbnail": "cos0935_body"
       },
       {
         "id": 935147,
         "partType": "head",
         "colorId": 2,
         "assetbundleName": "24/2068a",
-        "thumbnailAssetbundleName": "cos0935_unique_head_01"
+        "thumbnail": "cos0935_unique_head_01"
       },
       {
         "id": 935148,
         "partType": "body",
         "colorId": 2,
         "assetbundleName": "99/2068",
-        "thumbnailAssetbundleName": "cos0935_body_01"
+        "thumbnail": "cos0935_body_01"
       },
       {
         "id": 935149,
         "partType": "head",
         "colorId": 3,
         "assetbundleName": "24/2068b",
-        "thumbnailAssetbundleName": "cos0935_unique_head_02"
+        "thumbnail": "cos0935_unique_head_02"
       },
       {
         "id": 935150,
         "partType": "body",
         "colorId": 3,
         "assetbundleName": "99/2068",
-        "thumbnailAssetbundleName": "cos0935_body_02"
+        "thumbnail": "cos0935_body_02"
       },
       {
         "id": 935151,
         "partType": "head",
         "colorId": 4,
         "assetbundleName": "24/2068c",
-        "thumbnailAssetbundleName": "cos0935_unique_head_03"
+        "thumbnail": "cos0935_unique_head_03"
       },
       {
         "id": 935152,
         "partType": "body",
         "colorId": 4,
         "assetbundleName": "99/2068",
-        "thumbnailAssetbundleName": "cos0935_body_03"
+        "thumbnail": "cos0935_body_03"
       },
       {
         "id": 935161,
         "partType": "head",
         "colorId": 1,
         "assetbundleName": "2068/a02",
-        "thumbnailAssetbundleName": "cos0935_head"
+        "thumbnail": "cos0935_head"
       },
       {
         "id": 935162,
         "partType": "head",
         "colorId": 2,
         "assetbundleName": "2068/a02",
-        "thumbnailAssetbundleName": "cos0935_head_01"
+        "thumbnail": "cos0935_head_01"
       },
       {
         "id": 935163,
         "partType": "head",
         "colorId": 3,
         "assetbundleName": "2068/a02",
-        "thumbnailAssetbundleName": "cos0935_head_02"
+        "thumbnail": "cos0935_head_02"
       },
       {
         "id": 935164,
         "partType": "head",
         "colorId": 4,
         "assetbundleName": "2068/a02",
-        "thumbnailAssetbundleName": "cos0935_head_03"
+        "thumbnail": "cos0935_head_03"
       }
     ]
   },
