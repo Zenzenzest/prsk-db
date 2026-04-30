@@ -58889,5 +58889,299 @@
         "thumbnail": "cos0966_unique_hair"
       }
     ]
+  },
+  {
+    "id": 1380,
+    "charId": 3,
+    "name": "明星スーヴニール",
+    "costumes": [
+      {
+        "id": 967017,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "03/2110",
+        "thumbnail": "cos0967_unique_head"
+      },
+      {
+        "id": 967019,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "03/2110a",
+        "thumbnail": "cos0967_unique_head_01"
+      },
+      {
+        "id": 967021,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "03/2110b",
+        "thumbnail": "cos0967_unique_head_02"
+      },
+      {
+        "id": 967023,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "03/2110c",
+        "thumbnail": "cos0967_unique_head_03"
+      },
+      {
+        "id": 967018,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2110",
+        "thumbnail": "cos0967_body"
+      },
+      {
+        "id": 967020,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2110",
+        "thumbnail": "cos0967_body_01"
+      },
+      {
+        "id": 967022,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2110",
+        "thumbnail": "cos0967_body_02"
+      },
+      {
+        "id": 967024,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2110",
+        "thumbnail": "cos0967_body_03"
+      },
+      {
+        "id": 967161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2110/a02",
+        "thumbnail": "cos0967_head"
+      },
+      {
+        "id": 967162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2110/a02",
+        "thumbnail": "cos0967_head_01"
+      },
+      {
+        "id": 967163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2110/a02",
+        "thumbnail": "cos0967_head_02"
+      },
+      {
+        "id": 967164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2110/a02",
+        "thumbnail": "cos0967_head_03"
+      },
+      {
+        "id": 967165,
+        "colorId": 1,
+        "partType": "hair",
+        "assetbundleName": "03/2110n",
+        "thumbnail": "cos0967_unique_hair"
+      }
+    ]
+  },
+  {
+    "id": 1381,
+    "charId": 2,
+    "name": "星彩スーヴニール",
+    "costumes": [
+      {
+        "id": 968009,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "02/2109",
+        "thumbnail": "cos0968_unique_head"
+      },
+      {
+        "id": 968011,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "02/2109a",
+        "thumbnail": "cos0968_unique_head_01"
+      },
+      {
+        "id": 968013,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "02/2109b",
+        "thumbnail": "cos0968_unique_head_02"
+      },
+      {
+        "id": 968015,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "02/2109c",
+        "thumbnail": "cos0968_unique_head_03"
+      },
+      {
+        "id": 968010,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2109",
+        "thumbnail": "cos0968_body"
+      },
+      {
+        "id": 968012,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2109",
+        "thumbnail": "cos0968_body_01"
+      },
+      {
+        "id": 968014,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2109",
+        "thumbnail": "cos0968_body_02"
+      },
+      {
+        "id": 968016,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2109",
+        "thumbnail": "cos0968_body_03"
+      },
+      {
+        "id": 968161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2109/a02",
+        "thumbnail": "cos0968_head"
+      },
+      {
+        "id": 968162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2109/a02",
+        "thumbnail": "cos0968_head_01"
+      },
+      {
+        "id": 968163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2109/a02",
+        "thumbnail": "cos0968_head_02"
+      },
+      {
+        "id": 968164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2109/a02",
+        "thumbnail": "cos0968_head_03"
+      },
+      {
+        "id": 968165,
+        "colorId": 1,
+        "partType": "hair",
+        "assetbundleName": "02/2109n",
+        "thumbnail": "cos0968_unique_hair"
+      }
+    ]
+  },
+  {
+    "id": 1382,
+    "charId": 23,
+    "name":"連星スーヴニール",
+    "costumes": [
+      {
+        "id": 969033,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "23/2108",
+        "thumbnail": "cos0969_unique_head"
+      },
+      {
+        "id": 969035,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "23/2108a",
+        "thumbnail": "cos0969_unique_head_01"
+      },
+      {
+        "id": 969037,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "23/2108b",
+        "thumbnail": "cos0969_unique_head_02"
+      },
+      {
+        "id": 969039,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "23/2108c",
+        "thumbnail": "cos0969_unique_head_03"
+      },
+      {
+        "id": 969034,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2108",
+        "thumbnail": "cos0969_body"
+      },
+      {
+        "id": 969036,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2108",
+        "thumbnail": "cos0969_body_01"
+      },
+      {
+        "id": 969038,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2108",
+        "thumbnail": "cos0969_body_02"
+      },
+      {
+        "id": 969040,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2108",
+        "thumbnail": "cos0969_body_03"
+      },
+      {
+        "id": 969049,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2108/a02",
+        "thumbnail": "cos0969_head"
+      },
+      {
+        "id": 969050,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2108/a02",
+        "thumbnail": "cos0969_head_01"
+      },
+      {
+        "id": 969051,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2108/a02",
+        "thumbnail": "cos0969_head_02"
+      },
+      {
+        "id": 969052,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2108/a02",
+        "thumbnail": "cos0969_head_03"
+      },
+      {
+        "id": 969053,
+        "colorId": 1,
+        "partType": "hair",
+        "assetbundleName": "23/2108n",
+        "thumbnail": "cos0969_unique_hair"
+      }
+    ]
   }
 ]
