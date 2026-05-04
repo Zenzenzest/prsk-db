@@ -3120,7 +3120,7 @@
   },
   {
     "id": 167,
-    "name": "Dear My fellows",
+    "name": "Dear My Fellows",
     "unit": "wxs",
     "cards": [1169, 1170, 1171, 1172],
     "keywords": [
@@ -3987,6 +3987,7 @@
       "hona6",
       "honami6"
     ],
-    "type": "Honami 6th Focus Event"
+    "type": "Honami 6th Focus Event",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Retracing_Warm_Memories"
   }
 ]
