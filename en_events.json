@@ -3119,6 +3119,18 @@
     "sekaipedia": "https://www.sekaipedia.org/wiki/And_So,_the_Clock_Hands_Started_Ticking"
   },
   {
+    "id": 166,
+    "name": "Cheerful Carnival Event Test Event",
+    "unit": "mixed",
+    "cards": [],
+    "keywords": ["test"],
+    "event_type": "cheerful_carnival",
+    "start": 1778212800000,
+    "end": 1778299199000,
+    "close": 1778381999000,
+    "type": "Test Event"
+  },
+  {
     "id": 167,
     "name": "Dear My Fellows",
     "unit": "wxs",
