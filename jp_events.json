@@ -3282,7 +3282,7 @@
     "unit": "mixed",
     "banner_id": 0,
     "cards": [197, 392, 199, 574, 288],
-    "keywords": ["test event"],
+    "keywords": ["test event","test"],
     "event_type": "cheerful_carnival",
     "start": 1746619200000,
     "end": 1746705599000,

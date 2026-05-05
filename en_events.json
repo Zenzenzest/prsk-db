@@ -3123,12 +3123,13 @@
     "name": "Cheerful Carnival Event Test Event",
     "unit": "mixed",
     "cards": [],
-    "keywords": ["test"],
+    "keywords": ["test", "test event"],
     "event_type": "cheerful_carnival",
     "start": 1778212800000,
     "end": 1778299199000,
     "close": 1778381999000,
-    "type": "Test Event"
+    "type": "Test Event",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Cheerful_Carnival_Event_Test_Event"
   },
   {
     "id": 167,
