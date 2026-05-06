@@ -3282,7 +3282,7 @@
     "unit": "mixed",
     "banner_id": 0,
     "cards": [197, 392, 199, 574, 288],
-    "keywords": ["test event","test"],
+    "keywords": ["test event", "test"],
     "event_type": "cheerful_carnival",
     "start": 1746619200000,
     "end": 1746705599000,
@@ -4051,6 +4051,7 @@
       "honami6"
     ],
     "type": "Honami 6th Focus Event",
-    "sekaipedia": "https://www.sekaipedia.org/wiki/Retracing_Warm_Memories"
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Retracing_Warm_Memories",
+    "music_id": 681
   }
 ]
