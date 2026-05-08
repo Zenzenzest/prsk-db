@@ -10260,5 +10260,95 @@
     "keywords": [],
     "characters": [7, 13, 20],
     "summary": "Introducing the Movie 4★ Character Guaranteed Gacha!\n\nThis Gacha includes only 2★ or higher Characters with one 4★ Character guaranteed!\nIt also comes with the  4★ \"From The Window SEKAI\" Hatsune Miku.\n*The Movie 4★ Character does not have a Side Story.\n\n4★ Characters will be pulled from a lineup of Characters that have featured in Gacha up to 12:00 PM (PT) on Mar. 10, 2026.\n*Bloom Festival Exclusive Characters, Colorful Festival Exclusive Characters, Limited Time Characters, Group Event Exclusive Characters, Birthday Exclusive Characters, Anniversary Exclusive Characters and Crossover/Collaboration Exclusive Characters will not appear in this Gacha.\n\nThis Gacha can be used once per account for Paid Crystals x3,000.\n\nSome 4★ Characters that are pulled for the first time come with a Costume or a Hairstyle.\nGetting a Costume unlocks the option in the Costume Shop to make it for other characters that can wear it.\nCostumes made for other characters may come with slightly different patterns or Accessories.\n\nIf a Character comes with a Hairstyle, it can be unlocked by increasing the Character's Mastery Rank to 2.\nThe Hairstyle cannot be used with other characters.\nTo view Costume details, go to Characters > Costumes."
+  },
+  {
+    "id": 749,
+    "name": "Blue Song Carried by the Wind Gacha",
+    "sekai_id": 945,
+    "characters": [9, 11, 12],
+    "cards": [1386, 1387, 1388],
+    "banner_type": "Permanent Gacha",
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "kohane",
+      "kohane7",
+      "koha7",
+      "focus"
+    ],
+    "start": 1809802800000,
+    "end": 1810580399000,
+    "event_id": 204
+  },
+  {
+    "id": 750,
+    "name": "World Link Event Part2 Support Gacha",
+    "sekai_id": 946,
+    "characters": [4, 5, 10, 13, 22, 23],
+    "cards": [1192, 1218, 1152, 1169, 1236, 1237],
+    "banner_type": "World Link Gacha",
+    "keywords": [],
+    "start": 1809975600000,
+    "end": 1811789999000
+  },
+  {
+    "id": 752,
+    "name": "[Rerun] Papilio Vinculatus Gacha",
+    "sekai_id": 948,
+    "characters": [17, 18, 23],
+    "cards": [1162, 1163, 1164],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": [
+      "niigo",
+      "nightcord",
+      "n25",
+      "focus",
+      "mafuyu",
+      "mafu6",
+      "mafuyu6"
+    ],
+    "start": 1811736000000,
+    "end": 1811736000000,
+    "type": "rerun_estimation",
+    "rerun": [1809658800000, 1811300399000],
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 753,
+    "name": "[Rerun] Talent Blooms Gacha",
+    "sekai_id": 949,
+    "characters": [4, 7, 12, 15],
+    "cards": [1005, 1006, 1007, 1008],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": [],
+    "start": 1811736000000,
+    "end": 1811736000000,
+    "type": "rerun_estimation",
+    "rerun": [1809658800000, 1811300399000],
+    "tag": "Last Rerun"
+  },
+  {
+    "id": 754,
+    "name": "Tsukasa Tenma Happy Birthday 2027 Gacha",
+    "sekai_id": 950,
+    "characters": [13],
+    "cards": [1391],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1810191600000,
+    "end": 1810796399000
+  },
+  {
+    "id": 755,
+    "name": "Tsukasa Tenma Happy Birthday Memories Gacha",
+    "sekai_id": 951,
+    "characters": [13],
+    "cards": [1173, 926, 647, 433],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1810191600000,
+    "end": 1810796399000
   }
 ]

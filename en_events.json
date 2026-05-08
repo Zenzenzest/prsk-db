@@ -4003,5 +4003,27 @@
     "type": "Honami 6th Focus Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Retracing_Warm_Memories",
     "music_id": 681
+  },
+  {
+    "id": 204,
+    "name": "Stay solid, No fold",
+    "unit": "vbs",
+    "cards": [1386, 1387, 1388, 1389, 1390],
+    "start": 1809813600000,
+    "end": 1810439999000,
+    "close": 1810609199000,
+    "event_type": "marathon",
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "kohane",
+      "kohane7",
+      "koha7",
+      "focus"
+    ],
+    "type": "Kohane 7th Focus Event",
+    "music_id": 740
   }
 ]
