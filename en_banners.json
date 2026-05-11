@@ -10350,5 +10350,16 @@
     "keywords": [],
     "start": 1810191600000,
     "end": 1810796399000
+  },
+  {
+    "id": 756,
+    "name": "2026 May Premium Gift Gacha",
+    "sekai_id": 1162,
+    "start": 1778612400000,
+    "end": 1780253999000,
+    "cards": [1122, 1133, 1124, 1134, 463, 540],
+    "banner_type": "Premium Gift",
+    "keywords": [],
+    "characters": [3, 7, 10, 13, 19, 25]
   }
 ]
