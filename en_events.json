@@ -4026,5 +4026,49 @@
     "type": "Kohane 7th Focus Event",
     "music_id": 740,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Stay_solid,_No_fold"
+  },
+  {
+    "id": 205,
+    "name": "Great Yell for Dreamers！",
+    "unit": "mixed",
+    "cards": [1392, 1393, 1394, 1395, 1396, 1397],
+    "start": 1810609200000,
+    "end": 1811645999000,
+    "close": 1811800799000,
+    "event_type": "world_link",
+    "keywords": ["wl3", "wl", "world link 3"],
+    "type": "World Link 3 Event",
+    "schedule": [
+      {
+        "char_chapter": 5,
+        "start": 1779015600000,
+        "end": 1779188399000
+      },
+      {
+        "char_chapter": 22,
+        "start": 1779188400000,
+        "end": 1779361199000
+      },
+      {
+        "char_chapter": 4,
+        "start": 1779361200000,
+        "end": 1779533999000
+      },
+      {
+        "char_chapter": 10,
+        "start": 1779534000000,
+        "end": 1779706799000
+      },
+      {
+        "char_chapter": 23,
+        "start": 1779706800000,
+        "end": 1779879599000
+      },
+      {
+        "char_chapter": 13,
+        "start": 1779879600000,
+        "end": 1780052399000
+      }
+    ]
   }
 ]

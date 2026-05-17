@@ -59456,5 +59456,593 @@
                 "name": "Unwavering step"
             }
         ]
+    },
+    {
+        "id": 1392,
+        "charId": 22,
+        "costumes": [
+            {
+                "id": 977137,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "22/2121",
+                "thumbnail": "cos0977_unique_head"
+            },
+            {
+                "id": 977139,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "22/2121a",
+                "thumbnail": "cos0977_unique_head_01"
+            },
+            {
+                "id": 977141,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "22/2121b",
+                "thumbnail": "cos0977_unique_head_02"
+            },
+            {
+                "id": 977143,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "22/2121c",
+                "thumbnail": "cos0977_unique_head_03"
+            },
+            {
+                "id": 977138,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2121",
+                "thumbnail": "cos0977_body"
+            },
+            {
+                "id": 977140,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2121",
+                "thumbnail": "cos0977_body_01"
+            },
+            {
+                "id": 977142,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2121",
+                "thumbnail": "cos0977_body_02"
+            },
+            {
+                "id": 977144,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2121",
+                "thumbnail": "cos0977_body_03"
+            },
+            {
+                "id": 977161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2121/a03",
+                "thumbnail": "cos0977_head"
+            },
+            {
+                "id": 977162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2121/a03",
+                "thumbnail": "cos0977_head_01"
+            },
+            {
+                "id": 977163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2121/a03",
+                "thumbnail": "cos0977_head_02"
+            },
+            {
+                "id": 977164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2121/a03",
+                "thumbnail": "cos0977_head_03"
+            },
+            {
+                "id": 977165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "22/2121n",
+                "thumbnail": "cos0977_unique_hair",
+                "name": "Sunny Dancer"
+            }
+        ]
+    },
+    {
+        "id": 1393,
+        "charId": 23,
+        "costumes": [
+            {
+                "id": 978033,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "23/2120",
+                "thumbnail": "cos0978_unique_head"
+            },
+            {
+                "id": 978035,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "23/2120a",
+                "thumbnail": "cos0978_unique_head_01"
+            },
+            {
+                "id": 978037,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "23/2120b",
+                "thumbnail": "cos0978_unique_head_02"
+            },
+            {
+                "id": 978039,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "23/2120c",
+                "thumbnail": "cos0978_unique_head_03"
+            },
+            {
+                "id": 978034,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2120",
+                "thumbnail": "cos0978_body"
+            },
+            {
+                "id": 978036,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2120",
+                "thumbnail": "cos0978_body_01"
+            },
+            {
+                "id": 978038,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2120",
+                "thumbnail": "cos0978_body_02"
+            },
+            {
+                "id": 978040,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2120",
+                "thumbnail": "cos0978_body_03"
+            },
+            {
+                "id": 978049,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2120/a04",
+                "thumbnail": "cos0978_head"
+            },
+            {
+                "id": 978050,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2120/a04",
+                "thumbnail": "cos0978_head_01"
+            },
+            {
+                "id": 978051,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2120/a04",
+                "thumbnail": "cos0978_head_02"
+            },
+            {
+                "id": 978052,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2120/a04",
+                "thumbnail": "cos0978_head_03"
+            },
+            {
+                "id": 978053,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "23/2120n",
+                "thumbnail": "cos0978_unique_hair",
+                "name": "Serenity Dancer"
+            }
+        ]
+    },
+    {
+        "id": 1394,
+        "charId": 4,
+        "costumes": [
+            {
+                "id": 979025,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "04/2122",
+                "thumbnail": "cos0979_unique_head"
+            },
+            {
+                "id": 979027,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "04/2122a",
+                "thumbnail": "cos0979_unique_head_01"
+            },
+            {
+                "id": 979029,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "04/2122b",
+                "thumbnail": "cos0979_unique_head_02"
+            },
+            {
+                "id": 979031,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "04/2122c",
+                "thumbnail": "cos0979_unique_head_03"
+            },
+            {
+                "id": 979026,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2122",
+                "thumbnail": "cos0979_body"
+            },
+            {
+                "id": 979028,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2122",
+                "thumbnail": "cos0979_body_01"
+            },
+            {
+                "id": 979030,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2122",
+                "thumbnail": "cos0979_body_02"
+            },
+            {
+                "id": 979032,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2122",
+                "thumbnail": "cos0979_body_03"
+            },
+            {
+                "id": 979161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2122/a02",
+                "thumbnail": "cos0979_head"
+            },
+            {
+                "id": 979162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2122/a02",
+                "thumbnail": "cos0979_head_01"
+            },
+            {
+                "id": 979163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2122/a02",
+                "thumbnail": "cos0979_head_02"
+            },
+            {
+                "id": 979164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2122/a02",
+                "thumbnail": "cos0979_head_03"
+            },
+            {
+                "id": 979165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "04/2122n",
+                "thumbnail": "cos0979_unique_hair",
+                "name": "Lively Dancer"
+            }
+        ]
+    },
+    {
+        "id": 1395,
+        "charId": 5,
+        "costumes": [
+            {
+                "id": 980033,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "05/2123",
+                "thumbnail": "cos0980_unique_head"
+            },
+            {
+                "id": 980035,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "05/2123a",
+                "thumbnail": "cos0980_unique_head_01"
+            },
+            {
+                "id": 980037,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "05/2123b",
+                "thumbnail": "cos0980_unique_head_02"
+            },
+            {
+                "id": 980039,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "05/2123c",
+                "thumbnail": "cos0980_unique_head_03"
+            },
+            {
+                "id": 980034,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2123",
+                "thumbnail": "cos0980_body"
+            },
+            {
+                "id": 980036,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2123",
+                "thumbnail": "cos0980_body_01"
+            },
+            {
+                "id": 980038,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2123",
+                "thumbnail": "cos0980_body_02"
+            },
+            {
+                "id": 980040,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2123",
+                "thumbnail": "cos0980_body_03"
+            },
+            {
+                "id": 980161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2123/a03",
+                "thumbnail": "cos0980_head"
+            },
+            {
+                "id": 980162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2123/a03",
+                "thumbnail": "cos0980_head_01"
+            },
+            {
+                "id": 980163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2123/a03",
+                "thumbnail": "cos0980_head_02"
+            },
+            {
+                "id": 980164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2123/a03",
+                "thumbnail": "cos0980_head_03"
+            },
+            {
+                "id": 980165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "05/2123n",
+                "thumbnail": "cos0980_unique_hair",
+                "name": "Marvelous Dancer"
+            }
+        ]
+    },
+    {
+        "id": 1396,
+        "charId": 10,
+        "costumes": [
+            {
+                "id": 981073,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "10/2124",
+                "thumbnail": "cos0981_unique_head"
+            },
+            {
+                "id": 981075,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "10/2124a",
+                "thumbnail": "cos0981_unique_head_01"
+            },
+            {
+                "id": 981077,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "10/2124b",
+                "thumbnail": "cos0981_unique_head_02"
+            },
+            {
+                "id": 981079,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "10/2124c",
+                "thumbnail": "cos0981_unique_head_03"
+            },
+            {
+                "id": 981074,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2124",
+                "thumbnail": "cos0981_body"
+            },
+            {
+                "id": 981076,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2124",
+                "thumbnail": "cos0981_body_01"
+            },
+            {
+                "id": 981078,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2124",
+                "thumbnail": "cos0981_body_02"
+            },
+            {
+                "id": 981080,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2124",
+                "thumbnail": "cos0981_body_03"
+            },
+            {
+                "id": 981161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2124/a03",
+                "thumbnail": "cos0981_head"
+            },
+            {
+                "id": 981162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2124/a03",
+                "thumbnail": "cos0981_head_01"
+            },
+            {
+                "id": 981163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2124/a03",
+                "thumbnail": "cos0981_head_02"
+            },
+            {
+                "id": 981164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2124/a03",
+                "thumbnail": "cos0981_head_03"
+            },
+            {
+                "id": 981165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "10/2124n",
+                "thumbnail": "cos0981_unique_hair",
+                "name": "Valor Dancer"
+            }
+        ]
+    },
+    {
+        "id": 1397,
+        "charId": 13,
+        "costumes": [
+            {
+                "id": 982017,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "13/2125",
+                "thumbnail": "cos0982_unique_head"
+            },
+            {
+                "id": 982019,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "13/2125a",
+                "thumbnail": "cos0982_unique_head_01"
+            },
+            {
+                "id": 982021,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "13/2125b",
+                "thumbnail": "cos0982_unique_head_02"
+            },
+            {
+                "id": 982023,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "13/2125c",
+                "thumbnail": "cos0982_unique_head_03"
+            },
+            {
+                "id": 982018,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2125",
+                "thumbnail": "cos0982_body"
+            },
+            {
+                "id": 982020,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2125",
+                "thumbnail": "cos0982_body_01"
+            },
+            {
+                "id": 982022,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2125",
+                "thumbnail": "cos0982_body_02"
+            },
+            {
+                "id": 982024,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2125",
+                "thumbnail": "cos0982_body_03"
+            },
+            {
+                "id": 982049,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2125/a03",
+                "thumbnail": "cos0982_head"
+            },
+            {
+                "id": 982050,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2125/a03",
+                "thumbnail": "cos0982_head_01"
+            },
+            {
+                "id": 982051,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2125/a03",
+                "thumbnail": "cos0982_head_02"
+            },
+            {
+                "id": 982052,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2125/a03",
+                "thumbnail": "cos0982_head_03"
+            },
+            {
+                "id": 982053,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "13/2125n",
+                "thumbnail": "cos0982_unique_hair",
+                "name": "Witty Dancer"
+            }
+        ]
     }
 ]
