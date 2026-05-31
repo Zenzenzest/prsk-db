@@ -4072,5 +4072,17 @@
     ],
     "music_id": 743,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Great_Yell_for_Dreamers!"
+  },
+  {
+    "id": 206,
+    "name": "To You Who Fly to the Farthest Ends",
+    "unit": "mixed",
+    "cards": [1399, 1400, 1401, 1402, 1403],
+    "start": 1811800800000,
+    "end": 1812340799000,
+    "close": 1812509999000,
+    "event_type": "marathon",
+    "keywords": ["wedding", "marriage", "groom", "bride"],
+    "type": "Mixed Event"
   }
 ]

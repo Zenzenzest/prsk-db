@@ -4122,5 +4122,17 @@
     ],
     "music_id": 743,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Great_Yell_for_Dreamers!"
+  },
+  {
+    "id": 206,
+    "name": "最果てへと飛ぶキミへ",
+    "unit": "mixed",
+    "cards": [1399, 1400, 1401, 1402, 1403],
+    "start": 1780207200000,
+    "end": 1780747199000,
+    "close": 1780916399000,
+    "event_type": "marathon",
+    "keywords": ["wedding", "marriage", "groom", "bride"],
+    "type": "Mixed Event"
   }
 ]

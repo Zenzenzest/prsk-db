@@ -9388,5 +9388,30 @@
     "cards": [793, 1158, 868, 1201, 1111, 1066, 890, 1280, 1315, 944],
     "keywords": [],
     "en_id": 760
+  },
+  {
+    "id": 655,
+    "name": "ヴェールの向こうのあなたへガチャ",
+    "sekai_id": 956,
+    "characters": [7, 20, 26],
+    "banner_type": "Limited Gacha",
+    "start": 1780196400000,
+    "end": 1780887599000,
+    "cards": [1399, 1400, 1401],
+    "keywords": [],
+    "en_id": 761,
+    "event_id": 206
+  },
+  {
+    "id": 656,
+    "name": "ワールドリンクイベント Part3 サポートガチャ",
+    "sekai_id": 958,
+    "characters": [3, 8, 9, 18, 24],
+    "banner_type": "World Link Support",
+    "start": 1780282800000,
+    "end": 1781924399000,
+    "cards": [1191, 1221, 1151, 1186, 1238],
+    "keywords": [],
+    "en_id": 762
   }
 ]
