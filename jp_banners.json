@@ -9092,7 +9092,7 @@
     "start": 1775876400000,
     "end": 1777517999000,
     "cards": [1189, 1219, 1170, 1185, 1235],
-    "keywords": ["wl", "wl2", "world link"],
+    "keywords": ["w1", "wl2", "world link", "support"],
     "en_id": 734
   },
   {
@@ -9267,7 +9267,7 @@
     "start": 1778382000000,
     "end": 1780196399000,
     "cards": [1192, 1218, 1152, 1169, 1236, 1237],
-    "keywords": [],
+    "keywords": ["w1", "wl2", "world link", "support"],
     "en_id": 750
   },
   {
@@ -9398,7 +9398,7 @@
     "start": 1780196400000,
     "end": 1780887599000,
     "cards": [1399, 1400, 1401],
-    "keywords": [],
+    "keywords": ["wedding", "bride", "marriage"],
     "en_id": 761,
     "event_id": 206
   },
@@ -9411,7 +9411,7 @@
     "start": 1780282800000,
     "end": 1781924399000,
     "cards": [1191, 1221, 1151, 1186, 1238],
-    "keywords": [],
+    "keywords": ["w1", "wl2", "world link", "support"],
     "en_id": 762
   }
 ]
