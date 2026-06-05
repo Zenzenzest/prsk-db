@@ -3215,7 +3215,7 @@
   },
   {
     "id": 170,
-    "name": "Embraced by Ephemeral Bubbles",
+    "name": "In an Ephemeral Embrace",
     "unit": "n25",
     "cards": [1185, 1186, 1187, 1188],
     "keywords": [
@@ -4083,6 +4083,7 @@
     "close": 1812509999000,
     "event_type": "marathon",
     "keywords": ["wedding", "marriage", "groom", "bride"],
-    "type": "Mixed Event"
+    "type": "Mixed Event",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/To_You,_Who_Flies_to_the_Farthest_Ends"
   }
 ]
