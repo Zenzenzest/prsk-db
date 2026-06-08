@@ -60338,5 +60338,495 @@
                 "name": "amour sincere"
             }
         ]
+    },
+    {
+        "id": 1404,
+        "charId": 24,
+        "costumes": [
+            {
+                "id": 988145,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "24/2133",
+                "thumbnail": "cos0988_unique_head"
+            },
+            {
+                "id": 988147,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "24/2133a",
+                "thumbnail": "cos0988_unique_head_01"
+            },
+            {
+                "id": 988149,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "24/2133b",
+                "thumbnail": "cos0988_unique_head_02"
+            },
+            {
+                "id": 988151,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "24/2133c",
+                "thumbnail": "cos0988_unique_head_03"
+            },
+            {
+                "id": 988146,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2133",
+                "thumbnail": "cos0988_body"
+            },
+            {
+                "id": 988148,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2133",
+                "thumbnail": "cos0988_body_01"
+            },
+            {
+                "id": 988150,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2133",
+                "thumbnail": "cos0988_body_02"
+            },
+            {
+                "id": 988152,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2133",
+                "thumbnail": "cos0988_body_03"
+            },
+            {
+                "id": 988161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2133/a02",
+                "thumbnail": "cos0988_head"
+            },
+            {
+                "id": 988162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2133/a02",
+                "thumbnail": "cos0988_head_01"
+            },
+            {
+                "id": 988163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2133/a02",
+                "thumbnail": "cos0988_head_02"
+            },
+            {
+                "id": 988164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2133/a02",
+                "thumbnail": "cos0988_head_03"
+            },
+            {
+                "id": 988165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "24/2133n",
+                "thumbnail": "cos0988_unique_hair",
+                "name": "Caring Aurora"
+            }
+        ]
+    },
+    {
+        "id": 1405,
+        "charId": 3,
+        "costumes": [
+            {
+                "id": 989017,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "03/2134",
+                "thumbnail": "cos0989_unique_head"
+            },
+            {
+                "id": 989019,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "03/2134a",
+                "thumbnail": "cos0989_unique_head_01"
+            },
+            {
+                "id": 989021,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "03/2134b",
+                "thumbnail": "cos0989_unique_head_02"
+            },
+            {
+                "id": 989023,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "03/2134c",
+                "thumbnail": "cos0989_unique_head_03"
+            },
+            {
+                "id": 989018,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2134",
+                "thumbnail": "cos0989_body"
+            },
+            {
+                "id": 989020,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2134",
+                "thumbnail": "cos0989_body_01"
+            },
+            {
+                "id": 989022,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2134",
+                "thumbnail": "cos0989_body_02"
+            },
+            {
+                "id": 989024,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2134",
+                "thumbnail": "cos0989_body_03"
+            },
+            {
+                "id": 989161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2134/a02",
+                "thumbnail": "cos0989_head"
+            },
+            {
+                "id": 989162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2134/a02",
+                "thumbnail": "cos0989_head_01"
+            },
+            {
+                "id": 989163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2134/a02",
+                "thumbnail": "cos0989_head_02"
+            },
+            {
+                "id": 989164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2134/a02",
+                "thumbnail": "cos0989_head_03"
+            },
+            {
+                "id": 989165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "03/2134n",
+                "thumbnail": "cos0989_unique_hair",
+                "name": "Resilient Aurora"
+            }
+        ]
+    },
+    {
+        "id": 1406,
+        "charId": 8,
+        "costumes": [
+            {
+                "id": 990057,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "08/2135",
+                "thumbnail": "cos0990_unique_head"
+            },
+            {
+                "id": 990059,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "08/2135a",
+                "thumbnail": "cos0990_unique_head_01"
+            },
+            {
+                "id": 990061,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "08/2135b",
+                "thumbnail": "cos0990_unique_head_02"
+            },
+            {
+                "id": 990063,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "08/2135c",
+                "thumbnail": "cos0990_unique_head_03"
+            },
+            {
+                "id": 990058,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2135",
+                "thumbnail": "cos0990_body"
+            },
+            {
+                "id": 990060,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2135",
+                "thumbnail": "cos0990_body_01"
+            },
+            {
+                "id": 990062,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2135",
+                "thumbnail": "cos0990_body_02"
+            },
+            {
+                "id": 990064,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2135",
+                "thumbnail": "cos0990_body_03"
+            },
+            {
+                "id": 990161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2135/a02",
+                "thumbnail": "cos0990_head"
+            },
+            {
+                "id": 990162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2135/a02",
+                "thumbnail": "cos0990_head_01"
+            },
+            {
+                "id": 990163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2135/a02",
+                "thumbnail": "cos0990_head_02"
+            },
+            {
+                "id": 990164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2135/a02",
+                "thumbnail": "cos0990_head_03"
+            },
+            {
+                "id": 990165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "08/2135n",
+                "thumbnail": "cos0990_unique_hair",
+                "name": "Grace Aurora"
+            }
+        ]
+    },
+    {
+        "id": 1407,
+        "charId": 9,
+        "costumes": [
+            {
+                "id": 991065,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "09/2136",
+                "thumbnail": "cos0991_unique_head"
+            },
+            {
+                "id": 991067,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "09/2136a",
+                "thumbnail": "cos0991_unique_head_01"
+            },
+            {
+                "id": 991069,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "09/2136b",
+                "thumbnail": "cos0991_unique_head_02"
+            },
+            {
+                "id": 991071,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "09/2136c",
+                "thumbnail": "cos0991_unique_head_03"
+            },
+            {
+                "id": 991066,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2136",
+                "thumbnail": "cos0991_body"
+            },
+            {
+                "id": 991068,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2136",
+                "thumbnail": "cos0991_body_01"
+            },
+            {
+                "id": 991070,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2136",
+                "thumbnail": "cos0991_body_02"
+            },
+            {
+                "id": 991072,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2136",
+                "thumbnail": "cos0991_body_03"
+            },
+            {
+                "id": 991161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2136/a03",
+                "thumbnail": "cos0991_head"
+            },
+            {
+                "id": 991162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2136/a03",
+                "thumbnail": "cos0991_head_01"
+            },
+            {
+                "id": 991163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2136/a03",
+                "thumbnail": "cos0991_head_02"
+            },
+            {
+                "id": 991164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2136/a03",
+                "thumbnail": "cos0991_head_03"
+            },
+            {
+                "id": 991165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "09/2136n",
+                "thumbnail": "cos0991_unique_hair",
+                "name": "Brave Aurora"
+            }
+        ]
+    },
+    {
+        "id": 1408,
+        "charId": 18,
+        "costumes": [
+            {
+                "id": 992105,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "18/2137",
+                "thumbnail": "cos0992_unique_head"
+            },
+            {
+                "id": 992107,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "18/2137a",
+                "thumbnail": "cos0992_unique_head_01"
+            },
+            {
+                "id": 992109,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "18/2137b",
+                "thumbnail": "cos0992_unique_head_02"
+            },
+            {
+                "id": 992111,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "18/2137c",
+                "thumbnail": "cos0992_unique_head_03"
+            },
+            {
+                "id": 992106,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2137",
+                "thumbnail": "cos0992_body"
+            },
+            {
+                "id": 992108,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2137",
+                "thumbnail": "cos0992_body_01"
+            },
+            {
+                "id": 992110,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2137",
+                "thumbnail": "cos0992_body_02"
+            },
+            {
+                "id": 992112,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2137",
+                "thumbnail": "cos0992_body_03"
+            },
+            {
+                "id": 992161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2137/a03",
+                "thumbnail": "cos0992_head"
+            },
+            {
+                "id": 992162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2137/a03",
+                "thumbnail": "cos0992_head_01"
+            },
+            {
+                "id": 992163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2137/a03",
+                "thumbnail": "cos0992_head_02"
+            },
+            {
+                "id": 992164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2137/a03",
+                "thumbnail": "cos0992_head_03"
+            },
+            {
+                "id": 992165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "18/2137n",
+                "thumbnail": "cos0992_unique_hair",
+                "name": "Wise Aurora"
+            }
+        ]
     }
 ]

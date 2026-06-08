@@ -9413,5 +9413,61 @@
     "cards": [1191, 1221, 1151, 1186, 1238],
     "keywords": ["w1", "wl2", "world link", "support"],
     "en_id": 762
+  },
+  {
+    "id": 657,
+    "name": "Past Fragmentsガチャ",
+    "sekai_id": 959,
+    "characters": [3, 8, 9, 18, 24],
+    "banner_type": "World Link Gacha",
+    "start": 1780887600000,
+    "end": 1781924399000,
+    "cards": [1404, 1405, 1406, 1407, 1408],
+    "keywords": ["wl3", "wl", "world link 3"],
+    "en_id": 768,
+    "event_id": 207
+  },
+  {
+    "id": 658,
+    "name": "[復刻]光芒差す黎明ガチャ",
+    "sekai_id": 960,
+    "characters": [9, 12, 21],
+    "banner_type": "Limited Gacha Rerun",
+    "start": 1781233200000,
+    "end": 1782010799000,
+    "cards": [1180, 1181, 1182],
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "kohane",
+      "kohane6",
+      "koha6",
+      "focus"
+    ],
+    "en_id": 769,
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 659,
+    "name": "[復刻]音楽が鳴る街角でガチャ",
+    "sekai_id": 961,
+    "characters": [1, 2, 3],
+    "banner_type": "Limited Gacha Rerun",
+    "start": 1781233200000,
+    "end": 1782010799000,
+    "cards": [1022, 1023, 1024],
+    "keywords": [
+      "leo/need",
+      "leoneed",
+      "ln",
+      "leoni",
+      "focus",
+      "saki",
+      "saki6"
+    ],
+    "en_id": 770,
+    "tag": "Last Rerun"
   }
 ]

@@ -62719,6 +62719,586 @@
       "hairObj": "/models/characterv2/face/26/0000/fbx/Hair.obj"
     }
   },
+  "1404": {
+    "textures": {
+      "bodyH": "/models/characterv2/body/99/2133/ladies_l/sourceimages/tex_bdy_COM_2132_01_H.png",
+      "bodyS": "/models/characterv2/body/99/2133/ladies_l/sourceimages/tex_bdy_COM_2132_01_S.png",
+      "bodyC": "/models/characterv2/body/99/2133/ladies_l/sourceimages/tex_bdy_COM_2132_01_C.png",
+      "faceSdf": "/models/characterv2/face/24/2133/sourceimages/faceSdf.png",
+      "eyeC": "/models/characterv2/face/24/2133/sourceimages/tex_eye_LUK_00_C.png",
+      "accC": "/models/characterv2/face/24/2133/sourceimages/tex_acc_LUK_2132_01_C.png",
+      "chrS": "/models/characterv2/face/24/2133/sourceimages/tex_chr_LUK_2132_S.png",
+      "chrC": "/models/characterv2/face/24/2133/sourceimages/tex_chr_LUK_2132_C.png",
+      "accH": "/models/characterv2/face/24/2133/sourceimages/tex_acc_LUK_2132_01_H.png",
+      "ehlC": "/models/characterv2/face/24/2133/sourceimages/tex_ehl_LUK_00_C.png",
+      "chrH": "/models/characterv2/face/24/2133/sourceimages/tex_chr_LUK_2132_H.png",
+      "accS": "/models/characterv2/face/24/2133/sourceimages/tex_acc_LUK_2132_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2133/ladies_l/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2133/ladies_l/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2133/ladies_l/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/24/2133b/sourceimages/tex_acc_LUK_2132_03_C.png",
+        "accS": "/models/characterv2/face/24/2133b/sourceimages/tex_acc_LUK_2132_03_S.png",
+        "accH": "/models/characterv2/face/24/2133b/sourceimages/tex_acc_LUK_2132_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2133/ladies_l/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2133/ladies_l/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2133/ladies_l/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/24/2133c/sourceimages/tex_acc_LUK_2132_04_C.png",
+        "accS": "/models/characterv2/face/24/2133c/sourceimages/tex_acc_LUK_2132_04_S.png",
+        "accH": "/models/characterv2/face/24/2133c/sourceimages/tex_acc_LUK_2132_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2133/ladies_l/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2133/ladies_l/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2133/ladies_l/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/24/2133a/sourceimages/tex_acc_LUK_2132_02_C.png",
+        "accS": "/models/characterv2/face/24/2133a/sourceimages/tex_acc_LUK_2132_02_S.png",
+        "accH": "/models/characterv2/face/24/2133a/sourceimages/tex_acc_LUK_2132_02_H.png"
+      }
+    },
+    "bodyObj": "/models/characterv2/body/99/2133/ladies_l/Body.obj",
+    "faceObj": "/models/characterv2/face/24/2133/fbx/Face.obj",
+    "accObj": "/models/characterv2/face/24/2133/fbx/Acc.obj",
+    "hairObj": "/models/characterv2/face/24/2133/fbx/Hair.obj",
+    "default": {
+      "textures": {
+        "faceSdf": "/models/characterv2/face/24/0000/sourceimages/faceSdf.png",
+        "chrH": "/models/characterv2/face/24/0000/sourceimages/tex_chr_LUK_10_H.png",
+        "eyeC": "/models/characterv2/face/24/0000/sourceimages/tex_eye_LUK_00_C.png",
+        "chrS": "/models/characterv2/face/24/0000/sourceimages/tex_chr_LUK_10_S.png",
+        "chrC": "/models/characterv2/face/24/0000/sourceimages/tex_chr_LUK_10_C.png",
+        "ehlC": "/models/characterv2/face/24/0000/sourceimages/tex_ehl_LUK_00_C.png"
+      },
+      "faceObj": "/models/characterv2/face/24/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/24/0000/fbx/Hair.obj"
+    }
+  },
+  "1404n": {
+    "textures": {
+      "faceSdf": "/models/characterv2/face/24/2133n/sourceimages/faceSdf.png",
+      "eyeC": "/models/characterv2/face/24/2133n/sourceimages/tex_eye_LUK_00_C.png",
+      "chrS": "/models/characterv2/face/24/2133n/sourceimages/tex_chr_LUK_2132_S.png",
+      "chrC": "/models/characterv2/face/24/2133n/sourceimages/tex_chr_LUK_2132_C.png",
+      "ehlC": "/models/characterv2/face/24/2133n/sourceimages/tex_ehl_LUK_00_C.png",
+      "chrH": "/models/characterv2/face/24/2133n/sourceimages/tex_chr_LUK_2132_H.png",
+      "bodyH": "/models/characterv2/body/99/2133/ladies_l/sourceimages/tex_bdy_COM_2132_01_H.png",
+      "bodyS": "/models/characterv2/body/99/2133/ladies_l/sourceimages/tex_bdy_COM_2132_01_S.png",
+      "bodyC": "/models/characterv2/body/99/2133/ladies_l/sourceimages/tex_bdy_COM_2132_01_C.png",
+      "accC": "/models/characterv2/face/24/2133/sourceimages/tex_acc_LUK_2132_01_C.png",
+      "accH": "/models/characterv2/face/24/2133/sourceimages/tex_acc_LUK_2132_01_H.png",
+      "accS": "/models/characterv2/face/24/2133/sourceimages/tex_acc_LUK_2132_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2133/ladies_l/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2133/ladies_l/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2133/ladies_l/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/24/2133b/sourceimages/tex_acc_LUK_2132_03_C.png",
+        "accS": "/models/characterv2/face/24/2133b/sourceimages/tex_acc_LUK_2132_03_S.png",
+        "accH": "/models/characterv2/face/24/2133b/sourceimages/tex_acc_LUK_2132_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2133/ladies_l/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2133/ladies_l/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2133/ladies_l/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/24/2133c/sourceimages/tex_acc_LUK_2132_04_C.png",
+        "accS": "/models/characterv2/face/24/2133c/sourceimages/tex_acc_LUK_2132_04_S.png",
+        "accH": "/models/characterv2/face/24/2133c/sourceimages/tex_acc_LUK_2132_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2133/ladies_l/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2133/ladies_l/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2133/ladies_l/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/24/2133a/sourceimages/tex_acc_LUK_2132_02_C.png",
+        "accS": "/models/characterv2/face/24/2133a/sourceimages/tex_acc_LUK_2132_02_S.png",
+        "accH": "/models/characterv2/face/24/2133a/sourceimages/tex_acc_LUK_2132_02_H.png"
+      }
+    },
+    "faceObj": "/models/characterv2/face/24/2133n/fbx/Face.obj",
+    "hairObj": "/models/characterv2/face/24/2133n/fbx/Hair.obj",
+    "accObj": "/models/characterv2/face/24/2133/fbx/Acc.obj",
+    "bodyObj": "/models/characterv2/body/99/2133/ladies_l/Body.obj",
+    "default": {
+      "textures": {
+        "faceSdf": "/models/characterv2/face/24/0000/sourceimages/faceSdf.png",
+        "chrH": "/models/characterv2/face/24/0000/sourceimages/tex_chr_LUK_10_H.png",
+        "eyeC": "/models/characterv2/face/24/0000/sourceimages/tex_eye_LUK_00_C.png",
+        "chrS": "/models/characterv2/face/24/0000/sourceimages/tex_chr_LUK_10_S.png",
+        "chrC": "/models/characterv2/face/24/0000/sourceimages/tex_chr_LUK_10_C.png",
+        "ehlC": "/models/characterv2/face/24/0000/sourceimages/tex_ehl_LUK_00_C.png"
+      },
+      "faceObj": "/models/characterv2/face/24/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/24/0000/fbx/Hair.obj"
+    }
+  },
+  "1405": {
+    "textures": {
+      "bodyC": "/models/characterv2/body/99/2134/ladies_l/sourceimages/tex_bdy_COM_2133_01_C.png",
+      "bodyS": "/models/characterv2/body/99/2134/ladies_l/sourceimages/tex_bdy_COM_2133_01_S.png",
+      "bodyH": "/models/characterv2/body/99/2134/ladies_l/sourceimages/tex_bdy_COM_2133_01_H.png",
+      "chrS": "/models/characterv2/face/03/2134/sourceimages/tex_chr_KEI_C_2133_S.png",
+      "chrC": "/models/characterv2/face/03/2134/sourceimages/tex_chr_KEI_C_2133_C.png",
+      "ehlC": "/models/characterv2/face/03/2134/sourceimages/tex_ehl_KEI_C_00_C.png",
+      "accH": "/models/characterv2/face/03/2134/sourceimages/tex_acc_KEI_C_2133_01_H.png",
+      "faceSdf": "/models/characterv2/face/03/2134/sourceimages/faceSdf.png",
+      "eyeC": "/models/characterv2/face/03/2134/sourceimages/tex_eye_KEI_C_00_C.png",
+      "accC": "/models/characterv2/face/03/2134/sourceimages/tex_acc_KEI_C_2133_01_C.png",
+      "chrH": "/models/characterv2/face/03/2134/sourceimages/tex_chr_KEI_C_2133_H.png",
+      "accS": "/models/characterv2/face/03/2134/sourceimages/tex_acc_KEI_C_2133_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2134/ladies_l/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2134/ladies_l/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2134/ladies_l/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/03/2134b/sourceimages/tex_acc_KEI_C_2133_03_C.png",
+        "accS": "/models/characterv2/face/03/2134b/sourceimages/tex_acc_KEI_C_2133_03_S.png",
+        "accH": "/models/characterv2/face/03/2134b/sourceimages/tex_acc_KEI_C_2133_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2134/ladies_l/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2134/ladies_l/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2134/ladies_l/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/03/2134c/sourceimages/tex_acc_KEI_C_2133_04_C.png",
+        "accS": "/models/characterv2/face/03/2134c/sourceimages/tex_acc_KEI_C_2133_04_S.png",
+        "accH": "/models/characterv2/face/03/2134c/sourceimages/tex_acc_KEI_C_2133_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2134/ladies_l/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2134/ladies_l/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2134/ladies_l/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/03/2134a/sourceimages/tex_acc_KEI_C_2133_02_C.png",
+        "accS": "/models/characterv2/face/03/2134a/sourceimages/tex_acc_KEI_C_2133_02_S.png",
+        "accH": "/models/characterv2/face/03/2134a/sourceimages/tex_acc_KEI_C_2133_02_H.png"
+      }
+    },
+    "bodyObj": "/models/characterv2/body/99/2134/ladies_l/Body.obj",
+    "faceObj": "/models/characterv2/face/03/2134/fbx/Face.obj",
+    "accObj": "/models/characterv2/face/03/2134/fbx/Acc.obj",
+    "hairObj": "/models/characterv2/face/03/2134/fbx/Hair.obj",
+    "default": {
+      "textures": {
+        "chrC": "/models/characterv2/face/03/0000/sourceimages/tex_chr_KEI_C_00_C.png",
+        "ehlC": "/models/characterv2/face/03/0000/sourceimages/tex_ehl_KEI_C_00_C.png",
+        "faceSdf": "/models/characterv2/face/03/0000/sourceimages/faceSdf.png",
+        "eyeC": "/models/characterv2/face/03/0000/sourceimages/tex_eye_KEI_C_00_C.png",
+        "chrH": "/models/characterv2/face/03/0000/sourceimages/tex_chr_KEI_C_00_H.png",
+        "chrS": "/models/characterv2/face/03/0000/sourceimages/tex_chr_KEI_C_00_S.png"
+      },
+      "faceObj": "/models/characterv2/face/03/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/03/0000/fbx/Hair.obj"
+    }
+  },
+  "1405n": {
+    "textures": {
+      "chrS": "/models/characterv2/face/03/2134n/sourceimages/tex_chr_KEI_C_2133_S.png",
+      "chrC": "/models/characterv2/face/03/2134n/sourceimages/tex_chr_KEI_C_2133_C.png",
+      "ehlC": "/models/characterv2/face/03/2134n/sourceimages/tex_ehl_KEI_C_00_C.png",
+      "faceSdf": "/models/characterv2/face/03/2134n/sourceimages/faceSdf.png",
+      "eyeC": "/models/characterv2/face/03/2134n/sourceimages/tex_eye_KEI_C_00_C.png",
+      "chrH": "/models/characterv2/face/03/2134n/sourceimages/tex_chr_KEI_C_2133_H.png",
+      "bodyC": "/models/characterv2/body/99/2134/ladies_l/sourceimages/tex_bdy_COM_2133_01_C.png",
+      "bodyS": "/models/characterv2/body/99/2134/ladies_l/sourceimages/tex_bdy_COM_2133_01_S.png",
+      "bodyH": "/models/characterv2/body/99/2134/ladies_l/sourceimages/tex_bdy_COM_2133_01_H.png",
+      "accH": "/models/characterv2/face/03/2134/sourceimages/tex_acc_KEI_C_2133_01_H.png",
+      "accC": "/models/characterv2/face/03/2134/sourceimages/tex_acc_KEI_C_2133_01_C.png",
+      "accS": "/models/characterv2/face/03/2134/sourceimages/tex_acc_KEI_C_2133_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2134/ladies_l/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2134/ladies_l/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2134/ladies_l/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/03/2134b/sourceimages/tex_acc_KEI_C_2133_03_C.png",
+        "accS": "/models/characterv2/face/03/2134b/sourceimages/tex_acc_KEI_C_2133_03_S.png",
+        "accH": "/models/characterv2/face/03/2134b/sourceimages/tex_acc_KEI_C_2133_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2134/ladies_l/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2134/ladies_l/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2134/ladies_l/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/03/2134c/sourceimages/tex_acc_KEI_C_2133_04_C.png",
+        "accS": "/models/characterv2/face/03/2134c/sourceimages/tex_acc_KEI_C_2133_04_S.png",
+        "accH": "/models/characterv2/face/03/2134c/sourceimages/tex_acc_KEI_C_2133_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2134/ladies_l/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2134/ladies_l/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2134/ladies_l/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/03/2134a/sourceimages/tex_acc_KEI_C_2133_02_C.png",
+        "accS": "/models/characterv2/face/03/2134a/sourceimages/tex_acc_KEI_C_2133_02_S.png",
+        "accH": "/models/characterv2/face/03/2134a/sourceimages/tex_acc_KEI_C_2133_02_H.png"
+      }
+    },
+    "faceObj": "/models/characterv2/face/03/2134n/fbx/Face.obj",
+    "hairObj": "/models/characterv2/face/03/2134n/fbx/Hair.obj",
+    "accObj": "/models/characterv2/face/03/2134/fbx/Acc.obj",
+    "bodyObj": "/models/characterv2/body/99/2134/ladies_l/Body.obj",
+    "default": {
+      "textures": {
+        "chrC": "/models/characterv2/face/03/0000/sourceimages/tex_chr_KEI_C_00_C.png",
+        "ehlC": "/models/characterv2/face/03/0000/sourceimages/tex_ehl_KEI_C_00_C.png",
+        "faceSdf": "/models/characterv2/face/03/0000/sourceimages/faceSdf.png",
+        "eyeC": "/models/characterv2/face/03/0000/sourceimages/tex_eye_KEI_C_00_C.png",
+        "chrH": "/models/characterv2/face/03/0000/sourceimages/tex_chr_KEI_C_00_H.png",
+        "chrS": "/models/characterv2/face/03/0000/sourceimages/tex_chr_KEI_C_00_S.png"
+      },
+      "faceObj": "/models/characterv2/face/03/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/03/0000/fbx/Hair.obj"
+    }
+  },
+  "1406": {
+    "textures": {
+      "bodyC": "/models/characterv2/body/99/2135/ladies_s/sourceimages/tex_bdy_COM_2134_01_C.png",
+      "bodyS": "/models/characterv2/body/99/2135/ladies_s/sourceimages/tex_bdy_COM_2134_01_S.png",
+      "bodyH": "/models/characterv2/body/99/2135/ladies_s/sourceimages/tex_bdy_COM_2134_01_H.png",
+      "chrS": "/models/characterv2/face/08/2135/sourceimages/tex_chr_IDL_D_2134_S.png",
+      "accS": "/models/characterv2/face/08/2135/sourceimages/tex_acc_IDL_D_2134_01_S.png",
+      "eyeC": "/models/characterv2/face/08/2135/sourceimages/tex_eye_IDL_D_00_C.png",
+      "accC": "/models/characterv2/face/08/2135/sourceimages/tex_acc_IDL_D_2134_01_C.png",
+      "accH": "/models/characterv2/face/08/2135/sourceimages/tex_acc_IDL_D_2134_01_H.png",
+      "faceSdf": "/models/characterv2/face/08/2135/sourceimages/faceSdf.png",
+      "chrC": "/models/characterv2/face/08/2135/sourceimages/tex_chr_IDL_D_2134_C.png",
+      "chrH": "/models/characterv2/face/08/2135/sourceimages/tex_chr_IDL_D_2134_H.png",
+      "ehlC": "/models/characterv2/face/08/2135/sourceimages/tex_ehl_IDL_D_00_C.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2135/ladies_s/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2135/ladies_s/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2135/ladies_s/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/08/2135b/sourceimages/tex_acc_IDL_D_2134_03_C.png",
+        "accS": "/models/characterv2/face/08/2135b/sourceimages/tex_acc_IDL_D_2134_03_S.png",
+        "accH": "/models/characterv2/face/08/2135b/sourceimages/tex_acc_IDL_D_2134_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2135/ladies_s/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2135/ladies_s/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2135/ladies_s/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/08/2135c/sourceimages/tex_acc_IDL_D_2134_04_C.png",
+        "accS": "/models/characterv2/face/08/2135c/sourceimages/tex_acc_IDL_D_2134_04_S.png",
+        "accH": "/models/characterv2/face/08/2135c/sourceimages/tex_acc_IDL_D_2134_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2135/ladies_s/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2135/ladies_s/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2135/ladies_s/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/08/2135a/sourceimages/tex_acc_IDL_D_2134_02_C.png",
+        "accS": "/models/characterv2/face/08/2135a/sourceimages/tex_acc_IDL_D_2134_02_S.png",
+        "accH": "/models/characterv2/face/08/2135a/sourceimages/tex_acc_IDL_D_2134_02_H.png"
+      }
+    },
+    "bodyObj": "/models/characterv2/body/99/2135/ladies_s/Body.obj",
+    "faceObj": "/models/characterv2/face/08/2135/fbx/Face.obj",
+    "accObj": "/models/characterv2/face/08/2135/fbx/Acc.obj",
+    "hairObj": "/models/characterv2/face/08/2135/fbx/Hair.obj",
+    "default": {
+      "textures": {
+        "eyeC": "/models/characterv2/face/08/0000/sourceimages/tex_eye_IDL_D_00_C.png",
+        "faceSdf": "/models/characterv2/face/08/0000/sourceimages/faceSdf.png",
+        "chrC": "/models/characterv2/face/08/0000/sourceimages/tex_chr_IDL_D_00_C.png",
+        "chrS": "/models/characterv2/face/08/0000/sourceimages/tex_chr_IDL_D_00_S.png",
+        "chrH": "/models/characterv2/face/08/0000/sourceimages/tex_chr_IDL_D_00_H.png",
+        "ehlC": "/models/characterv2/face/08/0000/sourceimages/tex_ehl_IDL_D_00_C.png"
+      },
+      "faceObj": "/models/characterv2/face/08/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/08/0000/fbx/Hair.obj"
+    }
+  },
+  "1406n": {
+    "textures": {
+      "chrS": "/models/characterv2/face/08/2135n/sourceimages/tex_chr_IDL_D_2134_S.png",
+      "eyeC": "/models/characterv2/face/08/2135n/sourceimages/tex_eye_IDL_D_00_C.png",
+      "faceSdf": "/models/characterv2/face/08/2135n/sourceimages/faceSdf.png",
+      "chrC": "/models/characterv2/face/08/2135n/sourceimages/tex_chr_IDL_D_2134_C.png",
+      "chrH": "/models/characterv2/face/08/2135n/sourceimages/tex_chr_IDL_D_2134_H.png",
+      "ehlC": "/models/characterv2/face/08/2135n/sourceimages/tex_ehl_IDL_D_00_C.png",
+      "bodyC": "/models/characterv2/body/99/2135/ladies_s/sourceimages/tex_bdy_COM_2134_01_C.png",
+      "bodyS": "/models/characterv2/body/99/2135/ladies_s/sourceimages/tex_bdy_COM_2134_01_S.png",
+      "bodyH": "/models/characterv2/body/99/2135/ladies_s/sourceimages/tex_bdy_COM_2134_01_H.png",
+      "accS": "/models/characterv2/face/08/2135/sourceimages/tex_acc_IDL_D_2134_01_S.png",
+      "accC": "/models/characterv2/face/08/2135/sourceimages/tex_acc_IDL_D_2134_01_C.png",
+      "accH": "/models/characterv2/face/08/2135/sourceimages/tex_acc_IDL_D_2134_01_H.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2135/ladies_s/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2135/ladies_s/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2135/ladies_s/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/08/2135b/sourceimages/tex_acc_IDL_D_2134_03_C.png",
+        "accS": "/models/characterv2/face/08/2135b/sourceimages/tex_acc_IDL_D_2134_03_S.png",
+        "accH": "/models/characterv2/face/08/2135b/sourceimages/tex_acc_IDL_D_2134_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2135/ladies_s/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2135/ladies_s/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2135/ladies_s/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/08/2135c/sourceimages/tex_acc_IDL_D_2134_04_C.png",
+        "accS": "/models/characterv2/face/08/2135c/sourceimages/tex_acc_IDL_D_2134_04_S.png",
+        "accH": "/models/characterv2/face/08/2135c/sourceimages/tex_acc_IDL_D_2134_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2135/ladies_s/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2135/ladies_s/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2135/ladies_s/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/08/2135a/sourceimages/tex_acc_IDL_D_2134_02_C.png",
+        "accS": "/models/characterv2/face/08/2135a/sourceimages/tex_acc_IDL_D_2134_02_S.png",
+        "accH": "/models/characterv2/face/08/2135a/sourceimages/tex_acc_IDL_D_2134_02_H.png"
+      }
+    },
+    "faceObj": "/models/characterv2/face/08/2135n/fbx/Face.obj",
+    "hairObj": "/models/characterv2/face/08/2135n/fbx/Hair.obj",
+    "accObj": "/models/characterv2/face/08/2135/fbx/Acc.obj",
+    "bodyObj": "/models/characterv2/body/99/2135/ladies_s/Body.obj",
+    "default": {
+      "textures": {
+        "eyeC": "/models/characterv2/face/08/0000/sourceimages/tex_eye_IDL_D_00_C.png",
+        "faceSdf": "/models/characterv2/face/08/0000/sourceimages/faceSdf.png",
+        "chrC": "/models/characterv2/face/08/0000/sourceimages/tex_chr_IDL_D_00_C.png",
+        "chrS": "/models/characterv2/face/08/0000/sourceimages/tex_chr_IDL_D_00_S.png",
+        "chrH": "/models/characterv2/face/08/0000/sourceimages/tex_chr_IDL_D_00_H.png",
+        "ehlC": "/models/characterv2/face/08/0000/sourceimages/tex_ehl_IDL_D_00_C.png"
+      },
+      "faceObj": "/models/characterv2/face/08/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/08/0000/fbx/Hair.obj"
+    }
+  },
+  "1407": {
+    "textures": {
+      "bodyC": "/models/characterv2/body/99/2136/ladies_s/sourceimages/tex_bdy_COM_2135_01_C.png",
+      "bodyS": "/models/characterv2/body/99/2136/ladies_s/sourceimages/tex_bdy_COM_2135_01_S.png",
+      "bodyH": "/models/characterv2/body/99/2136/ladies_s/sourceimages/tex_bdy_COM_2135_01_H.png",
+      "chrS": "/models/characterv2/face/09/2136/sourceimages/tex_chr_STR_A_2135_S.png",
+      "chrC": "/models/characterv2/face/09/2136/sourceimages/tex_chr_STR_A_2135_C.png",
+      "eyeC": "/models/characterv2/face/09/2136/sourceimages/tex_eye_STR_A_00_C.png",
+      "accC": "/models/characterv2/face/09/2136/sourceimages/tex_acc_STR_A_2135_01_C.png",
+      "accS": "/models/characterv2/face/09/2136/sourceimages/tex_acc_STR_A_2135_01_S.png",
+      "faceSdf": "/models/characterv2/face/09/2136/sourceimages/faceSdf.png",
+      "ehlC": "/models/characterv2/face/09/2136/sourceimages/tex_ehl_STR_A_00_C.png",
+      "chrH": "/models/characterv2/face/09/2136/sourceimages/tex_chr_STR_A_2135_H.png",
+      "accH": "/models/characterv2/face/09/2136/sourceimages/tex_acc_STR_A_2135_01_H.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2136/ladies_s/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2136/ladies_s/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2136/ladies_s/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/09/2136b/sourceimages/tex_acc_STR_A_2135_03_C.png",
+        "accS": "/models/characterv2/face/09/2136b/sourceimages/tex_acc_STR_A_2135_03_S.png",
+        "accH": "/models/characterv2/face/09/2136b/sourceimages/tex_acc_STR_A_2135_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2136/ladies_s/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2136/ladies_s/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2136/ladies_s/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/09/2136c/sourceimages/tex_acc_STR_A_2135_04_C.png",
+        "accS": "/models/characterv2/face/09/2136c/sourceimages/tex_acc_STR_A_2135_04_S.png",
+        "accH": "/models/characterv2/face/09/2136c/sourceimages/tex_acc_STR_A_2135_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2136/ladies_s/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2136/ladies_s/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2136/ladies_s/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/09/2136a/sourceimages/tex_acc_STR_A_2135_02_C.png",
+        "accS": "/models/characterv2/face/09/2136a/sourceimages/tex_acc_STR_A_2135_02_S.png",
+        "accH": "/models/characterv2/face/09/2136a/sourceimages/tex_acc_STR_A_2135_02_H.png"
+      }
+    },
+    "bodyObj": "/models/characterv2/body/99/2136/ladies_s/Body.obj",
+    "faceObj": "/models/characterv2/face/09/2136/fbx/Face.obj",
+    "accObj": "/models/characterv2/face/09/2136/fbx/Acc.obj",
+    "hairObj": "/models/characterv2/face/09/2136/fbx/Hair.obj",
+    "default": {
+      "textures": {
+        "eyeC": "/models/characterv2/face/09/0000/sourceimages/tex_eye_STR_A_00_C.png",
+        "chrS": "/models/characterv2/face/09/0000/sourceimages/tex_chr_STR_A_00_S.png",
+        "chrH": "/models/characterv2/face/09/0000/sourceimages/tex_chr_STR_A_00_H.png",
+        "faceSdf": "/models/characterv2/face/09/0000/sourceimages/faceSdf.png",
+        "ehlC": "/models/characterv2/face/09/0000/sourceimages/tex_ehl_STR_A_00_C.png",
+        "chrC": "/models/characterv2/face/09/0000/sourceimages/tex_chr_STR_A_00_C.png"
+      },
+      "faceObj": "/models/characterv2/face/09/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/09/0000/fbx/Hair.obj"
+    }
+  },
+  "1407n": {
+    "textures": {
+      "chrS": "/models/characterv2/face/09/2136n/sourceimages/tex_chr_STR_A_2135_S.png",
+      "chrC": "/models/characterv2/face/09/2136n/sourceimages/tex_chr_STR_A_2135_C.png",
+      "eyeC": "/models/characterv2/face/09/2136n/sourceimages/tex_eye_STR_A_00_C.png",
+      "faceSdf": "/models/characterv2/face/09/2136n/sourceimages/faceSdf.png",
+      "ehlC": "/models/characterv2/face/09/2136n/sourceimages/tex_ehl_STR_A_00_C.png",
+      "chrH": "/models/characterv2/face/09/2136n/sourceimages/tex_chr_STR_A_2135_H.png",
+      "bodyC": "/models/characterv2/body/99/2136/ladies_s/sourceimages/tex_bdy_COM_2135_01_C.png",
+      "bodyS": "/models/characterv2/body/99/2136/ladies_s/sourceimages/tex_bdy_COM_2135_01_S.png",
+      "bodyH": "/models/characterv2/body/99/2136/ladies_s/sourceimages/tex_bdy_COM_2135_01_H.png",
+      "accC": "/models/characterv2/face/09/2136/sourceimages/tex_acc_STR_A_2135_01_C.png",
+      "accS": "/models/characterv2/face/09/2136/sourceimages/tex_acc_STR_A_2135_01_S.png",
+      "accH": "/models/characterv2/face/09/2136/sourceimages/tex_acc_STR_A_2135_01_H.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2136/ladies_s/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2136/ladies_s/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2136/ladies_s/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/09/2136b/sourceimages/tex_acc_STR_A_2135_03_C.png",
+        "accS": "/models/characterv2/face/09/2136b/sourceimages/tex_acc_STR_A_2135_03_S.png",
+        "accH": "/models/characterv2/face/09/2136b/sourceimages/tex_acc_STR_A_2135_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2136/ladies_s/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2136/ladies_s/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2136/ladies_s/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/09/2136c/sourceimages/tex_acc_STR_A_2135_04_C.png",
+        "accS": "/models/characterv2/face/09/2136c/sourceimages/tex_acc_STR_A_2135_04_S.png",
+        "accH": "/models/characterv2/face/09/2136c/sourceimages/tex_acc_STR_A_2135_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2136/ladies_s/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2136/ladies_s/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2136/ladies_s/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/09/2136a/sourceimages/tex_acc_STR_A_2135_02_C.png",
+        "accS": "/models/characterv2/face/09/2136a/sourceimages/tex_acc_STR_A_2135_02_S.png",
+        "accH": "/models/characterv2/face/09/2136a/sourceimages/tex_acc_STR_A_2135_02_H.png"
+      }
+    },
+    "faceObj": "/models/characterv2/face/09/2136n/fbx/Face.obj",
+    "hairObj": "/models/characterv2/face/09/2136n/fbx/Hair.obj",
+    "accObj": "/models/characterv2/face/09/2136/fbx/Acc.obj",
+    "bodyObj": "/models/characterv2/body/99/2136/ladies_s/Body.obj",
+    "default": {
+      "textures": {
+        "eyeC": "/models/characterv2/face/09/0000/sourceimages/tex_eye_STR_A_00_C.png",
+        "chrS": "/models/characterv2/face/09/0000/sourceimages/tex_chr_STR_A_00_S.png",
+        "chrH": "/models/characterv2/face/09/0000/sourceimages/tex_chr_STR_A_00_H.png",
+        "faceSdf": "/models/characterv2/face/09/0000/sourceimages/faceSdf.png",
+        "ehlC": "/models/characterv2/face/09/0000/sourceimages/tex_ehl_STR_A_00_C.png",
+        "chrC": "/models/characterv2/face/09/0000/sourceimages/tex_chr_STR_A_00_C.png"
+      },
+      "faceObj": "/models/characterv2/face/09/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/09/0000/fbx/Hair.obj"
+    }
+  },
+  "1408": {
+    "textures": {
+      "bodyS": "/models/characterv2/body/99/2137/ladies_l/sourceimages/tex_bdy_COM_2136_01_S.png",
+      "bodyC": "/models/characterv2/body/99/2137/ladies_l/sourceimages/tex_bdy_COM_2136_01_C.png",
+      "bodyH": "/models/characterv2/body/99/2137/ladies_l/sourceimages/tex_bdy_COM_2136_01_H.png",
+      "chrS": "/models/characterv2/face/18/2137/sourceimages/tex_chr_SCL_B_2136_S.png",
+      "chrH": "/models/characterv2/face/18/2137/sourceimages/tex_chr_SCL_B_2136_H.png",
+      "eyeC": "/models/characterv2/face/18/2137/sourceimages/tex_eye_SCL_B_00_C.png",
+      "faceSdf": "/models/characterv2/face/18/2137/sourceimages/faceSdf.png",
+      "ehlC": "/models/characterv2/face/18/2137/sourceimages/tex_ehl_SCL_B_00_C.png",
+      "accS": "/models/characterv2/face/18/2137/sourceimages/tex_acc_SCL_B_2136_01_S.png",
+      "accH": "/models/characterv2/face/18/2137/sourceimages/tex_acc_SCL_B_2136_01_H.png",
+      "chrC": "/models/characterv2/face/18/2137/sourceimages/tex_chr_SCL_B_2136_C.png",
+      "accC": "/models/characterv2/face/18/2137/sourceimages/tex_acc_SCL_B_2136_01_C.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2137/ladies_l/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2137/ladies_l/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2137/ladies_l/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/18/2137b/sourceimages/tex_acc_SCL_B_2136_03_C.png",
+        "accS": "/models/characterv2/face/18/2137b/sourceimages/tex_acc_SCL_B_2136_03_S.png",
+        "accH": "/models/characterv2/face/18/2137b/sourceimages/tex_acc_SCL_B_2136_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2137/ladies_l/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2137/ladies_l/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2137/ladies_l/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/18/2137c/sourceimages/tex_acc_SCL_B_2136_04_C.png",
+        "accS": "/models/characterv2/face/18/2137c/sourceimages/tex_acc_SCL_B_2136_04_S.png",
+        "accH": "/models/characterv2/face/18/2137c/sourceimages/tex_acc_SCL_B_2136_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2137/ladies_l/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2137/ladies_l/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2137/ladies_l/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/18/2137a/sourceimages/tex_acc_SCL_B_2136_02_C.png",
+        "accS": "/models/characterv2/face/18/2137a/sourceimages/tex_acc_SCL_B_2136_02_S.png",
+        "accH": "/models/characterv2/face/18/2137a/sourceimages/tex_acc_SCL_B_2136_02_H.png"
+      }
+    },
+    "bodyObj": "/models/characterv2/body/99/2137/ladies_l/Body.obj",
+    "faceObj": "/models/characterv2/face/18/2137/fbx/Face.obj",
+    "accObj": "/models/characterv2/face/18/2137/fbx/Acc.obj",
+    "hairObj": "/models/characterv2/face/18/2137/fbx/Hair.obj",
+    "default": {
+      "textures": {
+        "chrS": "/models/characterv2/face/18/0000/sourceimages/tex_chr_SCL_B_00_S.png",
+        "eyeC": "/models/characterv2/face/18/0000/sourceimages/tex_eye_SCL_B_00_C.png",
+        "faceSdf": "/models/characterv2/face/18/0000/sourceimages/faceSdf.png",
+        "ehlC": "/models/characterv2/face/18/0000/sourceimages/tex_ehl_SCL_B_00_C.png",
+        "chrC": "/models/characterv2/face/18/0000/sourceimages/tex_chr_SCL_B_00_C.png",
+        "chrH": "/models/characterv2/face/18/0000/sourceimages/tex_chr_SCL_B_00_H.png"
+      },
+      "faceObj": "/models/characterv2/face/18/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/18/0000/fbx/Hair.obj"
+    }
+  },
+  "1408n": {
+    "textures": {
+      "chrS": "/models/characterv2/face/18/2137n/sourceimages/tex_chr_SCL_B_2136_S.png",
+      "chrH": "/models/characterv2/face/18/2137n/sourceimages/tex_chr_SCL_B_2136_H.png",
+      "eyeC": "/models/characterv2/face/18/2137n/sourceimages/tex_eye_SCL_B_00_C.png",
+      "faceSdf": "/models/characterv2/face/18/2137n/sourceimages/faceSdf.png",
+      "ehlC": "/models/characterv2/face/18/2137n/sourceimages/tex_ehl_SCL_B_00_C.png",
+      "chrC": "/models/characterv2/face/18/2137n/sourceimages/tex_chr_SCL_B_2136_C.png",
+      "bodyS": "/models/characterv2/body/99/2137/ladies_l/sourceimages/tex_bdy_COM_2136_01_S.png",
+      "bodyC": "/models/characterv2/body/99/2137/ladies_l/sourceimages/tex_bdy_COM_2136_01_C.png",
+      "bodyH": "/models/characterv2/body/99/2137/ladies_l/sourceimages/tex_bdy_COM_2136_01_H.png",
+      "accS": "/models/characterv2/face/18/2137/sourceimages/tex_acc_SCL_B_2136_01_S.png",
+      "accH": "/models/characterv2/face/18/2137/sourceimages/tex_acc_SCL_B_2136_01_H.png",
+      "accC": "/models/characterv2/face/18/2137/sourceimages/tex_acc_SCL_B_2136_01_C.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2137/ladies_l/02/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2137/ladies_l/02/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2137/ladies_l/02/tex_body_H.png",
+        "accC": "/models/characterv2/face/18/2137b/sourceimages/tex_acc_SCL_B_2136_03_C.png",
+        "accS": "/models/characterv2/face/18/2137b/sourceimages/tex_acc_SCL_B_2136_03_S.png",
+        "accH": "/models/characterv2/face/18/2137b/sourceimages/tex_acc_SCL_B_2136_03_H.png"
+      },
+      "03": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2137/ladies_l/03/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2137/ladies_l/03/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2137/ladies_l/03/tex_body_H.png",
+        "accC": "/models/characterv2/face/18/2137c/sourceimages/tex_acc_SCL_B_2136_04_C.png",
+        "accS": "/models/characterv2/face/18/2137c/sourceimages/tex_acc_SCL_B_2136_04_S.png",
+        "accH": "/models/characterv2/face/18/2137c/sourceimages/tex_acc_SCL_B_2136_04_H.png"
+      },
+      "01": {
+        "bodyS": "/models/characterv2/color_variation/body/99/2137/ladies_l/01/tex_body_S.png",
+        "bodyC": "/models/characterv2/color_variation/body/99/2137/ladies_l/01/tex_body_C.png",
+        "bodyH": "/models/characterv2/color_variation/body/99/2137/ladies_l/01/tex_body_H.png",
+        "accC": "/models/characterv2/face/18/2137a/sourceimages/tex_acc_SCL_B_2136_02_C.png",
+        "accS": "/models/characterv2/face/18/2137a/sourceimages/tex_acc_SCL_B_2136_02_S.png",
+        "accH": "/models/characterv2/face/18/2137a/sourceimages/tex_acc_SCL_B_2136_02_H.png"
+      }
+    },
+    "faceObj": "/models/characterv2/face/18/2137n/fbx/Face.obj",
+    "hairObj": "/models/characterv2/face/18/2137n/fbx/Hair.obj",
+    "accObj": "/models/characterv2/face/18/2137/fbx/Acc.obj",
+    "bodyObj": "/models/characterv2/body/99/2137/ladies_l/Body.obj",
+    "default": {
+      "textures": {
+        "chrS": "/models/characterv2/face/18/0000/sourceimages/tex_chr_SCL_B_00_S.png",
+        "eyeC": "/models/characterv2/face/18/0000/sourceimages/tex_eye_SCL_B_00_C.png",
+        "faceSdf": "/models/characterv2/face/18/0000/sourceimages/faceSdf.png",
+        "ehlC": "/models/characterv2/face/18/0000/sourceimages/tex_ehl_SCL_B_00_C.png",
+        "chrC": "/models/characterv2/face/18/0000/sourceimages/tex_chr_SCL_B_00_C.png",
+        "chrH": "/models/characterv2/face/18/0000/sourceimages/tex_chr_SCL_B_00_H.png"
+      },
+      "faceObj": "/models/characterv2/face/18/0000/fbx/Face.obj",
+      "hairObj": "/models/characterv2/face/18/0000/fbx/Hair.obj"
+    }
+  },
   "9001": {
     "textures": {
       "ehlC": "/models/characterv2/face/19/9001/sourceimages/tex_ehl_SCL_C_00_C.png",

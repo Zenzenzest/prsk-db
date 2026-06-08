@@ -10465,5 +10465,62 @@
       22, 23, 24, 25, 26
     ],
     "summary": "Introducing the 4.5 Year Anniversary Heartfelt Gift Gacha!\n\nYou are guaranteed at least one 4★ Character when pulling from this Gacha.\nIt also comes with 4.5 Year Anniversary Gift Ticket x50. 4.5 Year Anniversary Gift Tickets can be used in the 4.5 Year Anniversary Gift Ticket Exchange.\n\n4★ Characters will be pulled from a lineup of General Characters that have featured in Gacha up to 12:00 PM (PT) on Dec. 21, 2025.\n*Bloom Festival Exclusive Characters, Colorful Festival Exclusive Characters, Limited Time Characters, Group Event Exclusive Characters, Birthday Exclusive Characters, Anniversary Exclusive Characters and Crossover/Collaboration Exclusive Characters will not appear in this Gacha.\n\n■ 4.5 Year Anniversary Gift Ticket Exchange\nThe 4.5 Year Anniversary Gift Ticket Exchange lineup is as follows:\nVS Wish Jewel x1 (Trade Limit: 1, Tickets Required: 30)\nL/N Wish Jewel x1 (Trade Limit: 1, Tickets Required: 30)\nMMJ Wish Jewel x1 (Trade Limit: 1, Tickets Required: 30)\nVBS Wish Jewel x1 (Trade Limit: 1, Tickets Required: 30)\nWXS Wish Jewel x1 (Trade Limit: 1, Tickets Required: 30)\nN25 Wish Jewel x1 (Trade Limit: 1, Tickets Required: 30)\nSkill Up Score (Advanced) x1 (Trade Limit: 10, Tickets Required: 3)\nPractice Score (Advanced) x10 (Trade Limit: 10, Tickets Required: 3)\nMiracle Gem x20 (Trade Limit: 25, Tickets Required: 1)\nCute Gem x1,000 (Trade Limit: 10, Tickets Required: 1)\nCool Gem x1,000 (Trade Limit: 10, Tickets Required: 1)\nPure Gem x1,000 (Trade Limit: 10, Tickets Required: 1)\nHappy Gem x1,000 (Trade Limit: 10, Tickets Required: 1)\nMysterious Gem x1,000 (Trade Limit: 10, Tickets Required: 1)\nBonus Energy Drink (L) x1 (Trade Limit: 50, Tickets Required: 1)\nMiku's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nRin's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nLen's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nLuka's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nMEIKO's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nKAITO's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nIchika's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nSaki's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nHonami's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nShiho's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nMinori's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nHaruka's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nAiri's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nShizuku's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nKohane's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nAn's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nAkito's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nToya's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nTsukasa's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nEmu's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nNene's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nRui's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nKanade's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nMafuyu's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nEna's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\nMizuki's Wish Vial x2 (Trade Limit: 1, Tickets Required: 3)\n\n\nSome 4★ Characters that are pulled for the first time come with a Costume.\nGetting a Costume unlocks the option in the Costume Shop to make it for other characters that can wear it.\nCostumes made for other characters may come with slightly different patterns or Accessories.\nTo view Costume details, go to Characters > Costumes.\n"
+  },
+  {
+    "id": 768,
+    "name": "Past Fragments Gacha",
+    "sekai_id": 959,
+    "characters": [3, 8, 9, 18, 24],
+    "cards": [1404, 1405, 1406, 1407, 1408],
+    "banner_type": "World Link Gacha",
+    "keywords": ["wl3","wl","world link 3"],
+    "start": 1812481200000,
+    "end": 1813517999000,
+    "event_id": 207
+  },
+  {
+    "id": 769,
+    "name": "[Rerun] Radiant Daybreak Gacha",
+    "sekai_id": 960,
+    "characters": [9, 12, 21],
+    "cards": [1180, 1181, 1182],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "kohane",
+      "kohane6",
+      "koha6",
+      "focus"
+    ],
+    "start": 1814328000000,
+    "end": 1814328000000,
+    "type": "rerun_estimation",
+    "rerun": [1812337200000, 1813978799000],
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 770,
+    "name": "[Rerun] Musical Street Corner Gacha",
+    "sekai_id": 961,
+    "characters": [1, 2, 3],
+    "cards": [1022, 1023, 1024],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": [
+      "leo/need",
+      "leoneed",
+      "ln",
+      "leoni",
+      "focus",
+      "saki",
+      "saki6"
+    ],
+    "start": 1814328000000,
+    "end": 1814328000000,
+    "type": "rerun_estimation",
+    "rerun": [1812337200000, 1813978799000],
+    "tag": "Last Rerun"
   }
 ]

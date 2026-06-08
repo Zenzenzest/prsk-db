@@ -4085,5 +4085,44 @@
     "keywords": ["wedding", "marriage", "groom", "bride"],
     "type": "Mixed Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/To_You,_Who_Flies_to_the_Farthest_Ends"
+  },
+  {
+    "id": 207,
+    "name": "Into The New Light",
+    "unit": "mixed",
+    "cards": [1404, 1405, 1406, 1407, 1408],
+    "start": 1812510000000,
+    "end": 1813373999000,
+    "close": 1813528799000,
+    "event_type": "world_bloom",
+    "keywords": ["wl3", "wl", "world link 3"],
+    "type": "World Link 3 Event",
+    "schedule": [
+      {
+        "char_chapter": 24,
+        "start": 1812510000000,
+        "end": 1812682799000
+      },
+      {
+        "char_chapter": 8,
+        "start": 1812682800000,
+        "end": 1812855599000
+      },
+      {
+        "char_chapter": 3,
+        "start": 1812855600000,
+        "end": 1813028399000
+      },
+      {
+        "char_chapter": 9,
+        "start": 1813028400000,
+        "end": 1813201199000
+      },
+      {
+        "char_chapter": 18,
+        "start": 1813201200000,
+        "end": 1813373999000
+      }
+    ]
   }
 ]
