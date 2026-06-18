@@ -10473,7 +10473,7 @@
     "characters": [3, 8, 9, 18, 24],
     "cards": [1404, 1405, 1406, 1407, 1408],
     "banner_type": "World Link Gacha",
-    "keywords": ["wl3","wl","world link 3"],
+    "keywords": ["wl3", "wl", "world link 3"],
     "start": 1812481200000,
     "end": 1813517999000,
     "event_id": 207
@@ -10522,5 +10522,27 @@
     "type": "rerun_estimation",
     "rerun": [1812337200000, 1813978799000],
     "tag": "Last Rerun"
+  },
+  {
+    "id": 771,
+    "name": "Rui Kamishiro Happy Birthday 2027 Gacha",
+    "sekai_id": 962,
+    "characters": [16],
+    "cards": [1409],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1813474800000,
+    "end": 1814079599000
+  },
+  {
+    "id": 772,
+    "name": "Rui Kamishiro Happy Birthday Memories Gacha",
+    "sekai_id": 963,
+    "characters": [16],
+    "cards": [1193, 948, 669, 455],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1813474800000,
+    "end": 1814079599000
   }
 ]

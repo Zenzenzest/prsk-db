@@ -21045,5 +21045,19 @@
     "character": "Asahina Mafuyu",
     "unit": "Nightcord at 25:00",
     "skillId": 4
+  },
+  {
+    "id": 1409,
+    "name": "Happy Birthday！！2027",
+    "jp_name": "Happy Birthday！！2026",
+    "attribute": "Cute",
+    "rarity": 5,
+    "card_type": "bday",
+    "jp_released": 1781881200000,
+    "en_released": 1813474800000,
+    "charId": 16,
+    "character": "Kamishiro Rui",
+    "unit": "Wonderlands x Showtime",
+    "skillId": 14
   }
 ]

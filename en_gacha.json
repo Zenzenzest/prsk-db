@@ -37127,5 +37127,71 @@
         "isWish": []
       }
     ]
+  },
+  {
+    "id": 771,
+    "gachaCardRarityRates": [
+      {
+        "id": 9,
+        "groupId": 4,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 10,
+        "groupId": 4,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 11,
+        "groupId": 4,
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "weight": 1,
+        "cardIds": [1409],
+        "isWish": []
+      }
+    ]
+  },
+  {
+    "id": 772,
+    "gachaCardRarityRates": [
+      {
+        "id": 9,
+        "groupId": 4,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 10,
+        "groupId": 4,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 11,
+        "groupId": 4,
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "weight": 1,
+        "cardIds": [455, 669, 948, 1193],
+        "isWish": []
+      }
+    ]
   }
 ]
