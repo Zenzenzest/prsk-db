@@ -10544,5 +10544,16 @@
     "keywords": [],
     "start": 1813474800000,
     "end": 1814079599000
+  },
+  {
+    "id": 773,
+    "name": "DEEMO×Cytus Series Collaboration Premium Gift Gacha",
+    "sekai_id": 965,
+    "start": 1781992800000,
+    "end": 1783061999000,
+    "cards": [1047, 998, 1111, 1066, 1133, 1139],
+    "banner_type": "Premium Gift",
+    "keywords": [],
+    "characters": [1, 5, 9, 13, 17, 21]
   }
 ]
