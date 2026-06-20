@@ -10555,5 +10555,29 @@
     "banner_type": "Premium Gift",
     "keywords": [],
     "characters": [1, 5, 9, 13, 17, 21]
+  },
+  {
+    "id": 774,
+    "name": "Act In The Chaos Gacha",
+    "sekai_id": 964,
+    "characters": [13, 14, 16],
+    "cards": [1410, 1411, 1412],
+    "banner_type": "Permanent Gacha",
+    "keywords": [
+      "wxs",
+      "wandasho",
+      "wansho",
+      "wonderland",
+      "showtime",
+      "tsukasa",
+      "loud",
+      "obnoxious",
+      "kasa7",
+      "tsukasa7",
+      "focus"
+    ],
+    "start": 1813518000000,
+    "end": 1814381999000,
+    "event_id": 208
   }
 ]

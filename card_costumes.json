@@ -60828,5 +60828,278 @@
                 "name": "Wise Aurora"
             }
         ]
+    },
+    {
+        "id": 1410,
+        "charId": 13,
+        "costumes": [
+            {
+                "id": 993017,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "13/2146",
+                "thumbnail": "cos0993_unique_head"
+            },
+            {
+                "id": 993019,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "13/2146a",
+                "thumbnail": "cos0993_unique_head_01"
+            },
+            {
+                "id": 993021,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "13/2146b",
+                "thumbnail": "cos0993_unique_head_02"
+            },
+            {
+                "id": 993023,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "13/2146c",
+                "thumbnail": "cos0993_unique_head_03"
+            },
+            {
+                "id": 993018,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2146",
+                "thumbnail": "cos0993_body"
+            },
+            {
+                "id": 993020,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2146",
+                "thumbnail": "cos0993_body_01"
+            },
+            {
+                "id": 993022,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2146",
+                "thumbnail": "cos0993_body_02"
+            },
+            {
+                "id": 993024,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2146",
+                "thumbnail": "cos0993_body_03"
+            },
+            {
+                "id": 993049,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2146/a02",
+                "thumbnail": "cos0993_head"
+            },
+            {
+                "id": 993050,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2146/a02",
+                "thumbnail": "cos0993_head_01"
+            },
+            {
+                "id": 993051,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2146/a02",
+                "thumbnail": "cos0993_head_02"
+            },
+            {
+                "id": 993052,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2146/a02",
+                "thumbnail": "cos0993_head_03",
+                "name": "Repaint the world"
+            }
+        ]
+    },
+    {
+        "id": 1411,
+        "charId": 14,
+        "costumes": [
+            {
+                "id": 994081,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "14/2147",
+                "thumbnail": "cos0994_unique_head"
+            },
+            {
+                "id": 994083,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "14/2147a",
+                "thumbnail": "cos0994_unique_head_01"
+            },
+            {
+                "id": 994085,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "14/2147b",
+                "thumbnail": "cos0994_unique_head_02"
+            },
+            {
+                "id": 994087,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "14/2147c",
+                "thumbnail": "cos0994_unique_head_03"
+            },
+            {
+                "id": 994082,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2147",
+                "thumbnail": "cos0994_body"
+            },
+            {
+                "id": 994084,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2147",
+                "thumbnail": "cos0994_body_01"
+            },
+            {
+                "id": 994086,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2147",
+                "thumbnail": "cos0994_body_02"
+            },
+            {
+                "id": 994088,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2147",
+                "thumbnail": "cos0994_body_03"
+            },
+            {
+                "id": 994161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2147/a02",
+                "thumbnail": "cos0994_head"
+            },
+            {
+                "id": 994162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2147/a02",
+                "thumbnail": "cos0994_head_01"
+            },
+            {
+                "id": 994163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2147/a02",
+                "thumbnail": "cos0994_head_02"
+            },
+            {
+                "id": 994164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2147/a02",
+                "thumbnail": "cos0994_head_03",
+                "name": "Patchwork Heart"
+            }
+        ]
+    },
+    {
+        "id": 1412,
+        "charId": 16,
+        "costumes": [
+            {
+                "id": 995025,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "16/2148",
+                "thumbnail": "cos0995_unique_head"
+            },
+            {
+                "id": 995027,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "16/2148a",
+                "thumbnail": "cos0995_unique_head_01"
+            },
+            {
+                "id": 995029,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "16/2148b",
+                "thumbnail": "cos0995_unique_head_02"
+            },
+            {
+                "id": 995031,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "16/2148c",
+                "thumbnail": "cos0995_unique_head_03"
+            },
+            {
+                "id": 995026,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2148",
+                "thumbnail": "cos0995_body"
+            },
+            {
+                "id": 995028,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2148",
+                "thumbnail": "cos0995_body_01"
+            },
+            {
+                "id": 995030,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2148",
+                "thumbnail": "cos0995_body_02"
+            },
+            {
+                "id": 995032,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2148",
+                "thumbnail": "cos0995_body_03"
+            },
+            {
+                "id": 995049,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2148/a03",
+                "thumbnail": "cos0995_head"
+            },
+            {
+                "id": 995050,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2148/a03",
+                "thumbnail": "cos0995_head_01"
+            },
+            {
+                "id": 995051,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2148/a03",
+                "thumbnail": "cos0995_head_02"
+            },
+            {
+                "id": 995052,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2148/a03",
+                "thumbnail": "cos0995_head_03",
+                "name": "Crumbling Heart"
+            }
+        ]
     }
 ]

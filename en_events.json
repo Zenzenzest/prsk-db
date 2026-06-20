@@ -4126,5 +4126,30 @@
     ],
     "music_id": 742,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Into_the_New_Light"
+  },
+  {
+    "id": 208,
+    "name": "Phantom Maze Monster",
+    "unit": "wxs",
+    "cards": [1410, 1411, 1412, 1413, 1414],
+    "start": 1813528800000,
+    "end": 1814241599000,
+    "close": 1814392799000,
+    "event_type": "marathon",
+    "keywords": [
+      "wxs",
+      "wandasho",
+      "wansho",
+      "wonderland",
+      "showtime",
+      "tsukasa",
+      "loud",
+      "obnoxious",
+      "kasa7",
+      "tsukasa7",
+      "focus"
+    ],
+    "type": "Tsukasa 7th Focus Event",
+    "music_id": 760
   }
 ]
