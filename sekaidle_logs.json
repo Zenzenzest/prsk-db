@@ -1,0 +1,235 @@
+[
+  {
+    "version": "1.0.0",
+    "title": "Release",
+    "description": "",
+    "date": 1760252400000
+  },
+
+  {
+    "version": "1.0.1",
+    "title": "Styling Adjustments",
+    "description": "",
+    "date": 1762153200000
+  },
+  {
+    "version": "1.0.2",
+    "title": "Fix Character Schedule",
+    "description": "",
+    "date": 1762484400000
+  },
+  {
+    "version": "1.0.3",
+    "title": "Fix Version Bumping",
+    "description": "",
+    "date": 1762494562000
+  },
+  {
+    "version": "1.0.4",
+    "title": "Fix: Data Fetching Rework and Loading Screen Progress",
+    "description": "",
+    "date": 1762689725000
+  },
+  {
+    "version": "1.0.5",
+    "title": "Fix: Nav Versions",
+    "description": "",
+    "date": 1762689725000
+  },
+  {
+    "version": "1.1.0",
+    "title": "Added Guess The Song Mode",
+    "description": "",
+    "date": 1762746398000
+  },
+  {
+    "version": "1.1.1",
+    "title": "Fix: Some Very Minor Things",
+    "description": "",
+    "date": 1762751185000
+  },
+  {
+    "version": "1.1.2",
+    "title": "Fix: Duration Reset and Pausing the song",
+    "description": "Duration resets when browser is refreshed and pausing the song while its playing causes the duration to reset to 0.5s",
+    "date": 1762760728000
+  },
+  {
+    "version": "1.1.3",
+    "title": "Fix: MORE MORE FIXES!",
+    "description": "Some Game Over adjustments and more",
+    "date": 1762767796000
+  },
+  {
+    "version": "1.1.4",
+    "title": "Adjustments & Minor Feats",
+    "description": "Added random messages for gameover/correct guess and a little bit of styling improvements",
+    "date": 1762837962000
+  },
+  {
+    "version": "1.1.5",
+    "title": "Minor Adjustments",
+    "description": "Change from Canvas to <img/> if gameover/guessed correctly",
+    "date": 1763357666000
+  },
+  {
+    "version": "1.2.0",
+    "title": "I'm Back",
+    "description": "A little bit of everything",
+    "logs": [
+      "Untrained 3/4-star Card can now show up in Guess The Card",
+      "Fixed not all card icons showing up when guessing a card",
+      "Added Skip in Guess The Song",
+      "Songs will now play at the start, instead of starting at chorus",
+      "Fixed guess history not resetting at midnight",
+      "Added Streaks",
+      "Suggestions dropdown will now show above for mobiles",
+      "Update how a character/card/song is randomly chosen",
+      "Automatic refresh at midnight"
+    ],
+    "date": 1771996143000
+  },
+  {
+    "version": "1.2.1",
+    "title": "Some Fixes",
+    "description": "Bug Fixes and Changes",
+    "logs": [
+      "Changed canvas to img",
+      "Updater",
+      "localStorage optimization (8KB -> 2.5KB)",
+      "Fixed Card showing up as trained/untrained then turning into the opposite",
+      "Fixed Midnight Refresh across all game modes",
+      "Adjusted Layout for wider screens"
+    ],
+    "date": 1772161541000
+  },
+  {
+    "version": "1.2.2",
+    "title": "More Fixes",
+    "description": "I'm Tired Boss",
+    "logs": [
+      "NS_BINDING_ABORTED Fix",
+      "Force Blur",
+      "Adjustments on option selection",
+      "Keyboard Controls"
+    ],
+    "date": 1772875608000
+  },
+  {
+    "version": "1.2.3",
+    "title": "WHO INVENTED DAYLIGHT SAVINGS",
+    "description": "DAYLIGHT SAVINGS IS THE BANE OF MY EXISTENCE",
+    "logs": [
+      "An 'attempt' to fix Daylight savings bug",
+      "Fixed Guess The Card where choosing a card with similar names will default to Ichika"
+    ],
+    "date": 1773115207000
+  },
+  {
+    "version": "1.3.0",
+    "title": "Chart Mode",
+    "description": "Guess The Chart Mode",
+    "date": 1773120684000
+  },
+  {
+    "version": "2.0.0",
+    "title": "Account, Layout, and Archive",
+    "description": "Uhh Lots of Things",
+    "date": 1773573879000
+  },
+  {
+    "version": "2.0.1",
+    "title": "Google Login",
+    "description": "Fixed unable to log in via google in mobile",
+    "date": 1773608994000
+  },
+  {
+    "version": "2.0.2",
+    "title": "Chart Adjustment",
+    "description": "Added VFX and some engine adjustments",
+    "date": 1774077867000
+  },
+  {
+    "version": "2.0.3",
+    "title": "Archive",
+    "description": "Show which SEKAIdle # the player have already cleared from daily",
+    "date": 1774174987000
+  },
+  {
+    "version": "2.1.0",
+    "title": "Marathon Mode and some minor things",
+    "description": "Added Marathon mode and fixed some things",
+    "logs": [
+      "Added Marathon Mode",
+      "Added Google fallback in-case cloudflare images won't load",
+      "Lose focus on text field when a suggestion is clicked/tapped",
+      "Minor safeguard against players who change their time settings to play future SEKAIdles"
+    ],
+    "date": 1774701808000
+  },
+  {
+    "version": "2.1.1",
+    "title": "Maration Completion",
+    "description": "Fixed Maration When A player guessed everything",
+    "date": 1774830437000
+  },
+  {
+    "version": "2.2.0",
+    "title": "Leaderboard",
+    "description": "Show 100 Most Active Players in a Leaderboard",
+    "date": 1774934785000
+  },
+  {
+    "version": "2.2.1",
+    "title": "Minor Addition",
+    "description": "Just some minor thing I added when completing a marathon",
+    "date": 1774951860000
+  },
+  {
+    "version": "2.2.2",
+    "title": "Song Adjustment",
+    "description": "Songs will now accurately play at the start instead of complete silence",
+    "date": 1775012577000
+  },
+  {
+    "version": "2.2.3",
+    "title": "Fixes",
+    "description": "Fixed Marathon Pool Change upon new cards/songs/charts addition, Chart Tint Adjustment, Chart Settings height on mobile, and Chart SFX Volume option",
+    "date": 1775637620000
+  },
+  {
+    "version": "2.2.4",
+    "title": "Adjustments",
+    "description": "Chart Difficulty Weights and Marathon Records",
+    "logs": [
+      "Expert/Master 4x and Append 2x more likely to appear compared hard difficulty in Guess The Chart",
+      "Option to delete a marathon record"
+    ],
+    "date": 1775783350000
+  },
+  {
+    "version": "2.2.5",
+    "title": "Adjustments",
+    "description": "Layout Adjustments, Chart Speed Fix on Fullscreen, Added Sort button in Archive",
+
+    "date": 1777613203000
+  },
+  {
+    "version": "2.2.6",
+    "title": "Adjustments",
+    "description": "Data filtering, time checking logic adjustments, and duplicate prevention",
+    "date": 1778147038000
+  },
+  {
+    "version": "2.2.7",
+    "title": "Minor Fix",
+    "description": "Just some minor fix, dw about it",
+    "date": 1778198953000
+  },
+  {
+    "version": "2.2.8",
+    "title": "Fix & Improvements",
+    "description": "Chart Engine Improvements and Fixed Numbers inside Profile Stat-Guess Distributions not scrolling along",
+    "date": 1780372913000
+  }
+]

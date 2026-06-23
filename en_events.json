@@ -3257,7 +3257,7 @@
   },
   {
     "id": 171,
-    "name": "ordinary,yet special us",
+    "name": "Ordinary, Yet Special Us",
     "start": 1782270000000,
     "end": 1783306799000,
     "close": 1783461599000,
@@ -3300,8 +3300,8 @@
   },
   {
     "id": 172,
-    "name": "Deeper And Deeper",
-    "start": 1783468800000,
+    "name": "Deeper and Deeper",
+    "start": 1783461600000,
     "end": 1784001599000,
     "close": 1784152799000,
     "unit": "wxs",
@@ -4150,6 +4150,7 @@
       "focus"
     ],
     "type": "Tsukasa 7th Focus Event",
-    "music_id": 760
+    "music_id": 760,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Phantom_maze_monster"
   }
 ]

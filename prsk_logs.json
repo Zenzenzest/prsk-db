@@ -1,0 +1,836 @@
+[
+  {
+    "version": "0.0.1",
+    "title": "Feat: Unfinished Home Page",
+    "description": "Home Page and also free from beta :D",
+    "date": 1758556800000
+  },
+  {
+    "version": "1.0.0",
+    "title": "Feat: Finished Home Page",
+    "description": "Home Page",
+    "date": 1759334400000
+  },
+  {
+    "version": "1.1.1",
+    "title": "Fix: Gacha Rate for BloomFes",
+    "description": "Fixed Gacha Rate on Bloom Festival",
+    "date": 1759334400000
+  },
+  {
+    "version": "1.1.2",
+    "title": "Fix: Gacha Modal for Bday",
+    "description": "Gacha Modal for Bday is now working, nice.",
+    "date": 1759334400000
+  },
+  {
+    "version": "1.1.3",
+    "title": "Fix: Rotation defaults",
+    "description": "Fixed Rotation tables defaults",
+    "date": 1759334400000
+  },
+  {
+    "version": "1.1.4",
+    "title": "Removed: Portrait tabs",
+    "description": "Changed my mind",
+    "date": 1759334400000
+  },
+  {
+    "version": "1.1.5",
+    "title": "Fix: Tons of Adjustments",
+    "description": "Too many to mention",
+    "date": 1759334400000
+  },
+  {
+    "version": "1.2.0",
+    "title": "Feat: Modal Button to show new Banners/Cards",
+    "description": "Added Modal Button to show new Banners/Cards/Events in Home Page",
+    "date": 1759507200000
+  },
+  {
+    "version": "1.2.1",
+    "title": "Feat: Open Card Image in new Tab",
+    "description": "Added Click to open image in new tab",
+    "date": 1759507200000
+  },
+  {
+    "version": "1.2.2",
+    "title": "Fix: Event Cards for Bloom Fes",
+    "description": "Fix Bloom Fes Cards not showing up in Event Modal",
+    "date": 1759680000000
+  },
+  {
+    "version": "1.2.3",
+    "title": "Fix: Use Lookups Data",
+    "description": "Dedicated Lookup data for banner/event images availability instead of using jp images as a fallback for future en banners/events",
+    "date": 1759680000000
+  },
+  {
+    "version": "1.2.4",
+    "title": "Removed: Preloading Images",
+    "description": "Removed preloading images in Home page which causes more load times",
+    "date": 1760025600000
+  },
+  {
+    "version": "1.2.5",
+    "title": "Fix: Event Time Handling",
+    "description": "Fixed Event Time Handling in Home Page",
+    "date": 1760025600000
+  },
+  {
+    "version": "1.2.6",
+    "title": "Fix: Event Bonus Rates",
+    "description": "Fixed Event Bonus Rates (https://www.sekaipedia.org/wiki/Events#Version_4) ",
+    "date": 1760371200000
+  },
+  {
+    "version": "1.2.7",
+    "title": "Fix: Table Overflow",
+    "description": "Fixed Table Overflow and goes out of bounds when viewed from mobile",
+    "date": 1760371200000
+  },
+  {
+    "version": "1.3.0",
+    "title": "Feat: Loading Screen %",
+    "description": "Show % in Loading Screen",
+    "date": 1760889600000
+  },
+  {
+    "version": "1.4.0",
+    "title": "Feat: Month for Reruns",
+    "description": "Added Month for reruns",
+    "date": 1761148800000
+  },
+  {
+    "version": "1.4.1",
+    "title": "Fix: Save Button Placement Consistency",
+    "description": "Placed Save Button consistently across different banners",
+    "date": 1761148800000
+  },
+  {
+    "version": "1.4.2",
+    "title": "Fix: Switched to jsdelivr",
+    "description": "Now data loads even faster! :D",
+    "date": 1761321600000
+  },
+  {
+    "version": "1.5.0",
+    "title": "Feat: Version Tracking",
+    "description": "Kinda late into the project, isn't it",
+    "date": 1761494400000
+  },
+  {
+    "version": "1.5.1",
+    "title": "Fix: Fetching Event Image",
+    "description": "Fix fetching event image that doesn't exist in the lookups array",
+    "date": 1761667200000
+  },
+  {
+    "version": "1.5.2",
+    "title": "Fix: Fixed Card Modal Crash",
+    "description": "Fix crashing when Card Modal is opened when the card doesn't have an event appearance",
+    "date": 1761840000000
+  },
+  {
+    "version": "1.5.3",
+    "title": "Fix: Changed Image Host",
+    "description": "Self explanatory",
+    "date": 1761840000000
+  },
+  {
+    "version": "1.5.4",
+    "title": "Fix: Same Banner ID between Servers",
+    "description": "Proper cards not showing up in Home page when 2 banners share the same id between 2 servers",
+    "date": 1761926400000
+  },
+  {
+    "version": "1.5.5",
+    "title": "Fix: useEffect dependancy",
+    "description": "Fixed dependancy",
+    "date": 1761926400000
+  },
+  {
+    "version": "1.5.6",
+    "title": "Fix: Countdown Size",
+    "description": "Countdown too small for mobile view in Calendar Tab. Size matters",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.6.0",
+    "title": "Feat: Sticky Nav and Server Toggle",
+    "description": "Made Nav and Server Toggle Sticky",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.7.0",
+    "title": "Feat: Sort By Date",
+    "description": "Can now Sort the table by release dates of the cards",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.8.0",
+    "title": "Feat: Original VS Filter",
+    "description": "Added VS with no sub unit Filter in Cards Filter/search tab",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.8.1",
+    "title": "Fix: Unreleased Cards in Global",
+    "description": "Unreleased cards in global showing up in cards table (collab/rui2)",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.8.2",
+    "title": "Fix: Tiny Styling Gaps",
+    "description": "Fixed Tiny gaps between components unseen on dark mode",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.8.3",
+    "title": "Minor Feat: Added version logs in assets",
+    "description": "Added version logs in assets",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.8.4",
+    "title": "Fix: Prevent Live Banners Show up",
+    "description": "Prevent Banners that has duration of more than 30 days and is currently ongoing from previous month/s show up in the present month",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.8.5",
+    "title": "Fix: Just some very minor fixes",
+    "description": "Minor Fixes I swear",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.8.6",
+    "title": "Fix: Added Campaign Banner Type",
+    "description": "Move Campaign Banner Type in Misc category in Hide Banners Modal in Calendar Tab",
+    "date": 1762012800000
+  },
+  {
+    "version": "1.8.7",
+    "title": "Fix: Month Disclaimer",
+    "description": "Update Month Disclaimer",
+    "date": 1762407245000
+  },
+  {
+    "version": "1.8.8",
+    "title": "Fix: No Version Bump",
+    "description": "Prevent Version Bump from certain commits",
+    "date": 1762407245000
+  },
+  {
+    "version": "1.9.0",
+    "title": "Feat: Added Durations",
+    "description": "Added Duration for banners and events",
+    "date": 1762407245000
+  },
+  {
+    "version": "1.9.1",
+    "title": "Fix: Removed Durations",
+    "description": "Removed durations for upcoming Rerun banners",
+    "date": 1762425320000
+  },
+  {
+    "version": "1.10.0",
+    "title": "Feats & Adjustments: Some Adjustments",
+    "description": "Just some very minor adjustments like:",
+    "logs": [
+      "Modal Style Adjustment",
+      "Card Release Date in Card Modal",
+      "Added Focus Event Song in Event Modal",
+      "Show Both JP and EN Name of Card",
+      "This Version History"
+    ],
+    "date": 1762934091000
+  },
+  {
+    "version": "1.11.0",
+    "title": "More Feats & Adjustments",
+    "description": "Uhh These things right here:",
+    "logs": [
+      "Sort banners in filter tab in ascending/descending order by time",
+      "Card Release Date adjustment in Card Modal",
+      "Almost finished Rotations in Stats Tab"
+    ],
+    "date": 1763115089000
+  },
+  {
+    "version": "1.11.1",
+    "title": "Some Minor Adjustments",
+    "description": "Event Rotations, Gacha/Event Modal Card Icons, Home Nav Buttons, and Website Disclaimer",
+    "date": 1763207752000
+  },
+  {
+    "version": "1.11.2",
+    "title": "Fixes & Style Adjustments",
+    "description": "Bloom Fes Cards Availability in Card Modal not showing up caused by v1.5.2 and some minor style adjustments",
+    "date": 1763275564000
+  },
+  {
+    "version": "1.11.3",
+    "title": "Fix: Some Minor Fixes",
+    "description": "Card Modal In Home Page, Sort Button in Filter Tab, and Some Banners in Home Page",
+    "logs": [
+      "Banners lasting >= 28 days will now only remain shown for 14 days in Home Page",
+      "I love mizuki",
+      "Fixed twitter url"
+    ],
+    "date": 1763283295000
+  },
+  {
+    "version": "1.11.4",
+    "title": "Fix: Home Card Icons",
+    "description": "Home Page Card Icons not changing",
+    "date": 1763376479000
+  },
+  {
+    "version": "1.11.5",
+    "title": "Fix: Event Bonus Cards and Event Attribute",
+    "description": "Adjustments so Test Event Modal will work",
+    "date": 1763439812000
+  },
+  {
+    "version": "1.11.6",
+    "title": "Fix: Dont worry about it",
+    "description": "Just some minor fix. Nothing serious I swear",
+    "date": 1763440676000
+  },
+  {
+    "version": "1.11.7",
+    "title": "Fix: Card Availability",
+    "description": "Card Availability in Card Modal showing incorrect image",
+    "date": 1763554307000
+  },
+  {
+    "version": "1.12.0",
+    "title": "Adjustments, Fixes, and a Feature",
+    "description": "Some Adjustments for the following:",
+    "logs": [
+      "Collab Rerun",
+      "Removed Exact Date for Upcoming Reruns in Card Availability",
+      "Banner Name in Home Page",
+      "Home Page Banner Thumbnails Fix",
+      "Removed Global Schedule Note in Saved Tab",
+      "Added Import/Export Saved Banners"
+    ],
+    "date": 1763717088000
+  },
+  {
+    "version": "1.12.1",
+    "title": "Adjustments",
+    "description": "Duration, Campaign Banner Type, Gacha/Event Modal",
+    "logs": [
+      "Adjusted Duration style for alignment",
+      "Moved Campaign Banner Type to Paid Category in Calendar Tab (Hide Banners)",
+      "Added JP/EN Name of Event/Gacha in Their respective modals"
+    ],
+    "date": 1763798895000
+  },
+  {
+    "version": "1.13.0",
+    "title": "Some things here and there",
+    "description": "This is supposed to be a small side project but I keep adding more more things",
+    "logs": [
+      "Banner Name on landing page overlaps",
+      "Duration Alignment",
+      "Included 2* and 3* in holiday cards",
+      "Direct URL for each Tabs under Stats",
+      "Added Cards Breakdown"
+    ],
+    "date": 1763941837000
+  },
+  {
+    "version": "1.13.1",
+    "title": "Very minor fix",
+    "description": "Sekai.best redirection",
+    "date": 1763986412000
+  },
+  {
+    "version": "1.14.0",
+    "title": "Some things",
+    "description": "Mizuki cute",
+    "logs": [
+      "Removed Featured Tag in some banner types in Card Availability",
+      "Added Upcoming Only mode in Filter/Search - Banner",
+      "Added Sub Unit when VS is Selected in Character Cards"
+    ],
+    "date": 1764031744000
+  },
+  {
+    "version": "1.15.0",
+    "title": "More things",
+    "description": "Client update notification",
+    "logs": [
+      "Added Update button",
+      "Automatically Update the Disclaimer to next month",
+      "Changed Holiday -> Seasonal/Holiday",
+      "Added Wedding to Seasonal/Holiday",
+      "Automatically latest rotation in focus events"
+    ],
+    "date": 1764239904000
+  },
+  {
+    "version": "1.15.1",
+    "title": "Character Name",
+    "description": "Can now search cards by using full first name (ex: mizuki and not mizuk) or full surname",
+    "date": 1764243008000
+  },
+  {
+    "version": "1.15.2",
+    "title": "Fixes & Adjustments",
+    "description": "Character Cards Table (EN), Stats - Table, Spoilers",
+    "logs": [
+      "Fixed Future Cards showing up in Character Cards Table",
+      "Stats - Table rework",
+      "Added just a little bit of spoiler text for new cards button",
+      "Appreciate Mizuki's cuteness even more"
+    ],
+    "date": 1764310530000
+  },
+  {
+    "version": "1.15.3",
+    "title": "Fixes Again",
+    "description": "Will be busy next week might (Ena5) as well try to fix everything I can find",
+    "logs": [
+      "Auto select latest rotation in Stats - Rotation - Birthday or Focus",
+      "Adjusted Attribute Icon size in Stats - Table (expanded row)",
+      "Forgot to Add Modal back in Stats - Table",
+      "Moved Focus/Mixed Filter into Event Type Category in Filter/Search - Banners"
+    ],
+    "date": 1764317427000
+  },
+  {
+    "version": "1.15.4",
+    "title": "Minor Fixes",
+    "description": "Finally done tiering Ena5 and secured T500",
+    "logs": [
+      "Image placeholder",
+      "No banners in Jp-filter/search when switching from En-upcoming only",
+      "2-star Card Availability"
+    ],
+    "date": 1765024522000
+  },
+  {
+    "version": "1.15.5",
+    "title": "WL2 Event Bonus Calculator",
+    "description": "Still WIP",
+    "date": 1765109042000
+  },
+  {
+    "version": "1.15.6",
+    "title": "Minor Adjustment",
+    "description": "Show only first 8 cards from a banner when it has too much featured cards (like memorial select)",
+    "date": 1765265939000
+  },
+  {
+    "version": "1.15.7",
+    "title": "Otsu",
+    "description": "Fix Server Toggle positions and show both untrained/trained image in filter/search-cards",
+    "date": 1765343388000
+  },
+  {
+    "version": "1.15.8",
+    "title": "Fix and Minor addition",
+    "description": "Card Size & Empty Space in filter/search card, Version Check fix, prev/next button in calendar, schedule disclaimer adjustment, filter/search filter rework",
+    "date": 1765428411000
+  },
+  {
+    "version": "1.15.9",
+    "title": "Fix",
+    "description": "Some adjustment to work with minor data format change",
+    "date": 1765438485000
+  },
+  {
+    "version": "1.15.10",
+    "title": "Fix",
+    "description": "Adjustment for QHD and Fixed VS Character filter excludes VS with sub unit in filter/search - banner",
+    "date": 1765514357000
+  },
+  {
+    "version": "1.16.0",
+    "title": "WL2 Calculator",
+    "description": "I decided to tier for WL2-Mizuki so I made my own calculator. Will improve it later on. Will also add feature to remember main/support team for every event-chapter",
+    "date": 1765701282000
+  },
+  {
+    "version": "1.16.1",
+    "title": "Sekaipedia",
+    "description": "Sekaipedia Links for events/cards modal",
+    "date": 1765760510000
+  },
+  {
+    "version": "1.16.2",
+    "title": "Table View",
+    "description": "Added Table View for Filter-Cards",
+    "date": 1765942817000
+  },
+  {
+    "version": "1.16.3",
+    "title": "Some Adjustments and Minor Additions",
+    "description": "Filter-table, skill, scroll button",
+    "logs": [
+      "Removed padding for Filter-table in mobile-view",
+      "Added Skill in Card Modal",
+      "Hide Scroll Button when a modal is open",
+      "Skill Type Filter in Filter-Cards",
+      "Changed How Icons in Gacha Modal Load",
+      "Changed sort order in gacha modal"
+    ],
+    "date": 1766128755000
+  },
+  {
+    "version": "1.16.4",
+    "title": "Premium Gacha Costumes",
+    "description": "Show Costumes Instead of Cards in Premium Gachas",
+    "date": 1766380905000
+  },
+  {
+    "version": "1.16.5",
+    "title": "Minor Adjustments",
+    "description": "Banner-filter, Costume Modal, WL2 Calculator",
+    "logs": [
+      "Added Premium Gift and Unit Premium Gift Filter to Filter-banner",
+      "Reordered Costumes in costume modal to match hair-head-body costume set",
+      "Card Data Persistence in WL2 Calculator - SL & MR will now be saved permanently and won't reset if the same card is added in a different event or card is removed from support/main team",
+      "Main Team and Support Team will now be permanently saved for each Event",
+      "Prompt to confirm clear main team/support team",
+      "Appreciate Mizuki's cuteness even further beyond"
+    ],
+    "date": 1766566507000
+  },
+  {
+    "version": "1.16.6",
+    "title": "Minor Adjustments",
+    "description": "I didn't get mizukitty in 100 pulls",
+    "logs": [
+      "Changed from manually adding months/years to auto-generating years/months based on dates of the banners",
+      "Added more banner filters",
+      "Changed Calendar Disclaimer"
+    ],
+    "date": 1767061625000
+  },
+  {
+    "version": "1.16.7",
+    "title": "Fix",
+    "description": "Fix New Cards Modal to handle bloomfes banners",
+    "date": 1767066815000
+  },
+  {
+    "version": "1.16.8",
+    "title": "Fix",
+    "description": "Fixed BFes Cards not showing up in home page",
+    "date": 1767227352000
+  },
+  {
+    "version": "1.17.0",
+    "title": "Added Songs in Calendar",
+    "description": "Pain in the ass to work with this one. Data is incomplete",
+    "date": 1767609130000
+  },
+  {
+    "version": "1.17.1",
+    "title": "Some Adjustments For Upcoming Songs/Alts Schedule",
+    "description": "Is it me or Mizuki gets cuter day by day",
+    "date": 1767683861000
+  },
+  {
+    "version": "1.17.2",
+    "title": "Added Song Difficulties",
+    "description": "",
+    "date": 1767850068000
+  },
+  {
+    "version": "1.17.3",
+    "title": "Some Minor Additions",
+    "description": "Banner & Event ID, Focus Event Song Tag, Card ID in Modal",
+    "date": 1768028113000
+  },
+  {
+    "version": "1.17.4",
+    "title": "Added Fallback for Landing Page Banner/Event Image",
+    "description": "",
+    "date": 1768088458000
+  },
+  {
+    "version": "1.17.5",
+    "title": "Additional Month in Calendar",
+    "description": "Show next month in calendar in case there's no banner that starts within that month and when the current date is >= 27",
+    "date": 1769849779000
+  },
+  {
+    "version": "1.17.6",
+    "title": "Minor Adjustment to Song Disclaimer & WL2 Calculator",
+    "description": "Added min% max% when selecting a card in WL Calculator",
+    "date": 1770549565000
+  },
+  {
+    "version": "1.18.0",
+    "title": "Fixed WL2 Calculator and Added Crystals Calculator",
+    "description": "Fixed WL2 Support Team not changing when changing chapters and Added Crystal Calculator",
+    "date": 1770887517000
+  },
+  {
+    "version": "1.18.1",
+    "title": "Crystals Calculator Fix and Additions",
+    "description": "Added Anniversary Login Campaign and Fixed Event Story Rewards",
+    "date": 1770979175000
+  },
+  {
+    "version": "1.18.2",
+    "title": "Crystals Calculator Advance Setting",
+    "description": "Added Advance Setting for Crystals Calculation",
+    "date": 1771325938000
+  },
+  {
+    "version": "1.18.3",
+    "title": "Crystals Calculator",
+    "description": "Maximum Subscriptions, Event Tier Rewards",
+    "logs": [
+      "Fixed Maximum Subscriptions not recalculating when target banner is changed",
+      "Added Event Tier Crystal Rewards"
+    ],
+    "date": 1771665795000
+  },
+  {
+    "version": "1.19.0",
+    "title": "Chart Viewer",
+    "description": "Chart Viewer that plays charts (under tools category)",
+
+    "date": 1772804453000
+  },
+  {
+    "version": "1.19.1",
+    "title": "Chart Viewer/Simulatr",
+    "description": "Some Improvements",
+    "logs": [
+      "Now accurately renders everything",
+      "Real-time disabling of sfx/bgm and adjustment of volumes while the chart is playing",
+      "Included JP Charts/Songs",
+      "Changed Chart BG"
+    ],
+
+    "date": 1772859509000
+  },
+  {
+    "version": "1.19.2",
+    "title": "Few Adjustments",
+    "description": "Chart Simulator and Spoiler Handling",
+    "logs": [
+      "Added Performance Mode in Chart Simulator Settings",
+      "Sort By specific difficulty/release when choosing a song",
+      "Better Spoiler Block"
+    ],
+
+    "date": 1772960468000
+  },
+  {
+    "version": "1.19.3",
+    "title": "Few Adjustments",
+    "description": "Chart Simulator and Spoiler Handling",
+    "logs": [
+      "Fixed Spoiler Layout that causes lag for older devices",
+      "Added Spoiler for songs",
+      "Improved Chart Simulator"
+    ],
+    "date": 1773731571000
+  },
+  {
+    "version": "1.20.0",
+    "title": "Navigation Update",
+    "description": "Updated Navigation",
+    "date": 1773833751000
+  },
+  {
+    "version": "1.20.1",
+    "title": "Chart Simulator, Server Toggle, New Cards Modal, Gacha Rate",
+    "description": "Minor Adjustments",
+    "logs": [
+      "Additional VFX Improvements and Modifications for Chart Simulator",
+      "Server Toggle Outline",
+      "Card Name in New Cards Modal",
+      "Fixed Card Rate in Gacha Modal"
+    ],
+    "date": 1774072448000
+  },
+  {
+    "version": "1.20.2",
+    "title": "Crystal Calculator",
+    "description": "Added COLORFUL+ Basic Daily x50 Crystal",
+
+    "date": 1774334496000
+  },
+  {
+    "version": "1.21.0",
+    "title": "Songs",
+    "description": "Added Song Info and Songs tab in filter & search",
+    "date": 1774534149000
+  },
+  {
+    "version": "1.21.1",
+    "title": "Minor Adjustments",
+    "description": "Songs & WL2",
+    "logs": [
+      "Added Asc/Desc toggle button for Songs in filter/search",
+      "Cleanup Songs Disclaimer in /calendar",
+      "Added Character Schedules in Event Modal for WL2"
+    ],
+    "date": 1774670343000
+  },
+  {
+    "version": "1.21.2",
+    "title": "Adjustments",
+    "description": "Some adjustments and minor additions",
+    "logs": [
+      "Added April Fools Song in Calendar",
+      "Fixed Song persists to play in filter/song",
+      "Modal Size Adjustment",
+      "Added Song Duration in Song Info",
+      "Song Grid layout adjustment",
+      "Changed Song Groupings in Calendar (Combined New Songs and Alts instead of new Songs first then Alts. Confirmed Dates and Estimated Dates are still separated"
+    ],
+    "date": 1775037950000
+  },
+  {
+    "version": "1.21.3",
+    "title": "Adjustments and Fixes",
+    "description": "WL2 Bonus Calculator And Chart Simulator",
+    "logs": [
+      "Fixed Team Cards resetting when changing a card",
+      "Added Bonus Distribution Table in WL2",
+      "Fixed some critical notes not appearing in Chart Simulator",
+      "Adjusted Chart Lane Color"
+    ],
+    "date": 1775306550000
+  },
+  {
+    "version": "1.21.4",
+    "title": "Minor Adjustments and DB Change",
+    "description": "Adjusted Filter/Search Settings Modal and migrated to a new repo for json files",
+    "date": 1775739821000
+  },
+  {
+    "version": "1.21.5",
+    "title": "Banner Type Adjustment",
+    "description": "Changed Banner Types and Fixed Filter Modal in Calendar",
+    "logs": [
+      "Event -> Permanent Gacha",
+      "Limited Event -> Limited Gacha",
+      "Limited Event Rerun -> Limited Gacha Rerun",
+      "Unit Limited Event -> World Link Gacha",
+      "Fixed Card Modal Opening instead of Filter Modal"
+    ],
+    "date": 1776410782000
+  },
+  {
+    "version": "1.21.6",
+    "title": "Some Minor Additions and Adjustments",
+    "description": "",
+    "logs": [
+      "World Link 2 Event -> World Link Gacha in Crystal Calculator",
+      "Added Ongoing WL Chapter in Homepage",
+      "Added Character Filter when selecting a main card in WL2 Event Calculator",
+      "Added tooltip besides Anniversary Login Campaign in Crystals Calculator"
+    ],
+    "date": 1776593626000
+  },
+  {
+    "version": "1.21.7",
+    "title": "Fix",
+    "description": "Fixed unreleased cards showing up when picking support cards in WL2 calculator and added composer search in filter/search songs",
+    "date": 1776767095000
+  },
+  {
+    "version": "1.22.0",
+    "title": "Card Costume Viewer and some adjustments",
+    "description": "",
+    "logs": [
+      "Fixed Chart Speed blizting on fullscreen",
+      "Added Card Costume Viewer",
+      "Changed Focus Song -> Commissioned",
+      "Fixed Miku 2hu Card not showing up in Card Modal (popup)"
+    ],
+    "date": 1777523431000
+  },
+  {
+    "version": "1.22.1",
+    "title": "Card Costume Viewer Adjustments",
+    "description": "",
+    "logs": [
+      "Added Fullscreen button",
+      "Fixed Scroll Trap",
+      "Page Height Adjustments",
+      "Removed Server Toggle on specific pages",
+      "Fixed Footer section in sidebar",
+      "Expanded Canvas",
+      "A warning to enable Hardware Acceleration if it's disabled"
+    ],
+    "date": 1777605849000
+  },
+  {
+    "version": "1.22.2",
+    "title": "Stats Table Rework",
+    "description": "Reworked the Character Stats Table",
+    "logs": [
+      "Fes/World Link cards now always count as limited (removed toggle)",
+      "Added Combine Virtual Singers checkbox",
+      "Added combined attribute counts in main table",
+      "Added base Virtual Singers (no sub-unit) as separate rows when not combining",
+      "Removed Special Cards"
+    ],
+    "date": 1777883428080
+  },
+  {
+    "version": "1.22.3",
+    "title": "Modal & Sidebar Improvements",
+    "description": "Various UX improvements across the site",
+    "logs": [
+      "Modals now open fullscreen on mobile devices for easier navigation",
+      "Opening any modal hides the sidebar and scroll-to-top button to prevent overlap",
+      "Modal footers now stick to the bottom of the screen on mobile",
+      "Compact card and event modal layouts with links moved above content",
+      "Added Gacha Banner Summary in the Modal"
+    ],
+    "date": 1777963347440
+  },
+  {
+    "version": "1.22.4",
+    "title": "Lots of Minor Adjustments and Fixes",
+    "description": "Various UX/UI improvements",
+    "logs": [
+      "Filter/Search Cards Layout Adjustment",
+      "Chart Engine Tweaks",
+      "Added Sidebar Song Selection for bigger screens in Chart Simulator",
+      "Added Notif when data is outdated",
+      "Focus Song -> Commissioned on Song Tag in Filter/Search - Song"
+    ],
+    "date": 1779019812000
+  },
+  {
+    "version": "1.22.5",
+    "title": "Minor Additions and Adjustments",
+    "description": "Some Things",
+    "logs": [
+      "Chart Simulator Performance Improvement",
+      "Chart Simulator BG Adjustment",
+      "Fixed Negative Days in upcoming Rerun Banners",
+      "Added Saved Banners when choosing a target banner in Crystals Calculator",
+      "Skintone adjustment for Card Costume Viewer",
+      "Applied some mild shadows to Models"
+    ],
+    "date": 1780366784000
+  },
+  {
+    "version": "1.22.6",
+    "title": "Minor Adjustments and Additions",
+    "description": "Pick Up Options & Model Shadow Adjustment",
+    "logs": [
+      "Adjusted Model Shadow to look as similar as in-game",
+      "Added Shadow Button to turn off/on the shadow/lighting",
+      "Dream Pick Gacha Modal will now show which cards can be picked for rate-up"
+    ],
+    "date": 1780815973000
+  }
+]
