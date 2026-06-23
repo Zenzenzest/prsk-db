@@ -10596,7 +10596,7 @@
     "start": 1782846000000,
     "end": 1783623599000,
     "cards": [685, 1122, 1045, 1018, 1133, 943],
-    "banner_type": "Normal",
+    "banner_type": "Paid Gacha",
     "keywords": [],
     "characters": [3, 8, 10, 13, 18, 26]
   },
@@ -10607,7 +10607,7 @@
     "start": 1782846000000,
     "end": 1783623599000,
     "cards": [1047, 1028, 873, 695, 1050, 1141],
-    "banner_type": "Normal",
+    "banner_type": "Paid Gacha",
     "keywords": [],
     "characters": [4, 5, 11, 16, 19, 21]
   }
