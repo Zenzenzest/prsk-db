@@ -832,5 +832,24 @@
       "Dream Pick Gacha Modal will now show which cards can be picked for rate-up"
     ],
     "date": 1780815973000
+  },
+  {
+    "version": "1.22.7",
+    "title": "Minor Adjustments and Additions",
+    "description": "Discord Server, WL2 Finale Table Fix, Data Update, Story Redirect, Chart Viewer",
+    "logs": [
+      "Fix Data Update notification showing up even if data is up-to-date",
+      "Fixed WL2 Finale % Bonus Table misleading (Just the table, actual % EB is accurate)",
+      "Replaced my socials with discord server",
+      "Added Event Story Redirect to pjsk.cleista.cc",
+      "Added note count for each difficulty in Chart Viewer",
+      "Fix Songs sorted by append (lowest to highest) showing songs without append in song selection-chart viewer",
+      "Change some descriptions for meta tags",
+      "Layout improvements for WL2 Bonus Calculator",
+      "Added spoiler tag if there's EN Exclusive song",
+      "CHanged number of cards shown per page in Filter-view. 20 -> 24",
+      "Fixed Chart Viewer ribbon getting distorted when hitting judgement line"
+    ],
+    "date": 1782281835000
   }
 ]
