@@ -231,5 +231,15 @@
     "title": "Fix & Improvements",
     "description": "Chart Engine Improvements and Fixed Numbers inside Profile Stat-Guess Distributions not scrolling along",
     "date": 1780372913000
+  },
+  {
+    "version": "2.2.9",
+    "title": "Fix & Improvements",
+    "description": "Chart Viewer and Discord Server",
+    "logs": [
+      "Fixed Chart Viewer ribbon getting distorted when hitting judgement line",
+      "Replaced my socials with discord server"
+    ],
+    "date": 1782364913000
   }
 ]
