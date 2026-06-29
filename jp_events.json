@@ -4202,5 +4202,26 @@
     "type": "Tsukasa 7th Focus Event",
     "music_id": 760,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Phantom_maze_monster"
+  },
+  {
+    "id": 209,
+    "name": "アイドル・花里みのり～夢の最前線～",
+    "unit": "mmj",
+    "cards": [1417, 1418, 1419, 1420, 1421],
+    "start": 1782799200000,
+    "end": 1783425599000,
+    "close": 1783576799000,
+    "event_type": "marathon",
+    "keywords": [
+      "mmj",
+      "more more jump",
+      "momojan",
+      "minori",
+      "mino7",
+      "minori7",
+      "focus"
+    ],
+    "type": "Minori 7th Focus Event",
+    "music_id": 756
   }
 ]

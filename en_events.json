@@ -4152,5 +4152,26 @@
     "type": "Tsukasa 7th Focus Event",
     "music_id": 760,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Phantom_maze_monster"
+  },
+  {
+    "id": 209,
+    "name": "Idol Minori Hanasato: The Forefront of Dreams",
+    "unit": "mmj",
+    "cards": [1417, 1418, 1419, 1420, 1421],
+    "start": 1814392800000,
+    "end": 1815019199000,
+    "close": 1815170399000,
+    "event_type": "marathon",
+    "keywords": [
+      "mmj",
+      "more more jump",
+      "momojan",
+      "minori",
+      "mino7",
+      "minori7",
+      "focus"
+    ],
+    "type": "Minori 7th Focus Event",
+    "music_id": 756
   }
 ]

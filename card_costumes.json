@@ -61101,5 +61101,495 @@
                 "name": "Crumbling Heart"
             }
         ]
+    },
+    {
+        "id": 1415,
+        "charId": 12,
+        "costumes": [
+            {
+                "id": 998009,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "12/2152",
+                "thumbnail": "cos0998_unique_head"
+            },
+            {
+                "id": 998011,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "12/2152a",
+                "thumbnail": "cos0998_unique_head_01"
+            },
+            {
+                "id": 998013,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "12/2152b",
+                "thumbnail": "cos0998_unique_head_02"
+            },
+            {
+                "id": 998015,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "12/2152c",
+                "thumbnail": "cos0998_unique_head_03"
+            },
+            {
+                "id": 998010,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2152",
+                "thumbnail": "cos0998_body"
+            },
+            {
+                "id": 998012,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2152",
+                "thumbnail": "cos0998_body_01"
+            },
+            {
+                "id": 998014,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2152",
+                "thumbnail": "cos0998_body_02"
+            },
+            {
+                "id": 998016,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2152",
+                "thumbnail": "cos0998_body_03"
+            },
+            {
+                "id": 998049,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2152/a01",
+                "thumbnail": "cos0998_head"
+            },
+            {
+                "id": 998050,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2152/a01",
+                "thumbnail": "cos0998_head_01"
+            },
+            {
+                "id": 998051,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2152/a01",
+                "thumbnail": "cos0998_head_02"
+            },
+            {
+                "id": 998052,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2152/a01",
+                "thumbnail": "cos0998_head_03"
+            },
+            {
+                "id": 998053,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "12/2152n",
+                "thumbnail": "cos0998_unique_hair",
+                "name": "エンビエントムジーク"
+            }
+        ]
+    },
+    {
+        "id": 1416,
+        "charId": 15,
+        "costumes": [
+            {
+                "id": 999089,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "15/2153",
+                "thumbnail": "cos0999_unique_head"
+            },
+            {
+                "id": 999091,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "15/2153a",
+                "thumbnail": "cos0999_unique_head_01"
+            },
+            {
+                "id": 999093,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "15/2153b",
+                "thumbnail": "cos0999_unique_head_02"
+            },
+            {
+                "id": 999095,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "15/2153c",
+                "thumbnail": "cos0999_unique_head_03"
+            },
+            {
+                "id": 999090,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2153",
+                "thumbnail": "cos0999_body"
+            },
+            {
+                "id": 999092,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2153",
+                "thumbnail": "cos0999_body_01"
+            },
+            {
+                "id": 999094,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2153",
+                "thumbnail": "cos0999_body_02"
+            },
+            {
+                "id": 999096,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2153",
+                "thumbnail": "cos0999_body_03"
+            },
+            {
+                "id": 999161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2153/a03",
+                "thumbnail": "cos0999_head"
+            },
+            {
+                "id": 999162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2153/a03",
+                "thumbnail": "cos0999_head_01"
+            },
+            {
+                "id": 999163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2153/a03",
+                "thumbnail": "cos0999_head_02"
+            },
+            {
+                "id": 999164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2153/a03",
+                "thumbnail": "cos0999_head_03"
+            },
+            {
+                "id": 999165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "15/2153n",
+                "thumbnail": "cos0999_unique_hair",
+                "name": "マーメイドール"
+            }
+        ]
+    },
+    {
+        "id": 1417,
+        "charId": 5,
+        "costumes": [
+            {
+                "id": 2001033,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "05/2150",
+                "thumbnail": "cos2001_unique_head"
+            },
+            {
+                "id": 2001035,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "05/2150a",
+                "thumbnail": "cos2001_unique_head_01"
+            },
+            {
+                "id": 2001037,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "05/2150b",
+                "thumbnail": "cos2001_unique_head_02"
+            },
+            {
+                "id": 2001039,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "05/2150c",
+                "thumbnail": "cos2001_unique_head_03"
+            },
+            {
+                "id": 2001034,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2150",
+                "thumbnail": "cos2001_body"
+            },
+            {
+                "id": 2001036,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2150",
+                "thumbnail": "cos2001_body_01"
+            },
+            {
+                "id": 2001038,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2150",
+                "thumbnail": "cos2001_body_02"
+            },
+            {
+                "id": 2001040,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2150",
+                "thumbnail": "cos2001_body_03"
+            },
+            {
+                "id": 2001161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2150/a03",
+                "thumbnail": "cos2001_head"
+            },
+            {
+                "id": 2001162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2150/a03",
+                "thumbnail": "cos2001_head_01"
+            },
+            {
+                "id": 2001163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2150/a03",
+                "thumbnail": "cos2001_head_02"
+            },
+            {
+                "id": 2001164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2150/a03",
+                "thumbnail": "cos2001_head_03"
+            },
+            {
+                "id": 2001165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "05/2150n",
+                "thumbnail": "cos2001_unique_hair",
+                "name": "LIMELIGHT SUMMER"
+            }
+        ]
+    },
+    {
+        "id": 1418,
+        "charId": 6,
+        "costumes": [
+            {
+                "id": 2002041,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "06/2151",
+                "thumbnail": "cos2002_unique_head"
+            },
+            {
+                "id": 2002043,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "06/2151a",
+                "thumbnail": "cos2002_unique_head_01"
+            },
+            {
+                "id": 2002045,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "06/2151b",
+                "thumbnail": "cos2002_unique_head_02"
+            },
+            {
+                "id": 2002047,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "06/2151c",
+                "thumbnail": "cos2002_unique_head_03"
+            },
+            {
+                "id": 2002042,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2151",
+                "thumbnail": "cos2002_body"
+            },
+            {
+                "id": 2002044,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2151",
+                "thumbnail": "cos2002_body_01"
+            },
+            {
+                "id": 2002046,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2151",
+                "thumbnail": "cos2002_body_02"
+            },
+            {
+                "id": 2002048,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2151",
+                "thumbnail": "cos2002_body_03"
+            },
+            {
+                "id": 2002161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2151/a01",
+                "thumbnail": "cos2002_head"
+            },
+            {
+                "id": 2002162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2151/a01",
+                "thumbnail": "cos2002_head_01"
+            },
+            {
+                "id": 2002163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2151/a01",
+                "thumbnail": "cos2002_head_02"
+            },
+            {
+                "id": 2002164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2151/a01",
+                "thumbnail": "cos2002_head_03"
+            },
+            {
+                "id": 2002165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "06/2151n",
+                "thumbnail": "cos2002_unique_hair",
+                "name": "PROPEL SUMMER"
+            }
+        ]
+    },
+    {
+        "id": 1419,
+        "charId": 28,
+        "costumes": [
+            {
+                "id": 2003129,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "28/2149",
+                "thumbnail": "cos2003_unique_head"
+            },
+            {
+                "id": 2003131,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "28/2149a",
+                "thumbnail": "cos2003_unique_head_01"
+            },
+            {
+                "id": 2003133,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "28/2149b",
+                "thumbnail": "cos2003_unique_head_02"
+            },
+            {
+                "id": 2003135,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "28/2149c",
+                "thumbnail": "cos2003_unique_head_03"
+            },
+            {
+                "id": 2003130,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2149",
+                "thumbnail": "cos2003_body"
+            },
+            {
+                "id": 2003132,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2149",
+                "thumbnail": "cos2003_body_01"
+            },
+            {
+                "id": 2003134,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2149",
+                "thumbnail": "cos2003_body_02"
+            },
+            {
+                "id": 2003136,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2149",
+                "thumbnail": "cos2003_body_03"
+            },
+            {
+                "id": 2003161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2149/a01",
+                "thumbnail": "cos2003_head"
+            },
+            {
+                "id": 2003162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2149/a01",
+                "thumbnail": "cos2003_head_01"
+            },
+            {
+                "id": 2003163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2149/a01",
+                "thumbnail": "cos2003_head_02"
+            },
+            {
+                "id": 2003164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2149/a01",
+                "thumbnail": "cos2003_head_03"
+            },
+            {
+                "id": 2003165,
+                "colorId": 1,
+                "partType": "hair",
+                "assetbundleName": "28/2149n",
+                "thumbnail": "cos2003_unique_hair",
+                "name": "SUSTAIN SUMMER"
+            }
+        ]
     }
 ]

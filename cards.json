@@ -20563,7 +20563,8 @@
     "charId": 21,
     "character": "Hatsune Miku",
     "unit": "Virtual Singers",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Joy_That_Comes_From_Helping_Others"
   },
   {
     "id": 1375,
@@ -20577,7 +20578,8 @@
     "charId": 1,
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/4_Different_Mikus"
   },
   {
     "id": 1376,
@@ -20591,7 +20593,8 @@
     "charId": 6,
     "character": "Kiritani Haruka",
     "unit": "MORE MORE JUMP!",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Light_Within_the_Darkness"
   },
   {
     "id": 1377,
@@ -20605,7 +20608,8 @@
     "charId": 14,
     "character": "Otori Emu",
     "unit": "Wonderlands x Showtime",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Let%27s_Keep_Our_Heads_Up_and_Move_Forward"
   },
   {
     "id": 1378,
@@ -20619,7 +20623,8 @@
     "charId": 17,
     "character": "Yoisaki Kanade",
     "unit": "Nightcord at 25:00",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/All_Fired_Up%3F"
   },
   {
     "id": 1379,
@@ -20633,7 +20638,8 @@
     "charId": 19,
     "character": "Shinonome Ena",
     "unit": "Nightcord at 25:00",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Ena)"
   },
   {
     "id": 1380,
@@ -20647,7 +20653,8 @@
     "charId": 3,
     "character": "Mochizuki Honami",
     "unit": "Leo/Need",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Because_Everyone_Was_There_With_Me"
   },
   {
     "id": 1381,
@@ -20661,7 +20668,8 @@
     "charId": 2,
     "character": "Tenma Saki",
     "unit": "Leo/Need",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Surprise_Meeting!"
   },
   {
     "id": 1382,
@@ -20676,7 +20684,8 @@
     "character": "Kagamine Len",
     "unit": "Virtual Singers",
     "skillId": 15,
-    "sub_unit": "Leo/Need"
+    "sub_unit": "Leo/Need",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/An_Unexpected_Visitor"
   },
   {
     "id": 1383,
@@ -20690,7 +20699,8 @@
     "charId": 4,
     "character": "Hinomori Shiho",
     "unit": "Leo/Need",
-    "skillId": 9
+    "skillId": 9,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Reading_Picture_Books_Together"
   },
   {
     "id": 1384,
@@ -20704,7 +20714,8 @@
     "charId": 1,
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
-    "skillId": 2
+    "skillId": 2,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Yakisoba_Pan_Museum_of_My_Dreams"
   },
   {
     "id": 1385,
@@ -20718,7 +20729,8 @@
     "charId": 2,
     "character": "Tenma Saki",
     "unit": "Leo/Need",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Saki)"
   },
   {
     "id": 1386,
@@ -20732,7 +20744,8 @@
     "charId": 9,
     "character": "Azusawa Kohane",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/An_Unfamiliar_Gaze"
   },
   {
     "id": 1387,
@@ -20746,7 +20759,8 @@
     "charId": 11,
     "character": "Shinonome Akito",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Are_You_Even_Listening%3F"
   },
   {
     "id": 1388,
@@ -20760,7 +20774,8 @@
     "charId": 12,
     "character": "Aoyagi Toya",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Carefully_Prepared_Cup_of_Coffee"
   },
   {
     "id": 1389,
@@ -20774,7 +20789,8 @@
     "charId": 10,
     "character": "Shiraishi An",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 6
+    "skillId": 6,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Just_How_Tall_Is_It!%3F"
   },
   {
     "id": 1390,
@@ -20789,7 +20805,8 @@
     "character": "KAITO",
     "unit": "Virtual Singers",
     "skillId": 2,
-    "sub_unit": "Vivid BAD SQUAD"
+    "sub_unit": "Vivid BAD SQUAD",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Welcome_to_the_Party!"
   },
   {
     "id": 1391,
@@ -20803,7 +20820,8 @@
     "charId": 13,
     "character": "Tenma Tsukasa",
     "unit": "Wonderlands x Showtime",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Tsukasa)"
   },
   {
     "id": 1392,
@@ -20818,7 +20836,8 @@
     "character": "Kagamine Rin",
     "unit": "Virtual Singers",
     "skillId": 4,
-    "sub_unit": "Virtual Singers"
+    "sub_unit": "Virtual Singers",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Copycat_Dancing_%E2%99%AA"
   },
   {
     "id": 1393,
@@ -20833,7 +20852,8 @@
     "character": "Kagamine Len",
     "unit": "Virtual Singers",
     "skillId": 4,
-    "sub_unit": "Virtual Singers"
+    "sub_unit": "Virtual Singers",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Overlapping_Sparkles"
   },
   {
     "id": 1394,
@@ -20847,7 +20867,8 @@
     "charId": 4,
     "character": "Hinomori Shiho",
     "unit": "Leo/Need",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/With_Heart_and_Passion"
   },
   {
     "id": 1395,
@@ -20861,7 +20882,8 @@
     "charId": 5,
     "character": "Hanasato Minori",
     "unit": "MORE MORE JUMP!",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Intense_Coaching!%3F"
   },
   {
     "id": 1396,
@@ -20875,7 +20897,8 @@
     "charId": 10,
     "character": "Shiraishi An",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Setback_from_the_Past"
   },
   {
     "id": 1397,
@@ -20889,7 +20912,8 @@
     "charId": 13,
     "character": "Tenma Tsukasa",
     "unit": "Wonderlands x Showtime",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Straightforward_Speech"
   },
   {
     "id": 1398,
@@ -20903,7 +20927,8 @@
     "charId": 12,
     "character": "Aoyagi Toya",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Toya)"
   },
   {
     "id": 1399,
@@ -20917,7 +20942,8 @@
     "charId": 20,
     "character": "Akiyama Mizuki",
     "unit": "Nightcord at 25:00",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Small_But_Precious_Moment_With_a_Tiny_Friend"
   },
   {
     "id": 1400,
@@ -20931,7 +20957,8 @@
     "charId": 7,
     "character": "Momoi Airi",
     "unit": "MORE MORE JUMP!",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Just_Like_a_Princess!%3F"
   },
   {
     "id": 1401,
@@ -20946,7 +20973,8 @@
     "character": "KAITO",
     "unit": "Virtual Singers",
     "skillId": 16,
-    "sub_unit": "MORE MORE JUMP!"
+    "sub_unit": "MORE MORE JUMP!",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/SEKAI%27s_Idea_Man"
   },
   {
     "id": 1402,
@@ -20960,7 +20988,8 @@
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
-    "skillId": 3
+    "skillId": 3,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Searching_for_the_Perfect_Material"
   },
   {
     "id": 1403,
@@ -20974,7 +21003,8 @@
     "charId": 17,
     "character": "Yoisaki Kanade",
     "unit": "Nightcord at 25:00",
-    "skillId": 2
+    "skillId": 2,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/After_Giving_It_Form"
   },
   {
     "id": 1404,
@@ -20988,7 +21018,8 @@
     "charId": 24,
     "character": "Megurine Luka",
     "unit": "Virtual Singers",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Entrusted_Wish"
   },
   {
     "id": 1405,
@@ -21002,7 +21033,8 @@
     "charId": 3,
     "character": "Mochizuki Honami",
     "unit": "Leo/Need",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Now_It%27s_My_Turn_to_Help"
   },
   {
     "id": 1406,
@@ -21016,7 +21048,8 @@
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Single_Shot_Filled_With_Emotion"
   },
   {
     "id": 1407,
@@ -21030,7 +21063,8 @@
     "charId": 9,
     "character": "Azusawa Kohane",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Song_That_Reaches_the_Depths_of_One%27s_Heart"
   },
   {
     "id": 1408,
@@ -21044,7 +21078,8 @@
     "charId": 18,
     "character": "Asahina Mafuyu",
     "unit": "Nightcord at 25:00",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Smile_Blurred_by_the_Rain"
   },
   {
     "id": 1409,
@@ -21058,7 +21093,8 @@
     "charId": 16,
     "character": "Kamishiro Rui",
     "unit": "Wonderlands x Showtime",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Rui)"
   },
   {
     "id": 1410,
@@ -21072,7 +21108,8 @@
     "charId": 13,
     "character": "Tenma Tsukasa",
     "unit": "Wonderlands x Showtime",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Body-Scorching_Chaos"
   },
   {
     "id": 1411,
@@ -21086,7 +21123,8 @@
     "charId": 14,
     "character": "Otori Emu",
     "unit": "Wonderlands x Showtime",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Always_in_One%27s_Heart"
   },
   {
     "id": 1412,
@@ -21100,7 +21138,8 @@
     "charId": 16,
     "character": "Kamishiro Rui",
     "unit": "Wonderlands x Showtime",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Beyond_the_Sorrow"
   },
   {
     "id": 1413,
@@ -21114,7 +21153,8 @@
     "charId": 15,
     "character": "Kusanagi Nene",
     "unit": "Wonderlands x Showtime",
-    "skillId": 6
+    "skillId": 6,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Gazing_Into_Pain_and_Suffering"
   },
   {
     "id": 1414,
@@ -21129,6 +21169,106 @@
     "character": "Kagamine Len",
     "unit": "Virtual Singers",
     "skillId": 2,
-    "sub_unit": "Wonderlands x Showtime"
+    "sub_unit": "Wonderlands x Showtime",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Little_Hero"
+  },
+  {
+    "id": 1415,
+    "name": "Let's Head Home, Together",
+    "jp_name": "一緒に帰ろう",
+    "attribute": "Mysterious",
+    "rarity": 4,
+    "card_type": "bloom_fes",
+    "jp_released": 1782788400000,
+    "en_released": 1814382000000,
+    "charId": 12,
+    "character": "Aoyagi Toya",
+    "unit": "Vivid BAD SQUAD",
+    "skillId": 23
+  },
+  {
+    "id": 1416,
+    "name": "To Be a 'Me' Like You",
+    "jp_name": "あなたのような“わたし”に",
+    "attribute": "Pure",
+    "rarity": 4,
+    "card_type": "bloom_fes",
+    "jp_released": 1782788400000,
+    "en_released": 1814382000000,
+    "charId": 15,
+    "character": "Kusanagi Nene",
+    "unit": "Wonderlands x Showtime",
+    "skillId": 23
+  },
+  {
+    "id": 1417,
+    "name": "Sweet Cheer",
+    "jp_name": "可愛い応援",
+    "attribute": "Mysterious",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1782788400000,
+    "en_released": 1814382000000,
+    "charId": 5,
+    "character": "Hanasato Minori",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 10
+  },
+  {
+    "id": 1418,
+    "name": "A Million-Dollar Smile",
+    "jp_name": "100万点の笑顔",
+    "attribute": "Mysterious",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1782788400000,
+    "en_released": 1814382000000,
+    "charId": 6,
+    "character": "Kiritani Haruka",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 7
+  },
+  {
+    "id": 1419,
+    "name": "Exclusive Interview with Miku!",
+    "jp_name": "ミクちゃんに密着取材！",
+    "attribute": "Mysterious",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1782788400000,
+    "en_released": 1814382000000,
+    "charId": 28,
+    "character": "Hatsune Miku",
+    "unit": "Virtual Singers",
+    "skillId": 16,
+    "sub_unit": "MORE MORE JUMP!"
+  },
+  {
+    "id": 1420,
+    "name": "All Out! The Gymnastics Queen!",
+    "jp_name": "全力！体操のお姉さん！",
+    "attribute": "Pure",
+    "rarity": 3,
+    "card_type": "permanent",
+    "jp_released": 1782799200000,
+    "en_released": 1814392800000,
+    "charId": 7,
+    "character": "Momoi Airi",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 3
+  },
+  {
+    "id": 1421,
+    "name": "Helping with a Wonderful Smile",
+    "jp_name": "素敵な笑顔のお手伝い",
+    "attribute": "Cute",
+    "rarity": 2,
+    "card_type": "permanent",
+    "jp_released": 1782799200000,
+    "en_released": 1814392800000,
+    "charId": 8,
+    "character": "Hinomori Shizuku",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 2
   }
 ]
