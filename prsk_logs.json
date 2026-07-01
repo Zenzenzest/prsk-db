@@ -851,5 +851,20 @@
       "Fixed Chart Viewer ribbon getting distorted when hitting judgement line"
     ],
     "date": 1782364141000
+  },
+  {
+    "version": "1.22.8",
+    "title": "More Fixed & Adjustments",
+    "logs": [
+      "Added compact view for Banners/Songs",
+      "Added Popup confirmation when removing a saved banner",
+      "Fixed Saved Banners Layout going out of bounds on specific screen widths",
+      "Chart Simulator will now automatically fit when Fullscreen + Landscape",
+      "Added Spoiler Tag in Card Costume Viewer",
+      "Crystal Calculator Fixes",
+      "Added Crystal Calculator Discounts",
+      "Fixed chart showing green trace note instead of pink on some charts"
+    ],
+    "date": 1782894287000
   }
 ]
