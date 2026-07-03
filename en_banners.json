@@ -10650,5 +10650,16 @@
     "start": 1814727600000,
     "end": 1815159599000,
     "event_id": 209
+  },
+  {
+    "id": 780,
+    "name": "2026 July Premium Gift Gacha",
+    "sekai_id": 1170,
+    "start": 1783278000000,
+    "end": 1785524399000,
+    "cards": [1139, 1158, 1123, 1111, 1051, 624],
+    "banner_type": "Premium Gift",
+    "keywords": [],
+    "characters": [2, 5, 9, 15, 17, 26]
   }
 ]

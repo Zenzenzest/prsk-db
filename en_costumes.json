@@ -4849,5 +4849,70 @@
         ]
       }
     ]
+  },
+  {
+    "id": 780,
+    "costumes": [
+      {
+        "name": "Royal Ichthyic Garb",
+        "char_ids": [
+          11,
+          12,
+          13,
+          16,
+          23,
+          26
+        ],
+        "bodyAssets": [
+          "cos8077_body",
+          "cos8077_body_01",
+          "cos8077_body_03",
+          "cos8077_body_02"
+        ],
+        "headAssets": [
+          "cos8077_head",
+          "cos8077_head_02",
+          "cos8077_head_03",
+          "cos8077_head_01"
+        ]
+      },
+      {
+        "name": "Grand Piscine Array",
+        "char_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          24,
+          25
+        ],
+        "bodyAssets": [
+          "cos8076_body_01",
+          "cos8076_body_02",
+          "cos8076_body_03",
+          "cos8076_body"
+        ],
+        "headAssets": [
+          "cos8076_head_01",
+          "cos8076_head_02",
+          "cos8076_head_03",
+          "cos8076_head"
+        ]
+      }
+    ]
   }
 ]
