@@ -1,0 +1,22 @@
+[
+  {
+    "id": 907,
+    "musicId": 369,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 1740,
+        "musicId": 369,
+        "musicVocalId": 907,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 3690
+      }
+    ],
+    "assetbundleName": "vs_0369_01",
+    "archivePublishedAt": 1696399200000
+  }
+]
