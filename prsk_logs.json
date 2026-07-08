@@ -866,5 +866,15 @@
       "Fixed chart showing green trace note instead of pink on some charts"
     ],
     "date": 1782894287000
+  },
+  {
+    "version": "1.22.9",
+    "title": "Some Minor Adjustments",
+    "logs": [
+      "Added INST text in Songs/Calendar if its instrumental",
+      "Will now properly play correct vocals for vocals that share the same id but different songs between en & jp server",
+      "Removed * in song selection - chart viewer"
+    ],
+    "date": 1783505315000
   }
 ]
