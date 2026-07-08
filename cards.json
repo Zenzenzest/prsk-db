@@ -21184,7 +21184,8 @@
     "charId": 12,
     "character": "Aoyagi Toya",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 23
+    "skillId": 23,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Let%27s_Go_Home_Together"
   },
   {
     "id": 1416,
@@ -21198,7 +21199,8 @@
     "charId": 15,
     "character": "Kusanagi Nene",
     "unit": "Wonderlands x Showtime",
-    "skillId": 23
+    "skillId": 23,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/To_Become_a_%22Me%22_That%27s_Just_Like_You"
   },
   {
     "id": 1417,
@@ -21212,7 +21214,8 @@
     "charId": 5,
     "character": "Hanasato Minori",
     "unit": "MORE MORE JUMP!",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Adorable_Support"
   },
   {
     "id": 1418,
@@ -21226,7 +21229,8 @@
     "charId": 6,
     "character": "Kiritani Haruka",
     "unit": "MORE MORE JUMP!",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Million-Point_Smile"
   },
   {
     "id": 1419,
@@ -21241,7 +21245,8 @@
     "character": "Hatsune Miku",
     "unit": "Virtual Singers",
     "skillId": 16,
-    "sub_unit": "MORE MORE JUMP!"
+    "sub_unit": "MORE MORE JUMP!",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/An_Exclusive_Close-Up_Report_on_Miku-chan!"
   },
   {
     "id": 1420,
@@ -21255,7 +21260,8 @@
     "charId": 7,
     "character": "Momoi Airi",
     "unit": "MORE MORE JUMP!",
-    "skillId": 3
+    "skillId": 3,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Full_Power!_Let%27s_Exercise_With_Onee-san!"
   },
   {
     "id": 1421,
@@ -21269,6 +21275,7 @@
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
-    "skillId": 2
+    "skillId": 2,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/How_to_Put_On_a_Lovely_Smile"
   }
 ]
