@@ -4224,5 +4224,18 @@
     "type": "Minori 7th Focus Event",
     "music_id": 756,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Idol:_Hanasato_Minori_~the_forefront_of_dreams~"
+  },
+  {
+    "id": 210,
+    "name": "褪せない今を、彩って",
+    "unit": "n25",
+    "cards": [1422, 1423, 1424, 1425, 1426],
+    "start": 1783576800000,
+    "end": 1784289599000,
+    "close": 1784458799000,
+    "event_type": "marathon",
+    "keywords": ["niigo", "nightcord", "n25", "focus", "ena7", "ena"],
+    "type": "Ena 7th Focus Event",
+    "music_id": 754
   }
 ]
