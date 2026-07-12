@@ -876,5 +876,15 @@
       "Removed * in song selection - chart viewer"
     ],
     "date": 1783505315000
+  },
+  {
+    "version": "1.22.10",
+    "title": "Model Viewer & Crystal Calculator",
+    "logs": [
+      "Adjusted Model Lighting to be more accurate",
+      "Added Daily Challenge Crystals in Crystals Calculator",
+      "Automatically select SEKAI ver. vocals when viewing a chart"
+    ],
+    "date": 1783859538000
   }
 ]
