@@ -7557,15 +7557,13 @@
   {
     "id": 527,
     "name": "[Rerun]The Party of Blast!! Gacha",
-    "start": 1785384000000,
-    "end": 1785384000000,
+    "start": 1784401200000,
+    "end": 1785178799000,
     "cards": [951, 952, 953],
     "tag": "1st Rerun",
     "en_id": 527,
     "banner_type": "Limited Gacha Rerun",
     "characters": [9, 11, 21],
-    "type": "rerun_estimation",
-    "rerun": [1783483200000, 1784952000000],
     "keywords": [
       "vbs",
       "vivibasu",
@@ -7604,7 +7602,7 @@
   },
   {
     "id": 530,
-    "name": "Seeking My Way gacha",
+    "name": "Seeking My Way Gacha",
     "start": 1784142000000,
     "end": 1784833199000,
     "cards": [1201, 1202, 1203],
@@ -7626,7 +7624,7 @@
   },
   {
     "id": 531,
-    "name": "Kusanagi Nene Happy Birthday 2026 Gacha",
+    "name": "Nene Kusanagi Happy Birthday 2026 Gacha",
     "start": 1784530800000,
     "end": 1785135599000,
     "cards": [1206, 966, 682, 468],

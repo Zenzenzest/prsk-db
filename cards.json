@@ -17922,7 +17922,7 @@
   },
   {
     "id": 1201,
-    "name": "Confusion That Falls Into Silence",
+    "name": "Noise Gives Way To Silence",
     "character": "Mochizuki Honami",
     "rarity": 4,
     "unit": "Leo/Need",
@@ -17937,7 +17937,7 @@
   },
   {
     "id": 1202,
-    "name": "Be With You",
+    "name": "We're With You",
     "character": "Hoshino Ichika",
     "rarity": 4,
     "unit": "Leo/Need",
@@ -17952,7 +17952,7 @@
   },
   {
     "id": 1203,
-    "name": "Fun And Games Committee Member's Skill Showcase♪",
+    "name": "Bringing The Fun And Games♪",
     "character": "Kagamine Rin",
     "rarity": 4,
     "unit": "Virtual Singers",
@@ -17968,7 +17968,7 @@
   },
   {
     "id": 1204,
-    "name": "Waking Up At The Same Time",
+    "name": "The Moment I Rise",
     "character": "Hinomori Shiho",
     "rarity": 3,
     "unit": "Leo/Need",
@@ -17983,7 +17983,7 @@
   },
   {
     "id": 1205,
-    "name": "Hot Concept",
+    "name": "Heat's My Game",
     "character": "MEIKO",
     "rarity": 2,
     "unit": "Virtual Singers",
@@ -17999,7 +17999,7 @@
   },
   {
     "id": 1206,
-    "name": "Happy Birthday!! 2026",
+    "name": "Happy Birthday! 2026",
     "character": "Kusanagi Nene",
     "rarity": 5,
     "unit": "Wonderlands x Showtime",
@@ -21290,7 +21290,8 @@
     "charId": 19,
     "character": "Shinonome Ena",
     "unit": "Nightcord at 25:00",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Flowers_Blooming_in_the_Indigo_Sky"
   },
   {
     "id": 1423,
@@ -21304,7 +21305,8 @@
     "charId": 18,
     "character": "Asahina Mafuyu",
     "unit": "Nightcord at 25:00",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Memories_Traced_by_Fingertips"
   },
   {
     "id": 1424,
@@ -21319,7 +21321,8 @@
     "character": "MEIKO",
     "unit": "Virtual Singers",
     "skillId": 4,
-    "sub_unit": "Nightcord at 25:00"
+    "sub_unit": "Nightcord at 25:00",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Tranquil_Twilight"
   },
   {
     "id": 1425,
@@ -21333,7 +21336,8 @@
     "charId": 17,
     "character": "Yoisaki Kanade",
     "unit": "Nightcord at 25:00",
-    "skillId": 6
+    "skillId": 6,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Unexpected_Speed!%3F"
   },
   {
     "id": 1426,
@@ -21347,7 +21351,8 @@
     "charId": 20,
     "character": "Akiyama Mizuki",
     "unit": "Nightcord at 25:00",
-    "skillId": 2
+    "skillId": 2,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Anywhere_is_Fine,_as_Long_as_I%27m_With_Everyone"
   },
   {
     "id": 1427,
