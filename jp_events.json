@@ -4238,5 +4238,45 @@
     "type": "Ena 7th Focus Event",
     "music_id": 754,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Let_Colors_Bloom_in_the_Unfading_Present"
+  },
+  {
+    "id": 211,
+    "name": "君の隣、君と見る明日",
+    "unit": "mixed",
+    "cards": [1428, 1429, 1430, 1431, 1432],
+    "start": 1784458800000,
+    "end": 1785322799000,
+    "close": 1785477599000,
+    "event_type": "world_bloom",
+    "keywords": [],
+    "schedule": [
+      {
+        "char_chapter": 2,
+        "start": 1784458800000,
+        "end": 1784631599000
+      },
+      {
+        "char_chapter": 12,
+        "start": 1784631600000,
+        "end": 1784804399000
+      },
+      {
+        "char_chapter": 16,
+        "start": 1784804400000,
+        "end": 1784977199000
+      },
+      {
+        "char_chapter": 20,
+        "start": 1784977200000,
+        "end": 1785149999000
+      },
+      {
+        "char_chapter": 26,
+        "start": 1785150000000,
+        "end": 1785322799000
+      }
+    ],
+
+    "type": "World Link 3 Event"
   }
 ]

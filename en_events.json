@@ -4188,5 +4188,44 @@
     "type": "Ena 7th Focus Event",
     "music_id": 754,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Let_Colors_Bloom_in_the_Unfading_Present"
+  },
+  {
+    "id": 211,
+    "name": "Next to You, Seeing Our Tomorrow",
+    "unit": "mixed",
+    "cards": [1428, 1429, 1430, 1431, 1432],
+    "start": 1816052400000,
+    "end": 1816916399000,
+    "close": 1817071199000,
+    "event_type": "world_bloom",
+    "keywords": [],
+    "type": "World Link 3 Event",
+    "schedule": [
+      {
+        "char_chapter": 2,
+        "start": 1816052400000,
+        "end": 1816225199000
+      },
+      {
+        "char_chapter": 12,
+        "start": 1816225200000,
+        "end": 1816397999000
+      },
+      {
+        "char_chapter": 16,
+        "start": 1816398000000,
+        "end": 1816570799000
+      },
+      {
+        "char_chapter": 20,
+        "start": 1816570800000,
+        "end": 1816743599000
+      },
+      {
+        "char_chapter": 26,
+        "start": 1816743600000,
+        "end": 1816916399000
+      }
+    ]
   }
 ]

@@ -20836,7 +20836,6 @@
     "character": "Kagamine Rin",
     "unit": "Virtual Singers",
     "skillId": 4,
-    "sub_unit": "Virtual Singers",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Copycat_Dancing_%E2%99%AA"
   },
   {
@@ -20852,7 +20851,6 @@
     "character": "Kagamine Len",
     "unit": "Virtual Singers",
     "skillId": 4,
-    "sub_unit": "Virtual Singers",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Overlapping_Sparkles"
   },
   {
@@ -21366,6 +21364,91 @@
     "charId": 15,
     "character": "Kusanagi Nene",
     "unit": "Wonderlands x Showtime",
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Nene)"
+  },
+  {
+    "id": 1428,
+    "name": "Seeing Off Skyward",
+    "jp_name": "空へと見送って",
+    "attribute": "Pure",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1784430000000,
+    "en_released": 1816023600000,
+    "charId": 26,
+    "character": "KAITO",
+    "unit": "Virtual Singers",
+    "skillId": 4
+  },
+  {
+    "id": 1429,
+    "name": "The Day I Gave Up",
+    "jp_name": "あの日の諦め",
+    "attribute": "Cool",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1784430000000,
+    "en_released": 1816023600000,
+    "charId": 2,
+    "character": "Tenma Saki",
+    "unit": "Leo/Need",
+    "skillId": 4
+  },
+  {
+    "id": 1430,
+    "name": "A Wish Received",
+    "jp_name": "願いのレシーブ",
+    "attribute": "Mysterious",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1784430000000,
+    "en_released": 1816023600000,
+    "charId": 12,
+    "character": "Aoyagi Toya",
+    "unit": "Vivid BAD SQUAD",
+    "skillId": 4
+  },
+  {
+    "id": 1431,
+    "name": "Clouded Heart",
+    "jp_name": "心の濁り",
+    "attribute": "Cute",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1784430000000,
+    "en_released": 1816023600000,
+    "charId": 16,
+    "character": "Kamishiro Rui",
+    "unit": "Wonderlands x Showtime",
+    "skillId": 4
+  },
+  {
+    "id": 1432,
+    "name": "Layered Feelings and the Past",
+    "jp_name": "重なる想いと過去",
+    "attribute": "Happy",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1784430000000,
+    "en_released": 1816023600000,
+    "charId": 20,
+    "character": "Akiyama Mizuki",
+    "unit": "Nightcord at 25:00",
+    "skillId": 4
+  },
+  {
+    "id": 1433,
+    "name": "Happy Birthday！！2027",
+    "jp_name": "Happy Birthday！！2026",
+    "attribute": "Cute",
+    "rarity": 5,
+    "card_type": "bday",
+    "jp_released": 1784646000000,
+    "en_released": 1816239600000,
+    "charId": 10,
+    "character": "Shiraishi An",
+    "unit": "Vivid BAD SQUAD",
     "skillId": 14
   }
 ]

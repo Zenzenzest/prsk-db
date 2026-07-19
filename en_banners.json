@@ -10741,5 +10741,50 @@
     "keywords": [],
     "start": 1815721200000,
     "end": 1816325999000
+  },
+  {
+    "id": 787,
+    "name": "around table WITH you! Gacha",
+    "sekai_id": 976,
+    "characters": [2, 12, 16, 20, 26],
+    "cards": [1428, 1429, 1430, 1431, 1432],
+    "banner_type": "World Link Gacha",
+    "keywords": [],
+    "start": 1816023600000,
+    "end": 1817060399000,
+    "event_id": 211
+  },
+  {
+    "id": 788,
+    "name": "An Shiraishi Happy Birthday 2027 Gacha",
+    "sekai_id": 977,
+    "characters": [10],
+    "cards": [1433],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1816239600000,
+    "end": 1816844399000
+  },
+  {
+    "id": 789,
+    "name": "An Shiraishi Happy Birthday Memories Gacha",
+    "sekai_id": 978,
+    "characters": [10],
+    "cards": [1212, 967, 688, 474],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1816239600000,
+    "end": 1816844399000
+  },
+  {
+    "id": 791,
+    "name": "Happiness Package Gacha",
+    "sekai_id": 980,
+    "characters": [4, 8, 11, 16, 17, 22],
+    "cards": [1099, 1333, 1266, 1284, 1340, 1139],
+    "banner_type": "Happiness Package",
+    "keywords": [],
+    "start": 1816628400000,
+    "end": 1817405999000
   }
 ]
