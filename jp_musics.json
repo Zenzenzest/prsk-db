@@ -3966,7 +3966,7 @@
     "id": 196,
     "seq": 2215701,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": ["mv"],
     "title": "オーダーメイド",
     "pronunciation": "おーだーめいど",
     "creatorArtistId": 108,
@@ -12230,7 +12230,9 @@
     "fillerSec": 7.686100006103516,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Lost Umbrella",
+    "romaji": ""
   },
   {
     "id": 552,
@@ -12423,7 +12425,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Odoryanse",
+    "en_title": ""
   },
   {
     "id": 560,
@@ -12640,7 +12644,9 @@
     "fillerSec": 9.419500350952148,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Star",
+    "romaji": ""
   },
   {
     "id": 571,
@@ -12664,7 +12670,9 @@
     "fillerSec": 9.535699844360352,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Nisemono Ningen Yonjuugou",
+    "en_title": "Fake Human NO. 40"
   },
   {
     "id": 572,
@@ -12688,7 +12696,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kazatte",
+    "en_title": "Embellish"
   },
   {
     "id": 573,
@@ -12959,7 +12969,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Accelerate",
+    "romaji": ""
   },
   {
     "id": 584,
@@ -12983,7 +12995,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "IMAWANOKIWA",
+    "en_title": ""
   },
   {
     "id": 585,
@@ -13007,7 +13021,9 @@
     "fillerSec": 8.25469970703125,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Pentatonic",
+    "romaji": ""
   },
   {
     "id": 586,
@@ -13031,7 +13047,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Yankee Boy, Yankee Girl",
+    "romaji": ""
   },
   {
     "id": 587,
@@ -13295,7 +13313,9 @@
     "fillerSec": 6.9070000648498535,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Sono E no Namae wa",
+    "en_title": ""
   },
   {
     "id": 600,
@@ -13319,7 +13339,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Yuke",
+    "en_title": ""
   },
   {
     "id": 601,
@@ -13343,7 +13365,9 @@
     "fillerSec": 9.390000343322754,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Ruma",
+    "en_title": ""
   },
   {
     "id": 603,
@@ -13511,7 +13535,9 @@
     "fillerSec": 8.66670036315918,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 611,
@@ -13775,7 +13801,9 @@
     "fillerSec": 9.375,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Tokyo Summer Session",
+    "romaji": ""
   },
   {
     "id": 622,
@@ -13970,7 +13998,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 630,
@@ -13994,7 +14024,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Koufuku Kei",
+    "en_title": "Love and Punishment"
   },
   {
     "id": 631,
@@ -14018,7 +14050,9 @@
     "fillerSec": 8.390000343322754,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Tensai Rock",
+    "en_title": "Tensai Rock"
   },
   {
     "id": 632,
@@ -14042,7 +14076,9 @@
     "fillerSec": 7.686200141906738,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 633,
@@ -14114,7 +14150,9 @@
     "fillerSec": 8.336999893188477,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Ari no Mama no Story o",
+    "en_title": "Our True Story"
   },
   {
     "id": 636,
@@ -14186,7 +14224,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 639,
@@ -14210,7 +14250,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Marionette Dancer",
+    "romaji": ""
   },
   {
     "id": 641,
@@ -14234,7 +14276,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kimi ga Tobioriru no Naraba",
+    "en_title": "In Case You're Gonna Jump"
   },
   {
     "id": 642,
@@ -14258,7 +14302,9 @@
     "fillerSec": 7.983099937438965,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kono Manma de Ikou",
+    "en_title": "Going On as We Are"
   },
   {
     "id": 643,
@@ -14282,7 +14328,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 644,
@@ -14306,7 +14354,9 @@
     "fillerSec": 7.928599834442139,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Ikiru",
+    "en_title": "To Live"
   },
   {
     "id": 645,
@@ -14330,7 +14380,9 @@
     "fillerSec": 7.941199779510498,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Shinkai City Underground",
+    "en_title": "Deep Sea City Underground"
   },
   {
     "id": 646,
@@ -14378,7 +14430,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "SANchi Chokusou",
+    "en_title": "Sanity Krush"
   },
   {
     "id": 648,
@@ -14427,7 +14481,9 @@
     "fillerSec": 7.407100200653076,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Goodbye Heaven, Come Back Hell",
+    "romaji": "Sayonara Tengoku mata kite Jigoku"
   },
   {
     "id": 650,
@@ -14451,7 +14507,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Ano Natsu ga Houwa Suru",
+    "en_title": "That Summer Saturates"
   },
   {
     "id": 651,
@@ -14475,7 +14533,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "White Happy",
+    "romaji": ""
   },
   {
     "id": 652,
@@ -14499,7 +14559,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kareshi no Jude",
+    "en_title": "Boyfriend Jude"
   },
   {
     "id": 653,
@@ -14523,7 +14585,9 @@
     "fillerSec": 8.1899995803833,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Pamela",
+    "romaji": ""
   },
   {
     "id": 654,
@@ -14571,7 +14635,9 @@
     "fillerSec": 7.999899864196777,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "lily-lala",
+    "romaji": ""
   },
   {
     "id": 656,
@@ -14595,7 +14661,9 @@
     "fillerSec": 8.199999809265137,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "BLOOD DOLL",
+    "romaji": ""
   },
   {
     "id": 658,
@@ -14619,7 +14687,9 @@
     "fillerSec": 9.73169994354248,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Jougen no Tsuki",
+    "en_title": "Crescent Moon"
   },
   {
     "id": 659,
@@ -14643,7 +14713,9 @@
     "fillerSec": 7.63640022277832,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Anata no Sora ga Naku no Nara",
+    "en_title": "If Your Sky Were To Cry"
   },
   {
     "id": 660,
@@ -14667,7 +14739,9 @@
     "fillerSec": 9.428600311279297,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Tobidase! Wonderpyoi",
+    "en_title": ""
   },
   {
     "id": 661,
@@ -14691,7 +14765,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Hikyou Sentai Urotander",
+    "en_title": "Urotander, Underhanded Rangers"
   },
   {
     "id": 662,
@@ -14715,7 +14791,9 @@
     "fillerSec": 5.922999858856201,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kokuhaku",
+    "en_title": "Confession"
   },
   {
     "id": 663,
@@ -14739,7 +14817,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Venus",
+    "romaji": ""
   },
   {
     "id": 664,
@@ -14763,7 +14843,9 @@
     "fillerSec": 8.600000381469727,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "HITO Mania",
+    "en_title": "HITO Mania"
   },
   {
     "id": 665,
@@ -14787,7 +14869,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Rocket Cider",
+    "romaji": ""
   },
   {
     "id": 666,
@@ -14811,7 +14895,9 @@
     "fillerSec": 9.46150016784668,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Shoujo A",
+    "en_title": " Young Girl A "
   },
   {
     "id": 667,
@@ -14835,7 +14921,9 @@
     "fillerSec": 9.4443998336792,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Musekinin Shuugoutai",
+    "en_title": ""
   },
   {
     "id": 668,
@@ -14859,7 +14947,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Nekuratune Circus",
+    "en_title": ""
   },
   {
     "id": 669,
@@ -14883,7 +14973,9 @@
     "fillerSec": 8.148900032043457,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Genten",
+    "en_title": ""
   },
   {
     "id": 670,
@@ -14907,7 +14999,9 @@
     "fillerSec": 7.593999862670898,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "I~ya I~ya I~ya",
+    "en_title": ""
   },
   {
     "id": 671,
@@ -14931,7 +15025,9 @@
     "fillerSec": 6.81820011138916,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kaijuu ni Naritai",
+    "en_title": "I wanna be a monster"
   },
   {
     "id": 672,
@@ -14955,7 +15051,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "How-To Sekai Seifuku",
+    "en_title": "How To World Domination"
   },
   {
     "id": 674,
@@ -14980,7 +15078,9 @@
     "musicCollaborationId": 10,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": false
+    "isAvailableForMusicScoreMaker": false,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 675,
@@ -15005,7 +15105,9 @@
     "musicCollaborationId": 10,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": false
+    "isAvailableForMusicScoreMaker": false,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 676,
@@ -15030,7 +15132,9 @@
     "musicCollaborationId": 10,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": false
+    "isAvailableForMusicScoreMaker": false,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 677,
@@ -15054,7 +15158,9 @@
     "fillerSec": 9.052000045776367,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Abelia",
+    "romaji": ""
   },
   {
     "id": 678,
@@ -15078,7 +15184,9 @@
     "fillerSec": 9.352999687194824,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kindokei",
+    "en_title": ""
   },
   {
     "id": 679,
@@ -15102,7 +15210,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 680,
@@ -15126,7 +15236,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 681,
@@ -15150,7 +15262,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Hoshi ni Ichiban Chikai Basho",
+    "en_title": "Where the Stars Are Closest"
   },
   {
     "id": 682,
@@ -15174,7 +15288,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Anata Shika Mienai no",
+    "en_title": "All I Can See Is You"
   },
   {
     "id": 683,
@@ -15198,7 +15314,9 @@
     "fillerSec": 8.642900466918945,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Colorful Foundation",
+    "romaji": ""
   },
   {
     "id": 684,
@@ -15222,7 +15340,9 @@
     "fillerSec": 8.111100196838379,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Fighter",
+    "romaji": ""
   },
   {
     "id": 685,
@@ -15371,7 +15491,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Planet Loop",
+    "romaji": ""
   },
   {
     "id": 691,
@@ -15395,7 +15517,9 @@
     "fillerSec": 9.753100395202637,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 692,
@@ -15419,7 +15543,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Bokaro Koroshiamu",
+    "en_title": "Vocalo-Colosseum"
   },
   {
     "id": 693,
@@ -15443,7 +15569,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 695,
@@ -15467,7 +15595,9 @@
     "fillerSec": 8.66670036315918,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "HANAMUSUBI",
+    "en_title": "Flower Knot"
   },
   {
     "id": 696,
@@ -15491,7 +15621,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Dream Kiss",
+    "romaji": ""
   },
   {
     "id": 697,
@@ -15515,7 +15647,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 698,
@@ -15539,7 +15673,9 @@
     "fillerSec": 6.616700172424316,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kusari no Shoujo -Re Alive-",
+    "en_title": "Chain Girl -Re Alive-"
   },
   {
     "id": 699,
@@ -15563,7 +15699,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 700,
@@ -15587,7 +15725,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Mahou Shoujo to Chocolate",
+    "en_title": "Magical Girl and Chocolate"
   },
   {
     "id": 702,
@@ -15611,7 +15751,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Ramune",
+    "en_title": ""
   },
   {
     "id": 703,
@@ -15636,7 +15778,9 @@
     "musicCollaborationId": 13,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Violence Trigger",
+    "romaji": ""
   },
   {
     "id": 704,
@@ -15660,7 +15804,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kuronuri Sekai Ate Shokan",
+    "en_title": "Letter To The Black World"
   },
   {
     "id": 705,
@@ -15684,7 +15830,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Raspberry ＊ Monster",
+    "romaji": ""
   },
   {
     "id": 706,
@@ -15708,7 +15856,9 @@
     "fillerSec": 9.39210033416748,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Eien Hanahadashii",
+    "en_title": "Extremely Eternal"
   },
   {
     "id": 707,
@@ -15733,7 +15883,9 @@
     "musicCollaborationId": 12,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": false
+    "isAvailableForMusicScoreMaker": false,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 708,
@@ -15758,7 +15910,9 @@
     "musicCollaborationId": 12,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": false
+    "isAvailableForMusicScoreMaker": false,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 709,
@@ -15783,7 +15937,9 @@
     "musicCollaborationId": 12,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": false
+    "isAvailableForMusicScoreMaker": false,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 710,
@@ -15807,7 +15963,9 @@
     "fillerSec": 7.875,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Hedgehog",
+    "romaji": ""
   },
   {
     "id": 711,
@@ -15831,7 +15989,9 @@
     "fillerSec": 8.479000091552734,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "THE WANDERLAST",
+    "romaji": ""
   },
   {
     "id": 712,
@@ -15855,7 +16015,9 @@
     "fillerSec": 9.300000190734863,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Hikaku Shoukougun",
+    "en_title": "Comparison Syndrome"
   },
   {
     "id": 713,
@@ -15879,7 +16041,9 @@
     "fillerSec": 8.577500343322754,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 714,
@@ -15903,7 +16067,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Fräulein=Ojosama",
+    "romaji": "Fräulein=Ojosama"
   },
   {
     "id": 715,
@@ -15927,7 +16093,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Mahou Shoujo Koufukuron",
+    "en_title": "Magical Girl Eudaemonics"
   },
   {
     "id": 716,
@@ -15951,7 +16119,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Touka Suru Ondo",
+    "en_title": ""
   },
   {
     "id": 717,
@@ -15975,7 +16145,9 @@
     "fillerSec": 9.388199806213379,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 718,
@@ -15999,7 +16171,9 @@
     "fillerSec": 7.767099857330322,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Maku o Orosou, Parade e",
+    "en_title": "Lower the Curtain, Onto The Parade"
   },
   {
     "id": 719,
@@ -16047,7 +16221,9 @@
     "fillerSec": 8.864999771118164,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Aria",
+    "en_title": ""
   },
   {
     "id": 721,
@@ -16071,7 +16247,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Aishite ita no ni",
+    "en_title": "Even Though I Loved You"
   },
   {
     "id": 722,
@@ -16095,7 +16273,9 @@
     "fillerSec": 7.6128997802734375,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Daidaidaidaidaikirai",
+    "en_title": ""
   },
   {
     "id": 723,
@@ -16120,7 +16300,9 @@
     "musicCollaborationId": 13,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Lavie",
+    "romaji": ""
   },
   {
     "id": 724,
@@ -16144,7 +16326,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "HAO",
+    "en_title": ""
   },
   {
     "id": 726,
@@ -16169,7 +16353,9 @@
     "musicCollaborationId": 13,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Alkali Rettousei",
+    "en_title": "Alkali Underachiever"
   },
   {
     "id": 727,
@@ -16193,7 +16379,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Don’t Believe in T",
+    "romaji": ""
   },
   {
     "id": 732,
@@ -16217,7 +16405,9 @@
     "fillerSec": 8.439299583435059,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Tenran no Ice Heaven",
+    "en_title": ""
   },
   {
     "id": 733,
@@ -16241,7 +16431,9 @@
     "fillerSec": 7.758699893951416,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Ima Sugu Rinne",
+    "en_title": " Retry Now"
   },
   {
     "id": 734,
@@ -16265,7 +16457,9 @@
     "fillerSec": 8.285699844360352,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Propose",
+    "romaji": ""
   },
   {
     "id": 735,
@@ -16289,7 +16483,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Kugutsu no Utsutsu",
+    "en_title": "The Puppet's Reality"
   },
   {
     "id": 737,
@@ -16313,7 +16509,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Douka-ai",
+    "en_title": "Smoky Love"
   },
   {
     "id": 738,
@@ -16337,7 +16535,9 @@
     "fillerSec": 9.348799705505371,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Strata de Machiawase",
+    "en_title": "Rendezvous on the Strata"
   },
   {
     "id": 739,
@@ -16361,7 +16561,9 @@
     "fillerSec": 8.039999961853027,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Sekai no Arukikata",
+    "en_title": "Through the World"
   },
   {
     "id": 740,
@@ -16385,7 +16587,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Uka",
+    "en_title": ""
   },
   {
     "id": 741,
@@ -16409,7 +16613,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "I Maker!",
+    "romaji": ""
   },
   {
     "id": 742,
@@ -16433,7 +16639,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Tabi ni Kaeru",
+    "en_title": ""
   },
   {
     "id": 743,
@@ -16457,7 +16665,9 @@
     "fillerSec": 7.656799793243408,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Dreamer's Beat",
+    "romaji": ""
   },
   {
     "id": 744,
@@ -16631,7 +16841,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Hikari",
+    "en_title": "Light"
   },
   {
     "id": 755,
@@ -16655,7 +16867,9 @@
     "fillerSec": 8.850000381469727,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Hatsune Kyousoukyoku Dai 01-ban \"Suisei\"",
+    "en_title": "Hatsune Concerto No.01 'Comet'"
   },
   {
     "id": 756,
@@ -16679,7 +16893,9 @@
     "fillerSec": 9.487799644470215,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 757,
@@ -16703,7 +16919,9 @@
     "fillerSec": 4.5,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Hikari no Atsumekata",
+    "en_title": "The Way The Light Gathers"
   },
   {
     "id": 758,
@@ -16727,7 +16945,9 @@
     "fillerSec": 8.25469970703125,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Lapse",
+    "romaji": ""
   },
   {
     "id": 759,
@@ -16751,7 +16971,9 @@
     "fillerSec": 7.992000102996826,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Hanataba",
+    "en_title": "Bouquet"
   },
   {
     "id": 760,
@@ -16775,7 +16997,9 @@
     "fillerSec": 8.428600311279297,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "All in one",
+    "romaji": ""
   },
   {
     "id": 790,
@@ -16799,7 +17023,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Pikkooon!!",
+    "en_title": ""
   },
   {
     "id": 791,
@@ -16823,7 +17049,9 @@
     "fillerSec": 7.732399940490723,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "City Lights",
+    "romaji": ""
   },
   {
     "id": 792,
@@ -16847,6 +17075,8 @@
     "fillerSec": 6.690000057220459,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Astronauts",
+    "romaji": ""
   }
 ]
