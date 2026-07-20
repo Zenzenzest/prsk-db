@@ -886,5 +886,17 @@
       "Automatically select SEKAI ver. vocals when viewing a chart"
     ],
     "date": 1783859538000
+  },
+  {
+    "version": "1.22.11",
+    "title": "More Adjustments and Minor Additions",
+    "logs": [
+      "Added English/Romaji Titles for JP Songs",
+      "New Cards Button in Landing Page will now automatically disappear within a day after seeing the button",
+      "Fixed Calendar - EN Server adding an empty extra month despite having no data for that specific time",
+      "Added URL Params in Calendar, Chart Viewer, and Costume Viewer",
+      "Fixed Card Costume Viewer where turning off the shadow would make the model look awkwardly tanned"
+    ],
+    "date": 1784542143000
   }
 ]
