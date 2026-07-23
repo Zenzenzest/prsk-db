@@ -18014,7 +18014,7 @@
   },
   {
     "id": 1207,
-    "name": "Weaving Sincere Feelings",
+    "name": "Sharing My Honest Feelings",
     "character": "Hanasato Minori",
     "rarity": 4,
     "unit": "MORE MORE JUMP!",
@@ -18029,7 +18029,7 @@
   },
   {
     "id": 1208,
-    "name": "Fantastic! Training Room",
+    "name": "Fantastic Training Room!",
     "character": "Kiritani Haruka",
     "rarity": 4,
     "unit": "MORE MORE JUMP!",
@@ -18044,7 +18044,7 @@
   },
   {
     "id": 1209,
-    "name": "\"A Comforting Breakfast\"",
+    "name": "A Comforting Breakfast",
     "character": "Hinomori Shizuku",
     "rarity": 4,
     "unit": "MORE MORE JUMP!",
@@ -18066,7 +18066,7 @@
     "attribute": "Mysterious",
     "card_type": "permanent",
     "jp_released": 1753250400000,
-    "en_released": 1784862000000,
+    "en_released": 1784844000000,
     "jp_name": "愛莉のビューティーサロン",
     "charId": 7,
     "skillId": 9,
@@ -18074,7 +18074,7 @@
   },
   {
     "id": 1211,
-    "name": "The SEKAI's Representative Idol Fan",
+    "name": "Idol Fan In SEKAI",
     "character": "KAITO",
     "rarity": 2,
     "unit": "Virtual Singers",
@@ -18082,7 +18082,7 @@
     "sub_unit": "MORE MORE JUMP!",
     "card_type": "permanent",
     "jp_released": 1753250400000,
-    "en_released": 1784862000000,
+    "en_released": 1784844000000,
     "jp_name": "セカイのアイドルファン",
     "charId": 53,
     "skillId": 5,
@@ -18090,7 +18090,7 @@
   },
   {
     "id": 1212,
-    "name": "Happy Birthday!! 2026",
+    "name": "Happy Birthday! 2026",
     "character": "Shiraishi An",
     "rarity": 5,
     "unit": "Vivid BAD SQUAD",
@@ -18120,7 +18120,7 @@
   },
   {
     "id": 1214,
-    "name": "The Best Souvenir!",
+    "name": "The Best Souvenirs!",
     "character": "Aoyagi Toya",
     "rarity": 4,
     "unit": "Vivid BAD SQUAD",
@@ -18135,7 +18135,7 @@
   },
   {
     "id": 1215,
-    "name": "A Secret Conversation Between The Two",
+    "name": "Between You And Me",
     "character": "Megurine Luka",
     "rarity": 4,
     "unit": "Virtual Singers",
@@ -18151,7 +18151,7 @@
   },
   {
     "id": 1216,
-    "name": "Someday, To The Future Me",
+    "name": "To Future Me",
     "character": "Azusawa Kohane",
     "rarity": 3,
     "unit": "Vivid BAD SQUAD",
@@ -18166,7 +18166,7 @@
   },
   {
     "id": 1217,
-    "name": "Return To Everyday Life",
+    "name": "Return To Regular Life",
     "character": "Shinonome Akito",
     "rarity": 2,
     "unit": "Vivid BAD SQUAD",
@@ -18543,13 +18543,13 @@
   },
   {
     "id": 1242,
-    "name": "Song of Guidance",
+    "name": "A Guiding Song",
     "jp_name": "導きの歌",
     "attribute": "Cool",
     "rarity": 4,
     "card_type": "limited_collab",
     "jp_released": 1758250800000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 21,
     "character": "Hatsune Miku",
     "unit": "Virtual Singers",
@@ -18559,13 +18559,13 @@
   },
   {
     "id": 1243,
-    "name": "Looking Up at the Stars",
+    "name": "Looking Up At The Stars",
     "jp_name": "星々を見上げて",
     "attribute": "Cute",
     "rarity": 4,
     "card_type": "limited_collab",
     "jp_released": 1758250800000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 4,
     "character": "Hinomori Shiho",
     "unit": "Leo/Need",
@@ -18575,13 +18575,13 @@
   },
   {
     "id": 1244,
-    "name": "A Sweet Moment~",
+    "name": "A Sweet Moment",
     "jp_name": "あま～いひと時",
     "attribute": "Pure",
     "rarity": 4,
     "card_type": "limited_collab",
     "jp_released": 1758250800000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 9,
     "character": "Azusawa Kohane",
     "unit": "Vivid BAD SQUAD",
@@ -18591,13 +18591,13 @@
   },
   {
     "id": 1245,
-    "name": "The Result of Our Special Training!",
+    "name": "Super Special Practice Session!",
     "jp_name": "大特訓大会の成果！",
     "attribute": "Happy",
     "rarity": 4,
     "card_type": "limited_collab",
     "jp_released": 1758250800000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 15,
     "character": "Kusanagi Nene",
     "unit": "Wonderlands x Showtime",
@@ -18607,13 +18607,13 @@
   },
   {
     "id": 1246,
-    "name": "feat. Ichigotchi",
+    "name": "Featuring Ichigotchi",
     "jp_name": "feat.いちごっち",
     "attribute": "Pure",
     "rarity": 2,
     "card_type": "limited_collab",
     "jp_released": 1758261600000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 25,
     "character": "MEIKO",
     "unit": "Virtual Singers",
@@ -18623,13 +18623,13 @@
   },
   {
     "id": 1247,
-    "name": "feat. Ringotchi",
+    "name": "Featuring Ringotchi",
     "jp_name": "feat.りんごっち",
     "attribute": "Pure",
     "rarity": 2,
     "card_type": "limited_collab",
     "jp_released": 1758261600000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 3,
     "character": "Mochizuki Honami",
     "unit": "Leo/Need",
@@ -18639,13 +18639,13 @@
   },
   {
     "id": 1248,
-    "name": "feat. Furawatch",
+    "name": "Featuring Furawatchi",
     "jp_name": "feat.ふらわっち",
     "attribute": "Pure",
     "rarity": 2,
     "card_type": "limited_collab",
     "jp_released": 1758261600000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
@@ -18655,13 +18655,13 @@
   },
   {
     "id": 1249,
-    "name": "feat. Melodytch",
+    "name": "Featuring Melodytchi",
     "jp_name": "feat.メロディっち",
     "attribute": "Mysterious",
     "rarity": 2,
     "card_type": "limited_collab",
     "jp_released": 1758261600000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 10,
     "character": "Shiraishi An",
     "unit": "Vivid BAD SQUAD",
@@ -18671,13 +18671,13 @@
   },
   {
     "id": 1250,
-    "name": "feat. Gozarutchi",
+    "name": "Featuring Gozarutchi",
     "jp_name": "feat.ござるっち",
     "attribute": "Cool",
     "rarity": 2,
     "card_type": "limited_collab",
     "jp_released": 1758261600000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 16,
     "character": "Kamishiro Rui",
     "unit": "Wonderlands x Showtime",
@@ -18687,13 +18687,13 @@
   },
   {
     "id": 1251,
-    "name": "feat. lovelitchi",
+    "name": "Featuring Lovelitchi",
     "jp_name": "feat.ラブリっち",
     "attribute": "Mysterious",
     "rarity": 2,
     "card_type": "limited_collab",
     "jp_released": 1758261600000,
-    "en_released": 0,
+    "en_released": 1785870000000,
     "charId": 20,
     "character": "Akiyama Mizuki",
     "unit": "Nightcord at 25:00",
@@ -21379,7 +21379,8 @@
     "charId": 26,
     "character": "KAITO",
     "unit": "Virtual Singers",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Sending_Them_Off_Into_the_Sky"
   },
   {
     "id": 1429,
@@ -21393,7 +21394,8 @@
     "charId": 2,
     "character": "Tenma Saki",
     "unit": "Leo/Need",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Day_I_Almost_Gave_Up"
   },
   {
     "id": 1430,
@@ -21407,7 +21409,8 @@
     "charId": 12,
     "character": "Aoyagi Toya",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Hopeful_Dig"
   },
   {
     "id": 1431,
@@ -21421,7 +21424,8 @@
     "charId": 16,
     "character": "Kamishiro Rui",
     "unit": "Wonderlands x Showtime",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Clouded_Heart"
   },
   {
     "id": 1432,
@@ -21435,7 +21439,8 @@
     "charId": 20,
     "character": "Akiyama Mizuki",
     "unit": "Nightcord at 25:00",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Overlapping_Feelings_and_Past"
   },
   {
     "id": 1433,
@@ -21449,6 +21454,7 @@
     "charId": 10,
     "character": "Shiraishi An",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(An)"
   }
 ]
