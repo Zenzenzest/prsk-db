@@ -4279,5 +4279,27 @@
     "type": "World Link 3 Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Next_to_You,_Seeing_the_Same_Tomorrow",
     "music_id": 765
+  },
+  {
+    "id": 212,
+    "name": "Echo of a Prayer",
+    "unit": "l/n",
+    "cards": [1434, 1435, 1436, 1437, 1438],
+    "start": 1785477600000,
+    "end": 1786103999000,
+    "close": 1786255199000,
+    "event_type": "marathon",
+    "keywords": [
+      "leo/need",
+      "leoneed",
+      "ln",
+      "leoni",
+      "focus",
+      "ichika",
+      "ichi7",
+      "ichika7"
+    ],
+    "type": "Ichika 7th Focus Event",
+    "music_id": 789
   }
 ]

@@ -9717,5 +9717,63 @@
     "cards": [1099, 1333, 1266, 1284, 1340, 1139],
     "keywords": [],
     "en_id": 791
+  },
+  {
+    "id": 677,
+    "name": "Tucked in a boxガチャ",
+    "sekai_id": 981,
+    "characters": [1, 4, 22],
+    "banner_type": "Limited Gacha",
+    "start": 1785466800000,
+    "end": 1786244399000,
+    "cards": [1434, 1435, 1436],
+    "keywords": [
+      "leo/need",
+      "leoneed",
+      "ln",
+      "leoni",
+      "focus",
+      "ichika",
+      "ichi7",
+      "ichika7"
+    ],
+    "en_id": 795,
+    "event_id": 212
+  },
+  {
+    "id": 678,
+    "name": "ワールドコスチュームガチャ vol.6",
+    "sekai_id": 983,
+    "characters": [1, 2, 3, 4, 25, 26],
+    "banner_type": "Normal",
+    "start": 1785898800000,
+    "end": 1786676399000,
+    "cards": [1124, 1322, 998, 1098, 1201, 1263],
+    "keywords": [],
+    "en_id": 0
+  },
+  {
+    "id": 679,
+    "name": "[星乃一歌]HAPPY BIRTHDAY2026ガチャ",
+    "sekai_id": 984,
+    "characters": [1],
+    "banner_type": "Birthday",
+    "start": 1786028400000,
+    "end": 1786633199000,
+    "cards": [1439],
+    "keywords": [],
+    "en_id": 797
+  },
+  {
+    "id": 680,
+    "name": "[星乃一歌]HAPPY BIRTHDAYメモリーズガチャ",
+    "sekai_id": 985,
+    "characters": [1],
+    "banner_type": "Birthday",
+    "start": 1786028400000,
+    "end": 1786633199000,
+    "cards": [1222, 978, 699, 480],
+    "keywords": [],
+    "en_id": 798
   }
 ]

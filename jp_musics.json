@@ -3,7 +3,9 @@
     "id": 1,
     "seq": 1100101,
     "releaseConditionId": 1,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Tell Your World",
     "pronunciation": "てるゆあわーるど",
     "creatorArtistId": 1,
@@ -29,7 +31,9 @@
     "id": 2,
     "seq": 1200101,
     "releaseConditionId": 1,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ロキ",
     "pronunciation": "ろき",
     "creatorArtistId": 2,
@@ -55,7 +59,9 @@
     "id": 3,
     "seq": 1200102,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "テオ",
     "pronunciation": "てお",
     "creatorArtistId": 3,
@@ -81,7 +87,9 @@
     "id": 6,
     "seq": 1200103,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ヒバナ -Reloaded-",
     "pronunciation": "ひばなりろーでっど",
     "creatorArtistId": 4,
@@ -107,7 +115,10 @@
     "id": 8,
     "seq": 1205001,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "タイムマシン",
     "pronunciation": "たいむましん",
     "creatorArtistId": 5,
@@ -133,7 +144,10 @@
     "id": 10,
     "seq": 1300101,
     "releaseConditionId": 1,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ハッピーシンセサイザ",
     "pronunciation": "はっぴーしんせさいざ",
     "creatorArtistId": 6,
@@ -159,7 +173,10 @@
     "id": 11,
     "seq": 1301201,
     "releaseConditionId": 5,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "ビバハピ",
     "pronunciation": "びばはぴ",
     "creatorArtistId": 7,
@@ -185,7 +202,9 @@
     "id": 13,
     "seq": 1300102,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Nostalogic",
     "pronunciation": "のすたろじっく",
     "creatorArtistId": 8,
@@ -211,7 +230,9 @@
     "id": 15,
     "seq": 1405101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "drop pop candy",
     "pronunciation": "どろっぷぽっぷきゃんでぃ",
     "creatorArtistId": 9,
@@ -237,7 +258,9 @@
     "id": 18,
     "seq": 1200201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "アスノヨゾラ哨戒班",
     "pronunciation": "あすのよぞらしょうかいはん",
     "creatorArtistId": 10,
@@ -263,7 +286,9 @@
     "id": 19,
     "seq": 1600101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "シャルル",
     "pronunciation": "しゃるる",
     "creatorArtistId": 11,
@@ -289,7 +314,10 @@
     "id": 21,
     "seq": 1500501,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "脱法ロック",
     "pronunciation": "だっぽうろっく",
     "creatorArtistId": 12,
@@ -315,7 +343,9 @@
     "id": 22,
     "seq": 1600601,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "命に嫌われている",
     "pronunciation": "いのちにきらわれている",
     "creatorArtistId": 13,
@@ -341,7 +371,9 @@
     "id": 26,
     "seq": 1400101,
     "releaseConditionId": 1,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "劣等上等",
     "pronunciation": "れっとうじょうとう",
     "creatorArtistId": 14,
@@ -367,7 +399,9 @@
     "id": 27,
     "seq": 1400401,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Just Be Friends",
     "pronunciation": "じゃすとびーふれんず",
     "creatorArtistId": 15,
@@ -393,7 +427,9 @@
     "id": 28,
     "seq": 1400102,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ドクター＝ファンクビート",
     "pronunciation": "どくたーふぁんくびーと",
     "creatorArtistId": 16,
@@ -419,7 +455,11 @@
     "id": 36,
     "seq": 1501401,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d", "mv"],
+    "categories": [
+      "original",
+      "mv_2d",
+      "mv"
+    ],
     "title": "ミラクルペイント",
     "pronunciation": "みらくるぺいんと",
     "creatorArtistId": 17,
@@ -445,7 +485,9 @@
     "id": 38,
     "seq": 1500101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ブリキノダンス",
     "pronunciation": "ぶりきのだんす",
     "creatorArtistId": 18,
@@ -471,7 +513,10 @@
     "id": 41,
     "seq": 1500102,
     "releaseConditionId": 1,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "スイートマジック",
     "pronunciation": "すいーとまじっく",
     "creatorArtistId": 19,
@@ -497,7 +542,9 @@
     "id": 43,
     "seq": 1100102,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ネクストネスト",
     "pronunciation": "ねくすとねすと",
     "creatorArtistId": 20,
@@ -523,7 +570,9 @@
     "id": 44,
     "seq": 1100901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Hand in Hand",
     "pronunciation": "はんどいんはんど",
     "creatorArtistId": 1,
@@ -549,7 +598,9 @@
     "id": 45,
     "seq": 1101701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "39みゅーじっく！",
     "pronunciation": "さんきゅーみゅーじっく",
     "creatorArtistId": 2,
@@ -575,7 +626,9 @@
     "id": 46,
     "seq": 1103601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "グリーンライツ・セレナーデ",
     "pronunciation": "ぐりーんらいつせれなーで",
     "creatorArtistId": 21,
@@ -601,7 +654,9 @@
     "id": 47,
     "seq": 1100103,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "メルト",
     "pronunciation": "めると",
     "creatorArtistId": 22,
@@ -627,7 +682,9 @@
     "id": 48,
     "seq": 1100701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ワールドイズマイン",
     "pronunciation": "わーるどいずまいん",
     "creatorArtistId": 22,
@@ -653,7 +710,9 @@
     "id": 49,
     "seq": 1100104,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "初音ミクの消失",
     "pronunciation": "はつねみくのしょうしつ",
     "creatorArtistId": 23,
@@ -679,7 +738,9 @@
     "id": 50,
     "seq": 1100105,
     "releaseConditionId": 1,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Blessing",
     "pronunciation": "ぶれっしんぐ",
     "creatorArtistId": 24,
@@ -705,7 +766,9 @@
     "id": 51,
     "seq": 2500101,
     "releaseConditionId": 1,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "セカイはまだ始まってすらいない",
     "pronunciation": "せかいはまだはじまってすらいない",
     "creatorArtistId": 25,
@@ -731,7 +794,10 @@
     "id": 52,
     "seq": 2502401,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "potatoになっていく",
     "pronunciation": "ぽてとになっていく",
     "creatorArtistId": 12,
@@ -757,7 +823,9 @@
     "id": 54,
     "seq": 2400101,
     "releaseConditionId": 1,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Ready Steady",
     "pronunciation": "れでぃすてでぃ",
     "creatorArtistId": 14,
@@ -783,7 +851,10 @@
     "id": 55,
     "seq": 2403101,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "Forward",
     "pronunciation": "ふぉわーど",
     "creatorArtistId": 26,
@@ -809,7 +880,9 @@
     "id": 57,
     "seq": 2300101,
     "releaseConditionId": 1,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "アイドル新鋭隊",
     "pronunciation": "あいどるしんえいたい",
     "creatorArtistId": 7,
@@ -835,7 +908,9 @@
     "id": 60,
     "seq": 2600101,
     "releaseConditionId": 1,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "悔やむと書いてミライ",
     "pronunciation": "くやむとかいてみらい",
     "creatorArtistId": 27,
@@ -861,7 +936,9 @@
     "id": 61,
     "seq": 2601601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "携帯恋話",
     "pronunciation": "けいたいれんわ",
     "creatorArtistId": 27,
@@ -887,7 +964,10 @@
     "id": 62,
     "seq": 2602101,
     "releaseConditionId": 10,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "ジャックポットサッドガール",
     "pronunciation": "じゃっくぽっとさっどがーる",
     "creatorArtistId": 28,
@@ -913,7 +993,10 @@
     "id": 63,
     "seq": 2200101,
     "releaseConditionId": 1,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "needLe",
     "pronunciation": "にーどる",
     "creatorArtistId": 4,
@@ -939,7 +1022,9 @@
     "id": 64,
     "seq": 2201901,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ステラ",
     "pronunciation": "すてら",
     "creatorArtistId": 29,
@@ -965,7 +1050,9 @@
     "id": 66,
     "seq": 1600102,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ハロ／ハワユ",
     "pronunciation": "はろはわゆ",
     "creatorArtistId": 30,
@@ -991,7 +1078,10 @@
     "id": 67,
     "seq": 1600103,
     "releaseConditionId": 1,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "自傷無色",
     "pronunciation": "じしょうむしょく",
     "creatorArtistId": 31,
@@ -1017,7 +1107,10 @@
     "id": 68,
     "seq": 1500801,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ダンスロボットダンス",
     "pronunciation": "だんすろぼっとだんす",
     "creatorArtistId": 32,
@@ -1043,7 +1136,10 @@
     "id": 69,
     "seq": 1400103,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "フラジール",
     "pronunciation": "ふらじーる",
     "creatorArtistId": 33,
@@ -1069,7 +1165,9 @@
     "id": 70,
     "seq": 1302201,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "メルティランドナイトメア",
     "pronunciation": "めるてぃらんどないとめあ",
     "creatorArtistId": 34,
@@ -1095,7 +1193,10 @@
     "id": 71,
     "seq": 1300103,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ツギハギスタッカート",
     "pronunciation": "つぎはぎすたっかーと",
     "creatorArtistId": 35,
@@ -1121,7 +1222,9 @@
     "id": 72,
     "seq": 1104201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ブレス・ユア・ブレス",
     "pronunciation": "ぶれすゆあぶれす",
     "creatorArtistId": 36,
@@ -1147,7 +1250,9 @@
     "id": 73,
     "seq": 1300301,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ニア",
     "pronunciation": "にあ",
     "creatorArtistId": 37,
@@ -1173,7 +1278,10 @@
     "id": 74,
     "seq": 1603201,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "独りんぼエンヴィー",
     "pronunciation": "ひとりんぼえんヴぃー",
     "creatorArtistId": 38,
@@ -1199,7 +1307,10 @@
     "id": 75,
     "seq": 1203001,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ウミユリ海底譚",
     "pronunciation": "うみゆりかいていたん",
     "creatorArtistId": 39,
@@ -1225,7 +1336,9 @@
     "id": 76,
     "seq": 2700101,
     "releaseConditionId": 50022,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "セカイ",
     "pronunciation": "せかい",
     "creatorArtistId": 40,
@@ -1251,7 +1364,9 @@
     "id": 77,
     "seq": 2700102,
     "releaseConditionId": 50023,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ワーワーワールド",
     "pronunciation": "わーわーわーるど",
     "creatorArtistId": 41,
@@ -1277,7 +1392,10 @@
     "id": 78,
     "seq": 1500103,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "ぼうけんのしょがきえました！",
     "pronunciation": "ぼうけんのしょがきえました",
     "creatorArtistId": 42,
@@ -1303,7 +1421,9 @@
     "id": 81,
     "seq": 1401001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "夜咄ディセイブ",
     "pronunciation": "よばなしでぃせいぶ",
     "creatorArtistId": 29,
@@ -1329,7 +1449,9 @@
     "id": 82,
     "seq": 1100106,
     "releaseConditionId": 6,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "alive",
     "pronunciation": "あらいぶ",
     "creatorArtistId": 43,
@@ -1355,7 +1477,9 @@
     "id": 83,
     "seq": 1101101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Gimme×Gimme",
     "pronunciation": "ぎみぎみ",
     "creatorArtistId": 44,
@@ -1381,7 +1505,9 @@
     "id": 84,
     "seq": 1101301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ジャンキーナイトタウンオーケストラ",
     "pronunciation": "じゃんきーないとたうんおーけすとら",
     "creatorArtistId": 45,
@@ -1407,7 +1533,9 @@
     "id": 85,
     "seq": 1102001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Leia - Remind",
     "pronunciation": "れいありまいんど",
     "creatorArtistId": 46,
@@ -1433,7 +1561,9 @@
     "id": 86,
     "seq": 1101501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "on the rocks",
     "pronunciation": "おんざろっくす",
     "creatorArtistId": 47,
@@ -1459,7 +1589,10 @@
     "id": 87,
     "seq": 1303701,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "恋愛裁判",
     "pronunciation": "れんあいさいばん",
     "creatorArtistId": 48,
@@ -1485,7 +1618,10 @@
     "id": 88,
     "seq": 1504101,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "チュルリラ・チュルリラ・ダッダッダ！",
     "pronunciation": "ちゅるりらちゅるりらだっだっだ",
     "creatorArtistId": 49,
@@ -1511,7 +1647,9 @@
     "id": 89,
     "seq": 2304701,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Color of Drops",
     "pronunciation": "からーおぶどろっぷす",
     "creatorArtistId": 48,
@@ -1537,7 +1675,9 @@
     "id": 90,
     "seq": 2605401,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "限りなく灰色へ",
     "pronunciation": "かぎりなくはいいろへ",
     "creatorArtistId": 45,
@@ -1563,7 +1703,10 @@
     "id": 91,
     "seq": 1203501,
     "releaseConditionId": 5,
-    "categories": ["original", "mv"],
+    "categories": [
+      "original",
+      "mv"
+    ],
     "title": "ドラマツルギー",
     "pronunciation": "どらまつるぎー",
     "creatorArtistId": 50,
@@ -1589,7 +1732,10 @@
     "id": 92,
     "seq": 1602301,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "乙女解剖",
     "pronunciation": "おとめかいぼう",
     "creatorArtistId": 4,
@@ -1615,7 +1761,9 @@
     "id": 93,
     "seq": 1201801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "青く駆けろ！",
     "pronunciation": "あおくかけろ",
     "creatorArtistId": 51,
@@ -1641,7 +1789,9 @@
     "id": 94,
     "seq": 1604301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "とても痛い痛がりたい",
     "pronunciation": "とてもいたいいたがりたい",
     "creatorArtistId": 52,
@@ -1667,7 +1817,10 @@
     "id": 95,
     "seq": 1405801,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "威風堂々",
     "pronunciation": "いふうどうどう",
     "creatorArtistId": 53,
@@ -1693,7 +1846,9 @@
     "id": 96,
     "seq": 1205901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "from Y to Y",
     "pronunciation": "ふろむわいとぅわい",
     "creatorArtistId": 54,
@@ -1719,7 +1874,9 @@
     "id": 97,
     "seq": 2204401,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "霽れを待つ",
     "pronunciation": "はれをまつ",
     "creatorArtistId": 10,
@@ -1745,7 +1902,10 @@
     "id": 98,
     "seq": 1209401,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ロストワンの号哭",
     "pronunciation": "ろすとわんのごうこく",
     "creatorArtistId": 12,
@@ -1771,7 +1931,9 @@
     "id": 99,
     "seq": 2302601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "モア！ジャンプ！モア！",
     "pronunciation": "もあじゃんぷもあ",
     "creatorArtistId": 32,
@@ -1797,7 +1959,10 @@
     "id": 100,
     "seq": 1404001,
     "releaseConditionId": 5,
-    "categories": ["mv_2d", "mv"],
+    "categories": [
+      "mv_2d",
+      "mv"
+    ],
     "title": "ECHO",
     "pronunciation": "えこー",
     "creatorArtistId": 55,
@@ -1823,7 +1988,9 @@
     "id": 101,
     "seq": 2404801,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "RAD DOGS",
     "pronunciation": "らっどどっぐす",
     "creatorArtistId": 56,
@@ -1849,7 +2016,9 @@
     "id": 102,
     "seq": 1406801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "幽霊東京",
     "pronunciation": "ゆうれいとうきょう",
     "creatorArtistId": 57,
@@ -1875,7 +2044,9 @@
     "id": 103,
     "seq": 2503301,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ニジイロストーリーズ",
     "pronunciation": "にじいろすとーりーず",
     "creatorArtistId": 47,
@@ -1901,7 +2072,9 @@
     "id": 104,
     "seq": 1112301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "サンドリヨン 10th Anniversary",
     "pronunciation": "さんどりよんてんすあにばーさりー",
     "creatorArtistId": 58,
@@ -1927,7 +2100,9 @@
     "id": 105,
     "seq": 2505501,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ワンスアポンアドリーム",
     "pronunciation": "わんすあぽんあどりーむ",
     "creatorArtistId": 59,
@@ -1953,7 +2128,9 @@
     "id": 106,
     "seq": 1506201,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "お気に召すまま",
     "pronunciation": "おきにめすまま",
     "creatorArtistId": 50,
@@ -1979,7 +2156,9 @@
     "id": 107,
     "seq": 1304901,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ミルククラウン・オン・ソーネチカ",
     "pronunciation": "みるくくらうんおんそーねちか",
     "creatorArtistId": 60,
@@ -2005,7 +2184,9 @@
     "id": 108,
     "seq": 1102901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "愛されなくても君がいる",
     "pronunciation": "あいされなくてもきみがいる",
     "creatorArtistId": 25,
@@ -2031,7 +2212,9 @@
     "id": 109,
     "seq": 1104601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ヒビカセ",
     "pronunciation": "ひびかせ",
     "creatorArtistId": 9,
@@ -2057,7 +2240,10 @@
     "id": 110,
     "seq": 1103901,
     "releaseConditionId": 5,
-    "categories": ["image", "mv"],
+    "categories": [
+      "image",
+      "mv"
+    ],
     "title": "千本桜",
     "pronunciation": "せんぼんざくら",
     "creatorArtistId": 61,
@@ -2083,7 +2269,10 @@
     "id": 111,
     "seq": 1609001,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "カトラリー",
     "pronunciation": "かとらりー",
     "creatorArtistId": 62,
@@ -2109,7 +2298,10 @@
     "id": 112,
     "seq": 2306101,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "天使のクローバー",
     "pronunciation": "てんしのくろーばー",
     "creatorArtistId": 63,
@@ -2135,7 +2327,9 @@
     "id": 113,
     "seq": 1102501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ローリンガール",
     "pronunciation": "ろーりんがーる",
     "creatorArtistId": 64,
@@ -2161,7 +2355,9 @@
     "id": 114,
     "seq": 1102701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "裏表ラバーズ",
     "pronunciation": "うらおもてらばーず",
     "creatorArtistId": 64,
@@ -2187,7 +2383,9 @@
     "id": 115,
     "seq": 1102801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アンノウン・マザーグース",
     "pronunciation": "あんのうんまざーぐーす",
     "creatorArtistId": 64,
@@ -2213,7 +2411,10 @@
     "id": 116,
     "seq": 2606401,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "アイディスマイル",
     "pronunciation": "あいでぃすまいる",
     "creatorArtistId": 35,
@@ -2239,7 +2440,9 @@
     "id": 117,
     "seq": 1103401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ODDS＆ENDS",
     "pronunciation": "おっずあんどえんず",
     "creatorArtistId": 22,
@@ -2265,7 +2468,9 @@
     "id": 118,
     "seq": 1103801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "＊ハロー、プラネット。",
     "pronunciation": "はろーぷらねっと",
     "creatorArtistId": 65,
@@ -2291,7 +2496,9 @@
     "id": 119,
     "seq": 1104501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ワールズエンド・ダンスホール",
     "pronunciation": "わーるずえんどだんすほーる",
     "creatorArtistId": 64,
@@ -2317,7 +2524,9 @@
     "id": 120,
     "seq": 1207201,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "いかないで",
     "pronunciation": "いかないで",
     "creatorArtistId": 66,
@@ -2343,7 +2552,10 @@
     "id": 121,
     "seq": 1307301,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ロミオとシンデレラ",
     "pronunciation": "ろみおとしんでれら",
     "creatorArtistId": 67,
@@ -2369,7 +2581,9 @@
     "id": 122,
     "seq": 1505201,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ポジティブ☆ダンスタイム",
     "pronunciation": "ぽじてぃぶだんすたいむ",
     "creatorArtistId": 68,
@@ -2395,7 +2609,11 @@
     "id": 123,
     "seq": 1306301,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d", "mv"],
+    "categories": [
+      "original",
+      "mv_2d",
+      "mv"
+    ],
     "title": "どりーみんチュチュ",
     "pronunciation": "どりーみんちゅちゅ",
     "creatorArtistId": 69,
@@ -2421,7 +2639,9 @@
     "id": 124,
     "seq": 1105701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "みくみくにしてあげる♪【してやんよ】",
     "pronunciation": "みくみくにしてあげるしてやんよ",
     "creatorArtistId": 70,
@@ -2447,7 +2667,9 @@
     "id": 125,
     "seq": 1605601,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ボッカデラベリタ",
     "pronunciation": "ぼっかでらべりた",
     "creatorArtistId": 71,
@@ -2473,7 +2695,10 @@
     "id": 126,
     "seq": 2406901,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "シネマ",
     "pronunciation": "しねま",
     "creatorArtistId": 57,
@@ -2499,7 +2724,10 @@
     "id": 127,
     "seq": 2507501,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "トンデモワンダーズ",
     "pronunciation": "とんでもわんだーず",
     "creatorArtistId": 65,
@@ -2525,7 +2753,9 @@
     "id": 128,
     "seq": 1105301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Brand New Day",
     "pronunciation": "ぶらんどにゅーでい",
     "creatorArtistId": 72,
@@ -2551,7 +2781,10 @@
     "id": 129,
     "seq": 1608201,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ビターチョコデコレーション",
     "pronunciation": "びたーちょこでこれーしょん",
     "creatorArtistId": 28,
@@ -2577,7 +2810,10 @@
     "id": 130,
     "seq": 2207801,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "フロムトーキョー",
     "pronunciation": "ふろむとーきょー",
     "creatorArtistId": 37,
@@ -2603,7 +2839,9 @@
     "id": 131,
     "seq": 1106001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "初音ミクの激唱",
     "pronunciation": "はつねみくのげきしょう",
     "creatorArtistId": 23,
@@ -2629,7 +2867,9 @@
     "id": 132,
     "seq": 2206501,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "「１」",
     "pronunciation": "いち",
     "creatorArtistId": 73,
@@ -2655,7 +2895,10 @@
     "id": 133,
     "seq": 1410001,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "悪魔の踊り方",
     "pronunciation": "あくまのおどりかた",
     "creatorArtistId": 74,
@@ -2681,7 +2924,10 @@
     "id": 134,
     "seq": 1509801,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "テレキャスタービーボーイ",
     "pronunciation": "てれきゃすたーびーぼーい",
     "creatorArtistId": 45,
@@ -2707,7 +2953,9 @@
     "id": 135,
     "seq": 1208001,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "六兆年と一夜物語",
     "pronunciation": "ろくちょうねんといちやものがたり",
     "creatorArtistId": 75,
@@ -2733,7 +2981,9 @@
     "id": 136,
     "seq": 1408701,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "チルドレンレコード",
     "pronunciation": "ちるどれんれこーど",
     "creatorArtistId": 29,
@@ -2759,7 +3009,9 @@
     "id": 137,
     "seq": 1106601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "花を唄う",
     "pronunciation": "はなをうたう",
     "creatorArtistId": 76,
@@ -2785,7 +3037,9 @@
     "id": 138,
     "seq": 1507001,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "KING",
     "pronunciation": "きんぐ",
     "creatorArtistId": 77,
@@ -2811,7 +3065,9 @@
     "id": 139,
     "seq": 1606701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "夜に駆ける",
     "pronunciation": "よるにかける",
     "creatorArtistId": 57,
@@ -2837,7 +3093,9 @@
     "id": 140,
     "seq": 2308501,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "アイスドロップ",
     "pronunciation": "あいすどろっぷ",
     "creatorArtistId": 78,
@@ -2863,7 +3121,10 @@
     "id": 141,
     "seq": 2709201,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "群青讃歌",
     "pronunciation": "ぐんじょうさんか",
     "creatorArtistId": 50,
@@ -2889,7 +3150,10 @@
     "id": 142,
     "seq": 2609101,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "再生",
     "pronunciation": "さいせい",
     "creatorArtistId": 79,
@@ -2915,7 +3179,10 @@
     "id": 143,
     "seq": 1407701,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "トラフィック・ジャム",
     "pronunciation": "とらふぃっくじゃむ",
     "creatorArtistId": 80,
@@ -2941,7 +3208,9 @@
     "id": 144,
     "seq": 2307101,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "アイノマテリアル",
     "pronunciation": "あいのまてりある",
     "creatorArtistId": 19,
@@ -2967,7 +3236,9 @@
     "id": 145,
     "seq": 1609601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ベノム",
     "pronunciation": "べのむ",
     "creatorArtistId": 81,
@@ -2993,7 +3264,9 @@
     "id": 146,
     "seq": 1516601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "リモコン",
     "pronunciation": "りもこん",
     "creatorArtistId": 42,
@@ -3019,7 +3292,10 @@
     "id": 147,
     "seq": 1311301,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "からくりピエロ",
     "pronunciation": "からくりぴえろ",
     "creatorArtistId": 48,
@@ -3045,7 +3321,10 @@
     "id": 148,
     "seq": 1210401,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ray",
     "pronunciation": "れい",
     "creatorArtistId": 82,
@@ -3071,7 +3350,9 @@
     "id": 149,
     "seq": 2607601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "カナデトモスソラ",
     "pronunciation": "かなでともすそら",
     "creatorArtistId": 31,
@@ -3097,7 +3378,9 @@
     "id": 150,
     "seq": 1109901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "トキヲ・ファンカ",
     "pronunciation": "ときをふぁんか",
     "creatorArtistId": 83,
@@ -3123,7 +3406,9 @@
     "id": 151,
     "seq": 1107401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "泡沫未来",
     "pronunciation": "うたかたみらい",
     "creatorArtistId": 84,
@@ -3149,7 +3434,9 @@
     "id": 152,
     "seq": 1110101,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "だれかの心臓になれたなら",
     "pronunciation": "だれかのしんぞうになれたら",
     "creatorArtistId": 277,
@@ -3175,7 +3462,9 @@
     "id": 153,
     "seq": 1114201,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Miku",
     "pronunciation": "みく",
     "creatorArtistId": 86,
@@ -3201,7 +3490,9 @@
     "id": 154,
     "seq": 1308101,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "地球最後の告白を",
     "pronunciation": "ちきゅうさいごのこくはくを",
     "creatorArtistId": 75,
@@ -3227,7 +3518,9 @@
     "id": 155,
     "seq": 1213101,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "心拍数♯0822",
     "pronunciation": "しんぱくすうしゃーぷぜろはちにーにー",
     "creatorArtistId": 87,
@@ -3253,7 +3546,9 @@
     "id": 156,
     "seq": 2407901,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Beat Eater",
     "pronunciation": "びーといーたー",
     "creatorArtistId": 88,
@@ -3279,7 +3574,9 @@
     "id": 157,
     "seq": 1310201,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "マシュマリー",
     "pronunciation": "ましゅまりー",
     "creatorArtistId": 89,
@@ -3305,7 +3602,10 @@
     "id": 158,
     "seq": 1513901,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "ナンセンス文学",
     "pronunciation": "なんせんすぶんがく",
     "creatorArtistId": 50,
@@ -3331,7 +3631,10 @@
     "id": 159,
     "seq": 2211201,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "STAGE OF SEKAI",
     "pronunciation": "すてーじおぶせかい",
     "creatorArtistId": 90,
@@ -3357,7 +3660,10 @@
     "id": 160,
     "seq": 2510701,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ショウタイム・ルーラー",
     "pronunciation": "しょうたいむるーらー",
     "creatorArtistId": 91,
@@ -3383,7 +3689,9 @@
     "id": 161,
     "seq": 2108801,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "magic number",
     "pronunciation": "まじっくなんばー",
     "creatorArtistId": 92,
@@ -3409,7 +3717,9 @@
     "id": 162,
     "seq": 3712601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "エンドマークに希望と涙を添えて",
     "pronunciation": "えんどまーくにきぼうとなみだをそえて",
     "creatorArtistId": 23,
@@ -3436,7 +3746,9 @@
     "id": 163,
     "seq": 3712701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "the EmpErroR",
     "pronunciation": "じえんぺらー",
     "creatorArtistId": 65,
@@ -3463,7 +3775,9 @@
     "id": 164,
     "seq": 3712801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Don't Fight The Music",
     "pronunciation": "どんとふぁいとざみゅーじっく",
     "creatorArtistId": 95,
@@ -3490,7 +3804,9 @@
     "id": 165,
     "seq": 1108301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "そうだった！！",
     "pronunciation": "そうだった",
     "creatorArtistId": 96,
@@ -3516,7 +3832,9 @@
     "id": 166,
     "seq": 2508601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Glory Steady Go!",
     "pronunciation": "ぐろーりーすてでぃごー",
     "creatorArtistId": 68,
@@ -3542,7 +3860,9 @@
     "id": 167,
     "seq": 1411101,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "オルターエゴ",
     "pronunciation": "おるたーえご",
     "creatorArtistId": 97,
@@ -3568,7 +3888,9 @@
     "id": 168,
     "seq": 1315601,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ダーリンダンス",
     "pronunciation": "だーりんだんす",
     "creatorArtistId": 81,
@@ -3594,7 +3916,10 @@
     "id": 169,
     "seq": 1312401,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "少女レイ",
     "pronunciation": "しょうじょれい",
     "creatorArtistId": 2,
@@ -3620,7 +3945,10 @@
     "id": 170,
     "seq": 1612201,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ヴィラン",
     "pronunciation": "ヴぃらん",
     "creatorArtistId": 98,
@@ -3646,7 +3974,9 @@
     "id": 171,
     "seq": 1208401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "カゲロウデイズ",
     "pronunciation": "かげろうでいず",
     "creatorArtistId": 29,
@@ -3672,7 +4002,9 @@
     "id": 172,
     "seq": 1310801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Happy Halloween",
     "pronunciation": "はっぴーはろうぃん",
     "creatorArtistId": 19,
@@ -3698,7 +4030,9 @@
     "id": 173,
     "seq": 2208901,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "流星のパルス",
     "pronunciation": "りゅうせいのぱるす",
     "creatorArtistId": 99,
@@ -3724,7 +4058,10 @@
     "id": 174,
     "seq": 1514401,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "いーあるふぁんくらぶ",
     "pronunciation": "いーあるふぁんくらぶ",
     "creatorArtistId": 2,
@@ -3750,7 +4087,9 @@
     "id": 175,
     "seq": 1109701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "拝啓ドッペルゲンガー",
     "pronunciation": "はいけいどっぺるげんがー",
     "creatorArtistId": 75,
@@ -3776,7 +4115,9 @@
     "id": 176,
     "seq": 2109501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "マシンガンポエムドール",
     "pronunciation": "ましんがんぽえむどーる",
     "creatorArtistId": 23,
@@ -3802,7 +4143,9 @@
     "id": 177,
     "seq": 1110301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "右肩の蝶",
     "pronunciation": "みぎかたのちょう",
     "creatorArtistId": 100,
@@ -3828,7 +4171,10 @@
     "id": 178,
     "seq": 2512901,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "にっこり^^調査隊のテーマ",
     "pronunciation": "にっこりちょうさたいのてーま",
     "creatorArtistId": 42,
@@ -3854,7 +4200,9 @@
     "id": 179,
     "seq": 1109301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "炉心融解",
     "pronunciation": "ろしんゆうかい",
     "creatorArtistId": 101,
@@ -3880,7 +4228,10 @@
     "id": 180,
     "seq": 2412001,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ミライ",
     "pronunciation": "みらい",
     "creatorArtistId": 62,
@@ -3906,7 +4257,10 @@
     "id": 181,
     "seq": 1613501,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "愛して愛して愛して",
     "pronunciation": "あいしてあいしてあいして",
     "creatorArtistId": 102,
@@ -3932,7 +4286,10 @@
     "id": 182,
     "seq": 2413601,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "Flyer!",
     "pronunciation": "ふらいやー",
     "creatorArtistId": 103,
@@ -3958,7 +4315,9 @@
     "id": 183,
     "seq": 1511901,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "フィクサー",
     "pronunciation": "ふぃくさー",
     "creatorArtistId": 33,
@@ -3984,7 +4343,9 @@
     "id": 184,
     "seq": 1210501,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Hello,world!",
     "pronunciation": "はろーわーるど",
     "creatorArtistId": 82,
@@ -4010,7 +4371,9 @@
     "id": 185,
     "seq": 1110601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "しっくおぶはうす！",
     "pronunciation": "しっくおぶはうす",
     "creatorArtistId": 104,
@@ -4036,7 +4399,9 @@
     "id": 186,
     "seq": 1111001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "初音天地開闢神話",
     "pronunciation": "はつねてんちかいびゃくしんわ",
     "creatorArtistId": 23,
@@ -4062,7 +4427,9 @@
     "id": 187,
     "seq": 2610901,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ロウワー",
     "pronunciation": "ろうわー",
     "creatorArtistId": 33,
@@ -4088,7 +4455,10 @@
     "id": 188,
     "seq": 1314001,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "心予報",
     "pronunciation": "こころよほう",
     "creatorArtistId": 50,
@@ -4114,7 +4484,10 @@
     "id": 189,
     "seq": 2614601,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ノマド",
     "pronunciation": "のまど",
     "creatorArtistId": 11,
@@ -4140,7 +4513,9 @@
     "id": 190,
     "seq": 1111501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "悪ノ娘",
     "pronunciation": "あくのむすめ",
     "creatorArtistId": 105,
@@ -4166,7 +4541,9 @@
     "id": 191,
     "seq": 1111601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "悪ノ召使",
     "pronunciation": "あくのめしつかい",
     "creatorArtistId": 105,
@@ -4192,7 +4569,9 @@
     "id": 192,
     "seq": 2111701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "去り人達のワルツ",
     "pronunciation": "さりびとたちのわるつ",
     "creatorArtistId": 105,
@@ -4218,7 +4597,9 @@
     "id": 193,
     "seq": 2311401,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ワールドワイドワンダー",
     "pronunciation": "わーるどわいどわんだー",
     "creatorArtistId": 106,
@@ -4244,7 +4625,10 @@
     "id": 194,
     "seq": 1616501,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "妄想感傷代償連盟",
     "pronunciation": "もうそうかんしょうだいしょうれんめい",
     "creatorArtistId": 4,
@@ -4270,7 +4654,10 @@
     "id": 195,
     "seq": 1415501,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "PaⅢ.SENSATION",
     "pronunciation": "ぱっしょねーとすりーどっとせんせーしょん",
     "creatorArtistId": 107,
@@ -4296,7 +4683,9 @@
     "id": 196,
     "seq": 2215701,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "オーダーメイド",
     "pronunciation": "おーだーめいど",
     "creatorArtistId": 108,
@@ -4322,7 +4711,9 @@
     "id": 197,
     "seq": 1111801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ラストスコア",
     "pronunciation": "らすとすこあ",
     "creatorArtistId": 109,
@@ -4348,7 +4739,9 @@
     "id": 198,
     "seq": 1517301,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "グッバイ宣言",
     "pronunciation": "ぐっばいせんげん",
     "creatorArtistId": 103,
@@ -4374,7 +4767,9 @@
     "id": 199,
     "seq": 1212101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ゴーストルール",
     "pronunciation": "ごーすとるーる",
     "creatorArtistId": 4,
@@ -4400,7 +4795,9 @@
     "id": 200,
     "seq": 1412501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ガランド",
     "pronunciation": "がらんど",
     "creatorArtistId": 79,
@@ -4426,7 +4823,9 @@
     "id": 201,
     "seq": 1516901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "神のまにまに",
     "pronunciation": "かみのまにまに",
     "creatorArtistId": 110,
@@ -4452,7 +4851,9 @@
     "id": 202,
     "seq": 1125401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Q",
     "pronunciation": "きゅー",
     "creatorArtistId": 111,
@@ -4478,7 +4879,9 @@
     "id": 203,
     "seq": 2613002,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "トリコロージュ",
     "pronunciation": "とりころーじゅ",
     "creatorArtistId": 80,
@@ -4504,7 +4907,9 @@
     "id": 204,
     "seq": 1613201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "うっせぇわ",
     "pronunciation": "うっせぇわ",
     "creatorArtistId": 112,
@@ -4530,7 +4935,9 @@
     "id": 205,
     "seq": 1413301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "踊",
     "pronunciation": "おど",
     "creatorArtistId": 113,
@@ -4556,7 +4963,9 @@
     "id": 206,
     "seq": 1113401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "君色マリンスノウ",
     "pronunciation": "きみいろまりんすのう",
     "creatorArtistId": 114,
@@ -4582,7 +4991,9 @@
     "id": 207,
     "seq": 2213701,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Peaky Peaky",
     "pronunciation": "ぴーきーぴーきー",
     "creatorArtistId": 2,
@@ -4608,7 +5019,10 @@
     "id": 208,
     "seq": 1214101,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "僕らまだアンダーグラウンド",
     "pronunciation": "ぼくらまだあんだーぐらうんど",
     "creatorArtistId": 50,
@@ -4634,7 +5048,9 @@
     "id": 209,
     "seq": 2314301,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "メタモリボン",
     "pronunciation": "めたもりぼん",
     "creatorArtistId": 69,
@@ -4660,7 +5076,9 @@
     "id": 210,
     "seq": 1414501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "雨とペトラ",
     "pronunciation": "あめとぺとら",
     "creatorArtistId": 11,
@@ -4686,7 +5104,10 @@
     "id": 211,
     "seq": 2316301,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "イフ",
     "pronunciation": "いふ",
     "creatorArtistId": 85,
@@ -4712,7 +5133,10 @@
     "id": 212,
     "seq": 2517601,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "星空のメロディー",
     "pronunciation": "ほしぞらのめろでぃー",
     "creatorArtistId": 116,
@@ -4738,7 +5162,10 @@
     "id": 213,
     "seq": 1317401,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ヴァンパイア",
     "pronunciation": "ヴぁんぱいあ",
     "creatorArtistId": 4,
@@ -4764,7 +5191,9 @@
     "id": 214,
     "seq": 1125301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "パレットには君がいっぱい",
     "pronunciation": "ぱれっとにはきみがいっぱい",
     "creatorArtistId": 111,
@@ -4790,7 +5219,9 @@
     "id": 215,
     "seq": 1113801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ジウダス",
     "pronunciation": "じうだす",
     "creatorArtistId": 117,
@@ -4816,7 +5247,9 @@
     "id": 216,
     "seq": 1115001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ルカルカ★ナイトフィーバー",
     "pronunciation": "るかるかないとふぃーばー",
     "creatorArtistId": 118,
@@ -4842,7 +5275,10 @@
     "id": 217,
     "seq": 2418101,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "街",
     "pronunciation": "まち",
     "creatorArtistId": 119,
@@ -4868,7 +5304,9 @@
     "id": 218,
     "seq": 1617901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "メリュー",
     "pronunciation": "めりゅー",
     "creatorArtistId": 39,
@@ -4894,7 +5332,9 @@
     "id": 219,
     "seq": 1114901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "砂の惑星",
     "pronunciation": "すなのわくせい",
     "creatorArtistId": 120,
@@ -4920,7 +5360,9 @@
     "id": 220,
     "seq": 1114801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ドーナツホール 2024",
     "pronunciation": "どーなつほーる　にーまるにーよん",
     "creatorArtistId": 120,
@@ -4946,7 +5388,9 @@
     "id": 221,
     "seq": 1114701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "マトリョシカ",
     "pronunciation": "まとりょしか",
     "creatorArtistId": 120,
@@ -4972,7 +5416,9 @@
     "id": 222,
     "seq": 1115101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ピアノ×フォルテ×スキャンダル",
     "pronunciation": "ぴあのふぉるてすきゃんだる",
     "creatorArtistId": 47,
@@ -4998,7 +5444,9 @@
     "id": 223,
     "seq": 1115201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "千年の独奏歌",
     "pronunciation": "せんねんのどくそうか",
     "creatorArtistId": 121,
@@ -5024,7 +5472,9 @@
     "id": 224,
     "seq": 2515301,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "88☆彡",
     "pronunciation": "はちじゅうはち",
     "creatorArtistId": 122,
@@ -5050,7 +5500,9 @@
     "id": 225,
     "seq": 1520101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "エゴロック",
     "pronunciation": "えごろっく",
     "creatorArtistId": 45,
@@ -5076,7 +5528,9 @@
     "id": 226,
     "seq": 1218601,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ロストエンファウンド",
     "pronunciation": "ろすとえんふぁうんど",
     "creatorArtistId": 65,
@@ -5102,7 +5556,9 @@
     "id": 227,
     "seq": 1115401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ONESELF",
     "pronunciation": "わんせるふ",
     "creatorArtistId": 123,
@@ -5128,7 +5584,9 @@
     "id": 228,
     "seq": 1123901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Goodbye",
     "pronunciation": "ぐっどばい",
     "creatorArtistId": 124,
@@ -5154,7 +5612,9 @@
     "id": 229,
     "seq": 1117701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "脳漿炸裂ガール",
     "pronunciation": "のうしょうさくれつがーる",
     "creatorArtistId": 110,
@@ -5180,7 +5640,9 @@
     "id": 230,
     "seq": 1716201,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "サラマンダー",
     "pronunciation": "さらまんだー",
     "creatorArtistId": 4,
@@ -5207,7 +5669,9 @@
     "id": 231,
     "seq": 1715801,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "アイデンティティ",
     "pronunciation": "あいでんてぃてぃ",
     "creatorArtistId": 77,
@@ -5234,7 +5698,9 @@
     "id": 232,
     "seq": 1715901,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "青色絵具",
     "pronunciation": "あおいろえのぐ",
     "creatorArtistId": 125,
@@ -5261,7 +5727,9 @@
     "id": 233,
     "seq": 1716001,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "コスモスパイス",
     "pronunciation": "こすもすぱいす",
     "creatorArtistId": 25,
@@ -5288,7 +5756,9 @@
     "id": 234,
     "seq": 1716101,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "徳川カップヌードル禁止令",
     "pronunciation": "とくがわかっぷぬーどるきんしれい",
     "creatorArtistId": 7,
@@ -5315,7 +5785,10 @@
     "id": 235,
     "seq": 2719501,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "Journey",
     "pronunciation": "じゃーにー",
     "creatorArtistId": 4,
@@ -5341,7 +5814,10 @@
     "id": 236,
     "seq": 2219101,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "Voices",
     "pronunciation": "ヴぉいしーず",
     "creatorArtistId": 126,
@@ -5367,7 +5843,9 @@
     "id": 237,
     "seq": 2618901,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "君の夜をくれ",
     "pronunciation": "きみのよるをくれ",
     "creatorArtistId": 127,
@@ -5393,7 +5871,9 @@
     "id": 238,
     "seq": 1116401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ブラック★ロックシューター",
     "pronunciation": "ぶらっくろっくしゅーたー",
     "creatorArtistId": 22,
@@ -5419,7 +5899,9 @@
     "id": 239,
     "seq": 2416701,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "月光",
     "pronunciation": "げっこう",
     "creatorArtistId": 128,
@@ -5445,7 +5927,9 @@
     "id": 240,
     "seq": 1518401,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "踊れオーケストラ",
     "pronunciation": "おどれおーけすとら",
     "creatorArtistId": 59,
@@ -5471,7 +5955,9 @@
     "id": 242,
     "seq": 1320301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "トリノコシティ",
     "pronunciation": "とりのこしてぃ",
     "creatorArtistId": 48,
@@ -5497,7 +5983,9 @@
     "id": 243,
     "seq": 1219301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Calc.",
     "pronunciation": "かるく",
     "creatorArtistId": 54,
@@ -5523,7 +6011,9 @@
     "id": 244,
     "seq": 2417001,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Awake Now",
     "pronunciation": "あうぇいくなう",
     "creatorArtistId": 107,
@@ -5549,7 +6039,9 @@
     "id": 245,
     "seq": 1417101,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "阿吽のビーツ",
     "pronunciation": "あうんのびーつ",
     "creatorArtistId": 130,
@@ -5575,7 +6067,10 @@
     "id": 246,
     "seq": 1518001,
     "releaseConditionId": 5,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "エイリアンエイリアン",
     "pronunciation": "えいりあんえいりあん",
     "creatorArtistId": 32,
@@ -5601,7 +6096,9 @@
     "id": 247,
     "seq": 1124301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Copycat",
     "pronunciation": "こぴーきゃっと",
     "creatorArtistId": 124,
@@ -5627,7 +6124,9 @@
     "id": 248,
     "seq": 2617201,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "バグ",
     "pronunciation": "ばぐ",
     "creatorArtistId": 81,
@@ -5653,7 +6152,9 @@
     "id": 249,
     "seq": 1117801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ぼくらの16bit戦争",
     "pronunciation": "ぼくらのしっくすてぃーんびっとうぉーず",
     "creatorArtistId": 65,
@@ -5679,7 +6180,9 @@
     "id": 250,
     "seq": 1122601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "腐れ外道とチョコレゐト",
     "pronunciation": "くされげどうとちょこれいと",
     "creatorArtistId": 25,
@@ -5705,7 +6208,9 @@
     "id": 251,
     "seq": 1118301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "フロイライン＝ビブリォチカ",
     "pronunciation": "ふろいらいんびぶりぉちか",
     "creatorArtistId": 16,
@@ -5731,7 +6236,9 @@
     "id": 252,
     "seq": 2320701,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "DREAM PLACE",
     "pronunciation": "どりーむぷれいす",
     "creatorArtistId": 6,
@@ -5757,7 +6264,10 @@
     "id": 253,
     "seq": 1420501,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "DAYBREAK FRONTLINE",
     "pronunciation": "でいぶれいくふろんとらいん",
     "creatorArtistId": 10,
@@ -5783,7 +6293,9 @@
     "id": 254,
     "seq": 1117501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "未完成讃歌",
     "pronunciation": "みかんせいさんか",
     "creatorArtistId": 131,
@@ -5809,7 +6321,9 @@
     "id": 255,
     "seq": 1222701,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "夜もすがら君想ふ",
     "pronunciation": "よもすがらきみおもう",
     "creatorArtistId": 106,
@@ -5835,7 +6349,9 @@
     "id": 256,
     "seq": 1119901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ダブルラリアット",
     "pronunciation": "だぶるらりあっと",
     "creatorArtistId": 132,
@@ -5861,7 +6377,9 @@
     "id": 257,
     "seq": 2218201,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "てらてら",
     "pronunciation": "てらてら",
     "creatorArtistId": 36,
@@ -5887,7 +6405,9 @@
     "id": 258,
     "seq": 1327101,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "深海少女",
     "pronunciation": "しんかいしょうじょ",
     "creatorArtistId": 133,
@@ -5913,7 +6433,9 @@
     "id": 259,
     "seq": 2221401,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "the WALL",
     "pronunciation": "ざうぉーる",
     "creatorArtistId": 134,
@@ -5939,7 +6461,9 @@
     "id": 260,
     "seq": 1521301,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ラブカ？",
     "pronunciation": "らぶか",
     "creatorArtistId": 71,
@@ -5965,7 +6489,9 @@
     "id": 261,
     "seq": 1121701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "星屑ユートピア",
     "pronunciation": "ほしくずゆーとぴあ",
     "creatorArtistId": 135,
@@ -5991,7 +6517,9 @@
     "id": 262,
     "seq": 1421101,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "帝国少女",
     "pronunciation": "ていこくしょうじょ",
     "creatorArtistId": 26,
@@ -6017,7 +6545,9 @@
     "id": 263,
     "seq": 1126101,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Highlight",
     "pronunciation": "はいらいと",
     "creatorArtistId": 136,
@@ -6043,7 +6573,9 @@
     "id": 264,
     "seq": 2318501,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "パラソルサイダー",
     "pronunciation": "ぱらそるさいだー",
     "creatorArtistId": 137,
@@ -6069,7 +6601,9 @@
     "id": 265,
     "seq": 1121201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Change me",
     "pronunciation": "ちぇんじみー",
     "creatorArtistId": 138,
@@ -6095,7 +6629,9 @@
     "id": 266,
     "seq": 1418701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "YY",
     "pronunciation": "わいわい",
     "creatorArtistId": 139,
@@ -6121,7 +6657,10 @@
     "id": 267,
     "seq": 2422401,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "仮死化",
     "pronunciation": "かしか",
     "creatorArtistId": 140,
@@ -6147,7 +6686,9 @@
     "id": 268,
     "seq": 1622101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ノンブレス・オブリージュ",
     "pronunciation": "のんぶれすおぶりーじゅ",
     "creatorArtistId": 25,
@@ -6173,7 +6714,9 @@
     "id": 269,
     "seq": 1322201,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ロンリーユニバース",
     "pronunciation": "ろんりーゆにばーす",
     "creatorArtistId": 78,
@@ -6199,7 +6742,9 @@
     "id": 270,
     "seq": 1620901,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "泥中に咲く",
     "pronunciation": "でいちゅうにさく",
     "creatorArtistId": 90,
@@ -6225,7 +6770,9 @@
     "id": 271,
     "seq": 1121901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "あったかいと",
     "pronunciation": "あったかいと",
     "creatorArtistId": 141,
@@ -6251,7 +6798,10 @@
     "id": 272,
     "seq": 1619201,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "ジェヘナ",
     "pronunciation": "じぇへな",
     "creatorArtistId": 142,
@@ -6277,7 +6827,9 @@
     "id": 273,
     "seq": 1119001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "フューチャー・イヴ",
     "pronunciation": "ふゅーちゃーいヴ",
     "creatorArtistId": 65,
@@ -6303,7 +6855,9 @@
     "id": 274,
     "seq": 1118801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "それでもいいんだよ",
     "pronunciation": "それでもいいんだよ",
     "creatorArtistId": 143,
@@ -6329,7 +6883,9 @@
     "id": 275,
     "seq": 1121601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "パラジクロロベンゼン",
     "pronunciation": "ぱらじくろろべんぜん",
     "creatorArtistId": 144,
@@ -6355,7 +6911,9 @@
     "id": 276,
     "seq": 1428701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "シャンティ",
     "pronunciation": "しゃんてぃ",
     "creatorArtistId": 142,
@@ -6381,7 +6939,10 @@
     "id": 277,
     "seq": 1619801,
     "releaseConditionId": 5,
-    "categories": ["mv_2d", "mv"],
+    "categories": [
+      "mv_2d",
+      "mv"
+    ],
     "title": "フォニイ",
     "pronunciation": "ふぉにい",
     "creatorArtistId": 145,
@@ -6407,7 +6968,9 @@
     "id": 278,
     "seq": 1120201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Bad ∞ End ∞ Night",
     "pronunciation": "ばっどえんどないと",
     "creatorArtistId": 146,
@@ -6433,7 +6996,9 @@
     "id": 279,
     "seq": 1120401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "こちら、幸福安心委員会です。",
     "pronunciation": "こちらこうふくあんしんいいんかいです",
     "creatorArtistId": 147,
@@ -6459,7 +7024,9 @@
     "id": 280,
     "seq": 2419401,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "虚ろを扇ぐ",
     "pronunciation": "うつろをあおぐ",
     "creatorArtistId": 148,
@@ -6485,7 +7052,9 @@
     "id": 281,
     "seq": 1323101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "気まぐれメルシィ",
     "pronunciation": "きまぐれめるしぃ",
     "creatorArtistId": 56,
@@ -6511,7 +7080,9 @@
     "id": 282,
     "seq": 2523601,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "星空オーケストラ",
     "pronunciation": "ほしぞらおーけすとら",
     "creatorArtistId": 149,
@@ -6537,7 +7108,9 @@
     "id": 283,
     "seq": 1124401,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "レイニースノードロップ",
     "pronunciation": "れいにーすのーどろっぷ",
     "creatorArtistId": 150,
@@ -6563,7 +7136,9 @@
     "id": 284,
     "seq": 1120001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "インビジブル",
     "pronunciation": "いんびじぶる",
     "creatorArtistId": 75,
@@ -6589,7 +7164,9 @@
     "id": 285,
     "seq": 2120601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ÅMARA(大未来電脳)",
     "pronunciation": "あまらだいみらいでんのう",
     "creatorArtistId": 65,
@@ -6615,7 +7192,9 @@
     "id": 286,
     "seq": 1224901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Hello, Worker",
     "pronunciation": "はろーわーかー",
     "creatorArtistId": 151,
@@ -6641,7 +7220,9 @@
     "id": 287,
     "seq": 2324701,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "私は、私達は",
     "pronunciation": "わたしはわたしたちは",
     "creatorArtistId": 152,
@@ -6667,7 +7248,9 @@
     "id": 288,
     "seq": 1119701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アンハッピーリフレイン",
     "pronunciation": "あんはっぴーりふれいん",
     "creatorArtistId": 64,
@@ -6693,7 +7276,9 @@
     "id": 289,
     "seq": 1219601,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "天ノ弱",
     "pronunciation": "あまのじゃく",
     "creatorArtistId": 73,
@@ -6719,7 +7304,10 @@
     "id": 291,
     "seq": 1423401,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "フェレス",
     "pronunciation": "ふぇれす",
     "creatorArtistId": 154,
@@ -6745,7 +7333,9 @@
     "id": 292,
     "seq": 1121001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "いちにのさんで",
     "pronunciation": "いちにのさんで",
     "creatorArtistId": 155,
@@ -6771,7 +7361,9 @@
     "id": 293,
     "seq": 1624501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "アイロニ",
     "pronunciation": "あいろに",
     "creatorArtistId": 156,
@@ -6797,7 +7389,9 @@
     "id": 294,
     "seq": 1623201,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "それがあなたの幸せとしても",
     "pronunciation": "それがあなたのしあわせとしても",
     "creatorArtistId": 157,
@@ -6823,7 +7417,9 @@
     "id": 295,
     "seq": 2322001,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "フロート・プランナー",
     "pronunciation": "ふろーとぷらんなー",
     "creatorArtistId": 157,
@@ -6849,7 +7445,9 @@
     "id": 296,
     "seq": 1122901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "カンタレラ",
     "pronunciation": "かんたれら",
     "creatorArtistId": 158,
@@ -6875,7 +7473,9 @@
     "id": 297,
     "seq": 1123801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "p.h.",
     "pronunciation": "ぺーはー",
     "creatorArtistId": 159,
@@ -6901,7 +7501,9 @@
     "id": 298,
     "seq": 1522801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ネトゲ廃人シュプレヒコール",
     "pronunciation": "ねとげはいじんしゅぷれひこーる",
     "creatorArtistId": 160,
@@ -6927,7 +7529,10 @@
     "id": 299,
     "seq": 1425901,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "エゴイスト",
     "pronunciation": "えごいすと",
     "creatorArtistId": 161,
@@ -6953,7 +7558,10 @@
     "id": 300,
     "seq": 2626301,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ザムザ",
     "pronunciation": "ざむざ",
     "creatorArtistId": 98,
@@ -6979,7 +7587,9 @@
     "id": 301,
     "seq": 1126901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "私の恋はヘルファイア",
     "pronunciation": "わたしのこいはへるふぁいあ",
     "creatorArtistId": 162,
@@ -7005,7 +7615,9 @@
     "id": 302,
     "seq": 2221801,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "フレー",
     "pronunciation": "ふれー",
     "creatorArtistId": 163,
@@ -7032,7 +7644,9 @@
     "id": 303,
     "seq": 1123301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "リンちゃんなう！",
     "pronunciation": "りんちゃんなう",
     "creatorArtistId": 144,
@@ -7058,7 +7672,9 @@
     "id": 304,
     "seq": 2621501,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Iなんです",
     "pronunciation": "あいなんです",
     "creatorArtistId": 110,
@@ -7084,7 +7700,9 @@
     "id": 305,
     "seq": 1125201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ストロボラスト",
     "pronunciation": "すとろぼらすと",
     "creatorArtistId": 111,
@@ -7110,7 +7728,9 @@
     "id": 306,
     "seq": 1524601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "1925",
     "pronunciation": "いちきゅーにーごー",
     "creatorArtistId": 164,
@@ -7136,7 +7756,9 @@
     "id": 307,
     "seq": 1527501,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "おこちゃま戦争",
     "pronunciation": "おこちゃませんそう",
     "creatorArtistId": 165,
@@ -7162,7 +7784,10 @@
     "id": 308,
     "seq": 2327801,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ももいろの鍵",
     "pronunciation": "ももいろのかぎ",
     "creatorArtistId": 167,
@@ -7188,7 +7813,9 @@
     "id": 309,
     "seq": 1130101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Afterglow",
     "pronunciation": "あふたーぐろう",
     "creatorArtistId": 54,
@@ -7214,7 +7841,9 @@
     "id": 310,
     "seq": 2223701,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Flyway",
     "pronunciation": "ふらいうぇい",
     "creatorArtistId": 141,
@@ -7240,7 +7869,9 @@
     "id": 311,
     "seq": 1123501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "夜明けと蛍",
     "pronunciation": "よあけとほたる",
     "creatorArtistId": 39,
@@ -7266,7 +7897,9 @@
     "id": 312,
     "seq": 1125101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ココロ",
     "pronunciation": "こころ",
     "creatorArtistId": 168,
@@ -7292,7 +7925,9 @@
     "id": 313,
     "seq": 1123001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "FREELY TOMORROW",
     "pronunciation": "ふりーりーとぅもろー",
     "creatorArtistId": 7,
@@ -7318,7 +7953,9 @@
     "id": 314,
     "seq": 1122301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "陽だまりのセツナ",
     "pronunciation": "ひだまりのせつな",
     "creatorArtistId": 169,
@@ -7344,7 +7981,9 @@
     "id": 315,
     "seq": 1122501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "What's up? Pop!",
     "pronunciation": "わっつあっぷぽっぷ",
     "creatorArtistId": 170,
@@ -7370,7 +8009,9 @@
     "id": 316,
     "seq": 2424801,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ひつじがいっぴき",
     "pronunciation": "ひつじがいっぴき",
     "creatorArtistId": 171,
@@ -7396,7 +8037,9 @@
     "id": 317,
     "seq": 1127201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "魔法みたいなミュージック！",
     "pronunciation": "まほうみたいなみゅーじっく",
     "creatorArtistId": 47,
@@ -7422,7 +8065,9 @@
     "id": 318,
     "seq": 1128501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Sharing The World",
     "pronunciation": "しぇありんぐざわーるど",
     "creatorArtistId": 172,
@@ -7448,7 +8093,9 @@
     "id": 319,
     "seq": 1130701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Decade",
     "pronunciation": "でぃけいど",
     "creatorArtistId": 15,
@@ -7474,7 +8121,9 @@
     "id": 320,
     "seq": 1325601,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Booo!",
     "pronunciation": "ぶー",
     "creatorArtistId": 106,
@@ -7500,7 +8149,9 @@
     "id": 321,
     "seq": 1226201,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "アトラクトライト",
     "pronunciation": "あとらくとらいと",
     "creatorArtistId": 99,
@@ -7526,7 +8177,9 @@
     "id": 322,
     "seq": 1427601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "絶え間なく藍色",
     "pronunciation": "たえまなくあいいろ",
     "creatorArtistId": 148,
@@ -7552,7 +8205,10 @@
     "id": 323,
     "seq": 1228001,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "快晴",
     "pronunciation": "かいせい",
     "creatorArtistId": 10,
@@ -7578,7 +8234,9 @@
     "id": 324,
     "seq": 2529001,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "箱庭のコラル",
     "pronunciation": "はこにわのこらる",
     "creatorArtistId": 174,
@@ -7604,7 +8262,9 @@
     "id": 325,
     "seq": 1132801,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "豚になってyeah yeah",
     "pronunciation": "ぶたになっていえいいえい",
     "creatorArtistId": 12,
@@ -7630,7 +8290,9 @@
     "id": 326,
     "seq": 1124201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "天使の翼。",
     "pronunciation": "てんしのつばさ",
     "creatorArtistId": 175,
@@ -7656,7 +8318,9 @@
     "id": 327,
     "seq": 1124001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "SnowMix♪",
     "pronunciation": "すのうみっくす",
     "creatorArtistId": 51,
@@ -7682,7 +8346,9 @@
     "id": 328,
     "seq": 1124101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
     "pronunciation": "せかいちゃんとかふちゃんのおつかいがっそうきょく",
     "creatorArtistId": 176,
@@ -7708,7 +8374,9 @@
     "id": 329,
     "seq": 1125501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ヤミナベ!!!!",
     "pronunciation": "やみなべ",
     "creatorArtistId": 23,
@@ -7734,7 +8402,9 @@
     "id": 330,
     "seq": 1126801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "インタビュア",
     "pronunciation": "いんたびゅあ",
     "creatorArtistId": 177,
@@ -7760,7 +8430,9 @@
     "id": 331,
     "seq": 1125701,
     "releaseConditionId": 10,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "39",
     "pronunciation": "さんきゅー",
     "creatorArtistId": 178,
@@ -7786,7 +8458,9 @@
     "id": 332,
     "seq": 1126001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "エピローグに君はいない",
     "pronunciation": "えぴろーぐにきみはいない",
     "creatorArtistId": 179,
@@ -7812,7 +8486,9 @@
     "id": 333,
     "seq": 2525801,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Mr. Showtime",
     "pronunciation": "みすたーしょうたいむ",
     "creatorArtistId": 146,
@@ -7838,7 +8514,9 @@
     "id": 334,
     "seq": 1126501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Vampire's ∞ pathoS",
     "pronunciation": "ヴぁんぱいあずぱとす",
     "creatorArtistId": 146,
@@ -7864,7 +8542,9 @@
     "id": 335,
     "seq": 1126401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "トラッシュ・アンド・トラッシュ！",
     "pronunciation": "とらっしゅあんどとらっしゅ",
     "creatorArtistId": 49,
@@ -7890,7 +8570,9 @@
     "id": 336,
     "seq": 2726601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Be The MUSIC!",
     "pronunciation": "びーざみゅーじっく",
     "creatorArtistId": 68,
@@ -7917,7 +8599,9 @@
     "id": 337,
     "seq": 1126701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "METEOR",
     "pronunciation": "みーてぃあ",
     "creatorArtistId": 63,
@@ -7943,7 +8627,9 @@
     "id": 338,
     "seq": 1125001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Where shall we go?",
     "pronunciation": "うぇあしゃるうぃーごー",
     "creatorArtistId": 180,
@@ -7969,7 +8655,9 @@
     "id": 339,
     "seq": 1229701,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "glow",
     "pronunciation": "ぐろう",
     "creatorArtistId": 181,
@@ -7995,7 +8683,9 @@
     "id": 340,
     "seq": 1629801,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "とても素敵な六月でした",
     "pronunciation": "とてもすてきなろくがつでした",
     "creatorArtistId": 182,
@@ -8021,7 +8711,9 @@
     "id": 341,
     "seq": 1135001,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "難聴系男子が倒せない",
     "pronunciation": "なんちょうけいだんしがたおせない",
     "creatorArtistId": 216,
@@ -8047,7 +8739,9 @@
     "id": 342,
     "seq": 1128901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Blue Star",
     "pronunciation": "ぶるーすたー",
     "creatorArtistId": 56,
@@ -8073,7 +8767,9 @@
     "id": 343,
     "seq": 1127001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "スノーマン",
     "pronunciation": "すのーまん",
     "creatorArtistId": 141,
@@ -8099,7 +8795,9 @@
     "id": 344,
     "seq": 1430601,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "脳内革命ガール",
     "pronunciation": "のうないかくめいがーる",
     "creatorArtistId": 183,
@@ -8125,7 +8823,9 @@
     "id": 345,
     "seq": 2630401,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "演劇",
     "pronunciation": "えんげき",
     "creatorArtistId": 30,
@@ -8151,7 +8851,10 @@
     "id": 346,
     "seq": 1529401,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "嗚呼、素晴らしきニャン生",
     "pronunciation": "ああすばらしきにゃんせい",
     "creatorArtistId": 184,
@@ -8177,7 +8880,9 @@
     "id": 347,
     "seq": 1128301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "円尾坂の仕立屋",
     "pronunciation": "えんびざかのしたてや",
     "creatorArtistId": 105,
@@ -8203,7 +8908,9 @@
     "id": 348,
     "seq": 1128401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "悪徳のジャッジメント",
     "pronunciation": "あくとくのじゃっじめんと",
     "creatorArtistId": 105,
@@ -8229,7 +8936,9 @@
     "id": 349,
     "seq": 1128101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "悪食娘コンチータ",
     "pronunciation": "あくじきむすめこんちーた",
     "creatorArtistId": 105,
@@ -8255,7 +8964,9 @@
     "id": 350,
     "seq": 1128201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "眠らせ姫からの贈り物",
     "pronunciation": "ねむらせひめからのおくりもの",
     "creatorArtistId": 105,
@@ -8281,7 +8992,9 @@
     "id": 351,
     "seq": 2227301,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "相生",
     "pronunciation": "あいおい",
     "creatorArtistId": 185,
@@ -8307,7 +9020,9 @@
     "id": 352,
     "seq": 1627701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "命ばっかり",
     "pronunciation": "いのちばっかり",
     "creatorArtistId": 33,
@@ -8333,7 +9048,9 @@
     "id": 353,
     "seq": 2627901,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "キティ",
     "pronunciation": "きてぃ",
     "creatorArtistId": 145,
@@ -8359,7 +9076,9 @@
     "id": 354,
     "seq": 1328601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "セツナトリップ",
     "pronunciation": "せつなとりっぷ",
     "creatorArtistId": 186,
@@ -8385,7 +9104,9 @@
     "id": 355,
     "seq": 1332001,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "白い雪のプリンセスは",
     "pronunciation": "しろいゆきのプリンセスは",
     "creatorArtistId": 187,
@@ -8411,7 +9132,10 @@
     "id": 356,
     "seq": 2431301,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "リアライズ",
     "pronunciation": "りあらいず",
     "creatorArtistId": 188,
@@ -8437,7 +9161,9 @@
     "id": 357,
     "seq": 1131701,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ブループラネット",
     "pronunciation": "ぶるーぷらねっと",
     "creatorArtistId": 4,
@@ -8463,7 +9189,9 @@
     "id": 358,
     "seq": 1631601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "心做し",
     "pronunciation": "こころなし",
     "creatorArtistId": 87,
@@ -8489,7 +9217,9 @@
     "id": 359,
     "seq": 1127401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "名も無き革命",
     "pronunciation": "なもなきかくめい",
     "creatorArtistId": 189,
@@ -8515,7 +9245,9 @@
     "id": 360,
     "seq": 1530201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "太陽系デスコ",
     "pronunciation": "たいようけいですこ",
     "creatorArtistId": 32,
@@ -8541,7 +9273,10 @@
     "id": 361,
     "seq": 1330001,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "きゅうくらりん",
     "pronunciation": "きゅうくらりん",
     "creatorArtistId": 167,
@@ -8567,7 +9302,9 @@
     "id": 362,
     "seq": 1129201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Wonder Style",
     "pronunciation": "わんだーすたいる",
     "creatorArtistId": 190,
@@ -8593,7 +9330,9 @@
     "id": 363,
     "seq": 1129901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "UNDERWATER",
     "pronunciation": "あんだーうぉーたー",
     "creatorArtistId": 191,
@@ -8619,7 +9358,9 @@
     "id": 364,
     "seq": 1128801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "エターナルアリア",
     "pronunciation": "えたーなるありあ",
     "creatorArtistId": 192,
@@ -8645,7 +9386,9 @@
     "id": 365,
     "seq": 1432901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "恋は戦争",
     "pronunciation": "こいはせんそう",
     "creatorArtistId": 193,
@@ -8671,7 +9414,10 @@
     "id": 366,
     "seq": 2732301,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "NEO",
     "pronunciation": "ねお",
     "creatorArtistId": 29,
@@ -8697,7 +9443,9 @@
     "id": 367,
     "seq": 1533101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "すきなことだけでいいです",
     "pronunciation": "すきなことだけでいいです",
     "creatorArtistId": 25,
@@ -8723,7 +9471,9 @@
     "id": 368,
     "seq": 2132403,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "アイムマイン",
     "pronunciation": "あいむまいん",
     "creatorArtistId": 141,
@@ -8749,7 +9499,9 @@
     "id": 369,
     "seq": 1332701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "メランコリック",
     "pronunciation": "めらんこりっく",
     "creatorArtistId": 19,
@@ -8775,7 +9527,9 @@
     "id": 370,
     "seq": 1129101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "人生",
     "pronunciation": "じんせい",
     "creatorArtistId": 194,
@@ -8801,7 +9555,9 @@
     "id": 372,
     "seq": 1232501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "天樂",
     "pronunciation": "てんがく",
     "creatorArtistId": 133,
@@ -8827,7 +9583,9 @@
     "id": 373,
     "seq": 2429301,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "下剋上",
     "pronunciation": "げこくじょう",
     "creatorArtistId": 97,
@@ -8853,7 +9611,9 @@
     "id": 374,
     "seq": 2329601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "チームメイト",
     "pronunciation": "ちーむめいと",
     "creatorArtistId": 163,
@@ -8879,7 +9639,9 @@
     "id": 375,
     "seq": 2230501,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "星を繋ぐ",
     "pronunciation": "ほしをつなぐ",
     "creatorArtistId": 195,
@@ -8905,7 +9667,9 @@
     "id": 376,
     "seq": 1533801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "我儘姫",
     "pronunciation": "わがままひめ",
     "creatorArtistId": 210,
@@ -8931,7 +9695,9 @@
     "id": 377,
     "seq": 1333701,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "悪役にキスシーンを",
     "pronunciation": "あくやくにきすしーんを",
     "creatorArtistId": 48,
@@ -8957,7 +9723,9 @@
     "id": 378,
     "seq": 1635201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "スロウダウナー",
     "pronunciation": "すろうだうなー",
     "creatorArtistId": 218,
@@ -8983,7 +9751,9 @@
     "id": 379,
     "seq": 1131001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ずんだパーリナイ",
     "pronunciation": "ずんだぱーりない",
     "creatorArtistId": 196,
@@ -9009,7 +9779,9 @@
     "id": 380,
     "seq": 1129501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "スターダストメドレー",
     "pronunciation": "すたーだすとめどれー",
     "creatorArtistId": 197,
@@ -9035,7 +9807,9 @@
     "id": 381,
     "seq": 1130901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "新人類",
     "pronunciation": "しんじんるい",
     "creatorArtistId": 198,
@@ -9061,7 +9835,9 @@
     "id": 382,
     "seq": 1130301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "心拍ペアリング",
     "pronunciation": "しんぱくぺありんぐ",
     "creatorArtistId": 199,
@@ -9087,7 +9863,10 @@
     "id": 383,
     "seq": 2233901,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "purpose",
     "pronunciation": "ぱーぱす",
     "creatorArtistId": 67,
@@ -9113,7 +9892,10 @@
     "id": 384,
     "seq": 2634001,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "トワイライトライト",
     "pronunciation": "とわいらいとらいと",
     "creatorArtistId": 35,
@@ -9139,7 +9921,10 @@
     "id": 385,
     "seq": 1633301,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "神っぽいな",
     "pronunciation": "かみっぽいな",
     "creatorArtistId": 25,
@@ -9165,7 +9950,9 @@
     "id": 386,
     "seq": 2531401,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "キラピピ★キラピカ",
     "pronunciation": "きらぴぴきらぴか",
     "creatorArtistId": 16,
@@ -9191,7 +9978,9 @@
     "id": 387,
     "seq": 1153101,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Hello Builder",
     "pronunciation": "はろーびるだー",
     "creatorArtistId": 262,
@@ -9217,7 +10006,9 @@
     "id": 388,
     "seq": 1132301,
     "releaseConditionId": 10,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "初音ミクの激唱",
     "pronunciation": "はつねみくのげきしょう",
     "creatorArtistId": 23,
@@ -9243,7 +10034,9 @@
     "id": 390,
     "seq": 1133401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Dear",
     "pronunciation": "でぃあー",
     "creatorArtistId": 200,
@@ -9269,7 +10062,9 @@
     "id": 391,
     "seq": 1634501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "キュートなカノジョ",
     "pronunciation": "きゅーとなかのじょ",
     "creatorArtistId": 28,
@@ -9295,7 +10090,10 @@
     "id": 392,
     "seq": 1434201,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "春嵐",
     "pronunciation": "しゅんらん",
     "creatorArtistId": 211,
@@ -9321,7 +10119,9 @@
     "id": 393,
     "seq": 2132101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Un-Lock",
     "pronunciation": "あんろっく",
     "creatorArtistId": 201,
@@ -9347,7 +10147,9 @@
     "id": 394,
     "seq": 2131501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ボトルケーキ",
     "pronunciation": "ぼとるけーき",
     "creatorArtistId": 202,
@@ -9373,7 +10175,9 @@
     "id": 395,
     "seq": 1231201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "サマータイムレコード",
     "pronunciation": "さまーたいむれこーど",
     "creatorArtistId": 29,
@@ -9399,7 +10203,10 @@
     "id": 396,
     "seq": 1240801,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "東京テディベア",
     "pronunciation": "とうきょうてでぃべあ",
     "creatorArtistId": 12,
@@ -9425,7 +10232,10 @@
     "id": 397,
     "seq": 2534601,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "フィラメントフィーバー",
     "pronunciation": "ふぃらめんとふぃーばー",
     "creatorArtistId": 213,
@@ -9451,7 +10261,10 @@
     "id": 398,
     "seq": 2434701,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "Beyond the way",
     "pronunciation": "びよんどざうぇい",
     "creatorArtistId": 14,
@@ -9477,7 +10290,9 @@
     "id": 399,
     "seq": 1131101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Disco No.39",
     "pronunciation": "でぃすこなんばーさーてぃーないん",
     "creatorArtistId": 203,
@@ -9503,7 +10318,9 @@
     "id": 400,
     "seq": 2330801,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "我らステインバスターズ！",
     "pronunciation": "われらすていんばすたーず！",
     "creatorArtistId": 204,
@@ -9530,7 +10347,9 @@
     "id": 401,
     "seq": 1132601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "まにまに",
     "pronunciation": "まにまに",
     "creatorArtistId": 205,
@@ -9556,7 +10375,9 @@
     "id": 402,
     "seq": 1635901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "エンヴィーベイビー",
     "pronunciation": "えんヴぃーべいびー",
     "creatorArtistId": 77,
@@ -9582,7 +10403,9 @@
     "id": 403,
     "seq": 1133201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "番凩",
     "pronunciation": "つがいこがらし",
     "creatorArtistId": 206,
@@ -9608,7 +10431,10 @@
     "id": 404,
     "seq": 2439101,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "blender",
     "pronunciation": "ぶれんだー",
     "creatorArtistId": 234,
@@ -9634,7 +10460,10 @@
     "id": 405,
     "seq": 2336401,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "MOTTO!!!",
     "pronunciation": "もっと",
     "creatorArtistId": 19,
@@ -9660,7 +10489,9 @@
     "id": 406,
     "seq": 2134301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ARQETYPE",
     "pronunciation": "あーきたいぷ",
     "creatorArtistId": 212,
@@ -9686,7 +10517,9 @@
     "id": 407,
     "seq": 1235301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "初めての恋が終わる時",
     "pronunciation": "はじめてのこいがおわるとき",
     "creatorArtistId": 193,
@@ -9712,7 +10545,9 @@
     "id": 408,
     "seq": 1131901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "CIRCUS PANIC!!!",
     "pronunciation": "さーかすぱにっく",
     "creatorArtistId": 207,
@@ -9738,7 +10573,10 @@
     "id": 409,
     "seq": 2635401,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "25時の情熱",
     "pronunciation": "にじゅうごじのじょうねつ",
     "creatorArtistId": 13,
@@ -9764,7 +10602,10 @@
     "id": 410,
     "seq": 1436901,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "マーシャル・マキシマイザー",
     "pronunciation": "まーしゃるまきしまいざー",
     "creatorArtistId": 188,
@@ -9790,7 +10631,10 @@
     "id": 411,
     "seq": 2537301,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "世界を照らすテトラッド",
     "pronunciation": "せかいをてらすてとらっど",
     "creatorArtistId": 47,
@@ -9816,7 +10660,9 @@
     "id": 412,
     "seq": 1133001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "デビルじゃないもん",
     "pronunciation": "でびるじゃないもん",
     "creatorArtistId": 208,
@@ -9842,7 +10688,10 @@
     "id": 413,
     "seq": 1334701,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "さよならプリンセス",
     "pronunciation": "さよならぷりんせす",
     "creatorArtistId": 214,
@@ -9868,7 +10717,9 @@
     "id": 414,
     "seq": 1131801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "HERO",
     "pronunciation": "ひーろー",
     "creatorArtistId": 57,
@@ -9894,7 +10745,9 @@
     "id": 415,
     "seq": 1132201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ラッキー☆オーブ",
     "pronunciation": "らっきーおーぶ",
     "creatorArtistId": 69,
@@ -9920,7 +10773,9 @@
     "id": 416,
     "seq": 2137601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "limbo",
     "pronunciation": "りんぼ",
     "creatorArtistId": 227,
@@ -9946,7 +10801,9 @@
     "id": 417,
     "seq": 1336101,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "くうになる",
     "pronunciation": "くうになる",
     "creatorArtistId": 89,
@@ -9972,7 +10829,9 @@
     "id": 418,
     "seq": 1435501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "金木犀",
     "pronunciation": "きんもくせい",
     "creatorArtistId": 125,
@@ -9998,7 +10857,9 @@
     "id": 420,
     "seq": 1153201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "imaginary love story",
     "pronunciation": "いまじなりーらぶすとーりー",
     "creatorArtistId": 285,
@@ -10024,7 +10885,9 @@
     "id": 421,
     "seq": 2433501,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "CR詠ZY",
     "pronunciation": "くれいじー",
     "creatorArtistId": 53,
@@ -10050,7 +10913,10 @@
     "id": 422,
     "seq": 2337901,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "JUMPIN’ OVER !",
     "pronunciation": "じゃんぴんおーばー",
     "creatorArtistId": 205,
@@ -10076,7 +10942,10 @@
     "id": 423,
     "seq": 2237701,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "レグルス",
     "pronunciation": "れぐるす",
     "creatorArtistId": 133,
@@ -10102,7 +10971,10 @@
     "id": 424,
     "seq": 2238101,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "インテグラル",
     "pronunciation": "いんてぐらる",
     "creatorArtistId": 99,
@@ -10128,7 +11000,9 @@
     "id": 425,
     "seq": 1133601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Cool Me Down",
     "pronunciation": "くーるみーだうん",
     "creatorArtistId": 209,
@@ -10154,7 +11028,9 @@
     "id": 426,
     "seq": 1134401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "On&On",
     "pronunciation": "おんあんどおん",
     "creatorArtistId": 180,
@@ -10180,7 +11056,9 @@
     "id": 427,
     "seq": 2138701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "幽光、1/fのゆらめき",
     "pronunciation": "ゆうこうえふぶんのいちのゆらめき",
     "creatorArtistId": 231,
@@ -10206,7 +11084,9 @@
     "id": 428,
     "seq": 2140701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ときめきジェットコースター",
     "pronunciation": "ときめきじぇっとこーすたー",
     "creatorArtistId": 243,
@@ -10232,7 +11112,9 @@
     "id": 429,
     "seq": 2334001,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "はぐ",
     "pronunciation": "はぐ",
     "creatorArtistId": 89,
@@ -10258,7 +11140,9 @@
     "id": 430,
     "seq": 1136001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "『んっあっあっ。』",
     "pronunciation": "んっあっあっ",
     "creatorArtistId": 162,
@@ -10284,7 +11168,9 @@
     "id": 431,
     "seq": 1338501,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "flos",
     "pronunciation": "ふろーす",
     "creatorArtistId": 26,
@@ -10310,7 +11196,10 @@
     "id": 432,
     "seq": 1535701,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "強風オールバック",
     "pronunciation": "きょうふうおーるばっく",
     "creatorArtistId": 219,
@@ -10336,7 +11225,9 @@
     "id": 433,
     "seq": 1135801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ヒアソビ",
     "pronunciation": "ひあそび",
     "creatorArtistId": 220,
@@ -10362,7 +11253,9 @@
     "id": 434,
     "seq": 1538901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "1000年生きてる",
     "pronunciation": "せんねんいきてる",
     "creatorArtistId": 167,
@@ -10388,7 +11281,9 @@
     "id": 435,
     "seq": 1137101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "リレイアウター",
     "pronunciation": "りれいあうたー",
     "creatorArtistId": 224,
@@ -10414,7 +11309,9 @@
     "id": 436,
     "seq": 1537801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "古書屋敷殺人事件",
     "pronunciation": "こしょやしきさつじんじけん",
     "creatorArtistId": 98,
@@ -10440,7 +11337,9 @@
     "id": 437,
     "seq": 1437001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "え？あぁ、そう。",
     "pronunciation": "えあぁそう",
     "creatorArtistId": 87,
@@ -10466,7 +11365,9 @@
     "id": 438,
     "seq": 1236201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ハイドアンド・シーク",
     "pronunciation": "はいどあんどしーく",
     "creatorArtistId": 200,
@@ -10492,7 +11393,9 @@
     "id": 439,
     "seq": 1135601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "一千光年",
     "pronunciation": "いっせんこうねん",
     "creatorArtistId": 167,
@@ -10518,7 +11421,9 @@
     "id": 440,
     "seq": 2134901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ショウタイム×オーディエンス",
     "pronunciation": "しょうたいむおーでぃえんす",
     "creatorArtistId": 215,
@@ -10544,7 +11449,10 @@
     "id": 441,
     "seq": 1439801,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "酔いどれ知らず",
     "pronunciation": "よいどれしらず",
     "creatorArtistId": 77,
@@ -10570,7 +11478,10 @@
     "id": 442,
     "seq": 2240101,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "すれすれ",
     "pronunciation": "すれすれ",
     "creatorArtistId": 156,
@@ -10596,7 +11507,9 @@
     "id": 443,
     "seq": 1242301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "林檎売りの泡沫少女",
     "pronunciation": "りんごうりのうたかたしょうじょ",
     "creatorArtistId": 250,
@@ -10622,7 +11535,9 @@
     "id": 444,
     "seq": 1136601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "心泥夢(syndrome)",
     "pronunciation": "しんどろーむ",
     "creatorArtistId": 221,
@@ -10648,7 +11563,9 @@
     "id": 445,
     "seq": 2152901,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Twilight Melody",
     "pronunciation": "とわいらいとめろでぃ",
     "creatorArtistId": 124,
@@ -10674,7 +11591,9 @@
     "id": 446,
     "seq": 1135101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "オーバーコード",
     "pronunciation": "おーばーこーど",
     "creatorArtistId": 217,
@@ -10700,7 +11619,9 @@
     "id": 447,
     "seq": 3736301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "folern",
     "pronunciation": "ふぉれん",
     "creatorArtistId": 33,
@@ -10727,7 +11648,9 @@
     "id": 448,
     "seq": 3736501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Sage",
     "pronunciation": "さげ",
     "creatorArtistId": 220,
@@ -10754,7 +11677,9 @@
     "id": 449,
     "seq": 3736801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "MarbleBlue.",
     "pronunciation": "まーぶるぶるー",
     "creatorArtistId": 223,
@@ -10781,7 +11706,10 @@
     "id": 450,
     "seq": 2541201,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "オペラ！スペースオペラ！",
     "pronunciation": "おぺらすぺーすおぺら",
     "creatorArtistId": 32,
@@ -10807,7 +11735,9 @@
     "id": 451,
     "seq": 1640901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "熱異常",
     "pronunciation": "ねついじょう",
     "creatorArtistId": 167,
@@ -10833,7 +11763,9 @@
     "id": 452,
     "seq": 2536701,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "サイバーパンクデッドボーイ",
     "pronunciation": "さいばーぱんくでっどぼーい",
     "creatorArtistId": 222,
@@ -10859,7 +11791,9 @@
     "id": 454,
     "seq": 1139201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "えれくとりっく・えんじぇぅ",
     "pronunciation": "えれくとりっく・えんじぇぅ",
     "creatorArtistId": 235,
@@ -10885,7 +11819,9 @@
     "id": 455,
     "seq": 1638201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ド屑",
     "pronunciation": "どくず",
     "creatorArtistId": 228,
@@ -10911,7 +11847,9 @@
     "id": 456,
     "seq": 1239001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "幾望の月",
     "pronunciation": "きぼうのつき",
     "creatorArtistId": 233,
@@ -10937,7 +11875,10 @@
     "id": 457,
     "seq": 2341501,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "Supernova",
     "pronunciation": "すーぱーのゔぁ",
     "creatorArtistId": 247,
@@ -10963,7 +11904,10 @@
     "id": 458,
     "seq": 1241301,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "抜錨",
     "pronunciation": "ばつびょう",
     "creatorArtistId": 137,
@@ -10989,7 +11933,9 @@
     "id": 460,
     "seq": 2141801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "LEADER",
     "pronunciation": "りーだー",
     "creatorArtistId": 237,
@@ -11015,7 +11961,9 @@
     "id": 461,
     "seq": 1137201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "おどロボ",
     "pronunciation": "おどろぼ",
     "creatorArtistId": 225,
@@ -11041,7 +11989,9 @@
     "id": 462,
     "seq": 1139301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "レッドランドマーカー",
     "pronunciation": "れっどらんどまーかー",
     "creatorArtistId": 123,
@@ -11067,7 +12017,9 @@
     "id": 463,
     "seq": 1137401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ハッピーチートデー",
     "pronunciation": "はっぴーちーとでー",
     "creatorArtistId": 110,
@@ -11093,7 +12045,9 @@
     "id": 464,
     "seq": 1153301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Intergalactic Bound",
     "pronunciation": "いんたーぎゃらくてぃっく ばうんど",
     "creatorArtistId": 286,
@@ -11119,7 +12073,9 @@
     "id": 465,
     "seq": 2138801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "嬢王",
     "pronunciation": "じょうおう",
     "creatorArtistId": 56,
@@ -11145,7 +12101,9 @@
     "id": 466,
     "seq": 1139501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ガーネットの涙",
     "pronunciation": "がーねっとのなみだ",
     "creatorArtistId": 237,
@@ -11171,7 +12129,9 @@
     "id": 467,
     "seq": 1139401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "あいのうた",
     "pronunciation": "あいのうた",
     "creatorArtistId": 236,
@@ -11197,7 +12157,9 @@
     "id": 468,
     "seq": 1137501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "十六歳の心臓",
     "pronunciation": "じゅうろくさいのしんぞう",
     "creatorArtistId": 226,
@@ -11223,7 +12185,9 @@
     "id": 469,
     "seq": 1638001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ラグトレイン",
     "pronunciation": "らぐとれいん",
     "creatorArtistId": 224,
@@ -11249,7 +12213,9 @@
     "id": 470,
     "seq": 1138401,
     "releaseConditionId": 10,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ハジメテノオト",
     "pronunciation": "はじめてのおと",
     "creatorArtistId": 232,
@@ -11275,7 +12241,10 @@
     "id": 471,
     "seq": 2442001,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ULTRA C",
     "pronunciation": "うるとらしー",
     "creatorArtistId": 249,
@@ -11301,7 +12270,10 @@
     "id": 472,
     "seq": 2542201,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "成敗いたAAAAAす！",
     "pronunciation": "せいばいいたあああああす",
     "creatorArtistId": 42,
@@ -11327,7 +12299,9 @@
     "id": 473,
     "seq": 1642501,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "マインドブランド",
     "pronunciation": "まいんどぶらんど",
     "creatorArtistId": 183,
@@ -11353,7 +12327,10 @@
     "id": 474,
     "seq": 2342801,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "キラー",
     "pronunciation": "きらー",
     "creatorArtistId": 37,
@@ -11379,7 +12356,9 @@
     "id": 475,
     "seq": 1543401,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ちがう!!!",
     "pronunciation": "ちがう",
     "creatorArtistId": 114,
@@ -11405,7 +12384,9 @@
     "id": 476,
     "seq": 1644901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Shadow Shadow",
     "pronunciation": "しゃどうしゃどう",
     "creatorArtistId": 259,
@@ -11431,7 +12412,10 @@
     "id": 477,
     "seq": 1244101,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "モザイクロール (Reloaded)",
     "pronunciation": "もざいくろーるりろーでっど",
     "creatorArtistId": 4,
@@ -11457,7 +12441,10 @@
     "id": 478,
     "seq": 2445501,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "フューエル",
     "pronunciation": "ふゅーえる",
     "creatorArtistId": 262,
@@ -11483,7 +12470,9 @@
     "id": 480,
     "seq": 1540601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "おちゃめ機能",
     "pronunciation": "おちゃめきのう",
     "creatorArtistId": 242,
@@ -11509,7 +12498,9 @@
     "id": 481,
     "seq": 1138301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "明鏡止水",
     "pronunciation": "めいきょうしすい",
     "creatorArtistId": 229,
@@ -11535,7 +12526,9 @@
     "id": 482,
     "seq": 1341101,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "だめにんげんだ!",
     "pronunciation": "だめにんげんだ!",
     "creatorArtistId": 245,
@@ -11561,7 +12554,9 @@
     "id": 483,
     "seq": 1138601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アコトバ",
     "pronunciation": "あことば",
     "creatorArtistId": 230,
@@ -11587,7 +12582,9 @@
     "id": 484,
     "seq": 1247501,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Henceforth",
     "pronunciation": "へんすふぉーす",
     "creatorArtistId": 10,
@@ -11613,7 +12610,9 @@
     "id": 485,
     "seq": 1139601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "だんだん早くなる",
     "pronunciation": "だんだんはやくなる",
     "creatorArtistId": 48,
@@ -11639,7 +12638,9 @@
     "id": 486,
     "seq": 1139901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "おぎゃりないざー",
     "pronunciation": "おぎゃりないざー",
     "creatorArtistId": 143,
@@ -11665,7 +12666,9 @@
     "id": 487,
     "seq": 1142101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ダイジョブですか？",
     "pronunciation": "だいじょぶですか？",
     "creatorArtistId": 23,
@@ -11691,7 +12694,9 @@
     "id": 488,
     "seq": 1145301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "メモリア",
     "pronunciation": "めもりあ",
     "creatorArtistId": 260,
@@ -11717,7 +12722,10 @@
     "id": 489,
     "seq": 2744001,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "熱風",
     "pronunciation": "ねっぷう",
     "creatorArtistId": 75,
@@ -11743,7 +12751,9 @@
     "id": 490,
     "seq": 1449301,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ルーマー",
     "pronunciation": "るーまー",
     "creatorArtistId": 88,
@@ -11769,7 +12779,10 @@
     "id": 491,
     "seq": 1645801,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "キャットラビング",
     "pronunciation": "きゃっとらびんぐ",
     "creatorArtistId": 237,
@@ -11795,7 +12808,9 @@
     "id": 492,
     "seq": 2639701,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "私は雨",
     "pronunciation": "わたしはあめ",
     "creatorArtistId": 224,
@@ -11821,7 +12836,9 @@
     "id": 493,
     "seq": 1541401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "きょうもハレバレ",
     "pronunciation": "きょうもはればれ",
     "creatorArtistId": 246,
@@ -11847,7 +12864,9 @@
     "id": 494,
     "seq": 1341901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ポッピンキャンディ☆フィーバー！",
     "pronunciation": "ぽっぴんきゃんでぃ☆ふぃーばー！",
     "creatorArtistId": 68,
@@ -11873,7 +12892,10 @@
     "id": 495,
     "seq": 1343501,
     "releaseConditionId": 5,
-    "categories": ["original", "mv_2d"],
+    "categories": [
+      "original",
+      "mv_2d"
+    ],
     "title": "スーパーヒーロー",
     "pronunciation": "すーぱーひーろー",
     "creatorArtistId": 152,
@@ -11899,7 +12921,9 @@
     "id": 496,
     "seq": 1140001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "シルバーコレクター",
     "pronunciation": "しるばーこれくたー",
     "creatorArtistId": 238,
@@ -11925,7 +12949,9 @@
     "id": 497,
     "seq": 2440201,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "烈火",
     "pronunciation": "れっか",
     "creatorArtistId": 239,
@@ -11951,7 +12977,10 @@
     "id": 498,
     "seq": 2346401,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "はしる! とおく! とどく!",
     "pronunciation": "はしるとおくとどく",
     "creatorArtistId": 245,
@@ -11977,7 +13006,9 @@
     "id": 499,
     "seq": 1546701,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "混沌ブギ",
     "pronunciation": "こんとんぶぎ",
     "creatorArtistId": 119,
@@ -12003,7 +13034,10 @@
     "id": 500,
     "seq": 2646201,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "余花にみとれて",
     "pronunciation": "よかにみとれて",
     "creatorArtistId": 181,
@@ -12029,7 +13063,9 @@
     "id": 501,
     "seq": 1640401,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Bad Apple!! feat.SEKAI",
     "pronunciation": "ばっどあっぷるふぃーちゃりんぐせかい",
     "creatorArtistId": 241,
@@ -12056,7 +13092,9 @@
     "id": 502,
     "seq": 1140501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Help me, ERINNNNNN!!",
     "pronunciation": "へるぷみーえーりん",
     "creatorArtistId": 240,
@@ -12083,7 +13121,9 @@
     "id": 503,
     "seq": 3740301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "超最終鬼畜妹フランドール・Ｓ",
     "pronunciation": "ちょうさいしゅうきちくいもうとふらんどーるえす",
     "creatorArtistId": 240,
@@ -12110,7 +13150,9 @@
     "id": 504,
     "seq": 1141001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "I know 愛脳.",
     "pronunciation": "あいのーあいのう",
     "creatorArtistId": 244,
@@ -12136,7 +13178,10 @@
     "id": 505,
     "seq": 1444501,
     "releaseConditionId": 5,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "コールボーイ",
     "pronunciation": "こーるぼーい",
     "creatorArtistId": 28,
@@ -12162,7 +13207,9 @@
     "id": 506,
     "seq": 1543201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "QUEEN",
     "pronunciation": "くいーん",
     "creatorArtistId": 77,
@@ -12188,7 +13235,9 @@
     "id": 507,
     "seq": 2641601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "エンパープル",
     "pronunciation": "えんぱーぷる",
     "creatorArtistId": 34,
@@ -12214,7 +13263,10 @@
     "id": 508,
     "seq": 2447701,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "ヘイヴン",
     "pronunciation": "へいヴん",
     "creatorArtistId": 80,
@@ -12240,7 +13292,9 @@
     "id": 509,
     "seq": 1549801,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ライアーダンサー",
     "pronunciation": "らいあーだんさー",
     "creatorArtistId": 271,
@@ -12266,7 +13320,9 @@
     "id": 510,
     "seq": 1651901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "失敗作少女",
     "pronunciation": "しっぱいさくしょうじょ",
     "creatorArtistId": 81,
@@ -12292,7 +13348,9 @@
     "id": 511,
     "seq": 1344301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "如月アテンション",
     "pronunciation": "きさらぎあてんしょん",
     "creatorArtistId": 29,
@@ -12318,7 +13376,9 @@
     "id": 512,
     "seq": 1141701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "合成するミライ",
     "pronunciation": "ごうせいするみらい",
     "creatorArtistId": 248,
@@ -12344,7 +13404,9 @@
     "id": 513,
     "seq": 1447001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "CH4NGE",
     "pronunciation": "ちぇんじ",
     "creatorArtistId": 14,
@@ -12370,7 +13432,9 @@
     "id": 515,
     "seq": 1142601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "イガク",
     "pronunciation": "いがく",
     "creatorArtistId": 230,
@@ -12396,7 +13460,9 @@
     "id": 516,
     "seq": 1142701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "あちこちデートさん",
     "pronunciation": "あちこちでーとさん",
     "creatorArtistId": 251,
@@ -12422,7 +13488,9 @@
     "id": 517,
     "seq": 1142401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "メリーゴーラウンド",
     "pronunciation": "めりーごーらうんど",
     "creatorArtistId": 84,
@@ -12448,7 +13516,9 @@
     "id": 518,
     "seq": 1146101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "みかぼし",
     "pronunciation": "みかぼし",
     "creatorArtistId": 264,
@@ -12474,7 +13544,9 @@
     "id": 519,
     "seq": 2143101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "夏夜ノ唄",
     "pronunciation": "なつよのうた",
     "creatorArtistId": 253,
@@ -12500,7 +13572,9 @@
     "id": 520,
     "seq": 1250001,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "透明エレジー",
     "pronunciation": "とうめいえれじー",
     "creatorArtistId": 39,
@@ -12526,7 +13600,9 @@
     "id": 521,
     "seq": 1349601,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "オーバーライド",
     "pronunciation": "おーばーらいど",
     "creatorArtistId": 244,
@@ -12552,7 +13628,9 @@
     "id": 522,
     "seq": 1442901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "WAVE",
     "pronunciation": "うぇーぶ",
     "creatorArtistId": 239,
@@ -12578,7 +13656,9 @@
     "id": 523,
     "seq": 1144601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "きみとぼくのレゾナンス",
     "pronunciation": "きみとぼくのれぞなんす",
     "creatorArtistId": 257,
@@ -12604,7 +13684,9 @@
     "id": 524,
     "seq": 2243801,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "それでも僕らは歌うことをやめない",
     "pronunciation": "それでもぼくらはうたうことをやめない",
     "creatorArtistId": 255,
@@ -12630,7 +13712,9 @@
     "id": 525,
     "seq": 1143301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "アンテナ39",
     "pronunciation": "あんてなさんきゅー",
     "creatorArtistId": 188,
@@ -12656,7 +13740,9 @@
     "id": 526,
     "seq": 1143001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "彗星ノ銀河",
     "pronunciation": "すいせいのくに",
     "creatorArtistId": 252,
@@ -12682,7 +13768,9 @@
     "id": 527,
     "seq": 2143901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Unpoison",
     "pronunciation": "あんぽいずん",
     "creatorArtistId": 256,
@@ -12708,7 +13796,9 @@
     "id": 529,
     "seq": 1143601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "カルチャ",
     "pronunciation": "かるちゃ",
     "creatorArtistId": 145,
@@ -12734,7 +13824,9 @@
     "id": 530,
     "seq": 1345201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "キャットフード",
     "pronunciation": "きゃっとふーど",
     "creatorArtistId": 67,
@@ -12760,7 +13852,9 @@
     "id": 531,
     "seq": 1144201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "メズマライザー",
     "pronunciation": "めずまらいざー",
     "creatorArtistId": 207,
@@ -12786,7 +13880,9 @@
     "id": 532,
     "seq": 1143701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "レイヤーノート",
     "pronunciation": "れいやーのーと",
     "creatorArtistId": 254,
@@ -12812,7 +13908,9 @@
     "id": 533,
     "seq": 1544701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "転生林檎",
     "pronunciation": "てんせいりんご",
     "creatorArtistId": 25,
@@ -12838,7 +13936,9 @@
     "id": 534,
     "seq": 1247201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ワールド・ランプシェード [reunion]",
     "pronunciation": "わーるど らんぷしぇーど りゆにおん",
     "creatorArtistId": 134,
@@ -12864,7 +13964,10 @@
     "id": 536,
     "seq": 3749401,
     "releaseConditionId": 5,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "Fire◎Flower (Rerec)",
     "pronunciation": "ふぁいあふらわー",
     "creatorArtistId": 141,
@@ -12890,7 +13993,9 @@
     "id": 537,
     "seq": 1450901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "花に風",
     "pronunciation": "はなにかぜ",
     "creatorArtistId": 11,
@@ -12916,7 +14021,10 @@
     "id": 538,
     "seq": 2551301,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "オールセーブチャレンジ",
     "pronunciation": "おーるせーぶちゃれんじ",
     "creatorArtistId": 237,
@@ -12942,7 +14050,10 @@
     "id": 539,
     "seq": 2352301,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "イレヴンス",
     "pronunciation": "いれヴんす",
     "creatorArtistId": 88,
@@ -12968,7 +14079,10 @@
     "id": 540,
     "seq": 2651701,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "虚無さん",
     "pronunciation": "にひるさん",
     "creatorArtistId": 279,
@@ -12994,7 +14108,9 @@
     "id": 541,
     "seq": 1144401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "メインキャラクター",
     "pronunciation": "めいんきゃらくたー",
     "creatorArtistId": 99,
@@ -13020,7 +14136,9 @@
     "id": 542,
     "seq": 1144801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Blackjack",
     "pronunciation": "ぶらっくじゃっく",
     "creatorArtistId": 258,
@@ -13046,7 +14164,9 @@
     "id": 543,
     "seq": 2145001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "生命性シンドロウム",
     "pronunciation": "せいめいせいしんどろうむ",
     "creatorArtistId": 220,
@@ -13072,7 +14192,9 @@
     "id": 544,
     "seq": 1345701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "妄想アスパルテーム",
     "pronunciation": "もうそうあすぱるてーむ",
     "creatorArtistId": 243,
@@ -13098,7 +14220,9 @@
     "id": 545,
     "seq": 1145401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "脳天",
     "pronunciation": "のうてん",
     "creatorArtistId": 261,
@@ -13124,7 +14248,9 @@
     "id": 546,
     "seq": 2245601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "その音が鳴るなら",
     "pronunciation": "そのおとがなるなら",
     "creatorArtistId": 263,
@@ -13150,7 +14276,9 @@
     "id": 547,
     "seq": 1248501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "終焉逃避行",
     "pronunciation": "しゅうえんとうひこう",
     "creatorArtistId": 188,
@@ -13176,7 +14304,9 @@
     "id": 548,
     "seq": 2545901,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ぼくのかみさま",
     "pronunciation": "ぼくのかみさま",
     "creatorArtistId": 130,
@@ -13202,7 +14332,9 @@
     "id": 549,
     "seq": 2645101,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "化けの花",
     "pronunciation": "ばけのはな",
     "creatorArtistId": 228,
@@ -13228,7 +14360,9 @@
     "id": 551,
     "seq": 1656501,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ロストアンブレラ",
     "pronunciation": "ろすとあんぶれら",
     "creatorArtistId": 224,
@@ -13254,7 +14388,9 @@
     "id": 552,
     "seq": 1153001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
     "pronunciation": "まじかるきゅあらぶしょっと",
     "creatorArtistId": 284,
@@ -13280,7 +14416,9 @@
     "id": 553,
     "seq": 1146001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "パリィ",
     "pronunciation": "ぱりぃ",
     "creatorArtistId": 221,
@@ -13306,7 +14444,9 @@
     "id": 554,
     "seq": 1347101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "snooze",
     "pronunciation": "すぬーず",
     "creatorArtistId": 142,
@@ -13332,7 +14472,9 @@
     "id": 555,
     "seq": 2749201,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "フュージョン",
     "pronunciation": "ふゅーじょん",
     "creatorArtistId": 4,
@@ -13359,7 +14501,9 @@
     "id": 556,
     "seq": 1647401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "サイハテ",
     "pronunciation": "さいはて",
     "creatorArtistId": 268,
@@ -13385,7 +14529,9 @@
     "id": 557,
     "seq": 1446501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "花溺れ",
     "pronunciation": "はなおぼれ",
     "creatorArtistId": 266,
@@ -13411,7 +14557,9 @@
     "id": 558,
     "seq": 1147301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "のだ",
     "pronunciation": "のだ",
     "creatorArtistId": 236,
@@ -13437,7 +14585,9 @@
     "id": 559,
     "seq": 1255701,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "おどりゃんせ",
     "pronunciation": "おどりゃんせ",
     "creatorArtistId": 277,
@@ -13463,7 +14613,10 @@
     "id": 560,
     "seq": 2553501,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "アイリッド",
     "pronunciation": "あいりっど",
     "creatorArtistId": 33,
@@ -13489,7 +14642,9 @@
     "id": 561,
     "seq": 1146901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "プロトディスコ",
     "pronunciation": "ぷろとでぃすこ",
     "creatorArtistId": 33,
@@ -13515,7 +14670,9 @@
     "id": 562,
     "seq": 1146801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アンヘル",
     "pronunciation": "あんへる",
     "creatorArtistId": 81,
@@ -13541,7 +14698,10 @@
     "id": 564,
     "seq": 2648201,
     "releaseConditionId": 10,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "そこに在る、光。",
     "pronunciation": "そこにあるひかり",
     "creatorArtistId": 4,
@@ -13568,7 +14728,9 @@
     "id": 565,
     "seq": 1147801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "夏に透明",
     "pronunciation": "なつにとうめい",
     "creatorArtistId": 123,
@@ -13594,7 +14756,9 @@
     "id": 566,
     "seq": 1147901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "パンダヒーロー",
     "pronunciation": "ぱんだひーろー",
     "creatorArtistId": 120,
@@ -13620,7 +14784,9 @@
     "id": 567,
     "seq": 1148001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "結ンデ開イテ羅刹ト骸",
     "pronunciation": "むすんでひらいてらせつとむくろ",
     "creatorArtistId": 120,
@@ -13646,7 +14812,9 @@
     "id": 569,
     "seq": 1146301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "シークレット・シーカー",
     "pronunciation": "しーくれっと・しーかー",
     "creatorArtistId": 265,
@@ -13672,7 +14840,10 @@
     "id": 570,
     "seq": 2257001,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "スター",
     "pronunciation": "すたー",
     "creatorArtistId": 236,
@@ -13698,7 +14869,9 @@
     "id": 571,
     "seq": 1455401,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "偽物人間40号",
     "pronunciation": "にせものにんげんよんじゅうごう",
     "creatorArtistId": 279,
@@ -13724,7 +14897,10 @@
     "id": 572,
     "seq": 2654701,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "飾って",
     "pronunciation": "かざって",
     "creatorArtistId": 161,
@@ -13750,7 +14926,10 @@
     "id": 573,
     "seq": 2146601,
     "releaseConditionId": 10,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "はじまりの未来",
     "pronunciation": "はじまりのみらい",
     "creatorArtistId": 267,
@@ -13777,7 +14956,10 @@
     "id": 574,
     "seq": 2248701,
     "releaseConditionId": 10,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "SToRY",
     "pronunciation": "すとーりー",
     "creatorArtistId": 4,
@@ -13804,7 +14986,10 @@
     "id": 575,
     "seq": 2348401,
     "releaseConditionId": 10,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "FUN!!",
     "pronunciation": "ふぁん",
     "creatorArtistId": 4,
@@ -13831,7 +15016,10 @@
     "id": 576,
     "seq": 2448101,
     "releaseConditionId": 10,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "ファイアダンス",
     "pronunciation": "ふぁいあだんす",
     "creatorArtistId": 4,
@@ -13858,7 +15046,10 @@
     "id": 577,
     "seq": 2548601,
     "releaseConditionId": 10,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "スマイル*シンフォニー",
     "pronunciation": "すまいるしんふぉにー",
     "creatorArtistId": 4,
@@ -13885,7 +15076,10 @@
     "id": 578,
     "seq": 2148901,
     "releaseConditionId": 10,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "ハローセカイ",
     "pronunciation": "はろーせかい",
     "creatorArtistId": 4,
@@ -13912,7 +15106,10 @@
     "id": 579,
     "seq": 2748301,
     "releaseConditionId": 10,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "Worlders",
     "pronunciation": "わーるだーず",
     "creatorArtistId": 29,
@@ -13939,7 +15136,9 @@
     "id": 580,
     "seq": 1449501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "三日月ステップ",
     "pronunciation": "みかづきすてっぷ",
     "creatorArtistId": 205,
@@ -13965,7 +15164,9 @@
     "id": 581,
     "seq": 1547601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "厨病激発ボーイ",
     "pronunciation": "ちゅうびょうげきはつぼーい",
     "creatorArtistId": 110,
@@ -13991,7 +15192,9 @@
     "id": 582,
     "seq": 2349001,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "アンチユー",
     "pronunciation": "あんちゆー",
     "creatorArtistId": 103,
@@ -14017,7 +15220,10 @@
     "id": 583,
     "seq": 2454301,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "アクセラレイト",
     "pronunciation": "あくせられいと",
     "creatorArtistId": 244,
@@ -14043,7 +15249,9 @@
     "id": 584,
     "seq": 1157901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "IMAWANOKIWA",
     "pronunciation": "いまわのきわ",
     "creatorArtistId": 167,
@@ -14069,7 +15277,9 @@
     "id": 585,
     "seq": 2755501,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ペンタトニック",
     "pronunciation": "ぺんたとにっく",
     "creatorArtistId": 299,
@@ -14095,7 +15305,9 @@
     "id": 586,
     "seq": 1459201,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ヤンキーボーイ・ヤンキーガール",
     "pronunciation": "やんきーぼーいやんきーがーる",
     "creatorArtistId": 281,
@@ -14121,7 +15333,9 @@
     "id": 587,
     "seq": 1149101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ルルブ",
     "pronunciation": "るるぶ",
     "creatorArtistId": 269,
@@ -14147,7 +15361,9 @@
     "id": 588,
     "seq": 1149901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "プラネットヒーロー",
     "pronunciation": "ぷらねっとひーろー",
     "creatorArtistId": 272,
@@ -14173,7 +15389,9 @@
     "id": 589,
     "seq": 1150801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "バレリーコ",
     "pronunciation": "ばれりーこ",
     "creatorArtistId": 2,
@@ -14199,7 +15417,9 @@
     "id": 590,
     "seq": 1150601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "マンハッタン",
     "pronunciation": "まんはったん",
     "creatorArtistId": 142,
@@ -14225,7 +15445,9 @@
     "id": 591,
     "seq": 1150501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "吉原ラメント 再来盤",
     "pronunciation": "よしわららめんと さいらいばん",
     "creatorArtistId": 275,
@@ -14251,7 +15473,9 @@
     "id": 592,
     "seq": 1150701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "クイーンオブハート",
     "pronunciation": "くいーんおぶはーと",
     "creatorArtistId": 276,
@@ -14277,7 +15501,9 @@
     "id": 593,
     "seq": 1148801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "クリスタルスノウ",
     "pronunciation": "くりすたるすのう",
     "creatorArtistId": 78,
@@ -14303,7 +15529,9 @@
     "id": 594,
     "seq": 1150401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Call!!",
     "pronunciation": "こーる",
     "creatorArtistId": 274,
@@ -14329,7 +15557,9 @@
     "id": 595,
     "seq": 1252201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "エンヴィキャットウォーク",
     "pronunciation": "えんヴぃきゃっとうぉーく",
     "creatorArtistId": 281,
@@ -14355,7 +15585,9 @@
     "id": 596,
     "seq": 2650101,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "D/N/A",
     "pronunciation": "でぃー・えぬ・えー",
     "creatorArtistId": 259,
@@ -14381,7 +15613,10 @@
     "id": 597,
     "seq": 2657501,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "その絵の名前は",
     "pronunciation": "そのえのなまえは",
     "creatorArtistId": 87,
@@ -14407,7 +15642,10 @@
     "id": 600,
     "seq": 2557701,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "征け",
     "pronunciation": "ゆけ",
     "creatorArtistId": 109,
@@ -14433,7 +15671,9 @@
     "id": 601,
     "seq": 1357301,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ルマ",
     "pronunciation": "るま",
     "creatorArtistId": 81,
@@ -14459,7 +15699,9 @@
     "id": 603,
     "seq": 1550201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ドレミファロンド",
     "pronunciation": "どれみふぁろんど",
     "creatorArtistId": 48,
@@ -14485,7 +15727,9 @@
     "id": 604,
     "seq": 1149701,
     "releaseConditionId": 10,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Packaged",
     "pronunciation": "ぱっけーじど",
     "creatorArtistId": 270,
@@ -14511,7 +15755,9 @@
     "id": 605,
     "seq": 2250301,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Sympathy",
     "pronunciation": "しんぱしー",
     "creatorArtistId": 50,
@@ -14537,7 +15783,9 @@
     "id": 606,
     "seq": 1651001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "スーサイドパレヱド",
     "pronunciation": "すーさいどぱれえど",
     "creatorArtistId": 277,
@@ -14563,7 +15811,9 @@
     "id": 607,
     "seq": 1351201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "回る空うさぎ",
     "pronunciation": "まわるそらうさぎ",
     "creatorArtistId": 10,
@@ -14589,7 +15839,9 @@
     "id": 608,
     "seq": 1151101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "星宙メランコリア",
     "pronunciation": "ほしぞらめらんこりあ",
     "creatorArtistId": 278,
@@ -14615,7 +15867,10 @@
     "id": 610,
     "seq": 2359001,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "Polar Star",
     "pronunciation": "ぽーらーすたー",
     "creatorArtistId": 305,
@@ -14641,7 +15896,9 @@
     "id": 611,
     "seq": 1160201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "好き！雪！本気マジック",
     "pronunciation": "すきゆきまじまじっく",
     "creatorArtistId": 7,
@@ -14667,7 +15924,9 @@
     "id": 612,
     "seq": 1160301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Snow Fairy Story",
     "pronunciation": "すのうふぇありーすとーりー",
     "creatorArtistId": 48,
@@ -14693,7 +15952,9 @@
     "id": 613,
     "seq": 1160401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "雪がとける前に",
     "pronunciation": "ゆきがとけるまえに",
     "creatorArtistId": 67,
@@ -14719,7 +15980,9 @@
     "id": 614,
     "seq": 1160501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "スターナイトスノウ",
     "pronunciation": "すたーないとすのう",
     "creatorArtistId": 311,
@@ -14745,7 +16008,9 @@
     "id": 615,
     "seq": 1160601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "四角い地球を丸くする",
     "pronunciation": "しかくいちきゅうをまるくする",
     "creatorArtistId": 106,
@@ -14771,7 +16036,9 @@
     "id": 616,
     "seq": 1160701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "アイ",
     "pronunciation": "あい",
     "creatorArtistId": 4,
@@ -14797,7 +16064,9 @@
     "id": 617,
     "seq": 1160801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ぽかぽかの星",
     "pronunciation": "ぽかぽかのほし",
     "creatorArtistId": 34,
@@ -14823,7 +16092,9 @@
     "id": 618,
     "seq": 1160901,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Fondant Step",
     "pronunciation": "ふぉんだんすてっぷ",
     "creatorArtistId": 157,
@@ -14849,7 +16120,9 @@
     "id": 619,
     "seq": 1152101,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Connecting",
     "pronunciation": "こねくてぃんぐ",
     "creatorArtistId": 141,
@@ -14875,7 +16148,9 @@
     "id": 620,
     "seq": 1451801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "紗痲",
     "pronunciation": "しゃま",
     "creatorArtistId": 80,
@@ -14901,7 +16176,9 @@
     "id": 621,
     "seq": 1355901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "東京サマーセッション",
     "pronunciation": "とうきょうさまーせっしょん",
     "creatorArtistId": 163,
@@ -14927,7 +16204,9 @@
     "id": 622,
     "seq": 3751601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "超ナイト・オブ・ナイツ",
     "pronunciation": "ちょうないと・おぶ・ないつ",
     "creatorArtistId": 240,
@@ -14954,7 +16233,10 @@
     "id": 623,
     "seq": 1551501,
     "releaseConditionId": 5,
-    "categories": ["image", "mv_2d"],
+    "categories": [
+      "image",
+      "mv_2d"
+    ],
     "title": "とうほう☆ワンダーランド",
     "pronunciation": "とうほうわんだーらんど",
     "creatorArtistId": 240,
@@ -14981,7 +16263,10 @@
     "id": 624,
     "seq": 1151401,
     "releaseConditionId": 5,
-    "categories": ["image", "original"],
+    "categories": [
+      "image",
+      "original"
+    ],
     "title": "チルノのパーフェクトさんすう学園",
     "pronunciation": "ちるののぱーふぇくとさんすうがくえん",
     "creatorArtistId": 240,
@@ -15008,7 +16293,9 @@
     "id": 625,
     "seq": 1552601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "このふざけた素晴らしき世界は、僕の為にある",
     "pronunciation": "このふざけたすばらしきせかいはぼくのためにある",
     "creatorArtistId": 282,
@@ -15034,7 +16321,9 @@
     "id": 626,
     "seq": 1152001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "フィッシュアンドTips",
     "pronunciation": "ふぃっしゅあんどちっぷす",
     "creatorArtistId": 280,
@@ -15060,7 +16349,9 @@
     "id": 627,
     "seq": 1152501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "テトリス",
     "pronunciation": "てとりす",
     "creatorArtistId": 188,
@@ -15086,7 +16377,9 @@
     "id": 628,
     "seq": 1152701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "モニタリング",
     "pronunciation": "もにたりんぐ",
     "creatorArtistId": 4,
@@ -15112,7 +16405,9 @@
     "id": 629,
     "seq": 1355001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "8.32",
     "pronunciation": "はってんさんにー",
     "creatorArtistId": 99,
@@ -15138,7 +16433,10 @@
     "id": 630,
     "seq": 2660001,
     "releaseConditionId": 10,
-    "categories": ["mv", "mv_2d"],
+    "categories": [
+      "mv",
+      "mv_2d"
+    ],
     "title": "幸福刑",
     "pronunciation": "こうふくけい",
     "creatorArtistId": 309,
@@ -15164,7 +16462,9 @@
     "id": 631,
     "seq": 1566501,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "天才ロック",
     "pronunciation": "てんさいろっく",
     "creatorArtistId": 91,
@@ -15190,7 +16490,9 @@
     "id": 632,
     "seq": 1454401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Surges",
     "pronunciation": "さーじず",
     "creatorArtistId": 10,
@@ -15216,7 +16518,9 @@
     "id": 633,
     "seq": 1152801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "庭師のおはなしによると",
     "pronunciation": "にわしのおはなしによると",
     "creatorArtistId": 283,
@@ -15242,7 +16546,9 @@
     "id": 634,
     "seq": 2452401,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "光線歌",
     "pronunciation": "こうせんか",
     "creatorArtistId": 152,
@@ -15268,7 +16574,9 @@
     "id": 635,
     "seq": 2353801,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ありのままのストーリーを",
     "pronunciation": "ありのままのすとーりーを",
     "creatorArtistId": 187,
@@ -15294,7 +16602,9 @@
     "id": 636,
     "seq": 1153701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "エクスプロウル",
     "pronunciation": "えくすぷろうる",
     "creatorArtistId": 288,
@@ -15320,7 +16630,9 @@
     "id": 637,
     "seq": 1153401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "笑えたらえーやん！",
     "pronunciation": "わらえたらえーやん",
     "creatorArtistId": 287,
@@ -15346,7 +16658,9 @@
     "id": 638,
     "seq": 1154001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "花弁、それにまつわる音声",
     "pronunciation": "かべんそれにまつわるおんせい",
     "creatorArtistId": 290,
@@ -15372,7 +16686,9 @@
     "id": 639,
     "seq": 1154101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "マリオネットダンサー",
     "pronunciation": "まりおねっとだんさー",
     "creatorArtistId": 291,
@@ -15398,7 +16714,9 @@
     "id": 641,
     "seq": 1259701,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "君が飛び降りるのならば",
     "pronunciation": "きみがとびおりるのならば",
     "creatorArtistId": 3,
@@ -15424,7 +16742,9 @@
     "id": 642,
     "seq": 2261501,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "このまんまでいこう",
     "pronunciation": "このまんまでいこう",
     "creatorArtistId": 151,
@@ -15450,7 +16770,9 @@
     "id": 643,
     "seq": 1462101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "About me",
     "pronunciation": "あばうとみー",
     "creatorArtistId": 87,
@@ -15476,7 +16798,9 @@
     "id": 644,
     "seq": 1653901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "生きる",
     "pronunciation": "いきる",
     "creatorArtistId": 149,
@@ -15502,7 +16826,9 @@
     "id": 645,
     "seq": 1255201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "深海シティアンダーグラウンド",
     "pronunciation": "しんかいしてぃあんだーぐらうんど",
     "creatorArtistId": 294,
@@ -15528,7 +16854,9 @@
     "id": 646,
     "seq": 2253601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "透明なパレット",
     "pronunciation": "とうめいなぱれっと",
     "creatorArtistId": 78,
@@ -15554,7 +16882,9 @@
     "id": 647,
     "seq": 1154601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "SAN値直葬",
     "pronunciation": "さんちちょくそう",
     "creatorArtistId": 293,
@@ -15580,7 +16910,9 @@
     "id": 648,
     "seq": 1154201,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Life Will Change",
     "pronunciation": "らいふうぃるちぇんじ",
     "creatorArtistId": 289,
@@ -15607,7 +16939,9 @@
     "id": 649,
     "seq": 2554901,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "サヨナラ天国また来て地獄",
     "pronunciation": "さよならてんごくまたきてじごく",
     "creatorArtistId": 211,
@@ -15633,7 +16967,9 @@
     "id": 650,
     "seq": 1655101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "あの夏が飽和する。",
     "pronunciation": "あのなつがほうわする",
     "creatorArtistId": 13,
@@ -15659,7 +16995,9 @@
     "id": 651,
     "seq": 1156601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ホワイトハッピー",
     "pronunciation": "ほわいとはっぴー",
     "creatorArtistId": 183,
@@ -15685,7 +17023,9 @@
     "id": 652,
     "seq": 1156801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "カレシのジュード",
     "pronunciation": "かれしのじゅーど",
     "creatorArtistId": 28,
@@ -15711,7 +17051,9 @@
     "id": 653,
     "seq": 1156901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "パメラ",
     "pronunciation": "ぱめら",
     "creatorArtistId": 11,
@@ -15737,7 +17079,9 @@
     "id": 654,
     "seq": 1154801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ラストラス",
     "pronunciation": "らすとらす",
     "creatorArtistId": 99,
@@ -15763,7 +17107,9 @@
     "id": 655,
     "seq": 1154501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "リリィララ",
     "pronunciation": "りりぃらら",
     "creatorArtistId": 292,
@@ -15789,7 +17135,9 @@
     "id": 656,
     "seq": 1155301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ブラッドドール",
     "pronunciation": "ぶらっどどーる",
     "creatorArtistId": 295,
@@ -15815,7 +17163,9 @@
     "id": 658,
     "seq": 1159401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "上弦の月",
     "pronunciation": "じょうげんのつき",
     "creatorArtistId": 61,
@@ -15841,7 +17191,9 @@
     "id": 659,
     "seq": 2357101,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "あなたの空が泣くのなら",
     "pronunciation": "あなたのそらがなくのなら",
     "creatorArtistId": 60,
@@ -15867,7 +17219,9 @@
     "id": 660,
     "seq": 2561601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "とびだせ！わんだぴょい",
     "pronunciation": "とびだせわんだぴょい",
     "creatorArtistId": 196,
@@ -15893,7 +17247,9 @@
     "id": 661,
     "seq": 1564501,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "卑怯戦隊うろたんだー",
     "pronunciation": "ひきょーせんたいうろたんだー",
     "creatorArtistId": 321,
@@ -15919,7 +17275,9 @@
     "id": 662,
     "seq": 2662901,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "告白",
     "pronunciation": "こくはく",
     "creatorArtistId": 316,
@@ -15945,7 +17303,9 @@
     "id": 663,
     "seq": 1156001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ヴィーナス",
     "pronunciation": "ヴぃーなす",
     "creatorArtistId": 137,
@@ -15971,7 +17331,9 @@
     "id": 664,
     "seq": 1556301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "人マニア",
     "pronunciation": "ひとまにあ",
     "creatorArtistId": 230,
@@ -15997,7 +17359,9 @@
     "id": 665,
     "seq": 1257401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ロケットサイダー",
     "pronunciation": "ろけっとさいだー",
     "creatorArtistId": 32,
@@ -16023,7 +17387,9 @@
     "id": 666,
     "seq": 1155801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "少女A",
     "pronunciation": "しょうじょえー",
     "creatorArtistId": 111,
@@ -16049,7 +17415,9 @@
     "id": 667,
     "seq": 1156401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "㋰責任集合体",
     "pronunciation": "むせきにんしゅうごうたい",
     "creatorArtistId": 271,
@@ -16075,7 +17443,9 @@
     "id": 668,
     "seq": 2156701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ネクラチューンサーカス",
     "pronunciation": "ねくらちゅーんさーかす",
     "creatorArtistId": 81,
@@ -16101,7 +17471,9 @@
     "id": 669,
     "seq": 1156201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "げんてん",
     "pronunciation": "げんてん",
     "creatorArtistId": 236,
@@ -16127,7 +17499,9 @@
     "id": 670,
     "seq": 1558801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "い〜やい〜やい〜や",
     "pronunciation": "い〜やい〜やい〜や",
     "creatorArtistId": 303,
@@ -16153,7 +17527,9 @@
     "id": 671,
     "seq": 2158001,
     "releaseConditionId": 10,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "怪獣になりたい",
     "pronunciation": "かいじゅうになりたい",
     "creatorArtistId": 301,
@@ -16179,7 +17555,9 @@
     "id": 672,
     "seq": 1456101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ハウトゥー世界征服",
     "pronunciation": "はうとぅーせかいせいふく",
     "creatorArtistId": 12,
@@ -16205,7 +17583,9 @@
     "id": 674,
     "seq": 1756201,
     "releaseConditionId": 1,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "MASTER高難易度楽曲メドレー",
     "pronunciation": "ますたーこうなんいどがっきょくめどれー",
     "creatorArtistId": 296,
@@ -16232,7 +17612,9 @@
     "id": 675,
     "seq": 1755601,
     "releaseConditionId": 1,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "プロセカULTIMATE楽曲メドレー",
     "pronunciation": "ぷろせかあるてぃめっとがっきょくめどれー",
     "creatorArtistId": 297,
@@ -16259,7 +17641,9 @@
     "id": 676,
     "seq": 2756701,
     "releaseConditionId": 1,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "周年記念高難易度書き下ろし楽曲メドレー",
     "pronunciation": "しゅうねんきねんこうなんいどかきおろしがっきょくめどれー",
     "creatorArtistId": 298,
@@ -16286,7 +17670,9 @@
     "id": 677,
     "seq": 1157201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アベリア",
     "pronunciation": "あべりあ",
     "creatorArtistId": 300,
@@ -16312,7 +17698,9 @@
     "id": 678,
     "seq": 1157601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "金時計",
     "pronunciation": "きんどけい",
     "creatorArtistId": 226,
@@ -16338,7 +17726,9 @@
     "id": 679,
     "seq": 2463801,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "CRASH THE PARTY",
     "pronunciation": "くらっしゅ ざ ぱーてぃ",
     "creatorArtistId": 136,
@@ -16364,7 +17754,9 @@
     "id": 680,
     "seq": 1663901,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "Who?",
     "pronunciation": "ふー？",
     "creatorArtistId": 259,
@@ -16390,7 +17782,9 @@
     "id": 681,
     "seq": 2264301,
     "releaseConditionId": 10,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "星に一番近い場所",
     "pronunciation": "ほしにいちばんちかいばしょ",
     "creatorArtistId": 106,
@@ -16416,7 +17810,9 @@
     "id": 682,
     "seq": 1364601,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "あなたしか見えないの",
     "pronunciation": "あなたしかみえないの",
     "creatorArtistId": 205,
@@ -16442,7 +17838,9 @@
     "id": 683,
     "seq": 2362401,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "カラフルファンデーション",
     "pronunciation": "からふるふぁんでーしょん",
     "creatorArtistId": 2,
@@ -16468,7 +17866,9 @@
     "id": 684,
     "seq": 2457801,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ファイター",
     "pronunciation": "ふぁいたー",
     "creatorArtistId": 119,
@@ -16494,7 +17894,9 @@
     "id": 685,
     "seq": 1158301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "電光刹歌",
     "pronunciation": "でんこうせっか",
     "creatorArtistId": 220,
@@ -16521,7 +17923,9 @@
     "id": 686,
     "seq": 1158601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "トレジャーガーデン",
     "pronunciation": "とれじゃーがーでん",
     "creatorArtistId": 143,
@@ -16548,7 +17952,9 @@
     "id": 687,
     "seq": 1158501,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ジェットブラック",
     "pronunciation": "じぇっとぶらっく",
     "creatorArtistId": 107,
@@ -16575,7 +17981,9 @@
     "id": 688,
     "seq": 1158401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ウィーアーピコピコハンマーズ!!!!",
     "pronunciation": "うぃーあーぴこぴこはんまーず",
     "creatorArtistId": 23,
@@ -16602,7 +18010,9 @@
     "id": 689,
     "seq": 1158701,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "最愛人生ランナー",
     "pronunciation": "さいあいじんせいらんなー",
     "creatorArtistId": 81,
@@ -16629,7 +18039,9 @@
     "id": 690,
     "seq": 1559501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "惑星ループ",
     "pronunciation": "わくせいるーぷ",
     "creatorArtistId": 32,
@@ -16655,7 +18067,9 @@
     "id": 691,
     "seq": 1158101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "0.0000034",
     "pronunciation": "れいてんれいれいれいれいれいさんよん",
     "creatorArtistId": 302,
@@ -16681,7 +18095,9 @@
     "id": 692,
     "seq": 1159101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ぼかろころしあむ",
     "pronunciation": "ぼかろころしあむ",
     "creatorArtistId": 63,
@@ -16707,7 +18123,9 @@
     "id": 693,
     "seq": 1362001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "erase or zero",
     "pronunciation": "いれーすおあぜろ",
     "creatorArtistId": 315,
@@ -16733,7 +18151,9 @@
     "id": 695,
     "seq": 2258201,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "花結び",
     "pronunciation": "はなむすび",
     "creatorArtistId": 213,
@@ -16759,7 +18179,9 @@
     "id": 696,
     "seq": 1158901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ドリーム・キス",
     "pronunciation": "どりーむ・きす",
     "creatorArtistId": 304,
@@ -16785,7 +18207,9 @@
     "id": 697,
     "seq": 1159901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Internet Junk Junkie",
     "pronunciation": "いんたーねっとじゃんくじゃんきー",
     "creatorArtistId": 170,
@@ -16811,7 +18235,9 @@
     "id": 698,
     "seq": 1659801,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "鎖の少女-Re Alive-",
     "pronunciation": "くさりのしょうじょりあらいぶ",
     "creatorArtistId": 187,
@@ -16837,7 +18263,9 @@
     "id": 699,
     "seq": 1162301,
     "releaseConditionId": 10,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "Catch the Wave",
     "pronunciation": "きゃっちざうぇーぶ",
     "creatorArtistId": 1,
@@ -16863,7 +18291,9 @@
     "id": 700,
     "seq": 1359301,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "魔法少女とチョコレゐト",
     "pronunciation": "まほうしょうじょとちょこれいと",
     "creatorArtistId": 25,
@@ -16889,7 +18319,9 @@
     "id": 702,
     "seq": 1262201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ラムネ",
     "pronunciation": "らむね",
     "creatorArtistId": 78,
@@ -16915,7 +18347,9 @@
     "id": 703,
     "seq": 1462501,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "バイオレンストリガー",
     "pronunciation": "ばいおれんすとりがー",
     "creatorArtistId": 56,
@@ -16942,7 +18376,9 @@
     "id": 704,
     "seq": 1159601,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "黒塗り世界宛て書簡",
     "pronunciation": "くろぬりせかいあてしょかん",
     "creatorArtistId": 308,
@@ -16968,7 +18404,9 @@
     "id": 705,
     "seq": 1265101,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "ラズベリー＊モンスター",
     "pronunciation": "らずべりーもんすたー",
     "creatorArtistId": 163,
@@ -16994,7 +18432,9 @@
     "id": 706,
     "seq": 1465401,
     "releaseConditionId": 5,
-    "categories": ["mv"],
+    "categories": [
+      "mv"
+    ],
     "title": "永遠甚だしい",
     "pronunciation": "えいえんはなはだしい",
     "creatorArtistId": 148,
@@ -17020,7 +18460,9 @@
     "id": 707,
     "seq": 3761701,
     "releaseConditionId": 10,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "さいたま2000",
     "pronunciation": "さいたまにせん",
     "creatorArtistId": 306,
@@ -17047,7 +18489,9 @@
     "id": 708,
     "seq": 3761901,
     "releaseConditionId": 10,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "幽玄ノ乱",
     "pronunciation": "ゆうげんのらん",
     "creatorArtistId": 307,
@@ -17074,7 +18518,9 @@
     "id": 709,
     "seq": 1161801,
     "releaseConditionId": 10,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "初音ミクの消失−劇場版−",
     "pronunciation": "はつねみくのしょうしつげきじょうばん",
     "creatorArtistId": 23,
@@ -17101,7 +18547,9 @@
     "id": 710,
     "seq": 1263701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ヘッジホッグ",
     "pronunciation": "へっじほっぐ",
     "creatorArtistId": 319,
@@ -17127,7 +18575,9 @@
     "id": 711,
     "seq": 1163201,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ワンダーラスト",
     "pronunciation": "わんだーらすと",
     "creatorArtistId": 65,
@@ -17153,7 +18603,9 @@
     "id": 712,
     "seq": 1664701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "比較症候群",
     "pronunciation": "ひかくしょうこうぐん",
     "creatorArtistId": 255,
@@ -17179,7 +18631,9 @@
     "id": 713,
     "seq": 1163501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Nyanyanyanyanyanyanya!",
     "pronunciation": "にゃにゃにゃにゃにゃにゃにゃ",
     "creatorArtistId": 318,
@@ -17205,7 +18659,9 @@
     "id": 714,
     "seq": 1163401,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "フロイライン＝オジョウサマ",
     "pronunciation": "ふろいらいんおじょうさま",
     "creatorArtistId": 16,
@@ -17231,7 +18687,9 @@
     "id": 715,
     "seq": 1564201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "魔法少女幸福論",
     "pronunciation": "まほうしょうじょこうふくろん",
     "creatorArtistId": 281,
@@ -17257,7 +18715,9 @@
     "id": 716,
     "seq": 2460101,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "透過する温度",
     "pronunciation": "とうかするおんど",
     "creatorArtistId": 310,
@@ -17283,7 +18743,9 @@
     "id": 717,
     "seq": 1161301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Ribbon",
     "pronunciation": "りぼん",
     "creatorArtistId": 314,
@@ -17309,7 +18771,9 @@
     "id": 718,
     "seq": 1161201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "幕を下ろそう、パレードへ",
     "pronunciation": "まくをおろそうぱれーどへ",
     "creatorArtistId": 313,
@@ -17335,7 +18799,9 @@
     "id": 719,
     "seq": 1161001,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "SHIAWASE FOR YOU!",
     "pronunciation": "しあわせふぉーゆー",
     "creatorArtistId": 167,
@@ -17361,7 +18827,9 @@
     "id": 720,
     "seq": 1161101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アリア",
     "pronunciation": "ありあ",
     "creatorArtistId": 312,
@@ -17387,7 +18855,9 @@
     "id": 721,
     "seq": 1163301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "あいしていたのに",
     "pronunciation": "あいしていたのに",
     "creatorArtistId": 183,
@@ -17413,7 +18883,9 @@
     "id": 722,
     "seq": 1163101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ダイダイダイダイダイキライ",
     "pronunciation": "だいだいだいだいだいきらい",
     "creatorArtistId": 317,
@@ -17439,7 +18911,9 @@
     "id": 723,
     "seq": 1662601,
     "releaseConditionId": 5,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ラヴィ",
     "pronunciation": "らゔぃ",
     "creatorArtistId": 45,
@@ -17466,7 +18940,9 @@
     "id": 724,
     "seq": 1161401,
     "releaseConditionId": 5,
-    "categories": ["original"],
+    "categories": [
+      "original"
+    ],
     "title": "ハオ",
     "pronunciation": "はお",
     "creatorArtistId": 4,
@@ -17492,7 +18968,9 @@
     "id": 726,
     "seq": 1162701,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アルカリレットウセイ",
     "pronunciation": "あるかりれっとうせい",
     "creatorArtistId": 81,
@@ -17519,7 +18997,9 @@
     "id": 727,
     "seq": 1163601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "T氏の話を信じるな",
     "pronunciation": "てぃーしのはなしをしんじるな",
     "creatorArtistId": 25,
@@ -17545,7 +19025,9 @@
     "id": 732,
     "seq": 1162801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "天藍のアイスヘヴン",
     "pronunciation": "てんらんのあいすへゔん",
     "creatorArtistId": 72,
@@ -17571,7 +19053,9 @@
     "id": 733,
     "seq": 1165201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "いますぐ輪廻",
     "pronunciation": "いますぐりんね",
     "creatorArtistId": 228,
@@ -17597,7 +19081,9 @@
     "id": 734,
     "seq": 1665001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "プロポーズ",
     "pronunciation": "ぷろぽーず",
     "creatorArtistId": 316,
@@ -17623,7 +19109,9 @@
     "id": 735,
     "seq": 2563001,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "傀儡のうつつ",
     "pronunciation": "くぐつのうつつ",
     "creatorArtistId": 148,
@@ -17649,7 +19137,9 @@
     "id": 737,
     "seq": 1164001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "導火愛",
     "pronunciation": "どうかあい",
     "creatorArtistId": 320,
@@ -17675,7 +19165,9 @@
     "id": 738,
     "seq": 1164801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ストラタでまちあわせ",
     "pronunciation": "すとらたでまちあわせ",
     "creatorArtistId": 322,
@@ -17701,7 +19193,9 @@
     "id": 739,
     "seq": 2764101,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "世界の歩き方",
     "pronunciation": "せかいのあるきかた",
     "creatorArtistId": 277,
@@ -17727,7 +19221,9 @@
     "id": 740,
     "seq": 2464401,
     "releaseConditionId": 10,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "羽歌",
     "pronunciation": "うか",
     "creatorArtistId": 140,
@@ -17753,7 +19249,9 @@
     "id": 741,
     "seq": 1166601,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アイ・メイカー！",
     "pronunciation": "あい・めいかー",
     "creatorArtistId": 332,
@@ -17779,7 +19277,9 @@
     "id": 742,
     "seq": 2765601,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "旅に帰る",
     "pronunciation": "たびにかえる",
     "creatorArtistId": 13,
@@ -17805,7 +19305,9 @@
     "id": 743,
     "seq": 2764901,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "ドリーマーズビート",
     "pronunciation": "どりーまーずびーと",
     "creatorArtistId": 48,
@@ -17831,7 +19333,9 @@
     "id": 744,
     "seq": 3765901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "CHAOS",
     "pronunciation": "かおす",
     "creatorArtistId": 323,
@@ -17858,7 +19362,9 @@
     "id": 745,
     "seq": 3766201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ANiMA",
     "pronunciation": "あにま",
     "creatorArtistId": 324,
@@ -17885,7 +19391,9 @@
     "id": 746,
     "seq": 3766301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Masquerade",
     "pronunciation": "ますかれーど",
     "creatorArtistId": 325,
@@ -17912,7 +19420,9 @@
     "id": 747,
     "seq": 3765801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "SAIRAI",
     "pronunciation": "さいらい",
     "creatorArtistId": 326,
@@ -17939,7 +19449,9 @@
     "id": 748,
     "seq": 3766001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "Saika",
     "pronunciation": "さいか",
     "creatorArtistId": 327,
@@ -17966,7 +19478,9 @@
     "id": 749,
     "seq": 3766101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "99 Glooms",
     "pronunciation": "ないんてぃないんぐるーむず",
     "creatorArtistId": 328,
@@ -17993,7 +19507,9 @@
     "id": 754,
     "seq": 2666701,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "光",
     "pronunciation": "ひかり",
     "creatorArtistId": 149,
@@ -18019,7 +19535,9 @@
     "id": 755,
     "seq": 1165301,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "初音狂奏曲第01番「彗惺」",
     "pronunciation": "はつねきょうそうきょくだいいちばんすいせい",
     "creatorArtistId": 330,
@@ -18045,7 +19563,9 @@
     "id": 756,
     "seq": 2366401,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "Gimme more!",
     "pronunciation": "ぎみーもあ",
     "creatorArtistId": 180,
@@ -18071,7 +19591,9 @@
     "id": 757,
     "seq": 1165501,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ひかりのあつめかた",
     "pronunciation": "ひかりのあつめかた",
     "creatorArtistId": 331,
@@ -18097,7 +19619,9 @@
     "id": 758,
     "seq": 1166901,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ラプス",
     "pronunciation": "らぷす",
     "creatorArtistId": 336,
@@ -18123,7 +19647,9 @@
     "id": 759,
     "seq": 1466801,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ハナタバ",
     "pronunciation": "はなたば",
     "creatorArtistId": 89,
@@ -18149,7 +19675,9 @@
     "id": 760,
     "seq": 2565701,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "オールイン・ワン",
     "pronunciation": "おーるいんわん",
     "creatorArtistId": 36,
@@ -18175,7 +19703,9 @@
     "id": 765,
     "seq": 2767301,
     "releaseConditionId": 10,
-    "categories": ["mv_2d"],
+    "categories": [
+      "mv_2d"
+    ],
     "title": "レム",
     "pronunciation": "れむ",
     "creatorArtistId": 11,
@@ -18193,13 +19723,45 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "REM",
+    "romaji": ""
+  },
+  {
+    "id": 789,
+    "seq": 2267401,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "天秤、指先で触れて",
+    "pronunciation": "てんびん、ゆびさきでふれて",
+    "creatorArtistId": 231,
+    "lyricist": "卯花ロク",
+    "composer": "卯花ロク",
+    "arranger": "卯花ロク",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_789",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1785477600000,
+    "releasedAt": 1785423600000,
+    "liveStageId": 1,
+    "secForMusicScoreMaker": 121,
+    "fillerSec": 8.302399635314941,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false,
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 790,
     "seq": 1167201,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "ピッコーン！！",
     "pronunciation": "ぴっこーん",
     "creatorArtistId": 111,
@@ -18225,7 +19787,9 @@
     "id": 791,
     "seq": 1167101,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "シティライツ",
     "pronunciation": "してぃらいつ",
     "creatorArtistId": 111,
@@ -18251,7 +19815,9 @@
     "id": 792,
     "seq": 1167001,
     "releaseConditionId": 5,
-    "categories": ["image"],
+    "categories": [
+      "image"
+    ],
     "title": "アストロノーツ",
     "pronunciation": "あすとろのーつ",
     "creatorArtistId": 111,
@@ -18272,5 +19838,61 @@
     "isAvailableForMusicScoreMaker": true,
     "en_title": "Astronauts",
     "romaji": ""
+  },
+  {
+    "id": 794,
+    "seq": 1167501,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "デロスサントス",
+    "pronunciation": "でろすさんとす",
+    "creatorArtistId": 337,
+    "lyricist": "山本",
+    "composer": "山本",
+    "arranger": "山本",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_794",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1785736800000,
+    "releasedAt": 1771599600000,
+    "liveStageId": 1,
+    "secForMusicScoreMaker": 121,
+    "fillerSec": 6.81820011138916,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false,
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "De Los Santos",
+    "romaji": ""
+  },
+  {
+    "id": 795,
+    "seq": 1167601,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "一億年恋してる",
+    "pronunciation": "いちおくねんこいしてる",
+    "creatorArtistId": 283,
+    "lyricist": "いのうつはSA",
+    "composer": "いのうつはSA",
+    "arranger": "いのうつはSA",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_795",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1785823200000,
+    "releasedAt": 1771513200000,
+    "liveStageId": 1,
+    "secForMusicScoreMaker": 119,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false,
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Ichiokunen Koi Shiteru",
+    "en_title": "I've loved you for a hundred million years"
   }
 ]

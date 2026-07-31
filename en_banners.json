@@ -10819,5 +10819,48 @@
     "banner_type": "Collab",
     "keywords": [],
     "characters": [4, 9, 15, 21]
+  },
+  {
+    "id": 795,
+    "name": "Tucked in a box Gacha",
+    "sekai_id": 981,
+    "characters": [1, 4, 22],
+    "cards": [1434, 1435, 1436],
+    "banner_type": "Limited Gacha",
+    "keywords": [
+      "leo/need",
+      "leoneed",
+      "ln",
+      "leoni",
+      "focus",
+      "ichika",
+      "ichi7",
+      "ichika7"
+    ],
+    "start": 1817060400000,
+    "end": 1817837999000,
+    "event_id": 212
+  },
+  {
+    "id": 797,
+    "name": "Ichika Hoshino Happy Birthday 2027 Gacha",
+    "sekai_id": 984,
+    "characters": [1],
+    "cards": [1439],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1817622000000,
+    "end": 1818226799000
+  },
+  {
+    "id": 798,
+    "name": "Ichika Hoshino Happy Birthday Memories Gacha",
+    "sekai_id": 985,
+    "characters": [1],
+    "cards": [1222, 978, 699, 480],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1817622000000,
+    "end": 1818226799000
   }
 ]
