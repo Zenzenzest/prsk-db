@@ -18011,7 +18011,9 @@
     "fillerSec": 8.399999618530273,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Lost Time Memory",
+    "romaji": ""
   },
   {
     "id": 751,
@@ -18035,7 +18037,9 @@
     "fillerSec": 8.100000381469727,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Additional Memory",
+    "romaji": ""
   },
   {
     "id": 754,
@@ -18241,7 +18245,9 @@
     "fillerSec": 8.047699928283691,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Otsukimi Recital",
+    "en_title": ""
   },
   {
     "id": 765,
