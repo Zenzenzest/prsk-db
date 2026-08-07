@@ -62648,5 +62648,278 @@
         "name": "Accompany dress"
       }
     ]
+  },
+  {
+    "id": 1440,
+    "charId": 6,
+    "costumes": [
+      {
+        "id": 2023041,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "06/2184",
+        "thumbnail": "cos2023_unique_head"
+      },
+      {
+        "id": 2023043,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "06/2184a",
+        "thumbnail": "cos2023_unique_head_01"
+      },
+      {
+        "id": 2023045,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "06/2184b",
+        "thumbnail": "cos2023_unique_head_02"
+      },
+      {
+        "id": 2023047,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "06/2184c",
+        "thumbnail": "cos2023_unique_head_03"
+      },
+      {
+        "id": 2023042,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2184",
+        "thumbnail": "cos2023_body"
+      },
+      {
+        "id": 2023044,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2184",
+        "thumbnail": "cos2023_body_01"
+      },
+      {
+        "id": 2023046,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2184",
+        "thumbnail": "cos2023_body_02"
+      },
+      {
+        "id": 2023048,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2184",
+        "thumbnail": "cos2023_body_03"
+      },
+      {
+        "id": 2023161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2184/a03",
+        "thumbnail": "cos2023_head"
+      },
+      {
+        "id": 2023162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2184/a03",
+        "thumbnail": "cos2023_head_01"
+      },
+      {
+        "id": 2023163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2184/a03",
+        "thumbnail": "cos2023_head_02"
+      },
+      {
+        "id": 2023164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2184/a03",
+        "thumbnail": "cos2023_head_03",
+        "name": "ディニュ・アルシェール"
+      }
+    ]
+  },
+  {
+    "id": 1441,
+    "charId": 5,
+    "costumes": [
+      {
+        "id": 2024033,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "05/2183",
+        "thumbnail": "cos2024_unique_head"
+      },
+      {
+        "id": 2024035,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "05/2183a",
+        "thumbnail": "cos2024_unique_head_01"
+      },
+      {
+        "id": 2024037,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "05/2183b",
+        "thumbnail": "cos2024_unique_head_02"
+      },
+      {
+        "id": 2024039,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "05/2183c",
+        "thumbnail": "cos2024_unique_head_03"
+      },
+      {
+        "id": 2024034,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2183",
+        "thumbnail": "cos2024_body"
+      },
+      {
+        "id": 2024036,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2183",
+        "thumbnail": "cos2024_body_01"
+      },
+      {
+        "id": 2024038,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2183",
+        "thumbnail": "cos2024_body_02"
+      },
+      {
+        "id": 2024040,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2183",
+        "thumbnail": "cos2024_body_03"
+      },
+      {
+        "id": 2024161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2183/a03",
+        "thumbnail": "cos2024_head"
+      },
+      {
+        "id": 2024162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2183/a03",
+        "thumbnail": "cos2024_head_01"
+      },
+      {
+        "id": 2024163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2183/a03",
+        "thumbnail": "cos2024_head_02"
+      },
+      {
+        "id": 2024164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2183/a03",
+        "thumbnail": "cos2024_head_03",
+        "name": "プロメトゥーズ・アストル"
+      }
+    ]
+  },
+  {
+    "id": 1442,
+    "charId": 8,
+    "costumes": [
+      {
+        "id": 2025057,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "08/2185",
+        "thumbnail": "cos2025_unique_head"
+      },
+      {
+        "id": 2025059,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "08/2185a",
+        "thumbnail": "cos2025_unique_head_01"
+      },
+      {
+        "id": 2025061,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "08/2185b",
+        "thumbnail": "cos2025_unique_head_02"
+      },
+      {
+        "id": 2025063,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "08/2185c",
+        "thumbnail": "cos2025_unique_head_03"
+      },
+      {
+        "id": 2025058,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2185",
+        "thumbnail": "cos2025_body"
+      },
+      {
+        "id": 2025060,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2185",
+        "thumbnail": "cos2025_body_01"
+      },
+      {
+        "id": 2025062,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2185",
+        "thumbnail": "cos2025_body_02"
+      },
+      {
+        "id": 2025064,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2185",
+        "thumbnail": "cos2025_body_03"
+      },
+      {
+        "id": 2025161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2185/a03",
+        "thumbnail": "cos2025_head"
+      },
+      {
+        "id": 2025162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2185/a03",
+        "thumbnail": "cos2025_head_01"
+      },
+      {
+        "id": 2025163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2185/a03",
+        "thumbnail": "cos2025_head_02"
+      },
+      {
+        "id": 2025164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2185/a03",
+        "thumbnail": "cos2025_head_03",
+        "name": "エクラ・フレッシュ"
+      }
+    ]
   }
 ]

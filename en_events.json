@@ -4250,6 +4250,27 @@
       "ichika7"
     ],
     "type": "Ichika 7th Focus Event",
-    "music_id": 789
+    "music_id": 789,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Echo_of_a_Prayer"
+  },
+  {
+    "id": 213,
+    "name": "Leap Beyond The Limits！",
+    "unit": "mmj",
+    "cards": [1440, 1441, 1442, 1443, 1444],
+    "start": 1817848800000,
+    "end": 1818388799000,
+    "close": 1818557999000,
+    "event_type": "marathon",
+    "keywords": [
+      "mmj",
+      "more more jump",
+      "momojan",
+      "haruka",
+      "haruka7",
+      "haru7",
+      "focus"
+    ],
+    "type": "Haruka 7th Focus Event"
   }
 ]

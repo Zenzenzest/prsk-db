@@ -9775,5 +9775,72 @@
     "cards": [1222, 978, 699, 480],
     "keywords": [],
     "en_id": 798
+  },
+  {
+    "id": 681,
+    "name": "Piercing Lightガチャ",
+    "sekai_id": 986,
+    "characters": [5, 6, 8],
+    "banner_type": "Permanent Gacha",
+    "start": 1786244400000,
+    "end": 1786935599000,
+    "cards": [1440, 1441, 1442],
+    "keywords": [
+      "mmj",
+      "more more jump",
+      "momojan",
+      "haruka",
+      "haruka7",
+      "haru7",
+      "focus"
+    ],
+    "en_id": 799,
+    "event_id": 213
+  },
+  {
+    "id": 682,
+    "name": "ワールドリンクイベント Part5 サポートガチャ",
+    "sekai_id": 987,
+    "characters": [7, 11, 15, 19, 25],
+    "banner_type": "World Link Support",
+    "start": 1786330800000,
+    "end": 1787972399000,
+    "cards": [1220, 1153, 1171, 1187, 1239],
+    "keywords": [],
+    "en_id": 800
+  },
+  {
+    "id": 683,
+    "name": "[復刻]Those who dareガチャ",
+    "sekai_id": 988,
+    "characters": [10, 12, 24],
+    "banner_type": "Limited Gacha Rerun",
+    "start": 1786417200000,
+    "end": 1787194799000,
+    "cards": [1213, 1214, 1215],
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "an",
+      "an6",
+      "focus"
+    ],
+    "en_id": 801,
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 684,
+    "name": "[復刻]That flower, once moreガチャ",
+    "sekai_id": 989,
+    "characters": [19, 20, 25],
+    "banner_type": "Limited Gacha Rerun",
+    "start": 1786417200000,
+    "end": 1787194799000,
+    "cards": [1039, 1040, 1041],
+    "keywords": ["niigo", "nightcord", "n25", "focus", "ena5", "ena"],
+    "en_id": 802,
+    "tag": "Last Rerun"
   }
 ]

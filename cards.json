@@ -21469,7 +21469,8 @@
     "charId": 1,
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Choice_With_No_Regrets"
   },
   {
     "id": 1435,
@@ -21483,7 +21484,8 @@
     "charId": 4,
     "character": "Hinomori Shiho",
     "unit": "Leo/Need",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/What_Is_Lurking_Within_One%27s_Heart"
   },
   {
     "id": 1436,
@@ -21498,7 +21500,8 @@
     "character": "Kagamine Rin",
     "unit": "Virtual Singers",
     "skillId": 15,
-    "sub_unit": "Leo/Need"
+    "sub_unit": "Leo/Need",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/So_Much_to_Do!%3F"
   },
   {
     "id": 1437,
@@ -21513,7 +21516,8 @@
     "character": "Kagamine Len",
     "unit": "Virtual Singers",
     "skillId": 6,
-    "sub_unit": "Leo/Need"
+    "sub_unit": "Leo/Need",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Watching_Over_the_Choice_You%27ve_Made"
   },
   {
     "id": 1438,
@@ -21527,7 +21531,8 @@
     "charId": 3,
     "character": "Mochizuki Honami",
     "unit": "Leo/Need",
-    "skillId": 8
+    "skillId": 8,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Delicious_Support"
   },
   {
     "id": 1439,
@@ -21542,5 +21547,76 @@
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
     "skillId": 14
+  },
+  {
+    "id": 1440,
+    "name": "Anticipation for the Semifinals",
+    "jp_name": "準決勝への意気込み",
+    "attribute": "Cute",
+    "rarity": 4,
+    "card_type": "permanent",
+    "jp_released": 1786244400000,
+    "en_released": 1817838000000,
+    "charId": 6,
+    "character": "Kiritani Haruka",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 11
+  },
+  {
+    "id": 1441,
+    "name": "A Brief Farewell",
+    "jp_name": "しばしのお別れ",
+    "attribute": "Cute",
+    "rarity": 4,
+    "card_type": "permanent",
+    "jp_released": 1786244400000,
+    "en_released": 1817838000000,
+    "charId": 5,
+    "character": "Hanasato Minori",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 10
+  },
+  {
+    "id": 1442,
+    "name": "To Live Up to Their Trust",
+    "jp_name": "信頼に応えるために",
+    "attribute": "Cute",
+    "rarity": 4,
+    "card_type": "permanent",
+    "jp_released": 1786244400000,
+    "en_released": 1817838000000,
+    "charId": 8,
+    "character": "Hinomori Shizuku",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 7
+  },
+  {
+    "id": 1443,
+    "name": "Words of Experience",
+    "jp_name": "経験談のアドバイス",
+    "attribute": "Cute",
+    "rarity": 3,
+    "card_type": "permanent",
+    "jp_released": 1786255200000,
+    "en_released": 1817848800000,
+    "charId": 53,
+    "character": "KAITO",
+    "unit": "Virtual Singers",
+    "skillId": 3,
+    "sub_unit": "MORE MORE JUMP!"
+  },
+  {
+    "id": 1444,
+    "name": "A Single Thought, A New View",
+    "jp_name": "考え方ひとつで",
+    "attribute": "Pure",
+    "rarity": 2,
+    "card_type": "permanent",
+    "jp_released": 1786255200000,
+    "en_released": 1817848800000,
+    "charId": 7,
+    "character": "Momoi Airi",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 8
   }
 ]

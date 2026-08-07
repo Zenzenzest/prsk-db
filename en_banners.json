@@ -10862,5 +10862,72 @@
     "keywords": [],
     "start": 1817622000000,
     "end": 1818226799000
+  },
+  {
+    "id": 799,
+    "name": "Piercing Light Gacha",
+    "sekai_id": 986,
+    "characters": [5, 6, 8],
+    "cards": [1440, 1441, 1442],
+    "banner_type": "Permanent Gacha",
+    "keywords": [
+      "mmj",
+      "more more jump",
+      "momojan",
+      "haruka",
+      "haruka7",
+      "haru7",
+      "focus"
+    ],
+    "start": 1817838000000,
+    "end": 1818529199000,
+    "event_id": 213
+  },
+  {
+    "id": 800,
+    "name": "World Link Event Part 5 Support Gacha",
+    "sekai_id": 987,
+    "characters": [7, 11, 15, 19, 25],
+    "cards": [1220, 1153, 1171, 1187, 1239],
+    "banner_type": "World Link Support",
+    "keywords": [],
+    "start": 1817924400000,
+    "end": 1819565999000
+  },
+  {
+    "id": 801,
+    "name": "[Rerun] Those Who Dare Gacha",
+    "sekai_id": 988,
+    "characters": [10, 12, 24],
+    "cards": [1213, 1214, 1215],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "an",
+      "an6",
+      "focus"
+    ],
+    "start": 1819684800000,
+    "end": 1819684800000,
+    "type": "rerun_estimation",
+    "rerun": [1817521200000, 1819162799000],
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 802,
+    "name": "[Rerun] That Flower, Once More Gacha",
+    "sekai_id": 989,
+    "characters": [19, 20, 25],
+    "cards": [1039, 1040, 1041],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": ["niigo", "nightcord", "n25", "focus", "ena5", "ena"],
+    "start": 1819684800000,
+    "end": 1819684800000,
+    "type": "rerun_estimation",
+    "rerun": [1817521200000, 1819162799000],
+    "tag": "Last Rerun"
   }
 ]
