@@ -21546,7 +21546,8 @@
     "charId": 1,
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Ichika)"
   },
   {
     "id": 1440,
@@ -21560,7 +21561,8 @@
     "charId": 6,
     "character": "Kiritani Haruka",
     "unit": "MORE MORE JUMP!",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Enthusiasm_for_the_Semifinals"
   },
   {
     "id": 1441,
@@ -21574,7 +21576,8 @@
     "charId": 5,
     "character": "Hanasato Minori",
     "unit": "MORE MORE JUMP!",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Temporary_Goodbye"
   },
   {
     "id": 1442,
@@ -21588,7 +21591,8 @@
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/To_Live_Up_to_Your_Trust"
   },
   {
     "id": 1443,
@@ -21603,7 +21607,8 @@
     "character": "KAITO",
     "unit": "Virtual Singers",
     "skillId": 3,
-    "sub_unit": "MORE MORE JUMP!"
+    "sub_unit": "MORE MORE JUMP!",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/First-Hand_Advice"
   },
   {
     "id": 1444,
@@ -21617,6 +21622,7 @@
     "charId": 7,
     "character": "Momoi Airi",
     "unit": "MORE MORE JUMP!",
-    "skillId": 8
+    "skillId": 8,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/It_All_Depends_on_Your_Mindset"
   }
 ]
