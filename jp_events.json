@@ -4335,6 +4335,33 @@
     "close": 1787983199000,
     "event_type": "world_bloom",
     "keywords": ["wl3", "world link 3", "world link"],
-    "type": "Mixed Event"
+    "type": "Mixed Event",
+    "schedule": [
+      {
+        "char_chapter": 11,
+        "start": 1786964400000,
+        "end": 1787137199000
+      },
+      {
+        "char_chapter": 15,
+        "start": 1787137200000,
+        "end": 1787309999000
+      },
+      {
+        "char_chapter": 25,
+        "start": 1787310000000,
+        "end": 1787482799000
+      },
+      {
+        "char_chapter": 19,
+        "start": 1787482800000,
+        "end": 1787655599000
+      },
+      {
+        "char_chapter": 7,
+        "start": 1787655600000,
+        "end": 1787828399000
+      }
+    ]
   }
 ]
