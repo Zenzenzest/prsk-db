@@ -62921,5 +62921,495 @@
         "name": "エクラ・フレッシュ"
       }
     ]
+  },
+  {
+    "id": 1445,
+    "charId": 25,
+    "costumes": [
+      {
+        "id": 2026153,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "25/2186",
+        "thumbnail": "cos2026_unique_head"
+      },
+      {
+        "id": 2026155,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "25/2186a",
+        "thumbnail": "cos2026_unique_head_01"
+      },
+      {
+        "id": 2026157,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "25/2186b",
+        "thumbnail": "cos2026_unique_head_02"
+      },
+      {
+        "id": 2026159,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "25/2186c",
+        "thumbnail": "cos2026_unique_head_03"
+      },
+      {
+        "id": 2026154,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2186",
+        "thumbnail": "cos2026_body"
+      },
+      {
+        "id": 2026156,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2186",
+        "thumbnail": "cos2026_body_01"
+      },
+      {
+        "id": 2026158,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2186",
+        "thumbnail": "cos2026_body_02"
+      },
+      {
+        "id": 2026160,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2186",
+        "thumbnail": "cos2026_body_03"
+      },
+      {
+        "id": 2026161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2186/a02",
+        "thumbnail": "cos2026_head"
+      },
+      {
+        "id": 2026162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2186/a02",
+        "thumbnail": "cos2026_head_01"
+      },
+      {
+        "id": 2026163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2186/a02",
+        "thumbnail": "cos2026_head_02"
+      },
+      {
+        "id": 2026164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2186/a02",
+        "thumbnail": "cos2026_head_03"
+      },
+      {
+        "id": 2026165,
+        "colorId": 1,
+        "partType": "hair",
+        "assetbundleName": "25/2186n",
+        "thumbnail": "cos2026_unique_hair",
+        "name": "Sekai's ambition"
+      }
+    ]
+  },
+  {
+    "id": 1446,
+    "charId": 7,
+    "costumes": [
+      {
+        "id": 2027049,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "07/2187",
+        "thumbnail": "cos2027_unique_head"
+      },
+      {
+        "id": 2027051,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "07/2187a",
+        "thumbnail": "cos2027_unique_head_01"
+      },
+      {
+        "id": 2027053,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "07/2187b",
+        "thumbnail": "cos2027_unique_head_02"
+      },
+      {
+        "id": 2027055,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "07/2187c",
+        "thumbnail": "cos2027_unique_head_03"
+      },
+      {
+        "id": 2027050,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2187",
+        "thumbnail": "cos2027_body"
+      },
+      {
+        "id": 2027052,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2187",
+        "thumbnail": "cos2027_body_01"
+      },
+      {
+        "id": 2027054,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2187",
+        "thumbnail": "cos2027_body_02"
+      },
+      {
+        "id": 2027056,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2187",
+        "thumbnail": "cos2027_body_03"
+      },
+      {
+        "id": 2027161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2187/a02",
+        "thumbnail": "cos2027_head"
+      },
+      {
+        "id": 2027162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2187/a02",
+        "thumbnail": "cos2027_head_01"
+      },
+      {
+        "id": 2027163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2187/a02",
+        "thumbnail": "cos2027_head_02"
+      },
+      {
+        "id": 2027164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2187/a02",
+        "thumbnail": "cos2027_head_03"
+      },
+      {
+        "id": 2027165,
+        "colorId": 1,
+        "partType": "hair",
+        "assetbundleName": "07/2187n",
+        "thumbnail": "cos2027_unique_hair",
+        "name": "Blooming ambition"
+      }
+    ]
+  },
+  {
+    "id": 1447,
+    "charId": 11,
+    "costumes": [
+      {
+        "id": 2028001,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "11/2188",
+        "thumbnail": "cos2028_unique_head"
+      },
+      {
+        "id": 2028003,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "11/2188a",
+        "thumbnail": "cos2028_unique_head_01"
+      },
+      {
+        "id": 2028005,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "11/2188b",
+        "thumbnail": "cos2028_unique_head_02"
+      },
+      {
+        "id": 2028007,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "11/2188c",
+        "thumbnail": "cos2028_unique_head_03"
+      },
+      {
+        "id": 2028002,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2188",
+        "thumbnail": "cos2028_body"
+      },
+      {
+        "id": 2028004,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2188",
+        "thumbnail": "cos2028_body_01"
+      },
+      {
+        "id": 2028006,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2188",
+        "thumbnail": "cos2028_body_02"
+      },
+      {
+        "id": 2028008,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2188",
+        "thumbnail": "cos2028_body_03"
+      },
+      {
+        "id": 2028049,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2188/a02",
+        "thumbnail": "cos2028_head"
+      },
+      {
+        "id": 2028050,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2188/a02",
+        "thumbnail": "cos2028_head_01"
+      },
+      {
+        "id": 2028051,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2188/a02",
+        "thumbnail": "cos2028_head_02"
+      },
+      {
+        "id": 2028052,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2188/a02",
+        "thumbnail": "cos2028_head_03"
+      },
+      {
+        "id": 2028053,
+        "colorId": 1,
+        "partType": "hair",
+        "assetbundleName": "11/2188n",
+        "thumbnail": "cos2028_unique_hair",
+        "name": "Burning ambition"
+      }
+    ]
+  },
+  {
+    "id": 1448,
+    "charId": 15,
+    "costumes": [
+      {
+        "id": 2029089,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "15/2189",
+        "thumbnail": "cos2029_unique_head"
+      },
+      {
+        "id": 2029091,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "15/2189a",
+        "thumbnail": "cos2029_unique_head_01"
+      },
+      {
+        "id": 2029093,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "15/2189b",
+        "thumbnail": "cos2029_unique_head_02"
+      },
+      {
+        "id": 2029095,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "15/2189c",
+        "thumbnail": "cos2029_unique_head_03"
+      },
+      {
+        "id": 2029090,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2189",
+        "thumbnail": "cos2029_body"
+      },
+      {
+        "id": 2029092,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2189",
+        "thumbnail": "cos2029_body_01"
+      },
+      {
+        "id": 2029094,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2189",
+        "thumbnail": "cos2029_body_02"
+      },
+      {
+        "id": 2029096,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2189",
+        "thumbnail": "cos2029_body_03"
+      },
+      {
+        "id": 2029161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2189/a02",
+        "thumbnail": "cos2029_head"
+      },
+      {
+        "id": 2029162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2189/a02",
+        "thumbnail": "cos2029_head_01"
+      },
+      {
+        "id": 2029163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2189/a02",
+        "thumbnail": "cos2029_head_02"
+      },
+      {
+        "id": 2029164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2189/a02",
+        "thumbnail": "cos2029_head_03"
+      },
+      {
+        "id": 2029165,
+        "colorId": 1,
+        "partType": "hair",
+        "assetbundleName": "15/2189n",
+        "thumbnail": "cos2029_unique_hair",
+        "name": "Acting ambition"
+      }
+    ]
+  },
+  {
+    "id": 1449,
+    "charId": 19,
+    "costumes": [
+      {
+        "id": 2030113,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "19/2190",
+        "thumbnail": "cos2030_unique_head"
+      },
+      {
+        "id": 2030115,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "19/2190a",
+        "thumbnail": "cos2030_unique_head_01"
+      },
+      {
+        "id": 2030117,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "19/2190b",
+        "thumbnail": "cos2030_unique_head_02"
+      },
+      {
+        "id": 2030119,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "19/2190c",
+        "thumbnail": "cos2030_unique_head_03"
+      },
+      {
+        "id": 2030114,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2190",
+        "thumbnail": "cos2030_body"
+      },
+      {
+        "id": 2030116,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2190",
+        "thumbnail": "cos2030_body_01"
+      },
+      {
+        "id": 2030118,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2190",
+        "thumbnail": "cos2030_body_02"
+      },
+      {
+        "id": 2030120,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2190",
+        "thumbnail": "cos2030_body_03"
+      },
+      {
+        "id": 2030161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2190/a04",
+        "thumbnail": "cos2030_head"
+      },
+      {
+        "id": 2030162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2190/a04",
+        "thumbnail": "cos2030_head_01"
+      },
+      {
+        "id": 2030163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2190/a04",
+        "thumbnail": "cos2030_head_02"
+      },
+      {
+        "id": 2030164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2190/a04",
+        "thumbnail": "cos2030_head_03"
+      },
+      {
+        "id": 2030165,
+        "colorId": 1,
+        "partType": "hair",
+        "assetbundleName": "19/2190n",
+        "thumbnail": "cos2030_unique_hair",
+        "name": "Painting ambition"
+      }
+    ]
   }
 ]

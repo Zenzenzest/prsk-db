@@ -10936,5 +10936,61 @@
     "banner_type": "Premium Gift",
     "keywords": [],
     "characters": [1, 8, 12, 14, 20, 24]
+  },
+  {
+    "id": 804,
+    "name": "Crawl out of Vibrant hell Gacha",
+    "sekai_id": 990,
+    "characters": [7, 11, 15, 19, 25],
+    "cards": [1445, 1446, 1447, 1448, 1449],
+    "banner_type": "Limited Gacha",
+    "keywords": ["wl3", "world link 3", "world link"],
+    "start": 1818529200000,
+    "end": 1819565999000,
+    "event_id": 214
+  },
+  {
+    "id": 805,
+    "name": "Mizuki Akiyama Happy Birthday 2027 Gacha",
+    "sekai_id": 991,
+    "characters": [20],
+    "cards": [1450],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1819004400000,
+    "end": 1819609199000
+  },
+  {
+    "id": 806,
+    "name": "Mizuki Akiyama Happy Birthday Memories Gacha",
+    "sekai_id": 992,
+    "characters": [20],
+    "cards": [1228, 985, 705, 491],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1819004400000,
+    "end": 1819609199000
+  },
+  {
+    "id": 807,
+    "name": "Hatsune Miku Happy Anniversary 2027 Gacha",
+    "sekai_id": 993,
+    "characters": [21],
+    "cards": [1451],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1819350000000,
+    "end": 1819954799000
+  },
+  {
+    "id": 808,
+    "name": "Hatsune Miku Happy Anniversary Memories Gacha",
+    "sekai_id": 994,
+    "characters": [21],
+    "cards": [1234, 986, 706, 492],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1819350000000,
+    "end": 1819954799000
   }
 ]

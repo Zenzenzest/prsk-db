@@ -4274,5 +4274,17 @@
     "type": "Haruka 7th Focus Event",
     "music_id": 728,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Leap_Beyond_The_Limits!"
+  },
+  {
+    "id": 214,
+    "name": "Again And Again Ambition！",
+    "unit": "mixed",
+    "cards": [1445, 1446, 1447, 1448, 1449],
+    "start": 1818558000000,
+    "end": 1819421999000,
+    "close": 1819576799000,
+    "event_type": "world_bloom",
+    "keywords": ["wl3", "world link 3", "world link"],
+    "type": "Mixed Event"
   }
 ]
