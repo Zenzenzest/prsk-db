@@ -898,5 +898,21 @@
       "Fixed Card Costume Viewer where turning off the shadow would make the model look awkwardly tanned"
     ],
     "date": 1784542143000
+  },
+  {
+    "version": "1.22.12",
+    "title": "Some Fixes",
+    "logs": [
+      "Added Save to Image in Costume Viewer",
+      "Fixed Nav Header not showing current tab",
+      "Adjusted Nav Text Color on light mode",
+      "Added Costume Name in Costume Viewer",
+      "Reworked Costume Viewer Layout",
+      "Adjusted Min/Max Zoom in costume viewer",
+      "Fixed all  upcoming global songs getting tagged as spoiler instead of Global Exclusive Songs only",
+      "Fixed bug when pressing back button to go back to /chart-simulator which causes crashes",
+      "Compact Gacha Banners in calendar minor layout improvement"
+    ],
+    "date": 1786955030000
   }
 ]
