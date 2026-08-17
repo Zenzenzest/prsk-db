@@ -4000,7 +4000,7 @@
     "close": 1777528799000,
     "event_type": "world_link",
     "keywords": ["wl3", "wl", "world link 3"],
-    "type": "World Link 3 Event",
+    "type": "World Link 3 Part 1  Event",
     "schedule": [
       {
         "char_chapter": 6,
@@ -4087,7 +4087,7 @@
     "close": 1780207199000,
     "event_type": "world_link",
     "keywords": ["wl3", "wl", "world link 3"],
-    "type": "World Link 3 Event",
+    "type": "World Link 3 Part 2 Event",
     "schedule": [
       {
         "char_chapter": 5,
@@ -4144,9 +4144,9 @@
     "start": 1780916400000,
     "end": 1781780399000,
     "close": 1781935199000,
-    "event_type": "world_bloom",
+    "event_type": "world_link",
     "keywords": ["wl3", "wl", "world link 3"],
-    "type": "World Link 3 Event",
+    "type": "World Link 3 Part 3 Event",
     "schedule": [
       {
         "char_chapter": 24,
@@ -4247,8 +4247,8 @@
     "start": 1784458800000,
     "end": 1785322799000,
     "close": 1785477599000,
-    "event_type": "world_bloom",
-    "keywords": [],
+    "event_type": "world_link",
+    "keywords": ["wl3", "world link 3", "world link"],
     "schedule": [
       {
         "char_chapter": 2,
@@ -4276,7 +4276,7 @@
         "end": 1785322799000
       }
     ],
-    "type": "World Link 3 Event",
+    "type": "World Link 3 Part 4 Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Next_to_You,_Seeing_the_Same_Tomorrow",
     "music_id": 765
   },
@@ -4333,9 +4333,9 @@
     "start": 1786964400000,
     "end": 1787828399000,
     "close": 1787983199000,
-    "event_type": "world_bloom",
+    "event_type": "world_link",
     "keywords": ["wl3", "world link 3", "world link"],
-    "type": "Mixed Event",
+    "type": "World Link 3 Part 5 Event",
     "schedule": [
       {
         "char_chapter": 11,

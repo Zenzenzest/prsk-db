@@ -3950,7 +3950,7 @@
     "close": 1809122399000,
     "event_type": "world_link",
     "keywords": ["wl3", "wl", "world link 3"],
-    "type": "World Link 3 Event",
+    "type": "World Link 3 Part 1 Event",
     "schedule": [
       {
         "char_chapter": 6,
@@ -4037,7 +4037,7 @@
     "close": 1811800799000,
     "event_type": "world_link",
     "keywords": ["wl3", "wl", "world link 3"],
-    "type": "World Link 3 Event",
+    "type": "World Link 3 Part 2 Event",
     "schedule": [
       {
         "char_chapter": 5,
@@ -4094,9 +4094,9 @@
     "start": 1812510000000,
     "end": 1813373999000,
     "close": 1813528799000,
-    "event_type": "world_bloom",
+    "event_type": "world_link",
     "keywords": ["wl3", "wl", "world link 3"],
-    "type": "World Link 3 Event",
+    "type": "World Link 3 Part 3 Event",
     "schedule": [
       {
         "char_chapter": 24,
@@ -4197,9 +4197,9 @@
     "start": 1816052400000,
     "end": 1816916399000,
     "close": 1817071199000,
-    "event_type": "world_bloom",
-    "keywords": [],
-    "type": "World Link 3 Event",
+    "event_type": "world_link",
+    "keywords": ["wl3", "wl", "world link 3"],
+    "type": "World Link 3 Part 4 Event",
     "schedule": [
       {
         "char_chapter": 2,
@@ -4283,9 +4283,9 @@
     "start": 1818558000000,
     "end": 1819421999000,
     "close": 1819576799000,
-    "event_type": "world_bloom",
+    "event_type": "world_link",
     "keywords": ["wl3", "world link 3", "world link"],
-    "type": "Mixed Event",
+    "type": "World Link 3 Part 5 Event",
     "schedule": [
       {
         "char_chapter": 11,
