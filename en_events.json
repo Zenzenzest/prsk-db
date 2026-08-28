@@ -1974,7 +1974,7 @@
     "cards": [707, 708, 709, 710, 711, 712],
     "event_type": "cheerful_carnival",
     "keywords": ["vs", "vs2"],
-    "type": "Mixed Event",
+    "type": "Virtual Singer Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Let_Your_Song_Resound_Throughout_the_SEKAI!"
   },
   {
@@ -4312,6 +4312,20 @@
         "start": 1819249200000,
         "end": 1819421999000
       }
-    ]
+    ],
+    "music_id": 788,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Again_And_Again_Ambition!"
+  },
+  {
+    "id": 215,
+    "name": "Mix&Make Party Time!!",
+    "unit": "vs",
+    "cards": [1452, 1453, 1454, 1455, 1456, 1457],
+    "start": 1819576800000,
+    "end": 1820116799000,
+    "close": 1820267999000,
+    "event_type": "marathon",
+    "keywords": ["vs", "vs3"],
+    "type": "Virtual Singer Event"
   }
 ]

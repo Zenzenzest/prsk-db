@@ -4362,6 +4362,20 @@
         "start": 1787655600000,
         "end": 1787828399000
       }
-    ]
+    ],
+    "music_id": 788,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Again_And_Again_Ambition!"
+  },
+  {
+    "id": 215,
+    "name": "Mix&Make Party Time!!",
+    "unit": "vs",
+    "cards": [1452, 1453, 1454, 1455, 1456, 1457],
+    "start": 1787983200000,
+    "end": 1788523199000,
+    "close": 1788674399000,
+    "event_type": "marathon",
+    "keywords": [],
+    "type": "Virtual Singer Event"
   }
 ]

@@ -21638,7 +21638,8 @@
     "character": "MEIKO",
     "unit": "Virtual Singers",
     "skillId": 4,
-    "sub_unit": "Virtual Singers"
+    "sub_unit": "Virtual Singers",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Amidst_the_Sound_of_Waves"
   },
   {
     "id": 1446,
@@ -21652,7 +21653,8 @@
     "charId": 7,
     "character": "Momoi Airi",
     "unit": "MORE MORE JUMP!",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/What_Fuels_Dreams"
   },
   {
     "id": 1447,
@@ -21666,7 +21668,8 @@
     "charId": 11,
     "character": "Shinonome Akito",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Words_of_Encouragement"
   },
   {
     "id": 1448,
@@ -21680,7 +21683,8 @@
     "charId": 15,
     "character": "Kusanagi Nene",
     "unit": "Wonderlands x Showtime",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Forest_Guide"
   },
   {
     "id": 1449,
@@ -21694,7 +21698,8 @@
     "charId": 19,
     "character": "Shinonome Ena",
     "unit": "Nightcord at 25:00",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/What_I_Couldn%27t_Say_Back_Then"
   },
   {
     "id": 1450,
@@ -21708,7 +21713,8 @@
     "charId": 20,
     "character": "Akiyama Mizuki",
     "unit": "Nightcord at 25:00",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Mizuki)"
   },
   {
     "id": 1451,
@@ -21722,6 +21728,97 @@
     "charId": 21,
     "character": "Hatsune Miku",
     "unit": "Virtual Singers",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Anniversary!!_2026_(Miku)"
+  },
+  {
+    "id": 1452,
+    "name": "Let's Be Friends!",
+    "jp_name": "仲良くイエーイ！",
+    "attribute": "Pure",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1787972400000,
+    "en_released": 1819566000000,
+    "charId": 24,
+    "character": "Megurine Luka",
+    "unit": "Virtual Singers",
+    "skillId": 17,
+    "sub_unit": "Vivid BAD SQUAD"
+  },
+  {
+    "id": 1453,
+    "name": "Ren's Blossoming Conversation",
+    "jp_name": "花咲くレン談義",
+    "attribute": "Pure",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1787972400000,
+    "en_released": 1819566000000,
+    "charId": 23,
+    "character": "Kagamine Len",
+    "unit": "Virtual Singers",
+    "skillId": 16,
+    "sub_unit": "MORE MORE JUMP!"
+  },
+  {
+    "id": 1454,
+    "name": "My Rushing Heart, Served on a Spoon",
+    "jp_name": "はやる想いをスプーンに乗せて",
+    "attribute": "Pure",
+    "rarity": 4,
+    "card_type": "limited",
+    "jp_released": 1787972400000,
+    "en_released": 1819566000000,
+    "charId": 26,
+    "character": "KAITO",
+    "unit": "Virtual Singers",
+    "skillId": 18,
+    "sub_unit": "Wonderlands x Showtime"
+  },
+  {
+    "id": 1455,
+    "name": "A Class Meeting, At Long Last",
+    "jp_name": "久しぶりの学級会",
+    "attribute": "Pure",
+    "rarity": 2,
+    "card_type": "permanent",
+    "jp_released": 1787983200000,
+    "en_released": 1819576800000,
+    "charId": 21,
+    "character": "Hatsune Miku",
+    "unit": "Virtual Singers",
+    "skillId": 5,
+    "sub_unit": "Leo/Need"
+  },
+  {
+    "id": 1456,
+    "name": "Decorating with Balloons!",
+    "jp_name": "風船で飾り付け♪",
+    "attribute": "Cute",
+    "rarity": 2,
+    "card_type": "permanent",
+    "jp_released": 1787983200000,
+    "en_released": 1819576800000,
+    "charId": 22,
+    "character": "Kagamine Rin",
+    "unit": "Virtual Singers",
+    "skillId": 5,
+    "sub_unit": "Virtual Singers"
+  },
+  {
+    "id": 1457,
+    "name": "Team Up, Friends?",
+    "jp_name": "仲良くチーム分け？",
+    "attribute": "Mysterious",
+    "rarity": 2,
+    "card_type": "permanent",
+    "jp_released": 1787983200000,
+    "en_released": 1819576800000,
+    "charId": 25,
+    "character": "MEIKO",
+    "unit": "Virtual Singers",
+    "skillId": 2,
+    "sub_unit": "Virtual Singers"
   }
 ]
