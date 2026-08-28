@@ -7756,8 +7756,7 @@
     "banner_type": "Bloom Festival",
     "characters": [],
     "keywords": [],
-    "sekai_id": 840,
-    "event_id": 181
+    "sekai_id": 840
   },
   {
     "id": 537,
@@ -9925,7 +9924,7 @@
     "start": 1787972400000,
     "end": 1788663599000,
     "cards": [1452, 1453, 1454],
-    "keywords": ["vs","vs3"],
+    "keywords": ["vs", "vs3"],
     "en_id": 824,
     "event_id": 215
   },
