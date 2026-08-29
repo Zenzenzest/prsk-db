@@ -11183,5 +11183,16 @@
     "keywords": [],
     "start": 1819738800000,
     "end": 1820084399000
+  },
+  {
+    "id": 826,
+    "name": "Magical Mirai 2026 Premium Gift Gacha",
+    "sekai_id": 1173,
+    "start": 1787943600000,
+    "end": 1788461999000,
+    "cards": [537, 875, 149, 126, 326],
+    "banner_type": "Premium Gift",
+    "keywords": [],
+    "characters": [21]
   }
 ]
