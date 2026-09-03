@@ -21744,7 +21744,8 @@
     "character": "Megurine Luka",
     "unit": "Virtual Singers",
     "skillId": 17,
-    "sub_unit": "Vivid BAD SQUAD"
+    "sub_unit": "Vivid BAD SQUAD",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Yay_for_Friendship~!"
   },
   {
     "id": 1453,
@@ -21754,12 +21755,13 @@
     "rarity": 4,
     "card_type": "limited",
     "jp_released": 1787972400000,
-    "en_released": 1788091559000,
+    "en_released": 1819566000000,
     "charId": 23,
     "character": "Kagamine Len",
     "unit": "Virtual Singers",
     "skillId": 16,
-    "sub_unit": "MORE MORE JUMP!"
+    "sub_unit": "MORE MORE JUMP!",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Lively_Discussion_About_the_Different_Lens"
   },
   {
     "id": 1454,
@@ -21769,12 +21771,13 @@
     "rarity": 4,
     "card_type": "limited",
     "jp_released": 1787972400000,
-    "en_released": 1788091559000,
+    "en_released": 1819566000000,
     "charId": 26,
     "character": "KAITO",
     "unit": "Virtual Singers",
     "skillId": 18,
-    "sub_unit": "Wonderlands x Showtime"
+    "sub_unit": "Wonderlands x Showtime",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Placing_Excitement_Onto_a_Spoon"
   },
   {
     "id": 1455,
@@ -21784,12 +21787,13 @@
     "rarity": 2,
     "card_type": "permanent",
     "jp_released": 1787983200000,
-    "en_released": 1788091559000,
+    "en_released": 1819576800000,
     "charId": 21,
     "character": "Hatsune Miku",
     "unit": "Virtual Singers",
     "skillId": 5,
-    "sub_unit": "Leo/Need"
+    "sub_unit": "Leo/Need",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_First_Class_Meeting_in_a_While"
   },
   {
     "id": 1456,
@@ -21799,12 +21803,13 @@
     "rarity": 2,
     "card_type": "permanent",
     "jp_released": 1787983200000,
-    "en_released": 1788091559000,
+    "en_released": 1819576800000,
     "charId": 22,
     "character": "Kagamine Rin",
     "unit": "Virtual Singers",
     "skillId": 5,
-    "sub_unit": "Wonderlands x Showtime"
+    "sub_unit": "Wonderlands x Showtime",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Let%27s_Decorate_the_Place_With_Balloons_%E2%99%AA"
   },
   {
     "id": 1457,
@@ -21814,11 +21819,110 @@
     "rarity": 2,
     "card_type": "permanent",
     "jp_released": 1787983200000,
-    "en_released": 1788091559000,
+    "en_released": 1819576800000,
     "charId": 25,
     "character": "MEIKO",
     "unit": "Virtual Singers",
     "skillId": 2,
-    "sub_unit": "Nightcord at 25:00"
+    "sub_unit": "Nightcord at 25:00",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Friendly_Team_Split%3F"
+  },
+  {
+    "id": 1458,
+    "name": "",
+    "jp_name": "モザイクロール (Reloaded)",
+    "attribute": "Mysterious",
+    "rarity": 4,
+    "card_type": "limited_collab",
+    "jp_released": 1788404400000,
+    "en_released": 1819998000000,
+    "charId": 1,
+    "character": "Hoshino Ichika",
+    "unit": "Leo/Need",
+    "skillId": 10
+  },
+  {
+    "id": 1459,
+    "name": "",
+    "jp_name": "ロミオとシンデレラ",
+    "attribute": "Cool",
+    "rarity": 4,
+    "card_type": "limited_collab",
+    "jp_released": 1788404400000,
+    "en_released": 1819998000000,
+    "charId": 8,
+    "character": "Hinomori Shizuku",
+    "unit": "MORE MORE JUMP!",
+    "skillId": 7
+  },
+  {
+    "id": 1460,
+    "name": "",
+    "jp_name": "PaⅢ.SENSATION",
+    "attribute": "Cute",
+    "rarity": 4,
+    "card_type": "limited_collab",
+    "jp_released": 1788404400000,
+    "en_released": 1819998000000,
+    "charId": 10,
+    "character": "Shiraishi An",
+    "unit": "Vivid BAD SQUAD",
+    "skillId": 10
+  },
+  {
+    "id": 1461,
+    "name": "",
+    "jp_name": "ブリキノダンス",
+    "attribute": "Cute",
+    "rarity": 4,
+    "card_type": "limited_collab",
+    "jp_released": 1788404400000,
+    "en_released": 1819998000000,
+    "charId": 13,
+    "character": "Tenma Tsukasa",
+    "unit": "Wonderlands x Showtime",
+    "skillId": 4
+  },
+  {
+    "id": 1462,
+    "name": "",
+    "jp_name": "Shadow Shadow",
+    "attribute": "Happy",
+    "rarity": 4,
+    "card_type": "limited_collab",
+    "jp_released": 1788404400000,
+    "en_released": 1819998000000,
+    "charId": 17,
+    "character": "Yoisaki Kanade",
+    "unit": "Nightcord at 25:00",
+    "skillId": 7
+  },
+  {
+    "id": 1463,
+    "name": "",
+    "jp_name": "酔いどれ知らず",
+    "attribute": "Cool",
+    "rarity": 4,
+    "card_type": "limited_collab",
+    "jp_released": 1788404400000,
+    "en_released": 1819998000000,
+    "charId": 25,
+    "character": "MEIKO",
+    "unit": "Virtual Singers",
+    "skillId": 4
+  },
+  {
+    "id": 1464,
+    "name": "Happy Birthday！！2027",
+    "jp_name": "Happy Birthday！！2026",
+    "attribute": "Mysterious",
+    "rarity": 5,
+    "card_type": "bday",
+    "jp_released": 1788534000000,
+    "en_released": 1820127600000,
+    "charId": 14,
+    "character": "Otori Emu",
+    "unit": "Wonderlands x Showtime",
+    "skillId": 14
   }
 ]

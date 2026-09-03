@@ -9939,5 +9939,41 @@
     "cards": [895, 970, 1225],
     "keywords": [],
     "en_id": 825
+  },
+  {
+    "id": 693,
+    "name": "Dressed in Melodiesガチャ",
+    "sekai_id": 999,
+    "characters": [1, 8, 10, 13, 17, 25],
+    "banner_type": "Collab",
+    "start": 1788404400000,
+    "end": 1789311599000,
+    "cards": [1458, 1459, 1460, 1461, 1462, 1463],
+    "keywords": [],
+    "en_id": 827
+  },
+  {
+    "id": 694,
+    "name": "[鳳えむ]HAPPY BIRTHDAY2026ガチャ",
+    "sekai_id": 4000,
+    "characters": [14],
+    "banner_type": "Birthday",
+    "start": 1788534000000,
+    "end": 1789138799000,
+    "cards": [1464],
+    "keywords": [],
+    "en_id": 828
+  },
+  {
+    "id": 695,
+    "name": "[鳳えむ]HAPPY BIRTHDAYメモリーズガチャ",
+    "sekai_id": 4001,
+    "characters": [14],
+    "banner_type": "Birthday",
+    "start": 1788534000000,
+    "end": 1789138799000,
+    "cards": [1241, 992, 713, 498],
+    "keywords": [],
+    "en_id": 829
   }
 ]
