@@ -18438,7 +18438,7 @@
   },
   {
     "id": 1235,
-    "name": "A Promise in My Heart",
+    "name": "A Precious Promise",
     "character": "Hatsune Miku",
     "rarity": 4,
     "unit": "Virtual Singers",
@@ -18453,7 +18453,7 @@
   },
   {
     "id": 1236,
-    "name": "Yay! On the Merry-Go-Round!",
+    "name": "Merry-Go-Round Merriment!",
     "character": "Kagamine Rin",
     "rarity": 4,
     "unit": "Virtual Singers",
@@ -18468,7 +18468,7 @@
   },
   {
     "id": 1237,
-    "name": "Hands Full of Sweets",
+    "name": "Arms Laden With Snacks",
     "character": "Kagamine Len",
     "rarity": 4,
     "unit": "Virtual Singers",
@@ -18483,7 +18483,7 @@
   },
   {
     "id": 1238,
-    "name": "An Exciting Stage!",
+    "name": "An Exhilarating Stage!",
     "character": "Megurine Luka",
     "rarity": 4,
     "unit": "Virtual Singers",
@@ -18498,7 +18498,7 @@
   },
   {
     "id": 1239,
-    "name": "Feasts Galore!",
+    "name": "Feasting Like A Queen!",
     "character": "MEIKO",
     "rarity": 4,
     "unit": "Virtual Singers",
@@ -18513,7 +18513,7 @@
   },
   {
     "id": 1240,
-    "name": "Thrusted by the \"Mystery\"",
+    "name": "At The Mercy Of The Mysterious",
     "character": "KAITO",
     "rarity": 4,
     "unit": "Virtual Singers",
@@ -21839,7 +21839,8 @@
     "charId": 1,
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Mozaik_Role_(Reloaded)_(card)"
   },
   {
     "id": 1459,
@@ -21853,7 +21854,8 @@
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Romeo_to_Cinderella_(card)"
   },
   {
     "id": 1460,
@@ -21867,7 +21869,8 @@
     "charId": 10,
     "character": "Shiraishi An",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Pa%E2%85%A2.SENSATION_(card)"
   },
   {
     "id": 1461,
@@ -21881,7 +21884,8 @@
     "charId": 13,
     "character": "Tenma Tsukasa",
     "unit": "Wonderlands x Showtime",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Buriki_no_Dance_(card)"
   },
   {
     "id": 1462,
@@ -21895,7 +21899,8 @@
     "charId": 17,
     "character": "Yoisaki Kanade",
     "unit": "Nightcord at 25:00",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Shadow_Shadow_(card)"
   },
   {
     "id": 1463,
@@ -21909,7 +21914,9 @@
     "charId": 25,
     "character": "MEIKO",
     "unit": "Virtual Singers",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Yoidore_Shirazu_(card)",
+    "sub_unit": "Vivid BAD SQUAD"
   },
   {
     "id": 1464,

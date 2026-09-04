@@ -8123,26 +8123,22 @@
   {
     "id": 570,
     "name": "[Rerun] Ghoulishly Ghastly Get-Together! Gacha",
-    "start": 1790740800000,
-    "end": 1790740800000,
+    "start": 1789412400000,
+    "end": 1790189999000,
     "cards": [987, 988, 989],
     "tag": "1st Rerun",
-    "type": "rerun_estimation",
     "banner_type": "Limited Gacha Rerun",
     "characters": [3, 14, 18],
-    "rerun": [1788840000000, 1789444800000],
     "keywords": ["miyama", "miyajou", "halloween"],
     "sekai_id": 808
   },
   {
     "id": 571,
     "name": "[Rerun] Photogenic ♡ Valentine Gacha",
-    "start": 1790740800000,
-    "end": 1790740800000,
-    "type": "rerun_estimation",
+    "start": 1788548400000,
+    "end": 1789325999000,
     "cards": [861, 862, 863],
     "tag": "Last Rerun",
-    "rerun": [1788840000000, 1789444800000],
     "banner_type": "Limited Gacha Rerun",
     "characters": [6, 9, 19],
     "keywords": ["valentine's", "val", "val3"],
@@ -8150,7 +8146,7 @@
   },
   {
     "id": 572,
-    "name": "[Finale Chapter] Velvet Afternoon Gacha",
+    "name": "Finale Chapter Velvet Afternoon Gacha",
     "cards": [1235, 1236, 1237, 1238, 1239, 1240],
     "characters": [21, 22, 23, 24, 25, 26],
     "keywords": ["wl2", "world link", "world link 2"],
@@ -8162,7 +8158,7 @@
   },
   {
     "id": 573,
-    "name": "[Finale Chapter] Empty Teatime Gacha",
+    "name": "Finale Chapter Empty Teatime Gacha",
     "cards": [1218, 1219, 1220, 1221],
     "characters": [5, 6, 7, 8],
     "keywords": ["wl2", "world link", "world link 2"],
@@ -8174,7 +8170,7 @@
   },
   {
     "id": 574,
-    "name": "[Finale Chapter] Dream a Wonder Dream Gacha",
+    "name": "Finale Chapter Dream a Wonder Dream Gacha",
     "cards": [1169, 1170, 1171, 1172],
     "characters": [13, 14, 15, 16],
     "keywords": ["wl2", "world link", "world link 2"],
@@ -8186,7 +8182,7 @@
   },
   {
     "id": 575,
-    "name": " [Finale Chapter] Glance at Same World Gacha",
+    "name": "Finale Chapter Glance at Same World Gacha",
     "cards": [1151, 1152, 1153, 1154],
     "characters": [9, 10, 11, 12],
     "keywords": ["wl2", "world link", "world link 2"],
@@ -8198,7 +8194,7 @@
   },
   {
     "id": 576,
-    "name": "[Finale Chapter] Night's Treasure Gacha",
+    "name": "Finale Chapter Night's Treasure Gacha",
     "cards": [1185, 1186, 1187, 1188],
     "characters": [17, 18, 19, 20],
     "keywords": ["wl2", "world link", "world link 2"],
@@ -8210,7 +8206,7 @@
   },
   {
     "id": 577,
-    "name": "[Finale Chapter] Another sparkle Stars Gacha",
+    "name": "Finale Chapter Another Sparkle Stars Gacha",
     "cards": [1189, 1190, 1191, 1192],
     "characters": [1, 2, 3, 4],
     "keywords": ["wl2", "world link", "world link 2"],
@@ -8222,7 +8218,7 @@
   },
   {
     "id": 578,
-    "name": "[Finale Chapter] World Link 2 Event Support Gacha",
+    "name": "Finale Chapter World Link Event Support Gacha",
     "cards": [
       961, 962, 963, 964, 921, 922, 923, 924, 848, 849, 850, 851, 884, 885, 886,
       887, 785, 786, 787, 788, 979, 980, 981, 982, 983, 984
@@ -8250,7 +8246,7 @@
   },
   {
     "id": 580,
-    "name": "JP 5th Anniversary Run-up Leo/need Special Prize Gacha",
+    "name": "JP 5th Anniversary Run-Up Leo/need Special Prize Gacha",
     "cards": [643, 1098, 1122, 715],
     "characters": [1, 2, 3, 4],
     "keywords": ["leo/need", "leoneed", "ln", "leoni"],
@@ -8261,7 +8257,7 @@
   },
   {
     "id": 581,
-    "name": "JP 5th Anniversary Run-up VIRTUAL SINGER Special Prize Gacha",
+    "name": "JP 5th Anniversary Run-Up VIRTUAL SINGER Special Prize Gacha",
     "cards": [1047, 1099, 666, 770, 626, 1158],
     "characters": [21, 22, 23, 24, 25, 26],
     "keywords": ["vs"],
@@ -8272,7 +8268,7 @@
   },
   {
     "id": 582,
-    "name": "JP 5th Anniversary Run-up MORE MORE JUMP! Special Prize Gacha",
+    "name": "JP 5th Anniversary Run-Up MORE MORE JUMP! Special Prize Gacha",
     "cards": [1046, 874, 1134, 632],
     "characters": [5, 6, 7, 8],
     "keywords": ["mmj", "more more jump", "momojan"],
@@ -8283,7 +8279,7 @@
   },
   {
     "id": 583,
-    "name": "JP 5th Anniversary Run-up Wonderlands×Showtime Special Prize Gacha",
+    "name": "JP 5th Anniversary Run-Up Wonderlands×Showtime Special Prize Gacha",
     "cards": [928, 1156, 701, 1050],
     "characters": [13, 14, 15, 16],
     "keywords": ["wxs", "wandasho", "wansho", "wonderland", "showtime"],
@@ -8294,7 +8290,7 @@
   },
   {
     "id": 584,
-    "name": "JP 5th Anniversary Run-up Vivid BAD SQUAD Special Prize Gacha",
+    "name": "JP 5th Anniversary Run-Up Vivid BAD SQUAD Special Prize Gacha",
     "cards": [1051, 719, 994, 973],
     "characters": [9, 10, 11, 12],
     "keywords": ["vbs", "vivibasu", "vivid bad squad", "squad"],
@@ -8305,7 +8301,7 @@
   },
   {
     "id": 585,
-    "name": "JP 5th Anniversary Run-up Nightcord at 25:00 Special Prize Gacha",
+    "name": "JP 5th Anniversary Run-Up Nightcord at 25:00 Special Prize Gacha",
     "cards": [833, 904, 1141, 1135],
     "characters": [17, 18, 19, 20],
     "keywords": ["n25", "nightcord", "niigo"],
