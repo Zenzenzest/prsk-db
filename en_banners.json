@@ -11212,5 +11212,66 @@
     "keywords": [],
     "start": 1820127600000,
     "end": 1820732399000
+  },
+  {
+    "id": 830,
+    "name": "Shady Stare Gacha",
+    "sekai_id": 4002,
+    "characters": [11, 12, 22],
+    "cards": [1465, 1466, 1467],
+    "banner_type": "Permanent Gacha",
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "akito",
+      "aki7",
+      "akito7",
+      "focus"
+    ],
+    "start": 1820257200000,
+    "end": 1820948399000,
+    "event_id": 216
+  },
+  {
+    "id": 831,
+    "name": "[Rerun] Smiling Through the Darkest Rain Gacha",
+    "sekai_id": 4003,
+    "characters": [13, 14, 16],
+    "cards": [1229, 1230, 1231],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": [
+      "wxs",
+      "wandasho",
+      "wansho",
+      "wonderland",
+      "showtime",
+      "tsukasa",
+      "loud",
+      "obnoxious",
+      "kasa6",
+      "tsukasa6",
+      "focus"
+    ],
+    "start": 1822276800000,
+    "end": 1822276800000,
+    "type": "rerun_estimation",
+    "rerun": [1820286000000, 1821927599000],
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 832,
+    "name": "[Rerun] Night Sweet Meal Gacha",
+    "sekai_id": 4004,
+    "characters": [8, 18, 23],
+    "cards": [1104, 1105, 1106],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": ["valentine's", "val", "val4"],
+    "start": 1822276800000,
+    "end": 1822276800000,
+    "type": "rerun_estimation",
+    "rerun": [1820286000000, 1821927599000],
+    "tag": "Last Rerun"
   }
 ]

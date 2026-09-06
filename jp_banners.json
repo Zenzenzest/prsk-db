@@ -9975,5 +9975,65 @@
     "cards": [1241, 992, 713, 498],
     "keywords": [],
     "en_id": 829
+  },
+  {
+    "id": 696,
+    "name": "Shady Stareガチャ",
+    "sekai_id": 4002,
+    "characters": [11, 12, 22],
+    "banner_type": "Permanent Gacha",
+    "start": 1788663600000,
+    "end": 1789354799000,
+    "cards": [1465, 1466, 1467],
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "akito",
+      "aki7",
+      "akito7",
+      "focus"
+    ],
+    "en_id": 830,
+    "event_id": 216
+  },
+  {
+    "id": 697,
+    "name": "[復刻]絶望の雨すら笑ってガチャ",
+    "sekai_id": 4003,
+    "characters": [13, 14, 16],
+    "banner_type": "Limited Gacha Rerun",
+    "start": 1789182000000,
+    "end": 1789959599000,
+    "cards": [1229, 1230, 1231],
+    "keywords": [
+      "wxs",
+      "wandasho",
+      "wansho",
+      "wonderland",
+      "showtime",
+      "tsukasa",
+      "loud",
+      "obnoxious",
+      "kasa6",
+      "tsukasa6",
+      "focus"
+    ],
+    "en_id": 831,
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 698,
+    "name": "[復刻]Night sweet mealガチャ",
+    "sekai_id": 4004,
+    "characters": [8, 18, 23],
+    "banner_type": "Limited Gacha Rerun",
+    "start": 1789182000000,
+    "end": 1789959599000,
+    "cards": [1104, 1105, 1106],
+    "keywords": ["valentine's", "val", "val4"],
+    "en_id": 832,
+    "tag": "Last Rerun"
   }
 ]

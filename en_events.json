@@ -4328,5 +4328,27 @@
     "keywords": ["vs", "vs3"],
     "type": "Virtual Singer Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Mix%26Make_Party_Time!!"
+  },
+  {
+    "id": 216,
+    "name": "After the Fire",
+    "unit": "vbs",
+    "cards": [1465, 1466, 1467, 1468, 1469],
+    "start": 1820268000000,
+    "end": 1820807999000,
+    "close": 1820959199000,
+    "event_type": "marathon",
+    "keywords": [
+      "vbs",
+      "vivibasu",
+      "vivid bad squad",
+      "squad",
+      "akito",
+      "aki7",
+      "akito7",
+      "focus"
+    ],
+    "type": "Akito 7th Focus Event",
+    "music_id": 804
   }
 ]

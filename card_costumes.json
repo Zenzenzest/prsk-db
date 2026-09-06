@@ -64293,5 +64293,278 @@
       }
     ],
     "name": "酔いどれ知らず"
+  },
+  {
+    "id": 1465,
+    "charId": 11,
+    "costumes": [
+      {
+        "id": 2045001,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "11/2200",
+        "thumbnail": "cos2045_unique_head"
+      },
+      {
+        "id": 2045003,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "11/2200a",
+        "thumbnail": "cos2045_unique_head_01"
+      },
+      {
+        "id": 2045005,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "11/2200b",
+        "thumbnail": "cos2045_unique_head_02"
+      },
+      {
+        "id": 2045007,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "11/2200c",
+        "thumbnail": "cos2045_unique_head_03"
+      },
+      {
+        "id": 2045002,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2200",
+        "thumbnail": "cos2045_body"
+      },
+      {
+        "id": 2045004,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2200",
+        "thumbnail": "cos2045_body_01"
+      },
+      {
+        "id": 2045006,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2200",
+        "thumbnail": "cos2045_body_02"
+      },
+      {
+        "id": 2045008,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2200",
+        "thumbnail": "cos2045_body_03"
+      },
+      {
+        "id": 2045049,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2200/a01",
+        "thumbnail": "cos2045_head"
+      },
+      {
+        "id": 2045050,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2200/a01",
+        "thumbnail": "cos2045_head_01"
+      },
+      {
+        "id": 2045051,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2200/a01",
+        "thumbnail": "cos2045_head_02"
+      },
+      {
+        "id": 2045052,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2200/a01",
+        "thumbnail": "cos2045_head_03"
+      }
+    ],
+    "name": "B:attler"
+  },
+  {
+    "id": 1466,
+    "charId": 12,
+    "costumes": [
+      {
+        "id": 2046009,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "12/2201",
+        "thumbnail": "cos2046_unique_head"
+      },
+      {
+        "id": 2046011,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "12/2201a",
+        "thumbnail": "cos2046_unique_head_01"
+      },
+      {
+        "id": 2046013,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "12/2201b",
+        "thumbnail": "cos2046_unique_head_02"
+      },
+      {
+        "id": 2046015,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "12/2201c",
+        "thumbnail": "cos2046_unique_head_03"
+      },
+      {
+        "id": 2046010,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2201",
+        "thumbnail": "cos2046_body"
+      },
+      {
+        "id": 2046012,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2201",
+        "thumbnail": "cos2046_body_01"
+      },
+      {
+        "id": 2046014,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2201",
+        "thumbnail": "cos2046_body_02"
+      },
+      {
+        "id": 2046016,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2201",
+        "thumbnail": "cos2046_body_03"
+      },
+      {
+        "id": 2046049,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2201/a01",
+        "thumbnail": "cos2046_head"
+      },
+      {
+        "id": 2046050,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2201/a01",
+        "thumbnail": "cos2046_head_01"
+      },
+      {
+        "id": 2046051,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2201/a01",
+        "thumbnail": "cos2046_head_02"
+      },
+      {
+        "id": 2046052,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2201/a01",
+        "thumbnail": "cos2046_head_03"
+      }
+    ],
+    "name": "B:eliever"
+  },
+  {
+    "id": 1467,
+    "charId": 22,
+    "costumes": [
+      {
+        "id": 2047137,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "22/2199",
+        "thumbnail": "cos2047_unique_head"
+      },
+      {
+        "id": 2047139,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "22/2199a",
+        "thumbnail": "cos2047_unique_head_01"
+      },
+      {
+        "id": 2047141,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "22/2199b",
+        "thumbnail": "cos2047_unique_head_02"
+      },
+      {
+        "id": 2047143,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "22/2199c",
+        "thumbnail": "cos2047_unique_head_03"
+      },
+      {
+        "id": 2047138,
+        "colorId": 1,
+        "partType": "body",
+        "assetbundleName": "99/2199",
+        "thumbnail": "cos2047_body"
+      },
+      {
+        "id": 2047140,
+        "colorId": 2,
+        "partType": "body",
+        "assetbundleName": "99/2199",
+        "thumbnail": "cos2047_body_01"
+      },
+      {
+        "id": 2047142,
+        "colorId": 3,
+        "partType": "body",
+        "assetbundleName": "99/2199",
+        "thumbnail": "cos2047_body_02"
+      },
+      {
+        "id": 2047144,
+        "colorId": 4,
+        "partType": "body",
+        "assetbundleName": "99/2199",
+        "thumbnail": "cos2047_body_03"
+      },
+      {
+        "id": 2047161,
+        "colorId": 1,
+        "partType": "head",
+        "assetbundleName": "2199/a01",
+        "thumbnail": "cos2047_head"
+      },
+      {
+        "id": 2047162,
+        "colorId": 2,
+        "partType": "head",
+        "assetbundleName": "2199/a01",
+        "thumbnail": "cos2047_head_01"
+      },
+      {
+        "id": 2047163,
+        "colorId": 3,
+        "partType": "head",
+        "assetbundleName": "2199/a01",
+        "thumbnail": "cos2047_head_02"
+      },
+      {
+        "id": 2047164,
+        "colorId": 4,
+        "partType": "head",
+        "assetbundleName": "2199/a01",
+        "thumbnail": "cos2047_head_03"
+      }
+    ],
+    "name": "B:olsterer"
   }
 ]
