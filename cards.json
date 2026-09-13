@@ -21930,7 +21930,8 @@
     "charId": 14,
     "character": "Otori Emu",
     "unit": "Wonderlands x Showtime",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Emu)"
   },
   {
     "id": 1465,
@@ -21944,7 +21945,8 @@
     "charId": 11,
     "character": "Shinonome Akito",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Fallen_Repercussions"
   },
   {
     "id": 1466,
@@ -21958,7 +21960,8 @@
     "charId": 12,
     "character": "Aoyagi Toya",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Joy_We_Share_for_the_First_Time"
   },
   {
     "id": 1467,
@@ -21973,7 +21976,8 @@
     "character": "Kagamine Rin",
     "unit": "Virtual Singers",
     "skillId": 10,
-    "sub_unit": "Vivid BAD SQUAD"
+    "sub_unit": "Vivid BAD SQUAD",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Overlapping_Feelings_and_Singing_Voices"
   },
   {
     "id": 1468,
@@ -21987,7 +21991,8 @@
     "charId": 10,
     "character": "Shiraishi An",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 9
+    "skillId": 9,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Connecting_Through_Origami!"
   },
   {
     "id": 1469,
@@ -22001,6 +22006,7 @@
     "charId": 9,
     "character": "Azusawa Kohane",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 2
+    "skillId": 2,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/My_Favorite_Photo"
   }
 ]

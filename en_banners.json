@@ -11273,5 +11273,16 @@
     "type": "rerun_estimation",
     "rerun": [1820286000000, 1821927599000],
     "tag": "Last Rerun"
+  },
+  {
+    "id": 833,
+    "name": "2026 September Premium Gift Gacha",
+    "sekai_id": 101175,
+    "start": 1789153200000,
+    "end": 1790794799000,
+    "cards": [1174, 1133, 1051, 1013, 1012, 720],
+    "banner_type": "Premium Gift",
+    "keywords": [],
+    "characters": [7, 9, 13, 16, 19, 26]
   }
 ]
