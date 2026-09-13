@@ -21840,7 +21840,8 @@
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
     "skillId": 10,
-    "sekaipedia": "https://www.sekaipedia.org/wiki/Mozaik_Role_(Reloaded)_(card)"
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Mozaik_Role_(Reloaded)_(card)",
+    "collab_tag": "Music Style"
   },
   {
     "id": 1459,
@@ -21855,7 +21856,8 @@
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
     "skillId": 7,
-    "sekaipedia": "https://www.sekaipedia.org/wiki/Romeo_to_Cinderella_(card)"
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Romeo_to_Cinderella_(card)",
+    "collab_tag": "Music Style"
   },
   {
     "id": 1460,
@@ -21870,7 +21872,8 @@
     "character": "Shiraishi An",
     "unit": "Vivid BAD SQUAD",
     "skillId": 10,
-    "sekaipedia": "https://www.sekaipedia.org/wiki/Pa%E2%85%A2.SENSATION_(card)"
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Pa%E2%85%A2.SENSATION_(card)",
+    "collab_tag": "Music Style"
   },
   {
     "id": 1461,
@@ -21885,7 +21888,8 @@
     "character": "Tenma Tsukasa",
     "unit": "Wonderlands x Showtime",
     "skillId": 4,
-    "sekaipedia": "https://www.sekaipedia.org/wiki/Buriki_no_Dance_(card)"
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Buriki_no_Dance_(card)",
+    "collab_tag": "Music Style"
   },
   {
     "id": 1462,
@@ -21900,7 +21904,8 @@
     "character": "Yoisaki Kanade",
     "unit": "Nightcord at 25:00",
     "skillId": 7,
-    "sekaipedia": "https://www.sekaipedia.org/wiki/Shadow_Shadow_(card)"
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Shadow_Shadow_(card)",
+    "collab_tag": "Music Style"
   },
   {
     "id": 1463,
@@ -21916,7 +21921,8 @@
     "unit": "Virtual Singers",
     "skillId": 4,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Yoidore_Shirazu_(card)",
-    "sub_unit": "Vivid BAD SQUAD"
+    "sub_unit": "Vivid BAD SQUAD",
+    "collab_tag": "Music Style"
   },
   {
     "id": 1464,
