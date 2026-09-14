@@ -343,7 +343,7 @@
       "characterId": 15,
       "name": "Nene Kusanagi",
       "unit": "theme_park",
-      "defaultFace": "0001.glb",
+      "defaultFace": "9001.glb",
       "defaultFaceBaseUrl": "characterv2/face/15/9001_d/",
       "defaultFaceTextures": {
         "chrS": "tex_chr_PRK_C_00_S.png",
