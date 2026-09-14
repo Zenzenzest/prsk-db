@@ -11284,5 +11284,48 @@
     "banner_type": "Premium Gift",
     "keywords": [],
     "characters": [7, 9, 13, 16, 19, 26]
+  },
+  {
+    "id": 834,
+    "name": "Step with Smiles Gacha",
+    "sekai_id": 4005,
+    "characters": [14, 15, 24],
+    "cards": [1470, 1471, 1472],
+    "banner_type": "Permanent Gacha",
+    "keywords": [
+      "wxs",
+      "wandasho",
+      "wansho",
+      "wonderland",
+      "showtime",
+      "nene",
+      "nene7",
+      "focus"
+    ],
+    "start": 1820948400000,
+    "end": 1821639599000,
+    "event_id": 217
+  },
+  {
+    "id": 835,
+    "name": "Finale Chapter: YELL of Messengers Gacha",
+    "sekai_id": 4006,
+    "characters": [1, 6, 14, 17, 21],
+    "cards": [1374, 1375, 1376, 1377, 1378],
+    "banner_type": "World Link Gacha",
+    "keywords": [],
+    "start": 1821466800000,
+    "end": 1821553199000
+  },
+  {
+    "id": 836,
+    "name": "[Finale Chapter] Vie for the Title Gacha",
+    "sekai_id": 4007,
+    "characters": [4, 5, 10, 13, 22, 23],
+    "cards": [1392, 1393, 1394, 1395, 1396, 1397],
+    "banner_type": "World Link Gacha",
+    "keywords": [],
+    "start": 1821553200000,
+    "end": 1821639599000
   }
 ]

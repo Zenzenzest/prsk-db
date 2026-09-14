@@ -4351,5 +4351,27 @@
     "type": "Akito 7th Focus Event",
     "music_id": 804,
     "sekaipedia": "https://www.sekaipedia.org/wiki/After_the_Fire"
+  },
+  {
+    "id": 217,
+    "name": "Drive to Dream！",
+    "unit": "wxs",
+    "cards": [1470, 1471, 1472, 1473, 1474],
+    "start": 1820959200000,
+    "end": 1821499199000,
+    "close": 1821650399000,
+    "event_type": "marathon",
+    "keywords": [
+      "wxs",
+      "wandasho",
+      "wansho",
+      "wonderland",
+      "showtime",
+      "nene",
+      "nene7",
+      "focus"
+    ],
+    "type": "Nene 7th Focus Event",
+    "music_id": 811
   }
 ]
