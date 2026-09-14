@@ -903,6 +903,7 @@
     "version": "1.22.12",
     "title": "Some Fixes",
     "logs": [
+      "Fixed text color in Loading Screen",
       "Added Save to Image in Costume Viewer",
       "Fixed Nav Header not showing current tab",
       "Adjusted Nav Text Color on light mode",
@@ -914,5 +915,18 @@
       "Compact Gacha Banners in calendar minor layout improvement"
     ],
     "date": 1786955030000
+  },
+  {
+    "version": "1.23.0",
+    "title": "Some New Things",
+    "logs": [
+      "Adapt some 4★ Cards/Icons/Thumbnails/Decks having only one image",
+      "Model Viewer (Mixing up different costume parts and showing Global Exclusive costumes will be implemented in the future)",
+      "Timeline",
+      "Fixed Banner ID not showing up",
+      "Some Modal Restyling",
+      "Added Collab Column in stats/Table"
+    ],
+    "date": 1789342751000
   }
 ]
