@@ -241,5 +241,16 @@
       "Replaced my socials with discord server"
     ],
     "date": 1782364913000
+  },
+  {
+    "version": "2.3.0",
+    "title": "Marathon Mode",
+    "description": "Some adjustments and additions for marathon mode",
+    "logs": [
+      "Fixed when new data is added while on marathon cleared screen and haven't pressed play again",
+      "Increase Card/Char pool in Marathon by counting Card's trained/untrained image as a separate card",
+      "Automatically increase the marathon's pool if there's at least 10% of the pool remaining"
+    ],
+    "date": 1789444156000
   }
 ]
