@@ -348,13 +348,11 @@
       "defaultFaceTextures": {
         "chrS": "tex_chr_PRK_C_00_S.png",
         "chrC": "tex_chr_PRK_C_00_C.png",
-        "accH": "tex_acc_PRK_C_00_H.png",
         "chrH": "tex_chr_PRK_C_00_H.png",
-        "accS": "tex_acc_PRK_C_00_S.png",
         "faceSdf": "faceSdf.png",
         "ehlC": "tex_ehl_PRK_C_00_C.png",
-        "eyeC": "tex_eye_PRK_C_00_C.png",
-        "accC": "tex_acc_PRK_C_00_C.png"
+        "eyeC": "tex_eye_PRK_C_00_C.png"
+    
       },
       "defaultBody": "ladies_s.glb",
       "defaultBodyBaseUrl": "characterv2/body/15/9001/ladies_s_d/",

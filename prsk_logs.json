@@ -928,5 +928,12 @@
       "Added Collab Column in stats/Table"
     ],
     "date": 1789342751000
+  },
+  {
+    "version": "1.23.1",
+    "title": "Model Viewer",
+    "description": "Added Mixing up costumes",
+
+    "date": 1789546180000
   }
 ]
