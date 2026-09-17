@@ -935,5 +935,17 @@
     "description": "Added Mixing up costumes",
 
     "date": 1789546180000
+  },
+  {
+    "version": "1.23.2",
+    "title": "Some Minor Fixes",
+    "logs": [
+      "Fixed some gacha rates having negative %",
+      "Fixed some characters' card dont appear in event bonus",
+      "Fixed Model Viewer using broken models",
+      "Added Gacha Banner Description"
+    ],
+
+    "date": 1789604547000
   }
 ]
