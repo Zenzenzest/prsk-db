@@ -22027,7 +22027,8 @@
         "charId": 15,
         "character": "Kusanagi Nene",
         "unit": "Wonderlands x Showtime",
-        "skillId": 4
+        "skillId": 4,
+        "sekaipedia": "https://www.sekaipedia.org/wiki/Aspiration_Etched_Into_One%27s_Heart"
     },
     {
         "id": 1471,
@@ -22041,7 +22042,8 @@
         "charId": 14,
         "character": "Otori Emu",
         "unit": "Wonderlands x Showtime",
-        "skillId": 7
+        "skillId": 7,
+        "sekaipedia": "https://www.sekaipedia.org/wiki/Max_Power_English!"
     },
     {
         "id": 1472,
@@ -22056,7 +22058,8 @@
         "character": "Megurine Luka",
         "unit": "Virtual Singers",
         "skillId": 10,
-        "sub_unit": "Wonderlands x Showtime"
+        "sub_unit": "Wonderlands x Showtime",
+        "sekaipedia": "https://www.sekaipedia.org/wiki/A_Quiet_Prayer"
     },
     {
         "id": 1473,
@@ -22070,7 +22073,8 @@
         "charId": 16,
         "character": "Kamishiro Rui",
         "unit": "Wonderlands x Showtime",
-        "skillId": 6
+        "skillId": 6,
+        "sekaipedia": "https://www.sekaipedia.org/wiki/Take_a_Good_Picture,_Please"
     },
     {
         "id": 1474,
@@ -22085,6 +22089,7 @@
         "character": "Kagamine Len",
         "unit": "Virtual Singers",
         "skillId": 8,
-        "sub_unit": "Wonderlands x Showtime"
+        "sub_unit": "Wonderlands x Showtime",
+        "sekaipedia": "https://www.sekaipedia.org/wiki/American_Sizes_Are_Full_of_Dreams%3F"
     }
 ]

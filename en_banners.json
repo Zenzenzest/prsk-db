@@ -9775,7 +9775,7 @@
     "characters": [4, 5, 10, 13, 22, 23],
     "cards": [1392, 1393, 1394, 1395, 1396, 1397],
     "banner_type": "World Link Gacha",
-    "keywords": [],
+    "keywords": ["wl", "wl3", "world link 3"],
     "start": 1810580400000,
     "end": 1811789999000,
     "event_id": 205
@@ -10738,5 +10738,38 @@
     "keywords": [],
     "start": 1821553200000,
     "end": 1821639599000
+  },
+  {
+    "id": 837,
+    "name": "Finale Chapter: Past Fragments Gacha",
+    "sekai_id": 4008,
+    "characters": [3, 8, 9, 18, 24],
+    "cards": [1404, 1405, 1406, 1407, 1408],
+    "banner_type": "World Link Gacha",
+    "keywords": [],
+    "start": 1821639600000,
+    "end": 1821725999000
+  },
+  {
+    "id": 838,
+    "name": "Finale Chapter: Around Table WITH You Gacha",
+    "sekai_id": 4009,
+    "characters": [2, 12, 16, 20, 26],
+    "cards": [1428, 1429, 1430, 1431, 1432],
+    "banner_type": "World Link Gacha",
+    "keywords": [],
+    "start": 1821726000000,
+    "end": 1821812399000
+  },
+  {
+    "id": 839,
+    "name": "[Finale Chapter] Crawl out of Vibrant Hell Gacha",
+    "sekai_id": 4010,
+    "characters": [7, 11, 15, 19, 25],
+    "cards": [1445, 1446, 1447, 1448, 1449],
+    "banner_type": "World Link Gacha",
+    "keywords": [],
+    "start": 1821812400000,
+    "end": 1821898799000
   }
 ]

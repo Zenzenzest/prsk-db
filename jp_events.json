@@ -4422,6 +4422,23 @@
       "focus"
     ],
     "type": "Nene 7th Focus Event",
-    "music_id": 811
+    "music_id": 811,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Drive_to_Dream!"
+  },
+  {
+    "id": 218,
+    "name": "Connect to SEKAI！",
+    "unit": "mixed",
+    "cards": [
+      1374, 1375, 1376, 1377, 1378, 1392, 1393, 1394, 1395, 1396, 1397, 1404,
+      1405, 1406, 1407, 1408, 1428, 1429, 1430, 1431, 1432, 1445, 1446, 1447,
+      1448, 1449
+    ],
+    "start": 1790334000000,
+    "end": 1790593199000,
+    "close": 1790747999000,
+    "event_type": "world_link",
+    "keywords": [],
+    "type": "World Link 3 Finale"
   }
 ]

@@ -947,5 +947,11 @@
     ],
 
     "date": 1789604547000
+  },
+  {
+    "version": "1.23.3",
+    "title": "Chart Viewer and Data Migration",
+    "description": "New Chart Viewer & Migrated data from github to cloudflare",
+    "date": 1790044102000
   }
 ]
