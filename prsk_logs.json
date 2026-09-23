@@ -953,5 +953,10 @@
     "title": "Chart Viewer and Data Migration",
     "description": "New Chart Viewer & Migrated data from github to cloudflare",
     "date": 1790044102000
+  },
+  {
+    "version": "1.24.0",
+    "title": "Added WL3 Bonus Calculator",
+    "date": 1790124968000
   }
 ]
