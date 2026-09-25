@@ -2138,7 +2138,7 @@
     "name": "ハロー・グッド・デイ！",
     "unit": "mixed",
     "banner_id": 256,
-    "cards": [762, 763, 764, 765, 723, 766],
+    "cards": [762, 763, 764, 765, 766],
     "keywords": ["new school year"],
     "event_type": "cheerful_carnival",
     "start": 1696053600000,

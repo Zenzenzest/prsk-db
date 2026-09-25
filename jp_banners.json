@@ -10122,5 +10122,53 @@
     "keywords": [],
     "en_id": 839,
     "event_id": 0
+  },
+  {
+    "id": 705,
+    "name": "[フィナーレチャプター]ワールドリンクイベントサポートガチャ",
+    "sekai_id": 4011,
+    "characters": [1, 5, 9, 13, 17, 21],
+    "banner_type": "World Link Support",
+    "start": 1790305200000,
+    "end": 1790737199000,
+    "cards": [1235, 1189, 1218, 1151, 1169, 1185],
+    "keywords": [],
+    "en_id": 840
+  },
+  {
+    "id": 706,
+    "name": "[6周年前夜祭]スペシャルプライズガチャ TICKET EDITION",
+    "sekai_id": 4012,
+    "characters": [5, 10, 24],
+    "banner_type": "Special Prize",
+    "start": 1790478000000,
+    "end": 1790737199000,
+    "cards": [873, 975, 1335],
+    "keywords": [],
+    "en_id": 841
+  },
+  {
+    "id": 707,
+    "name": "[6周年前夜祭]スペシャルプライズガチャ LIVE BONUS EDITION",
+    "sekai_id": 4013,
+    "characters": [6, 16, 25],
+    "banner_type": "Special Prize",
+    "start": 1790478000000,
+    "end": 1790737199000,
+    "cards": [1300, 792, 892],
+    "keywords": [],
+    "en_id": 842
+  },
+  {
+    "id": 708,
+    "name": "[友達招待]★4メンバー確定ガチャ",
+    "sekai_id": 4014,
+    "characters": [3, 6, 9, 14, 17, 22],
+    "banner_type": "4★ Guaranteed",
+    "start": 1790305200000,
+    "end": 1796050799000,
+    "cards": [1203, 774, 874, 1066, 1156, 974],
+    "keywords": [],
+    "en_id": 843
   }
 ]

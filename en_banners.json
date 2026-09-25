@@ -10771,5 +10771,49 @@
     "keywords": [],
     "start": 1821812400000,
     "end": 1821898799000
+  },
+  {
+    "id": 840,
+    "name": "[Finale Chapter] World Link Support Gacha",
+    "sekai_id": 4011,
+    "characters": [1, 5, 9, 13, 17, 21],
+    "cards": [1235, 1189, 1218, 1151, 1169, 1185],
+    "banner_type": "World Link Support",
+    "keywords": [],
+    "start": 1821898800000,
+    "end": 1822330799000
+  },
+  {
+    "id": 841,
+    "name": "6th Anniversary Eve Festival Special Prize Gacha TICKET EDITION",
+    "sekai_id": 4012,
+    "characters": [5, 10, 24],
+    "cards": [873, 975, 1335],
+    "banner_type": "Special Prize",
+    "keywords": [],
+    "start": 1822071600000,
+    "end": 1822330799000
+  },
+  {
+    "id": 842,
+    "name": "6th Anniversary Eve Special Prize Gacha LIVE BONUS EDITION",
+    "sekai_id": 4013,
+    "characters": [6, 16, 25],
+    "cards": [1300, 792, 892],
+    "banner_type": "Special Prize",
+    "keywords": [],
+    "start": 1822071600000,
+    "end": 1822330799000
+  },
+  {
+    "id": 843,
+    "name": "Friend Referral 4★ Guaranteed Gacha",
+    "sekai_id": 4014,
+    "characters": [3, 6, 9, 14, 17, 22],
+    "cards": [1203, 774, 874, 1066, 1156, 974],
+    "banner_type": "4★ Guaranteed",
+    "keywords": [],
+    "start": 1821898800000,
+    "end": 1827644399000
   }
 ]
