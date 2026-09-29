@@ -4441,5 +4441,17 @@
     "keywords": ["wl3", "world link 3", "finale"],
     "type": "World Link 3 Finale",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Connect_to_SEKAI!"
+  },
+  {
+    "id": 219,
+    "name": "Side by Side, Our Ways！",
+    "unit": "mixed",
+    "cards": [1477, 1478, 1479, 1480, 1481],
+    "start": 1790748000000,
+    "end": 1791633599000,
+    "close": 1791784799000,
+    "event_type": "marathon",
+    "keywords": [],
+    "type": "Mixed Event"
   }
 ]

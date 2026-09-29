@@ -2223,5 +2223,278 @@
         ]
       }
     ]
+  },
+  {
+    "id": 710,
+    "costumes": [
+      {
+        "name": "プリズム・ブリリアンス(メンズ)",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos2052_body_03",
+          "cos2052_body",
+          "cos2052_body_02",
+          "cos2052_body_01"
+        ],
+        "headAssets": [
+          "cos2052_head_02",
+          "cos2052_head",
+          "cos2052_head_03",
+          "cos2052_head_01"
+        ]
+      },
+      {
+        "name": "プリズム・ファセット(レディース)",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos2051_body",
+          "cos2051_body_03",
+          "cos2051_body_02",
+          "cos2051_body_01"
+        ],
+        "headAssets": [
+          "cos2051_head",
+          "cos2051_head_01",
+          "cos2051_head_02",
+          "cos2051_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "costumes": [
+      {
+        "name": "ベラトリード",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos2053_body_03",
+          "cos2053_body",
+          "cos2053_body_02",
+          "cos2053_body_01"
+        ],
+        "headAssets": [
+          "cos2053_head_02",
+          "cos2053_head_03",
+          "cos2053_head",
+          "cos2053_head_01"
+        ]
+      },
+      {
+        "name": "サイフリード",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos2054_body",
+          "cos2054_body_01",
+          "cos2054_body_03",
+          "cos2054_body_02"
+        ],
+        "headAssets": [
+          "cos2054_head",
+          "cos2054_head_02",
+          "cos2054_head_01",
+          "cos2054_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "costumes": [
+      {
+        "name": "ラッキーデー・チェックイン",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos2055_body_01",
+          "cos2055_body_02",
+          "cos2055_body_03",
+          "cos2055_body"
+        ],
+        "headAssets": [
+          "cos2055_head_03",
+          "cos2055_head",
+          "cos2055_head_01",
+          "cos2055_head_02"
+        ]
+      },
+      {
+        "name": "ドリーミーデー・チェックイン",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos2056_body_02",
+          "cos2056_body_03",
+          "cos2056_body",
+          "cos2056_body_01"
+        ],
+        "headAssets": [
+          "cos2056_head",
+          "cos2056_head_01",
+          "cos2056_head_03",
+          "cos2056_head_02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "costumes": [
+      {
+        "name": "アーバンウルフ・デニム(メンズ)",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos2058_body_02",
+          "cos2058_body",
+          "cos2058_body_01",
+          "cos2058_body_03"
+        ],
+        "headAssets": [
+          "cos2058_head_01",
+          "cos2058_head",
+          "cos2058_head_02",
+          "cos2058_head_03"
+        ]
+      },
+      {
+        "name": "アーバンウルフ・デニム(レディース)",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos2057_body",
+          "cos2057_body_03",
+          "cos2057_body_02",
+          "cos2057_body_01"
+        ],
+        "headAssets": [
+          "cos2057_head_02",
+          "cos2057_head",
+          "cos2057_head_01",
+          "cos2057_head_03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "costumes": [
+      {
+        "name": "ひと紡ぎロイヤルサーカス(レディース)",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos2059_body_02",
+          "cos2059_body_03",
+          "cos2059_body_01",
+          "cos2059_body"
+        ],
+        "headAssets": [
+          "cos2059_head",
+          "cos2059_head_02",
+          "cos2059_head_01",
+          "cos2059_head_03"
+        ]
+      },
+      {
+        "name": "ひと紡ぎロイヤルサーカス(メンズ)",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos2060_body_03",
+          "cos2060_body_02",
+          "cos2060_body_01",
+          "cos2060_body"
+        ],
+        "headAssets": [
+          "cos2060_head_02",
+          "cos2060_head",
+          "cos2060_head_03",
+          "cos2060_head_01"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "costumes": [
+      {
+        "name": "薄明のアシンメトリー",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos2062_body",
+          "cos2062_body_02",
+          "cos2062_body_01",
+          "cos2062_body_03"
+        ],
+        "headAssets": [
+          "cos2062_head",
+          "cos2062_head_03",
+          "cos2062_head_02",
+          "cos2062_head_01"
+        ]
+      },
+      {
+        "name": "白夜のメルトエッジ",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos2061_body_02",
+          "cos2061_body_03",
+          "cos2061_body",
+          "cos2061_body_01"
+        ],
+        "headAssets": [
+          "cos2061_head_02",
+          "cos2061_head_03",
+          "cos2061_head_01",
+          "cos2061_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 727,
+    "costumes": [
+      {
+        "name": "ゲーミング・ベアラー（レディース）",
+        "char_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25
+        ],
+        "bodyAssets": [
+          "cos2071_body_02",
+          "cos2071_body",
+          "cos2071_body_03",
+          "cos2071_body_01"
+        ],
+        "headAssets": [
+          "cos2071_head_01",
+          "cos2071_head",
+          "cos2071_head_02",
+          "cos2071_head_03"
+        ]
+      },
+      {
+        "name": "ゲーミング・ベアラー（メンズ）",
+        "char_ids": [11, 12, 13, 16, 23, 26],
+        "bodyAssets": [
+          "cos2072_body_02",
+          "cos2072_body_01",
+          "cos2072_body_03",
+          "cos2072_body"
+        ],
+        "headAssets": [
+          "cos2072_head_02",
+          "cos2072_head_01",
+          "cos2072_head",
+          "cos2072_head_03"
+        ]
+      }
+    ]
   }
 ]
