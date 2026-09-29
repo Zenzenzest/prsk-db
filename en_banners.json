@@ -7795,17 +7795,6 @@
     "banner_type": "4★ Guaranteed"
   },
   {
-    "id": 591,
-    "sekai_id": 579,
-    "name": "Mission Gacha",
-    "characters": [1, 7, 12, 15, 17, 21],
-    "start": 1758780000000,
-    "end": 4102401599000,
-    "cards": [535, 519, 552, 608, 541, 644],
-    "keywords": [],
-    "banner_type": "Normal"
-  },
-  {
     "id": 592,
     "sekai_id": 1134,
     "name": "2025 September Premium Gift Gacha",

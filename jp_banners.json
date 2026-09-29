@@ -10360,19 +10360,6 @@
     "en_id": 858
   },
   {
-    "id": 724,
-    "name": "ミッションガチャ",
-    "sekai_id": 4030,
-    "characters": [1, 7, 12, 15, 17, 21],
-    "banner_type": "Permanent Gacha",
-    "start": 1790694000000,
-    "end": 4102340399000,
-    "cards": [535, 519, 552, 608, 541, 644],
-    "keywords": [],
-    "en_id": 859,
-    "event_id": 0
-  },
-  {
     "id": 725,
     "name": "[桐谷遥]HAPPY BIRTHDAY2026ガチャ",
     "sekai_id": 4031,
