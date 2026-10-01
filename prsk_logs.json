@@ -963,5 +963,15 @@
     "version": "1.24.1",
     "title": "Fixed Anniv Cards in stats/rotations -> Seasonal Holiday",
     "date": 1790323971000
+  },
+  {
+    "version": "1.24.2",
+    "title": "Some things",
+    "logs": [
+      "Fixed Chapter Match bug present in VS Chapters in WL3 Calculator",
+      "Improved Model Viewer Shaders",
+      "Added ability to pick a card for Banners types that have pickable slots (e.g. Dream Pick, Your Pick) and fixed gacha rate for the said Banner types"
+    ],
+    "date": 1790840502000
   }
 ]
