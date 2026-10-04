@@ -252,5 +252,16 @@
       "Automatically increase the marathon's pool if there's at least 10% of the pool remaining"
     ],
     "date": 1789444156000
+  },
+  {
+    "version": "2.2.11",
+    "title": "Minor Update",
+    "logs": [
+      "Privacy Policy",
+      "Shortened Landing Page Description",
+      "Added Email Change for Unlinked Accounts",
+      "Data source migration"
+    ],
+    "date": 1791085141000
   }
 ]
