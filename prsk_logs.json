@@ -968,10 +968,21 @@
     "version": "1.24.2",
     "title": "Some things",
     "logs": [
-      "Fixed Chapter Match bug present in VS Chapters in WL3 Calculator",
+      "Fixed Chapter Match bug present in VS Chapters in WL3 Calculator (Support Team)",
       "Improved Model Viewer Shaders",
       "Added ability to pick a card for Banners types that have pickable slots (e.g. Dream Pick, Your Pick) and fixed gacha rate for the said Banner types"
     ],
     "date": 1790840502000
+  },
+  {
+    "version": "1.24.3",
+    "title": "Some Fixes",
+    "logs": [
+      "Fixed Chapter Match bug present in VS Chapters in WL3 Calculator (Main Team)",
+      "Minor Model Viewer Adjustments",
+      "Added Song Level Filter in Chart Viewer",
+      "Auto Clear the target banner in crystal calculator once the start date of the banner has passed"
+    ],
+    "date": 1791289733000
   }
 ]

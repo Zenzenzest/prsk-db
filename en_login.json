@@ -126,7 +126,7 @@
     "startAt": 1806433200000,
     "endAt": 1807527599000,
     "assetbundleName": "5-5th_anniversary",
-    "closeAt": 1775415600000,
+    "closeAt": 1807009200000,
     "limitedLoginBonusDetails": [
       {
         "resourceBoxId": 228,
@@ -136,16 +136,46 @@
   },
   {
     "id": 214,
-    "seq": 125,
+    "seq": 159,
     "name": "5.5 Year Anniversary Login Campaign",
     "startAt": 1812394800000,
     "endAt": 1814353199000,
-    "assetbundleName": "4-5th_anniversary",
+    "assetbundleName": "5-5th_anniversary",
     "closeAt": 1813834800000,
     "limitedLoginBonusDetails": [
       {
-        "resourceBoxId": 162,
+        "resourceBoxId": 228,
         "quantity": 3000
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "seq": 171,
+    "name": "JP 6th Anniversary Login Campaign",
+    "startAt": 1822287600000,
+    "endAt": 1823338799000,
+    "assetbundleName": "6th_anniversary",
+    "closeAt": 1822820400000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 251,
+        "quantity": 5000
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "seq": 171,
+    "name": "6th Anniversary Login Campaign",
+    "startAt": 1828209600000,
+    "endAt": 1830167999000,
+    "assetbundleName": "6th_anniversary",
+    "closeAt": 1829649600000,
+    "limitedLoginBonusDetails": [
+      {
+        "resourceBoxId": 251,
+        "quantity": 5000
       }
     ]
   }

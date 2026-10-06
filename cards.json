@@ -22104,7 +22104,8 @@
     "charId": 2,
     "character": "Tenma Saki",
     "unit": "Leo/Need",
-    "skillId": 23
+    "skillId": 23,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Bottled-Up_Feelings"
   },
   {
     "id": 1476,
@@ -22118,7 +22119,8 @@
     "charId": 21,
     "character": "Hatsune Miku",
     "unit": "Virtual Singers",
-    "skillId": 24
+    "skillId": 24,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Future_We_Can_Walk_Through_Together"
   },
   {
     "id": 1477,
@@ -22132,7 +22134,8 @@
     "charId": 7,
     "character": "Momoi Airi",
     "unit": "MORE MORE JUMP!",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/The_Memories_We_Weave_Together"
   },
   {
     "id": 1478,
@@ -22146,7 +22149,8 @@
     "charId": 9,
     "character": "Azusawa Kohane",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Big_Catch_from_Diving_In"
   },
   {
     "id": 1479,
@@ -22160,7 +22164,8 @@
     "charId": 16,
     "character": "Kamishiro Rui",
     "unit": "Wonderlands x Showtime",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Device_That_Brings_Smiles"
   },
   {
     "id": 1480,
@@ -22174,7 +22179,8 @@
     "charId": 19,
     "character": "Shinonome Ena",
     "unit": "Nightcord at 25:00",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Leaving_a_Message_for_the_Future"
   },
   {
     "id": 1481,
@@ -22188,7 +22194,8 @@
     "charId": 1,
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
-    "skillId": 3
+    "skillId": 3,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Deeply_Focused!"
   },
   {
     "id": 1482,
@@ -22202,6 +22209,7 @@
     "charId": 6,
     "character": "Kiritani Haruka",
     "unit": "MORE MORE JUMP!",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Haruka)"
   }
 ]
