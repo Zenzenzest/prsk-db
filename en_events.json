@@ -3569,12 +3569,12 @@
   },
   {
     "id": 182,
-    "name": "Heart Beat That Connects With You",
+    "name": "Connected by a Heartbeat",
     "unit": "l/n",
     "cards": [1261, 1262, 1263, 1264, 1265],
     "start": 1791756000000,
     "end": 1792468799000,
-    "close": 1792677599000,
+    "close": 1792619999000,
     "event_type": "marathon",
     "keywords": [
       "leo/need",
@@ -3592,7 +3592,7 @@
   },
   {
     "id": 183,
-    "name": "Colors Entwined, Unchanged Since That Day",
+    "name": "Blending Together, Just Like Before",
     "unit": "mmj",
     "cards": [1266, 1267, 1268, 1269, 1270],
     "start": 1792620000000,
@@ -4404,5 +4404,27 @@
     "keywords": [],
     "type": "Mixed Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Side_by_Side,_Our_Ways!"
+  },
+  {
+    "id": 220,
+    "name": "Stars Off Orbit",
+    "unit": "l/n",
+    "cards": [1483, 1484, 1485, 1486, 1487],
+    "start": 1823378400000,
+    "end": 1824004799000,
+    "close": 1824155999000,
+    "event_type": "marathon",
+    "keywords": [
+      "leo/need",
+      "leoneed",
+      "ln",
+      "leoni",
+      "focus",
+      "honami",
+      "hona7",
+      "honami7"
+    ],
+    "type": "Honami 7th Focus Event",
+    "music_id": 812
   }
 ]

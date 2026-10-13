@@ -17613,7 +17613,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 730,
@@ -17636,7 +17638,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Emerald",
+    "romaji": ""
   },
   {
     "id": 731,
@@ -17659,7 +17663,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Ultimate Senpai",
+    "romaji": ""
   },
   {
     "id": 732,
@@ -18416,7 +18422,9 @@
     "fillerSec": 8.104499816894531,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Hydrangea",
+    "romaji": ""
   },
   {
     "id": 764,
@@ -18491,7 +18499,9 @@
     "fillerSec": 8.18179988861084,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Abnomality Dancing Girl",
+    "romaji": ""
   },
   {
     "id": 767,
@@ -18514,7 +18524,9 @@
     "fillerSec": 7.953499794006348,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Demon Lord",
+    "romaji": ""
   },
   {
     "id": 773,
@@ -18537,7 +18549,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "DARLING",
+    "romaji": ""
   },
   {
     "id": 774,
@@ -18560,7 +18574,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": " Rabbit Hole",
+    "romaji": ""
   },
   {
     "id": 775,
@@ -18583,7 +18599,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Doomer",
+    "romaji": ""
   },
   {
     "id": 776,
@@ -18606,7 +18624,9 @@
     "fillerSec": 7.582699775695801,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Suitei Love Song",
+    "romaji": ""
   },
   {
     "id": 784,
@@ -18629,7 +18649,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Obsolete Meat",
+    "romaji": ""
   },
   {
     "id": 788,
@@ -18759,6 +18781,31 @@
     "isAvailableForMusicScoreMaker": true,
     "en_title": "Astronauts",
     "romaji": ""
+  },
+  {
+    "id": 793,
+    "seq": 1570601,
+    "releaseConditionId": 5,
+    "title": "バカ通信",
+    "pronunciation": "ばかつうしん",
+    "creatorArtistId": 351,
+    "lyricist": "isonosuke",
+    "composer": "isonosuke",
+    "arranger": "isonosuke",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_793",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1792389600000,
+    "releasedAt": 1683817200000,
+    "liveStageId": 1,
+    "secForMusicScoreMaker": 117,
+    "fillerSec": 8.25,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false,
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Baka Tsuushin",
+    "en_title": ""
   },
   {
     "id": 794,
@@ -18909,7 +18956,9 @@
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "Ki no Sei",
+    "en_title": ""
   },
   {
     "id": 809,
@@ -18962,6 +19011,31 @@
     "romaji": ""
   },
   {
+    "id": 812,
+    "seq": 2270401,
+    "releaseConditionId": 10,
+    "title": "星、ときどき光",
+    "pronunciation": "ほし、ときどきひかり",
+    "creatorArtistId": 290,
+    "lyricist": "あばらや",
+    "composer": "あばらや",
+    "arranger": "あばらや",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_812",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1791784800000,
+    "releasedAt": 1791730800000,
+    "liveStageId": 1,
+    "secForMusicScoreMaker": 114,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false,
+    "isAvailableForMusicScoreMaker": true,
+    "en_title": "Star, A Flickering Light",
+    "romaji": ""
+  },
+  {
     "id": 813,
     "seq": 2170301,
     "releaseConditionId": 5,
@@ -18982,7 +19056,9 @@
     "fillerSec": 7.902500152587891,
     "isNewlyWrittenMusic": true,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   },
   {
     "id": 814,
@@ -19005,6 +19081,33 @@
     "fillerSec": 7.978700160980225,
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
-    "isAvailableForMusicScoreMaker": true
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "KOWARECHATTA!!",
+    "en_title": ""
+  },
+  {
+    "id": 824,
+    "seq": 1170501,
+    "releaseConditionId": 5,
+    "title": "Palette",
+    "pronunciation": "ぱれっと",
+    "creatorArtistId": 350,
+    "lyricist": "ゆよゆっぺ・meola",
+    "composer": "ゆよゆっぺ・meola",
+    "arranger": "ゆよゆっぺ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_824",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1792130400000,
+    "releasedAt": 1240412400000,
+    "liveStageId": 1,
+    "secForMusicScoreMaker": 111,
+    "fillerSec": 8.987500190734863,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false,
+    "isAvailableForMusicScoreMaker": true,
+    "romaji": "",
+    "en_title": ""
   }
 ]

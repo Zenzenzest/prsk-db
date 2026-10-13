@@ -65427,5 +65427,278 @@
             }
         ],
         "name": "スイート・スクールデイズ"
+    },
+    {
+        "id": 1483,
+        "charId": 3,
+        "costumes": [
+            {
+                "id": 2073017,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "03/2211",
+                "thumbnail": "cos2073_unique_head"
+            },
+            {
+                "id": 2073019,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "03/2211a",
+                "thumbnail": "cos2073_unique_head_01"
+            },
+            {
+                "id": 2073021,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "03/2211b",
+                "thumbnail": "cos2073_unique_head_02"
+            },
+            {
+                "id": 2073023,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "03/2211c",
+                "thumbnail": "cos2073_unique_head_03"
+            },
+            {
+                "id": 2073018,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2211",
+                "thumbnail": "cos2073_body"
+            },
+            {
+                "id": 2073020,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2211",
+                "thumbnail": "cos2073_body_01"
+            },
+            {
+                "id": 2073022,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2211",
+                "thumbnail": "cos2073_body_02"
+            },
+            {
+                "id": 2073024,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2211",
+                "thumbnail": "cos2073_body_03"
+            },
+            {
+                "id": 2073161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2211/a04",
+                "thumbnail": "cos2073_head"
+            },
+            {
+                "id": 2073162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2211/a04",
+                "thumbnail": "cos2073_head_01"
+            },
+            {
+                "id": 2073163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2211/a04",
+                "thumbnail": "cos2073_head_02"
+            },
+            {
+                "id": 2073164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2211/a04",
+                "thumbnail": "cos2073_head_03"
+            }
+        ],
+        "name": "ワンダリング・コンパス"
+    },
+    {
+        "id": 1484,
+        "charId": 1,
+        "costumes": [
+            {
+                "id": 2074001,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "01/2210",
+                "thumbnail": "cos2074_unique_head"
+            },
+            {
+                "id": 2074003,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "01/2210a",
+                "thumbnail": "cos2074_unique_head_01"
+            },
+            {
+                "id": 2074005,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "01/2210b",
+                "thumbnail": "cos2074_unique_head_02"
+            },
+            {
+                "id": 2074007,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "01/2210c",
+                "thumbnail": "cos2074_unique_head_03"
+            },
+            {
+                "id": 2074002,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2210",
+                "thumbnail": "cos2074_body"
+            },
+            {
+                "id": 2074004,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2210",
+                "thumbnail": "cos2074_body_01"
+            },
+            {
+                "id": 2074006,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2210",
+                "thumbnail": "cos2074_body_02"
+            },
+            {
+                "id": 2074008,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2210",
+                "thumbnail": "cos2074_body_03"
+            },
+            {
+                "id": 2074161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2210/a03",
+                "thumbnail": "cos2074_head"
+            },
+            {
+                "id": 2074162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2210/a03",
+                "thumbnail": "cos2074_head_01"
+            },
+            {
+                "id": 2074163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2210/a03",
+                "thumbnail": "cos2074_head_02"
+            },
+            {
+                "id": 2074164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2210/a03",
+                "thumbnail": "cos2074_head_03"
+            }
+        ],
+        "name": "ディゾナント・グロウ"
+    },
+    {
+        "id": 1485,
+        "charId": 25,
+        "costumes": [
+            {
+                "id": 2075153,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "25/2209",
+                "thumbnail": "cos2075_unique_head"
+            },
+            {
+                "id": 2075155,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "25/2209a",
+                "thumbnail": "cos2075_unique_head_01"
+            },
+            {
+                "id": 2075157,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "25/2209b",
+                "thumbnail": "cos2075_unique_head_02"
+            },
+            {
+                "id": 2075159,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "25/2209c",
+                "thumbnail": "cos2075_unique_head_03"
+            },
+            {
+                "id": 2075154,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2209",
+                "thumbnail": "cos2075_body"
+            },
+            {
+                "id": 2075156,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2209",
+                "thumbnail": "cos2075_body_01"
+            },
+            {
+                "id": 2075158,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2209",
+                "thumbnail": "cos2075_body_02"
+            },
+            {
+                "id": 2075160,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2209",
+                "thumbnail": "cos2075_body_03"
+            },
+            {
+                "id": 2075161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2209/a01",
+                "thumbnail": "cos2075_head"
+            },
+            {
+                "id": 2075162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2209/a01",
+                "thumbnail": "cos2075_head_01"
+            },
+            {
+                "id": 2075163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2209/a01",
+                "thumbnail": "cos2075_head_02"
+            },
+            {
+                "id": 2075164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2209/a01",
+                "thumbnail": "cos2075_head_03"
+            }
+        ],
+        "name": "オービタル・ゲイズ"
     }
 ]

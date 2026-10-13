@@ -4454,5 +4454,27 @@
     "keywords": [],
     "type": "Mixed Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Side_by_Side,_Our_Ways!"
+  },
+  {
+    "id": 220,
+    "name": "Stars Off Orbit",
+    "unit": "l/n",
+    "cards": [1483, 1484, 1485, 1486, 1487],
+    "start": 1791784800000,
+    "end": 1792411199000,
+    "close": 1792562399000,
+    "event_type": "marathon",
+    "keywords": [
+      "leo/need",
+      "leoneed",
+      "ln",
+      "leoni",
+      "focus",
+      "honami",
+      "hona7",
+      "honami7"
+    ],
+    "type": "Honami 7th Focus Event",
+    "music_id": 812
   }
 ]

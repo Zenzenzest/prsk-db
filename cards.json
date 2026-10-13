@@ -18839,7 +18839,7 @@
   },
   {
     "id": 1261,
-    "name": "Morning Surprise",
+    "name": "Waking To A Shock",
     "jp_name": "衝撃の朝",
     "attribute": "Happy",
     "rarity": 4,
@@ -18884,7 +18884,7 @@
   },
   {
     "id": 1264,
-    "name": "Feel The Overflowing Emotions",
+    "name": "Sensing A Depth Of Feeling",
     "jp_name": "溢れる想いを感じて",
     "attribute": "Cute",
     "rarity": 3,
@@ -18900,7 +18900,7 @@
   },
   {
     "id": 1265,
-    "name": "To Capture Your Feelings!",
+    "name": "Picking Up On Feelings!",
     "jp_name": "想いをキャッチするために！",
     "attribute": "Happy",
     "rarity": 2,
@@ -18915,7 +18915,7 @@
   },
   {
     "id": 1266,
-    "name": "A Scene That Echoes the Past",
+    "name": "A Familiar Scene",
     "jp_name": "いつかと重なる景色",
     "attribute": "Mysterious",
     "rarity": 4,
@@ -18930,7 +18930,7 @@
   },
   {
     "id": 1267,
-    "name": "A Surprise!",
+    "name": "A Chilling Prank!",
     "jp_name": "ヒヤッとドッキリ！",
     "attribute": "Mysterious",
     "rarity": 4,
@@ -18961,7 +18961,7 @@
   },
   {
     "id": 1269,
-    "name": "All-out training!",
+    "name": "All-Out Training!",
     "jp_name": "全力トレーニング！",
     "attribute": "Cute",
     "rarity": 3,
@@ -18991,7 +18991,7 @@
   },
   {
     "id": 1271,
-    "name": "Happy Birthday！！2026",
+    "name": "Happy Birthday! 2026",
     "jp_name": "Happy Birthday！！2025",
     "attribute": "Happy",
     "rarity": 5,
@@ -22211,5 +22211,76 @@
     "unit": "MORE MORE JUMP!",
     "skillId": 14,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Haruka)"
+  },
+  {
+    "id": 1483,
+    "name": "The Feelings Left Behind",
+    "jp_name": "残された想いを",
+    "attribute": "Pure",
+    "rarity": 4,
+    "card_type": "permanent",
+    "jp_released": 1791774000000,
+    "en_released": 1823367600000,
+    "charId": 3,
+    "character": "Mochizuki Honami",
+    "unit": "Leo/Need",
+    "skillId": 11
+  },
+  {
+    "id": 1484,
+    "name": "For Now, Just by Your Side",
+    "jp_name": "今はただ、隣に",
+    "attribute": "Pure",
+    "rarity": 4,
+    "card_type": "permanent",
+    "jp_released": 1791774000000,
+    "en_released": 1823367600000,
+    "charId": 1,
+    "character": "Hoshino Ichika",
+    "unit": "Leo/Need",
+    "skillId": 7
+  },
+  {
+    "id": 1485,
+    "name": "Advice from a Senpai",
+    "jp_name": "先輩からのアドバイス",
+    "attribute": "Pure",
+    "rarity": 4,
+    "card_type": "permanent",
+    "jp_released": 1791774000000,
+    "en_released": 1823367600000,
+    "charId": 47,
+    "character": "MEIKO",
+    "unit": "Virtual Singers",
+    "skillId": 10,
+    "sub_unit": "Leo/Need"
+  },
+  {
+    "id": 1486,
+    "name": "This Time, With Everyone",
+    "jp_name": "きっと今度は、みんなで",
+    "attribute": "Happy",
+    "rarity": 3,
+    "card_type": "permanent",
+    "jp_released": 1791784800000,
+    "en_released": 1823378400000,
+    "charId": 2,
+    "character": "Tenma Saki",
+    "unit": "Leo/Need",
+    "skillId": 3
+  },
+  {
+    "id": 1487,
+    "name": "Aiming for This Dream",
+    "jp_name": "この夢を目指して",
+    "attribute": "Mysterious",
+    "rarity": 2,
+    "card_type": "permanent",
+    "jp_released": 1791784800000,
+    "en_released": 1823378400000,
+    "charId": 4,
+    "character": "Hinomori Shiho",
+    "unit": "Leo/Need",
+    "skillId": 2
   }
 ]
