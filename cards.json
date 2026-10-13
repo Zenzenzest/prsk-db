@@ -22224,7 +22224,8 @@
     "charId": 3,
     "character": "Mochizuki Honami",
     "unit": "Leo/Need",
-    "skillId": 11
+    "skillId": 11,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Lingering_Feelings"
   },
   {
     "id": 1484,
@@ -22238,7 +22239,8 @@
     "charId": 1,
     "character": "Hoshino Ichika",
     "unit": "Leo/Need",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Right_by_Your_Side"
   },
   {
     "id": 1485,
@@ -22253,7 +22255,8 @@
     "character": "MEIKO",
     "unit": "Virtual Singers",
     "skillId": 10,
-    "sub_unit": "Leo/Need"
+    "sub_unit": "Leo/Need",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Advice_From_Your_Senior"
   },
   {
     "id": 1486,
@@ -22267,7 +22270,8 @@
     "charId": 2,
     "character": "Tenma Saki",
     "unit": "Leo/Need",
-    "skillId": 3
+    "skillId": 3,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Next_Time_for_Sure,_With_Everyone"
   },
   {
     "id": 1487,
@@ -22281,6 +22285,7 @@
     "charId": 4,
     "character": "Hinomori Shiho",
     "unit": "Leo/Need",
-    "skillId": 2
+    "skillId": 2,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/This_Dream_I%27m_Aiming_For"
   }
 ]

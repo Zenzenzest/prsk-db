@@ -11143,5 +11143,16 @@
     "type": "rerun_estimation",
     "rerun": [1822964400000, 1824605999000],
     "tag": "Last Rerun"
+  },
+  {
+    "id": 873,
+    "name": "2026 Halloween Premium Gift Gacha",
+    "sekai_id": 101176,
+    "start": 1792004400000,
+    "end": 1793995199000,
+    "cards": [1097, 1203, 1201, 1016, 1045, 1133],
+    "banner_type": "Premium Gift",
+    "keywords": [],
+    "characters": [3, 8, 11, 13, 17, 22]
   }
 ]
