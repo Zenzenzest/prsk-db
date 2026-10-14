@@ -984,5 +984,10 @@
       "Auto Clear the target banner in crystal calculator once the start date of the banner has passed"
     ],
     "date": 1791289733000
+  },
+  {
+    "version": "1.24.4",
+    "title": "Added EN Exclusive Costumes in Model Viewer",
+    "date": 1791949305000
   }
 ]
