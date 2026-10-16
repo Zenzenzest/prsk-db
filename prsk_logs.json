@@ -989,5 +989,22 @@
     "version": "1.24.4",
     "title": "Added EN Exclusive Costumes in Model Viewer",
     "date": 1791949305000
+  },
+  {
+    "version": "1.24.5",
+    "title": "MORE MORE FIXES!",
+    "logs": [
+      "COLORFUL+ renews on the same calendar date every month now (Jan 31 -> Feb 28/29) instead of blindly adding 30 days",
+      "Added the first-time buyer bonus crystals for COLORFUL+ Deluxe/Standard/Basic that I definitely didn't forget",
+      "Fixed old subscription start dates stuck in localStorage inflating the max subscription counter.",
+      "Monthly resets are now anchored to 12:00 AM PT no matter which timezone you live in",
+      "Fixed model viewer rendering older costumes too shiny",
+      "Changed New Cards Modal",
+      "Fixed Chart Viewer Song duration exceeding max duration",
+      "Fixed Model Viewer saving images in inverted colors for specific gpu+browser",
+      "Wardrobe -> Dress-up Mode",
+      "Asked mizuki for luck before pulling"
+    ],
+    "date": 1792108607000
   }
 ]
