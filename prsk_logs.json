@@ -1012,9 +1012,12 @@
     "title": "Few Adjustments",
     "logs": [
       "Added Data Fallback to another source",
-      "Minor Model Viewer mobile layout adjustment",
-      "Sidebar Links Spacing Adjustment"
+      "Sidebar Links Spacing Adjustment",
+      "Added Changeable Background Color in Model Viewer",
+      "Added Costume Source in Model Viewer",
+      "Searchable Character Name in Gacha tab in Model Selection to show costumes owned by that character",
+      "Added Scroll To Top button in costume selection"
     ],
-    "date": 1792381685000
+    "date": 1792553072000
   }
 ]

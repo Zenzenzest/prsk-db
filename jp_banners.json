@@ -10518,5 +10518,103 @@
     ],
     "en_id": 872,
     "tag": "Last Rerun"
+  },
+  {
+    "id": 736,
+    "name": "ワールドコスチュームガチャ vol.1",
+    "sekai_id": 759,
+    "characters": [3, 8, 10, 13, 18, 26],
+    "banner_type": "Normal",
+    "start": 1751252400000,
+    "end": 1752029999000,
+    "cards": [685, 1122, 1045, 1018, 1133, 943],
+    "keywords": [],
+    "en_id": 776
+  },
+  {
+    "id": 737,
+    "name": "ワールドコスチュームガチャ vol.2",
+    "sekai_id": 760,
+    "characters": [21, 4, 22, 11, 16, 19],
+    "banner_type": "Normal",
+    "start": 1751252400000,
+    "end": 1752029999000,
+    "cards": [1047, 1028, 837, 695, 1050, 1141],
+    "keywords": [],
+    "en_id": 777
+  },
+  {
+    "id": 738,
+    "name": "Vivid BAD SQUAD Memoriesガチャ",
+    "sekai_id": 4043,
+    "characters": [9, 10, 11, 12],
+    "banner_type": "Memories Gacha",
+    "start": 1792551600000,
+    "end": 1792983599000,
+    "cards": [1386, 1368, 1465, 1320],
+    "keywords": [],
+    "en_id": 874,
+    "event_id": 0
+  },
+  {
+    "id": 739,
+    "name": "[100回限定]Vivid BAD SQUAD Memories 育成応援プライズガチャ",
+    "sekai_id": 4044,
+    "characters": [9, 10, 11, 12],
+    "banner_type": "Memories Gacha",
+    "start": 1792551600000,
+    "end": 1792983599000,
+    "cards": [694, 659, 1284, 890],
+    "keywords": [],
+    "en_id": 875,
+    "event_id": 0
+  },
+  {
+    "id": 740,
+    "name": "[初心者応援]Vivid BAD SQUAD Memories グローアップギフトガチャ",
+    "sekai_id": 4045,
+    "characters": [9, 10, 11, 12],
+    "banner_type": "Memories Gacha",
+    "start": 1792551600000,
+    "end": 1792983599000,
+    "cards": [1051, 1286, 464, 1388],
+    "keywords": [],
+    "en_id": 876
+  },
+  {
+    "id": 741,
+    "name": "[Vivid BAD SQUAD]★4メンバー確定ガチャ",
+    "sekai_id": 4046,
+    "characters": [9, 10, 11, 12],
+    "banner_type": "4★ Guaranteed",
+    "start": 1792551600000,
+    "end": 1796828399000,
+    "cards": [1017, 463, 994, 552],
+    "keywords": [],
+    "en_id": 877
+  },
+  {
+    "id": 742,
+    "name": "[望月穂波]HAPPY BIRTHDAY2026ガチャ",
+    "sekai_id": 4047,
+    "characters": [3],
+    "banner_type": "Birthday",
+    "start": 1792681200000,
+    "end": 1793285999000,
+    "cards": [1488],
+    "keywords": [],
+    "en_id": 878
+  },
+  {
+    "id": 743,
+    "name": "[望月穂波]HAPPY BIRTHDAYメモリーズガチャ",
+    "sekai_id": 4048,
+    "characters": [3],
+    "banner_type": "Birthday",
+    "start": 1792681200000,
+    "end": 1793285999000,
+    "cards": [1271, 1021, 778, 527, 306],
+    "keywords": [],
+    "en_id": 879
   }
 ]

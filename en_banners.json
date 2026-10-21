@@ -11154,5 +11154,71 @@
     "banner_type": "Premium Gift",
     "keywords": [],
     "characters": [3, 8, 11, 13, 17, 22]
+  },
+  {
+    "id": 874,
+    "name": "Vivid BAD SQUAD Memories Gacha",
+    "sekai_id": 4043,
+    "characters": [9, 10, 11, 12],
+    "cards": [1386, 1368, 1465, 1320],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1824145200000,
+    "end": 1824577199000
+  },
+  {
+    "id": 875,
+    "name": "[Limited 100 Pulls]Vivid BAD SQUAD Memories: Training Support Prize Gacha",
+    "sekai_id": 4044,
+    "characters": [9, 10, 11, 12],
+    "cards": [694, 659, 1284, 890],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1824145200000,
+    "end": 1824577199000
+  },
+  {
+    "id": 876,
+    "name": "[Beginner Support] Vivid BAD SQUAD Memories: Grow-Up Gift Gacha",
+    "sekai_id": 4045,
+    "characters": [9, 10, 11, 12],
+    "cards": [1051, 1286, 464, 1388],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1824145200000,
+    "end": 1824577199000
+  },
+  {
+    "id": 877,
+    "name": "[Vivid BAD SQUAD]★4 Guaranteed  Gacha",
+    "sekai_id": 4046,
+    "characters": [9, 10, 11, 12],
+    "cards": [1017, 463, 994, 552],
+    "banner_type": "4★ Guaranteed",
+    "keywords": [],
+    "start": 1824145200000,
+    "end": 1828421999000
+  },
+  {
+    "id": 878,
+    "name": "Honami Mochizuki Happy Birthday 2027 Gacha",
+    "sekai_id": 4047,
+    "characters": [3],
+    "cards": [1488],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1824274800000,
+    "end": 1824879599000
+  },
+  {
+    "id": 879,
+    "name": "Honami Mochizuki Happy Birthday Memories Gacha",
+    "sekai_id": 4048,
+    "characters": [3],
+    "cards": [1271, 1021, 778, 527, 306],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1824274800000,
+    "end": 1824879599000
   }
 ]

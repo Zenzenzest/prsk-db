@@ -4477,5 +4477,17 @@
     "type": "Honami 7th Focus Event",
     "music_id": 812,
     "sekaipedia": "https://www.sekaipedia.org/wiki/Stars_Off_Orbit"
+  },
+  {
+    "id": 221,
+    "name": "Vivid BAD SQUAD Memories",
+    "unit": "vbs",
+    "cards": [],
+    "start": 1792562400000,
+    "end": 1792929599000,
+    "close": 1792994399000,
+    "event_type": "marathon",
+    "keywords": [],
+    "type": "Vivid BAD SQUAD Memories Event"
   }
 ]
