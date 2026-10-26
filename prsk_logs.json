@@ -1019,5 +1019,18 @@
       "Added Scroll To Top button in costume selection"
     ],
     "date": 1792553072000
+  },
+  {
+    "version": "1.24.7",
+    "title": "Few Adjustments",
+    "logs": [
+      "Removed basic settings in crystal calculator",
+      "Event Story Crystals is now 100% accurate",
+      "Moved Memory Gacha from bottom to Top in Landing Page",
+      "Added LIVE version of songs in Calendar-song",
+      "Added BG Images for Model Viewer",
+      "Fixed Costume Source in dress-up mode"
+    ],
+    "date": 1792976686000
   }
 ]

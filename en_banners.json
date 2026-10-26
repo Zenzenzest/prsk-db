@@ -11168,7 +11168,7 @@
   },
   {
     "id": 875,
-    "name": "[Limited 100 Pulls]Vivid BAD SQUAD Memories: Training Support Prize Gacha",
+    "name": "[Limited 100 Pulls] Vivid BAD SQUAD Memories: Training Support Prize Gacha",
     "sekai_id": 4044,
     "characters": [9, 10, 11, 12],
     "cards": [694, 659, 1284, 890],
@@ -11220,5 +11220,49 @@
     "keywords": [],
     "start": 1824274800000,
     "end": 1824879599000
+  },
+  {
+    "id": 880,
+    "name": "MORE MORE JUMP！ Memories Gacha",
+    "sekai_id": 4050,
+    "characters": [5, 6, 7, 8],
+    "cards": [1417, 1440, 1350, 1266],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1824577200000,
+    "end": 1825009199000
+  },
+  {
+    "id": 881,
+    "name": "[Limited 100 Pulls] MORE MORE JUMP! Memories: Training Support Prize Gacha",
+    "sekai_id": 4051,
+    "characters": [5, 6, 7, 8],
+    "cards": [664, 1110, 630, 1045],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1824577200000,
+    "end": 1825009199000
+  },
+  {
+    "id": 882,
+    "name": "[Beginner Support] MORE MORE JUMP! Memories: Grow-Up Gift Gacha",
+    "sekai_id": 4052,
+    "characters": [5, 6, 7, 8],
+    "cards": [1046, 631, 1267, 1029],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1824577200000,
+    "end": 1825009199000
+  },
+  {
+    "id": 883,
+    "name": "[MORE MORE JUMP！] 4★ Guaranteed  Gacha",
+    "sekai_id": 4053,
+    "characters": [5, 6, 7, 8],
+    "cards": [873, 642, 591, 482],
+    "banner_type": "4★ Guaranteed",
+    "keywords": [],
+    "start": 1824577200000,
+    "end": 1828853999000
   }
 ]

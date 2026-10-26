@@ -4388,7 +4388,7 @@
     "end": 1822186799000,
     "close": 1822341599000,
     "event_type": "world_link",
-    "keywords": ["wl3", "world link 3", "finale"],
+    "keywords": ["wl3", "world link 3", "finale", "wl", "world link"],
     "type": "World Line 3 Finale",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Connect_to_SEKAI!"
   },
@@ -4440,5 +4440,17 @@
     "keywords": [],
     "type": "Vivid BAD SQUAD Memories Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Vivid_BAD_SQUAD_Memories"
+  },
+  {
+    "id": 222,
+    "name": "MORE MORE JUMP！ Memories",
+    "unit": "mmj",
+    "cards": [],
+    "start": 1824588000000,
+    "end": 1824955199000,
+    "close": 1825019999000,
+    "event_type": "marathon",
+    "keywords": [],
+    "type": "MORE MORE JUMP! Memories Event"
   }
 ]

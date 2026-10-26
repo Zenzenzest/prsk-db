@@ -10628,5 +10628,54 @@
     "cards": [1098, 1175, 1301, 1285, 995, 1411, 1135, 1358, 945],
     "keywords": [],
     "en_id": 0
+  },
+  {
+    "id": 745,
+    "name": "MORE MORE JUMP！ Memoriesガチャ",
+    "sekai_id": 4050,
+    "characters": [5, 6, 7, 8],
+    "banner_type": "Memories Gacha",
+    "start": 1792983600000,
+    "end": 1793415599000,
+    "cards": [1417, 1440, 1350, 1266],
+    "keywords": [],
+    "en_id": 880
+  },
+  {
+    "id": 746,
+    "name": "[100回限定]MORE MORE JUMP！ Memories 育成応援プライズガチャ",
+    "sekai_id": 4051,
+    "characters": [5, 6, 7, 8],
+    "banner_type": "Memories Gacha",
+    "start": 1792983600000,
+    "end": 1793415599000,
+    "cards": [664, 1110, 630, 1045],
+    "keywords": [],
+    "en_id": 881
+  },
+  {
+    "id": 747,
+    "name": "[初心者応援]MORE MORE JUMP！ Memories グローアップギフトガチャ",
+    "sekai_id": 4052,
+    "characters": [5, 6, 7, 8],
+    "banner_type": "Memories Gacha",
+    "start": 1792983600000,
+    "end": 1793415599000,
+    "cards": [1046, 631, 1267, 1029],
+    "keywords": [],
+    "en_id": 882,
+    "event_id": 0
+  },
+  {
+    "id": 748,
+    "name": "[MORE MORE JUMP！]★4メンバー確定ガチャ",
+    "sekai_id": 4053,
+    "characters": [5, 6, 7, 8],
+    "banner_type": "4★ Guaranteed",
+    "start": 1792983600000,
+    "end": 1797260399000,
+    "cards": [873, 642, 591, 482],
+    "keywords": [],
+    "en_id": 883
   }
 ]
