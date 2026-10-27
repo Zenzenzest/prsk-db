@@ -4494,13 +4494,13 @@
   {
     "id": 222,
     "name": "MORE MORE JUMP！ Memories",
-    "unit": "mixed",
+    "unit": "mmj",
     "cards": [],
     "start": 1792994400000,
     "end": 1793361599000,
     "close": 1793426399000,
     "event_type": "marathon",
     "keywords": [],
-    "type": "Mixed Event"
+    "type": "MORE MORE JUMP! Memories Event"
   }
 ]
