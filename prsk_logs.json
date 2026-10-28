@@ -1032,5 +1032,11 @@
       "Fixed Costume Source in dress-up mode"
     ],
     "date": 1792976686000
+  },
+  {
+    "version": "1.24.8",
+    "title": "Fixed Model Viewer Save to Image excluding custom bg image",
+
+    "date": 1793171087000
   }
 ]
