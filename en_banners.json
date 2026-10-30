@@ -8122,14 +8122,14 @@
   },
   {
     "id": 622,
-    "name": "Hues Of The Self Gacha",
+    "name": "Hues of the Self Gacha",
     "sekai_id": 850,
     "characters": [17, 19, 26],
     "cards": [1272, 1273, 1274],
     "banner_type": "Limited Gacha",
     "keywords": ["niigo", "nightcord", "n25", "focus", "ena6", "ena"],
     "start": 1793473200000,
-    "end": 1794337199000,
+    "end": 1794340799000,
     "event_id": 184
   },
   {
@@ -8141,7 +8141,7 @@
     "banner_type": "Birthday",
     "keywords": [],
     "start": 1793516400000,
-    "end": 1794121199000
+    "end": 1794124799000
   },
   {
     "id": 624,
@@ -8152,7 +8152,7 @@
     "banner_type": "Birthday",
     "keywords": [],
     "start": 1793516400000,
-    "end": 1794121199000
+    "end": 1794124799000
   },
   {
     "id": 625,
@@ -8275,10 +8275,8 @@
       "saki",
       "saki6"
     ],
-    "start": 1796011200000,
-    "end": 1796011200000,
-    "type": "rerun_estimation",
-    "rerun": [1794020400000, 1795661999000]
+    "start": 1793908800000,
+    "end": 1794686399000
   },
   {
     "id": 637,
@@ -11264,5 +11262,27 @@
     "keywords": [],
     "start": 1824577200000,
     "end": 1828853999000
+  },
+  {
+    "id": 884,
+    "name": "MORE MORE JUMP! Edition Premium Gift Gacha",
+    "sekai_id": 853,
+    "start": 1793649600000,
+    "end": 1794427199000,
+    "cards": [828, 1208, 1134, 939, 1047],
+    "banner_type": "Unit Premium Gift",
+    "keywords": [],
+    "characters": [5, 6, 7, 8, 21]
+  },
+  {
+    "id": 885,
+    "name": "Wonderlands×Showtime Edition Premium Gift Gacha",
+    "sekai_id": 854,
+    "start": 1793649600000,
+    "end": 1794427199000,
+    "cards": [1133, 1035, 855, 957, 145],
+    "banner_type": "Unit Premium Gift",
+    "keywords": [],
+    "characters": [13, 14, 15, 16, 21]
   }
 ]

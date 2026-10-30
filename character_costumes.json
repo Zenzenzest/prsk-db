@@ -151652,8 +151652,8 @@
       "sourceType": "card",
       "source": 1268
     },
-    "アスピレエプロン": {
-      "costumeId": "costume_b71987bb3c5c",
+    "Aspiration Apron": {
+      "costumeId": "costume_73f689d5cc36",
       "variants": [
         {
           "characterIds": [1, 2, 5, 6, 7, 10, 14],
@@ -151876,8 +151876,8 @@
       "sourceType": "card",
       "source": 1272
     },
-    "フェイスエプロン": {
-      "costumeId": "costume_ec6ce80b25fb",
+    "Confrontation Apron": {
+      "costumeId": "costume_4e87e3b4a40e",
       "variants": [
         {
           "characterIds": [1, 2, 5, 6, 7, 10, 14, 19],
@@ -152100,8 +152100,8 @@
       "sourceType": "card",
       "source": 1273
     },
-    "ヴェリティエプロン": {
-      "costumeId": "costume_4bcd9cb3d123",
+    "Verity Apron": {
+      "costumeId": "costume_283f1d126066",
       "variants": [
         {
           "characterIds": [11, 12, 13, 16],
@@ -152450,8 +152450,8 @@
       "sourceType": "mission pass",
       "source": 202511
     },
-    "Connect Hopeful Hour（レディース）": {
-      "costumeId": "costume_20382e205734",
+    "Connect Hopeful Hour (F)": {
+      "costumeId": "costume_0ed4dc68381b",
       "variants": [
         {
           "characterIds": [5, 6, 7],
@@ -152541,8 +152541,8 @@
       "sourceType": "gacha banner",
       "source": 853
     },
-    "Connect Hopeful Hour（メンズ）": {
-      "costumeId": "costume_51e465b83afa",
+    "Connect Hopeful Hour (M)": {
+      "costumeId": "costume_31863743a4c7",
       "variants": [
         {
           "characterIds": [23],
@@ -152604,8 +152604,8 @@
       "sourceType": "gacha banner",
       "source": 853
     },
-    "Connect Smileful Hour（レディース）": {
-      "costumeId": "costume_7fb2dcf627c7",
+    "Connect Smileful Hour (F)": {
+      "costumeId": "costume_eef80e1b0f27",
       "variants": [
         {
           "characterIds": [14],
@@ -152695,8 +152695,8 @@
       "sourceType": "gacha banner",
       "source": 854
     },
-    "Connect Smileful Hour（メンズ）": {
-      "costumeId": "costume_4f072a47a6e7",
+    "Connect Smileful Hour (M)": {
+      "costumeId": "costume_8483e4cb7898",
       "variants": [
         {
           "characterIds": [13, 16, 26],

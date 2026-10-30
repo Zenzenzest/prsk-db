@@ -3624,5 +3624,79 @@
         ]
       }
     ]
+  },
+  {
+    "id": 884,
+    "costumes": [
+      {
+        "name": "Connect Hopeful Hour (M)",
+        "char_ids": [26, 23],
+        "bodyAssets": [
+          "cos0887_body_01",
+          "cos0887_body_03",
+          "cos0887_body_02",
+          "cos0887_body"
+        ],
+        "headAssets": [
+          "cos0887_head_01",
+          "cos0887_head_03",
+          "cos0887_head",
+          "cos0887_head_02"
+        ]
+      },
+      {
+        "name": "Connect Hopeful Hour (F)",
+        "char_ids": [5, 6, 7, 8, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0886_body_02",
+          "cos0886_body_01",
+          "cos0886_body",
+          "cos0886_body_03"
+        ],
+        "headAssets": [
+          "cos0886_head_01",
+          "cos0886_head_02",
+          "cos0886_head_03",
+          "cos0886_head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 885,
+    "costumes": [
+      {
+        "name": "Connect Smileful Hour (F)",
+        "char_ids": [14, 15, 21, 22, 24, 25],
+        "bodyAssets": [
+          "cos0888_body_02",
+          "cos0888_body_01",
+          "cos0888_body_03",
+          "cos0888_body"
+        ],
+        "headAssets": [
+          "cos0888_head_03",
+          "cos0888_head",
+          "cos0888_head_02",
+          "cos0888_head_01"
+        ]
+      },
+      {
+        "name": "Connect Smileful Hour (M)",
+        "char_ids": [16, 26, 13, 23],
+        "bodyAssets": [
+          "cos0889_body_01",
+          "cos0889_body_03",
+          "cos0889_body",
+          "cos0889_body_02"
+        ],
+        "headAssets": [
+          "cos0889_head_01",
+          "cos0889_head",
+          "cos0889_head_03",
+          "cos0889_head_02"
+        ]
+      }
+    ]
   }
 ]

@@ -19006,7 +19006,7 @@
   },
   {
     "id": 1272,
-    "name": "Beyond your own Boundaries",
+    "name": "Breaking Free Of My Limits",
     "jp_name": "己の境界を超えて",
     "attribute": "Pure",
     "rarity": 4,
@@ -19021,7 +19021,7 @@
   },
   {
     "id": 1273,
-    "name": "Unique Perspectives",
+    "name": "Unique Perspective",
     "jp_name": "独自の視点",
     "attribute": "Pure",
     "rarity": 4,
@@ -19036,7 +19036,7 @@
   },
   {
     "id": 1274,
-    "name": "Unwavering \"Uniqueness\".",
+    "name": "Witness To Unwavering Individuality",
     "jp_name": "迷いなき“らしさ”を",
     "attribute": "Pure",
     "rarity": 4,
@@ -19052,7 +19052,7 @@
   },
   {
     "id": 1275,
-    "name": "Thank You Ice Cream",
+    "name": "Repayment In Ice Cream",
     "jp_name": "お礼のアイス",
     "attribute": "Mysterious",
     "rarity": 3,
@@ -19068,7 +19068,7 @@
   },
   {
     "id": 1276,
-    "name": "In Anticipation of an All-Nighter",
+    "name": "Responding To An All-Nighter",
     "jp_name": "徹夜を案じて",
     "attribute": "Cool",
     "rarity": 2,
@@ -19083,7 +19083,7 @@
   },
   {
     "id": 1277,
-    "name": "Happy Anniversary！！2026",
+    "name": "Happy Anniversary! 2026",
     "jp_name": "Happy Anniversary！！2025",
     "attribute": "Happy",
     "rarity": 5,
@@ -19098,7 +19098,7 @@
   },
   {
     "id": 1278,
-    "name": "Happy Birthday！！2026",
+    "name": "Happy Birthday! 2026",
     "jp_name": "Happy Birthday！！2025",
     "attribute": "Cool",
     "rarity": 5,
@@ -22300,6 +22300,7 @@
     "charId": 3,
     "character": "Mochizuki Honami",
     "unit": "Leo/Need",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Honami)"
   }
 ]
