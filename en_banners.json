@@ -11284,5 +11284,47 @@
     "banner_type": "Unit Premium Gift",
     "keywords": [],
     "characters": [13, 14, 15, 16, 21]
+  },
+  {
+    "id": 886,
+    "name": "Lit in the Dark Gacha",
+    "sekai_id": 4054,
+    "characters": [17, 18, 24],
+    "cards": [1489, 1490, 1491],
+    "banner_type": "Permanent Gacha",
+    "keywords": [
+      "niigo",
+      "nightcord",
+      "n25",
+      "focus",
+      "kanade",
+      "kana7",
+      "kanade7"
+    ],
+    "start": 1825009200000,
+    "end": 1825959599000,
+    "event_id": 223
+  },
+  {
+    "id": 887,
+    "name": "MEIKO Happy Anniversary 2027 Gacha",
+    "sekai_id": 4055,
+    "characters": [25],
+    "cards": [1494],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1825052400000,
+    "end": 1825657199000
+  },
+  {
+    "id": 888,
+    "name": "MEIKO Happy Anniversary Memories Gacha",
+    "sekai_id": 4056,
+    "characters": [25],
+    "cards": [1277, 1027, 784, 533, 312],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1825052400000,
+    "end": 1825657199000
   }
 ]

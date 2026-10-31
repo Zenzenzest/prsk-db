@@ -4453,5 +4453,25 @@
     "keywords": [],
     "type": "MORE MORE JUMP! Memories Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/MORE_MORE_JUMP!_Memories"
+  },
+  {
+    "id": 223,
+    "name": "To You Someday, a Melody",
+    "unit": "n25",
+    "cards": [1489, 1490, 1491, 1492, 1493],
+    "start": 1825020000000,
+    "end": 1825736399000,
+    "close": 1825822799000,
+    "event_type": "marathon",
+    "keywords": [
+      "niigo",
+      "nightcord",
+      "n25",
+      "focus",
+      "kanade",
+      "kana7",
+      "kanade7"
+    ],
+    "type": "Kanade 7th Focus Event"
   }
 ]

@@ -186865,13 +186865,867 @@
       ],
       "sourceType": "gacha banner",
       "source": 4049
+    },
+    "ウィッシング・スペル": {
+      "costumeId": "costume_1030c0cc7cbb",
+      "variants": [
+        {
+          "characterIds": [1, 2, 5, 6, 7, 10, 14, 19],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_m.glb",
+            "baseUrl": "characterv2/body/99/2218/ladies_m_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2217_01_H.png",
+              "bodyS": "tex_bdy_COM_2217_01_S.png",
+              "bodyC": "tex_bdy_COM_2217_01_C.png"
+            },
+            "thumbnail": "cos2078_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2218/a05_d/",
+              "textures": {
+                "accC": "tex_acc_2217_01_C.png",
+                "accS": "tex_acc_2217_01_S.png",
+                "accH": "tex_acc_2217_01_H.png"
+              },
+              "thumbnail": "cos2078_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [3, 18, 24, 25],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_l.glb",
+            "baseUrl": "characterv2/body/99/2218/ladies_l_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2217_01_H.png",
+              "bodyS": "tex_bdy_COM_2217_01_S.png",
+              "bodyC": "tex_bdy_COM_2217_01_C.png"
+            },
+            "thumbnail": "cos2078_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2218/a05_d/",
+              "textures": {
+                "accC": "tex_acc_2217_01_C.png",
+                "accS": "tex_acc_2217_01_S.png",
+                "accH": "tex_acc_2217_01_H.png"
+              },
+              "thumbnail": "cos2078_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [4, 8, 9, 15, 21, 22],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_s.glb",
+            "baseUrl": "characterv2/body/99/2218/ladies_s_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2217_01_H.png",
+              "bodyS": "tex_bdy_COM_2217_01_S.png",
+              "bodyC": "tex_bdy_COM_2217_01_C.png"
+            },
+            "thumbnail": "cos2078_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2218/a05_d/",
+              "textures": {
+                "accC": "tex_acc_2217_01_C.png",
+                "accS": "tex_acc_2217_01_S.png",
+                "accH": "tex_acc_2217_01_H.png"
+              },
+              "thumbnail": "cos2078_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [17],
+          "tab": "main",
+          "head": {
+            "glb": "2218.glb",
+            "baseUrl": "characterv2/face/17/2218_d/",
+            "textures": {
+              "accC": "tex_acc_SCL_A_2217_01_C.png",
+              "faceSdf": "faceSdf.png",
+              "accH": "tex_acc_SCL_A_2217_01_H.png",
+              "chrC": "tex_chr_SCL_A_2217_C.png",
+              "chrS": "tex_chr_SCL_A_2217_S.png",
+              "accS": "tex_acc_SCL_A_2217_01_S.png",
+              "chrH": "tex_chr_SCL_A_2217_H.png",
+              "eyeC": "tex_eye_SCL_A_00_C.png",
+              "ehlC": "tex_ehl_SCL_A_00_C.png"
+            },
+            "thumbnail": "cos2078_unique_hair",
+            "hasVariant": true
+          },
+          "nVariant": true,
+          "body": {
+            "glb": "ladies_s.glb",
+            "baseUrl": "characterv2/body/99/2218/ladies_s_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2217_01_H.png",
+              "bodyS": "tex_bdy_COM_2217_01_S.png",
+              "bodyC": "tex_bdy_COM_2217_01_C.png"
+            },
+            "thumbnail": "cos2078_body",
+            "hasVariant": true
+          },
+          "colorVariants": [
+            {
+              "colorId": 3,
+              "colorName": "アナザー3",
+              "glb": "2218c.glb",
+              "baseUrl": "characterv2/face/17/2218c_d/",
+              "textures": {
+                "accH": "tex_acc_SCL_A_2217_04_H.png",
+                "faceSdf": "faceSdf.png",
+                "chrC": "tex_chr_SCL_A_2217_C.png",
+                "accC": "tex_acc_SCL_A_2217_04_C.png",
+                "chrS": "tex_chr_SCL_A_2217_S.png",
+                "accS": "tex_acc_SCL_A_2217_04_S.png",
+                "chrH": "tex_chr_SCL_A_2217_H.png",
+                "eyeC": "tex_eye_SCL_A_00_C.png",
+                "ehlC": "tex_ehl_SCL_A_00_C.png"
+              },
+              "thumbnail": "cos2078_unique_head_03",
+              "hasVariant": true
+            },
+            {
+              "colorId": 1,
+              "colorName": "アナザー1",
+              "glb": "2218a.glb",
+              "baseUrl": "characterv2/face/17/2218a_d/",
+              "textures": {
+                "accC": "tex_acc_SCL_A_2217_02_C.png",
+                "accH": "tex_acc_SCL_A_2217_02_H.png",
+                "accS": "tex_acc_SCL_A_2217_02_S.png",
+                "faceSdf": "faceSdf.png",
+                "chrC": "tex_chr_SCL_A_2217_C.png",
+                "chrS": "tex_chr_SCL_A_2217_S.png",
+                "chrH": "tex_chr_SCL_A_2217_H.png",
+                "eyeC": "tex_eye_SCL_A_00_C.png",
+                "ehlC": "tex_ehl_SCL_A_00_C.png"
+              },
+              "thumbnail": "cos2078_unique_head_01",
+              "hasVariant": true
+            },
+            {
+              "colorId": 2,
+              "colorName": "アナザー2",
+              "glb": "2218b.glb",
+              "baseUrl": "characterv2/face/17/2218b_d/",
+              "textures": {
+                "accH": "tex_acc_SCL_A_2217_03_H.png",
+                "accS": "tex_acc_SCL_A_2217_03_S.png",
+                "faceSdf": "faceSdf.png",
+                "accC": "tex_acc_SCL_A_2217_03_C.png",
+                "chrC": "tex_chr_SCL_A_2217_C.png",
+                "chrS": "tex_chr_SCL_A_2217_S.png",
+                "chrH": "tex_chr_SCL_A_2217_H.png",
+                "eyeC": "tex_eye_SCL_A_00_C.png",
+                "ehlC": "tex_ehl_SCL_A_00_C.png"
+              },
+              "thumbnail": "cos2078_unique_head_02",
+              "hasVariant": true
+            }
+          ],
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2218/a05_d/",
+              "textures": {
+                "accC": "tex_acc_2217_01_C.png",
+                "accS": "tex_acc_2217_01_S.png",
+                "accH": "tex_acc_2217_01_H.png"
+              },
+              "thumbnail": "cos2078_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [20],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_ss.glb",
+            "baseUrl": "characterv2/body/99/2218/ladies_ss_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2217_01_H.png",
+              "bodyS": "tex_bdy_COM_2217_01_S.png",
+              "bodyC": "tex_bdy_COM_2217_01_C.png"
+            },
+            "thumbnail": "cos2078_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2218/a05_d/",
+              "textures": {
+                "accC": "tex_acc_2217_01_C.png",
+                "accS": "tex_acc_2217_01_S.png",
+                "accH": "tex_acc_2217_01_H.png"
+              },
+              "thumbnail": "cos2078_head",
+              "hasVariant": true
+            }
+          ]
+        }
+      ],
+      "sourceType": "card",
+      "source": 1489
+    },
+    "ジェントル・プルーム": {
+      "costumeId": "costume_e7c535f1aaaf",
+      "variants": [
+        {
+          "characterIds": [1, 2, 5, 6, 7, 10, 14, 19],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_m.glb",
+            "baseUrl": "characterv2/body/99/2219/ladies_m_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2218_01_S.png",
+              "bodyC": "tex_bdy_COM_2218_01_C.png",
+              "bodyH": "tex_bdy_COM_2218_01_H.png"
+            },
+            "thumbnail": "cos2079_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a02.glb",
+              "baseUrl": "characterv2/head_optional/2219/a02_d/",
+              "textures": {
+                "accC": "tex_acc_2218_01_C.png",
+                "accH": "tex_acc_2218_01_H.png",
+                "accS": "tex_acc_2218_01_S.png"
+              },
+              "thumbnail": "cos2079_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [3, 24, 25],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_l.glb",
+            "baseUrl": "characterv2/body/99/2219/ladies_l_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2218_01_S.png",
+              "bodyC": "tex_bdy_COM_2218_01_C.png",
+              "bodyH": "tex_bdy_COM_2218_01_H.png"
+            },
+            "thumbnail": "cos2079_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a02.glb",
+              "baseUrl": "characterv2/head_optional/2219/a02_d/",
+              "textures": {
+                "accC": "tex_acc_2218_01_C.png",
+                "accH": "tex_acc_2218_01_H.png",
+                "accS": "tex_acc_2218_01_S.png"
+              },
+              "thumbnail": "cos2079_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [4, 8, 9, 15, 17, 21, 22],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_s.glb",
+            "baseUrl": "characterv2/body/99/2219/ladies_s_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2218_01_S.png",
+              "bodyC": "tex_bdy_COM_2218_01_C.png",
+              "bodyH": "tex_bdy_COM_2218_01_H.png"
+            },
+            "thumbnail": "cos2079_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a02.glb",
+              "baseUrl": "characterv2/head_optional/2219/a02_d/",
+              "textures": {
+                "accC": "tex_acc_2218_01_C.png",
+                "accH": "tex_acc_2218_01_H.png",
+                "accS": "tex_acc_2218_01_S.png"
+              },
+              "thumbnail": "cos2079_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [18],
+          "tab": "main",
+          "head": {
+            "glb": "2219.glb",
+            "baseUrl": "characterv2/face/18/2219_d/",
+            "textures": {
+              "accC": "tex_acc_SCL_B_2218_01_C.png",
+              "eyeC": "tex_eye_SCL_B_00_C.png",
+              "chrC": "tex_chr_SCL_B_2218_C.png",
+              "faceSdf": "faceSdf.png",
+              "accH": "tex_acc_SCL_B_2218_01_H.png",
+              "ehlC": "tex_ehl_SCL_B_00_C.png",
+              "chrS": "tex_chr_SCL_B_2218_S.png",
+              "accS": "tex_acc_SCL_B_2218_01_S.png",
+              "chrH": "tex_chr_SCL_B_2218_H.png"
+            },
+            "thumbnail": "cos2079_unique_hair",
+            "hasVariant": true
+          },
+          "nVariant": true,
+          "body": {
+            "glb": "ladies_l.glb",
+            "baseUrl": "characterv2/body/99/2219/ladies_l_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2218_01_S.png",
+              "bodyC": "tex_bdy_COM_2218_01_C.png",
+              "bodyH": "tex_bdy_COM_2218_01_H.png"
+            },
+            "thumbnail": "cos2079_body",
+            "hasVariant": true
+          },
+          "colorVariants": [
+            {
+              "colorId": 3,
+              "colorName": "アナザー3",
+              "glb": "2219c.glb",
+              "baseUrl": "characterv2/face/18/2219c_d/",
+              "textures": {
+                "accS": "tex_acc_SCL_B_2218_04_S.png",
+                "accH": "tex_acc_SCL_B_2218_04_H.png",
+                "accC": "tex_acc_SCL_B_2218_04_C.png",
+                "eyeC": "tex_eye_SCL_B_00_C.png",
+                "chrC": "tex_chr_SCL_B_2218_C.png",
+                "faceSdf": "faceSdf.png",
+                "ehlC": "tex_ehl_SCL_B_00_C.png",
+                "chrS": "tex_chr_SCL_B_2218_S.png",
+                "chrH": "tex_chr_SCL_B_2218_H.png"
+              },
+              "thumbnail": "cos2079_unique_head_03",
+              "hasVariant": true
+            },
+            {
+              "colorId": 1,
+              "colorName": "アナザー1",
+              "glb": "2219a.glb",
+              "baseUrl": "characterv2/face/18/2219a_d/",
+              "textures": {
+                "accS": "tex_acc_SCL_B_2218_02_S.png",
+                "eyeC": "tex_eye_SCL_B_00_C.png",
+                "chrC": "tex_chr_SCL_B_2218_C.png",
+                "faceSdf": "faceSdf.png",
+                "accH": "tex_acc_SCL_B_2218_02_H.png",
+                "ehlC": "tex_ehl_SCL_B_00_C.png",
+                "chrS": "tex_chr_SCL_B_2218_S.png",
+                "accC": "tex_acc_SCL_B_2218_02_C.png",
+                "chrH": "tex_chr_SCL_B_2218_H.png"
+              },
+              "thumbnail": "cos2079_unique_head_01",
+              "hasVariant": true
+            },
+            {
+              "colorId": 2,
+              "colorName": "アナザー2",
+              "glb": "2219b.glb",
+              "baseUrl": "characterv2/face/18/2219b_d/",
+              "textures": {
+                "eyeC": "tex_eye_SCL_B_00_C.png",
+                "accH": "tex_acc_SCL_B_2218_03_H.png",
+                "chrC": "tex_chr_SCL_B_2218_C.png",
+                "faceSdf": "faceSdf.png",
+                "ehlC": "tex_ehl_SCL_B_00_C.png",
+                "chrS": "tex_chr_SCL_B_2218_S.png",
+                "accS": "tex_acc_SCL_B_2218_03_S.png",
+                "accC": "tex_acc_SCL_B_2218_03_C.png",
+                "chrH": "tex_chr_SCL_B_2218_H.png"
+              },
+              "thumbnail": "cos2079_unique_head_02",
+              "hasVariant": true
+            }
+          ],
+          "accessories": [
+            {
+              "glb": "a02.glb",
+              "baseUrl": "characterv2/head_optional/2219/a02_d/",
+              "textures": {
+                "accC": "tex_acc_2218_01_C.png",
+                "accH": "tex_acc_2218_01_H.png",
+                "accS": "tex_acc_2218_01_S.png"
+              },
+              "thumbnail": "cos2079_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [20],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_ss.glb",
+            "baseUrl": "characterv2/body/99/2219/ladies_ss_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2218_01_S.png",
+              "bodyC": "tex_bdy_COM_2218_01_C.png",
+              "bodyH": "tex_bdy_COM_2218_01_H.png"
+            },
+            "thumbnail": "cos2079_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a02.glb",
+              "baseUrl": "characterv2/head_optional/2219/a02_d/",
+              "textures": {
+                "accC": "tex_acc_2218_01_C.png",
+                "accH": "tex_acc_2218_01_H.png",
+                "accS": "tex_acc_2218_01_S.png"
+              },
+              "thumbnail": "cos2079_head",
+              "hasVariant": true
+            }
+          ]
+        }
+      ],
+      "sourceType": "card",
+      "source": 1490
+    },
+    "フラッター・ヘム": {
+      "costumeId": "costume_fa60b57464ca",
+      "variants": [
+        {
+          "characterIds": [1, 2, 5, 6, 7, 10, 14, 19],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_m.glb",
+            "baseUrl": "characterv2/body/99/2217/ladies_m_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2216_01_H.png",
+              "bodyC": "tex_bdy_COM_2216_01_C.png",
+              "bodyS": "tex_bdy_COM_2216_01_S.png"
+            },
+            "thumbnail": "cos2080_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a03.glb",
+              "baseUrl": "characterv2/head_optional/2217/a03_d/",
+              "textures": {
+                "accC": "tex_acc_2216_01_C.png",
+                "accS": "tex_acc_2216_01_S.png",
+                "accH": "tex_acc_2216_01_H.png"
+              },
+              "thumbnail": "cos2080_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [3, 18, 25],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_l.glb",
+            "baseUrl": "characterv2/body/99/2217/ladies_l_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2216_01_H.png",
+              "bodyC": "tex_bdy_COM_2216_01_C.png",
+              "bodyS": "tex_bdy_COM_2216_01_S.png"
+            },
+            "thumbnail": "cos2080_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a03.glb",
+              "baseUrl": "characterv2/head_optional/2217/a03_d/",
+              "textures": {
+                "accC": "tex_acc_2216_01_C.png",
+                "accS": "tex_acc_2216_01_S.png",
+                "accH": "tex_acc_2216_01_H.png"
+              },
+              "thumbnail": "cos2080_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [4, 8, 9, 15, 17, 21, 22],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_s.glb",
+            "baseUrl": "characterv2/body/99/2217/ladies_s_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2216_01_H.png",
+              "bodyC": "tex_bdy_COM_2216_01_C.png",
+              "bodyS": "tex_bdy_COM_2216_01_S.png"
+            },
+            "thumbnail": "cos2080_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a03.glb",
+              "baseUrl": "characterv2/head_optional/2217/a03_d/",
+              "textures": {
+                "accC": "tex_acc_2216_01_C.png",
+                "accS": "tex_acc_2216_01_S.png",
+                "accH": "tex_acc_2216_01_H.png"
+              },
+              "thumbnail": "cos2080_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [20],
+          "tab": "gacha",
+          "body": {
+            "glb": "ladies_ss.glb",
+            "baseUrl": "characterv2/body/99/2217/ladies_ss_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2216_01_H.png",
+              "bodyC": "tex_bdy_COM_2216_01_C.png",
+              "bodyS": "tex_bdy_COM_2216_01_S.png"
+            },
+            "thumbnail": "cos2080_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a03.glb",
+              "baseUrl": "characterv2/head_optional/2217/a03_d/",
+              "textures": {
+                "accC": "tex_acc_2216_01_C.png",
+                "accS": "tex_acc_2216_01_S.png",
+                "accH": "tex_acc_2216_01_H.png"
+              },
+              "thumbnail": "cos2080_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [24],
+          "tab": "main",
+          "head": {
+            "glb": "2217.glb",
+            "baseUrl": "characterv2/face/24/2217_d/",
+            "textures": {
+              "chrS": "tex_chr_LUK_2216_S.png",
+              "faceSdf": "faceSdf.png",
+              "chrC": "tex_chr_LUK_2216_C.png",
+              "accC": "tex_acc_LUK_2216_01_C.png",
+              "eyeC": "tex_eye_LUK_00_C.png",
+              "accH": "tex_acc_LUK_2216_01_H.png",
+              "accS": "tex_acc_LUK_2216_01_S.png",
+              "chrH": "tex_chr_LUK_2216_H.png",
+              "ehlC": "tex_ehl_LUK_00_C.png"
+            },
+            "thumbnail": "cos2080_unique_hair",
+            "hasVariant": true
+          },
+          "nVariant": true,
+          "body": {
+            "glb": "ladies_l.glb",
+            "baseUrl": "characterv2/body/99/2217/ladies_l_d/",
+            "textures": {
+              "bodyH": "tex_bdy_COM_2216_01_H.png",
+              "bodyC": "tex_bdy_COM_2216_01_C.png",
+              "bodyS": "tex_bdy_COM_2216_01_S.png"
+            },
+            "thumbnail": "cos2080_body",
+            "hasVariant": true
+          },
+          "colorVariants": [
+            {
+              "colorId": 1,
+              "colorName": "アナザー1",
+              "glb": "2217a.glb",
+              "baseUrl": "characterv2/face/24/2217a_d/",
+              "textures": {
+                "chrS": "tex_chr_LUK_2216_S.png",
+                "accH": "tex_acc_LUK_2216_02_H.png",
+                "accC": "tex_acc_LUK_2216_02_C.png",
+                "faceSdf": "faceSdf.png",
+                "chrC": "tex_chr_LUK_2216_C.png",
+                "eyeC": "tex_eye_LUK_00_C.png",
+                "accS": "tex_acc_LUK_2216_02_S.png",
+                "chrH": "tex_chr_LUK_2216_H.png",
+                "ehlC": "tex_ehl_LUK_00_C.png"
+              },
+              "thumbnail": "cos2080_unique_head_01",
+              "hasVariant": true
+            },
+            {
+              "colorId": 3,
+              "colorName": "アナザー3",
+              "glb": "2217c.glb",
+              "baseUrl": "characterv2/face/24/2217c_d/",
+              "textures": {
+                "chrS": "tex_chr_LUK_2216_S.png",
+                "faceSdf": "faceSdf.png",
+                "chrC": "tex_chr_LUK_2216_C.png",
+                "accC": "tex_acc_LUK_2216_04_C.png",
+                "accS": "tex_acc_LUK_2216_04_S.png",
+                "eyeC": "tex_eye_LUK_00_C.png",
+                "chrH": "tex_chr_LUK_2216_H.png",
+                "ehlC": "tex_ehl_LUK_00_C.png",
+                "accH": "tex_acc_LUK_2216_04_H.png"
+              },
+              "thumbnail": "cos2080_unique_head_03",
+              "hasVariant": true
+            },
+            {
+              "colorId": 2,
+              "colorName": "アナザー2",
+              "glb": "2217b.glb",
+              "baseUrl": "characterv2/face/24/2217b_d/",
+              "textures": {
+                "chrS": "tex_chr_LUK_2216_S.png",
+                "accH": "tex_acc_LUK_2216_03_H.png",
+                "faceSdf": "faceSdf.png",
+                "chrC": "tex_chr_LUK_2216_C.png",
+                "accS": "tex_acc_LUK_2216_03_S.png",
+                "accC": "tex_acc_LUK_2216_03_C.png",
+                "eyeC": "tex_eye_LUK_00_C.png",
+                "chrH": "tex_chr_LUK_2216_H.png",
+                "ehlC": "tex_ehl_LUK_00_C.png"
+              },
+              "thumbnail": "cos2080_unique_head_02",
+              "hasVariant": true
+            }
+          ],
+          "accessories": [
+            {
+              "glb": "a03.glb",
+              "baseUrl": "characterv2/head_optional/2217/a03_d/",
+              "textures": {
+                "accC": "tex_acc_2216_01_C.png",
+                "accS": "tex_acc_2216_01_S.png",
+                "accH": "tex_acc_2216_01_H.png"
+              },
+              "thumbnail": "cos2080_head",
+              "hasVariant": true
+            }
+          ]
+        }
+      ],
+      "sourceType": "card",
+      "source": 1491
+    },
+    "時計の鐘鳴る洋館の記憶": {
+      "costumeId": "costume_3147bbda898d",
+      "variants": [
+        {
+          "characterIds": [1, 2, 5, 6, 7, 10, 14, 19],
+          "tab": "misc",
+          "body": {
+            "glb": "ladies_m.glb",
+            "baseUrl": "characterv2/body/99/2238/ladies_m_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2237_01_S.png",
+              "bodyH": "tex_bdy_COM_2237_01_H.png",
+              "bodyC": "tex_bdy_COM_2237_01_C.png"
+            },
+            "thumbnail": "cos2081_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2238/a05_d/",
+              "textures": {
+                "accS": "tex_acc_2237_01_S.png",
+                "accH": "tex_acc_2237_01_H.png",
+                "accC": "tex_acc_2237_01_C.png"
+              },
+              "thumbnail": "cos2081_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [3, 18, 24, 25],
+          "tab": "misc",
+          "body": {
+            "glb": "ladies_l.glb",
+            "baseUrl": "characterv2/body/99/2238/ladies_l_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2237_01_S.png",
+              "bodyH": "tex_bdy_COM_2237_01_H.png",
+              "bodyC": "tex_bdy_COM_2237_01_C.png"
+            },
+            "thumbnail": "cos2081_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2238/a05_d/",
+              "textures": {
+                "accS": "tex_acc_2237_01_S.png",
+                "accH": "tex_acc_2237_01_H.png",
+                "accC": "tex_acc_2237_01_C.png"
+              },
+              "thumbnail": "cos2081_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [4, 8, 9, 15, 17, 21, 22],
+          "tab": "misc",
+          "body": {
+            "glb": "ladies_s.glb",
+            "baseUrl": "characterv2/body/99/2238/ladies_s_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2237_01_S.png",
+              "bodyH": "tex_bdy_COM_2237_01_H.png",
+              "bodyC": "tex_bdy_COM_2237_01_C.png"
+            },
+            "thumbnail": "cos2081_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2238/a05_d/",
+              "textures": {
+                "accS": "tex_acc_2237_01_S.png",
+                "accH": "tex_acc_2237_01_H.png",
+                "accC": "tex_acc_2237_01_C.png"
+              },
+              "thumbnail": "cos2081_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [20],
+          "tab": "misc",
+          "body": {
+            "glb": "ladies_ss.glb",
+            "baseUrl": "characterv2/body/99/2238/ladies_ss_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2237_01_S.png",
+              "bodyH": "tex_bdy_COM_2237_01_H.png",
+              "bodyC": "tex_bdy_COM_2237_01_C.png"
+            },
+            "thumbnail": "cos2081_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2238/a05_d/",
+              "textures": {
+                "accS": "tex_acc_2237_01_S.png",
+                "accH": "tex_acc_2237_01_H.png",
+                "accC": "tex_acc_2237_01_C.png"
+              },
+              "thumbnail": "cos2081_head",
+              "hasVariant": true
+            }
+          ]
+        }
+      ],
+      "sourceType": "mission pass",
+      "source": 202611
+    },
+    "Labyrinth of Time": {
+      "costumeId": "costume_a370ab18d37a",
+      "variants": [
+        {
+          "characterIds": [11, 12, 13, 16, 26],
+          "tab": "misc",
+          "body": {
+            "glb": "mens.glb",
+            "baseUrl": "characterv2/body/99/2237/mens_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2236_01_S.png",
+              "bodyH": "tex_bdy_COM_2236_01_H.png",
+              "bodyC": "tex_bdy_COM_2236_01_C.png"
+            },
+            "thumbnail": "cos2082_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2237/a05_d/",
+              "textures": {
+                "accH": "tex_acc_2236_01_H.png",
+                "accS": "tex_acc_2236_01_S.png",
+                "accC": "tex_acc_2236_01_C.png"
+              },
+              "thumbnail": "cos2082_head",
+              "hasVariant": true
+            }
+          ]
+        },
+        {
+          "characterIds": [23],
+          "tab": "misc",
+          "body": {
+            "glb": "boys.glb",
+            "baseUrl": "characterv2/body/99/2237/boys_d/",
+            "textures": {
+              "bodyS": "tex_bdy_COM_2236_01_S.png",
+              "bodyH": "tex_bdy_COM_2236_01_H.png",
+              "bodyC": "tex_bdy_COM_2236_01_C.png"
+            },
+            "thumbnail": "cos2082_body",
+            "hasVariant": true
+          },
+          "accessories": [
+            {
+              "glb": "a05.glb",
+              "baseUrl": "characterv2/head_optional/2237/a05_d/",
+              "textures": {
+                "accH": "tex_acc_2236_01_H.png",
+                "accS": "tex_acc_2236_01_S.png",
+                "accC": "tex_acc_2236_01_C.png"
+              },
+              "thumbnail": "cos2082_head",
+              "hasVariant": true
+            }
+          ]
+        }
+      ],
+      "sourceType": "mission pass",
+      "source": 202611
     }
   },
   "stats": {
-    "totalGlbFiles": 11171,
-    "uniqueCostumes": 1195,
-    "totalVariants": 17064,
-    "totalVariantGroups": 4515,
+    "totalGlbFiles": 11209,
+    "uniqueCostumes": 1200,
+    "totalVariants": 17150,
+    "totalVariantGroups": 4536,
     "totalUnmatched": 120
   }
 }

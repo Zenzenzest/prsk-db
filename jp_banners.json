@@ -8072,7 +8072,7 @@
     "end": 1762829999000,
     "cards": [1133, 1035, 855, 957, 145],
     "keywords": [],
-    "en_id":885
+    "en_id": 885
   },
   {
     "id": 562,
@@ -10677,5 +10677,50 @@
     "cards": [873, 642, 591, 482],
     "keywords": [],
     "en_id": 883
+  },
+  {
+    "id": 749,
+    "name": "Lit in the Darkガチャ",
+    "sekai_id": 4054,
+    "characters": [17, 18, 24],
+    "banner_type": "Permanent Gacha",
+    "start": 1793415600000,
+    "end": 1794365999000,
+    "cards": [1489, 1490, 1491],
+    "keywords": [
+      "niigo",
+      "nightcord",
+      "n25",
+      "focus",
+      "kanade",
+      "kana7",
+      "kanade7"
+    ],
+    "en_id": 886,
+    "event_id": 223
+  },
+  {
+    "id": 750,
+    "name": "[MEIKO]HAPPY ANNIVERSARY2026ガチャ",
+    "sekai_id": 4055,
+    "characters": [25],
+    "banner_type": "Birthday",
+    "start": 1793458800000,
+    "end": 1794063599000,
+    "cards": [1494],
+    "keywords": [],
+    "en_id": 887
+  },
+  {
+    "id": 751,
+    "name": "[MEIKO]HAPPY ANNIVERSARYメモリーズガチャ",
+    "sekai_id": 4056,
+    "characters": [25],
+    "banner_type": "Birthday",
+    "start": 1793458800000,
+    "end": 1794063599000,
+    "cards": [1277, 1027, 784, 533, 312],
+    "keywords": [],
+    "en_id": 888
   }
 ]
