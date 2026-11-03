@@ -173643,7 +173643,11 @@
           "body": {
             "glb": "ladies_l.glb",
             "baseUrl": "characterv2/body/99/2153/ladies_l_d/",
-            "textures": {},
+            "textures": {
+              "bodyC": "tex_bdy_COM_2152_01_C.png",
+              "bodyH": "tex_bdy_COM_2152_01_H.png",
+              "bodyS": "tex_bdy_COM_2152_01_S.png"
+            },
             "thumbnail": "cos0999_body",
             "hasVariant": true
           },

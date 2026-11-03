@@ -1038,5 +1038,10 @@
     "title": "Fixed Model Viewer Save to Image excluding custom bg image",
 
     "date": 1793171087000
+  },
+  {
+    "version": "1.24.9",
+    "title": "Improve model physics and fixed some specific costume parts floating and clipping through the body.",
+    "date": 1793699375000
   }
 ]
