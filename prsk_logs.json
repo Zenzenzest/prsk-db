@@ -1043,5 +1043,16 @@
     "version": "1.24.9",
     "title": "Improve model physics and fixed some specific costume parts floating and clipping through the body.",
     "date": 1793699375000
+  },
+  {
+    "version": "1.24.10",
+    "title": "Some new things",
+    "logs": [
+      "Added upcoming append release in Calendar",
+      "Song will now moved to the top of the Song list in Chart Viewer when it gets a new append difficulty",
+      "Added Append in Timeline",
+      "Automatically save Timeline zoom level"
+    ],
+    "date": 1793778187000
   }
 ]

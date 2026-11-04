@@ -12394,7 +12394,9 @@
     "musicId": 388,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 4500
+    "totalNoteCount": 4500,
+    "release": 1695999600000,
+    "release_en": 1727679600000
   },
   {
     "id": 1946,
@@ -21788,14 +21790,18 @@
     "musicId": 675,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 5197
+    "totalNoteCount": 5197,
+    "release": 1759212000000,
+    "release_en": 1790805600000
   },
   {
     "id": 3376,
     "musicId": 676,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 4181
+    "totalNoteCount": 4181,
+    "release": 1760162400000,
+    "release_en": 1791756000000
   },
   {
     "id": 3381,
@@ -25267,1022 +25273,1314 @@
     "musicId": 1,
     "musicDifficulty": "append",
     "playLevel": 25,
-    "totalNoteCount": 1353
+    "totalNoteCount": 1353,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4002,
     "musicId": 6,
     "musicDifficulty": "append",
     "playLevel": 34,
-    "totalNoteCount": 1351
+    "totalNoteCount": 1351,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4003,
     "musicId": 64,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1553
+    "totalNoteCount": 1553,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4004,
     "musicId": 99,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1518
+    "totalNoteCount": 1518,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4005,
     "musicId": 213,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 1433
+    "totalNoteCount": 1433,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4006,
     "musicId": 126,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 992
+    "totalNoteCount": 992,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4007,
     "musicId": 291,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1744
+    "totalNoteCount": 1744,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4008,
     "musicId": 127,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1631
+    "totalNoteCount": 1631,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4009,
     "musicId": 134,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1159
+    "totalNoteCount": 1159,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4010,
     "musicId": 304,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1572
+    "totalNoteCount": 1572,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4011,
     "musicId": 272,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1633
+    "totalNoteCount": 1633,
+    "release": 1696041000000,
+    "release_en": 1727721000000
   },
   {
     "id": 4012,
     "musicId": 366,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1365
+    "totalNoteCount": 1365,
+    "release": 1695999600000,
+    "release_en": 1727679600000
   },
   {
     "id": 4013,
     "musicId": 128,
     "musicDifficulty": "append",
     "playLevel": 35,
-    "totalNoteCount": 1894
+    "totalNoteCount": 1894,
+    "release": 1700965800000,
+    "release_en": 1732649400000
   },
   {
     "id": 4014,
     "musicId": 116,
     "musicDifficulty": "append",
     "playLevel": 26,
-    "totalNoteCount": 1216
+    "totalNoteCount": 1216,
+    "release": 1699410600000,
+    "release_en": 1731094200000
   },
   {
     "id": 4015,
     "musicId": 172,
     "musicDifficulty": "append",
     "playLevel": 26,
-    "totalNoteCount": 832
+    "totalNoteCount": 832,
+    "release": 1698719400000,
+    "release_en": 1730399400000
   },
   {
     "id": 4016,
     "musicId": 95,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1269
+    "totalNoteCount": 1269,
+    "release": 1701311400000,
+    "release_en": 1732995000000
   },
   {
     "id": 4017,
     "musicId": 93,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1446
+    "totalNoteCount": 1446,
+    "release": 1702002600000,
+    "release_en": 1733686200000
   },
   {
     "id": 4018,
     "musicId": 52,
     "musicDifficulty": "append",
     "playLevel": 25,
-    "totalNoteCount": 703
+    "totalNoteCount": 703,
+    "release": 1703039400000,
+    "release_en": 1734723000000
   },
   {
     "id": 4024,
     "musicId": 439,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1496
+    "totalNoteCount": 1496,
+    "release": 1704002400000,
+    "release_en": 1735686000000
   },
   {
     "id": 4025,
     "musicId": 19,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1000
+    "totalNoteCount": 1000,
+    "release": 1704767400000,
+    "release_en": 1736451000000
   },
   {
     "id": 4026,
     "musicId": 447,
     "musicDifficulty": "append",
     "playLevel": 35,
-    "totalNoteCount": 1794
+    "totalNoteCount": 1794,
+    "release": 1704952800000,
+    "release_en": 1736636400000
   },
   {
     "id": 4027,
     "musicId": 448,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 1812
+    "totalNoteCount": 1812,
+    "release": 1705557600000,
+    "release_en": 1737241200000
   },
   {
     "id": 4028,
     "musicId": 449,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 2500
+    "totalNoteCount": 2500,
+    "release": 1706162400000,
+    "release_en": 1737846000000
   },
   {
     "id": 4029,
     "musicId": 154,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1643
+    "totalNoteCount": 1643,
+    "release": 1705977000000,
+    "release_en": 1737660600000
   },
   {
     "id": 4030,
     "musicId": 253,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1352
+    "totalNoteCount": 1352,
+    "release": 1706668200000,
+    "release_en": 1738351800000
   },
   {
     "id": 4031,
     "musicId": 188,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1318
+    "totalNoteCount": 1318,
+    "release": 1707445800000,
+    "release_en": 1739129400000
   },
   {
     "id": 4032,
     "musicId": 469,
     "musicDifficulty": "append",
     "playLevel": 25,
-    "totalNoteCount": 1038
+    "totalNoteCount": 1038,
+    "release": 1709186400000,
+    "release_en": 1740783600000
   },
   {
     "id": 4033,
     "musicId": 423,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1268
+    "totalNoteCount": 1268,
+    "release": 1708261500000,
+    "release_en": 1739945100000
   },
   {
     "id": 4040,
     "musicId": 465,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 1972
+    "totalNoteCount": 1972,
+    "release": 1711087200000,
+    "release_en": 1742680800000
   },
   {
     "id": 4041,
     "musicId": 124,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1039
+    "totalNoteCount": 1039,
+    "release": 1709951400000,
+    "release_en": 1741548600000
   },
   {
     "id": 4042,
     "musicId": 198,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 1233
+    "totalNoteCount": 1233,
+    "release": 1711074600000,
+    "release_en": 1742668200000
   },
   {
     "id": 4043,
     "musicId": 150,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 997
+    "totalNoteCount": 997,
+    "release": 1711679400000,
+    "release_en": 1743273000000
   },
   {
     "id": 4044,
     "musicId": 441,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1120
+    "totalNoteCount": 1120,
+    "release": 1713160800000,
+    "release_en": 1744754400000
   },
   {
     "id": 4045,
     "musicId": 396,
     "musicDifficulty": "append",
     "playLevel": 34,
-    "totalNoteCount": 2024
+    "totalNoteCount": 2024,
+    "release": 1715580000000,
+    "release_en": 1747173600000
   },
   {
     "id": 4046,
     "musicId": 310,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1396
+    "totalNoteCount": 1396,
+    "release": 1712802600000,
+    "release_en": 1744396200000
   },
   {
     "id": 4047,
     "musicId": 89,
     "musicDifficulty": "append",
     "playLevel": 26,
-    "totalNoteCount": 1028
+    "totalNoteCount": 1028,
+    "release": 1715221800000,
+    "release_en": 1746815400000
   },
   {
     "id": 4048,
     "musicId": 486,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 2050
+    "totalNoteCount": 2050,
+    "release": 1713506400000,
+    "release_en": 1745100000000
   },
   {
     "id": 4049,
     "musicId": 44,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1020
+    "totalNoteCount": 1020,
+    "release": 1713580200000,
+    "release_en": 1745173800000
   },
   {
     "id": 4050,
     "musicId": 138,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1388
+    "totalNoteCount": 1388,
+    "release": 1714444200000,
+    "release_en": 1746037800000
   },
   {
     "id": 4051,
     "musicId": 501,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1328
+    "totalNoteCount": 1328,
+    "release": 1714802400000,
+    "release_en": 1746396000000
   },
   {
     "id": 4052,
     "musicId": 502,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1564
+    "totalNoteCount": 1564,
+    "release": 1714888800000,
+    "release_en": 1746482400000
   },
   {
     "id": 4053,
     "musicId": 503,
     "musicDifficulty": "append",
     "playLevel": 35,
-    "totalNoteCount": 1914
+    "totalNoteCount": 1914,
+    "release": 1714716000000,
+    "release_en": 1746309600000
   },
   {
     "id": 4054,
     "musicId": 156,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 852
+    "totalNoteCount": 852,
+    "release": 1716345000000,
+    "release_en": 1747938600000
   },
   {
     "id": 4055,
     "musicId": 450,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1403
+    "totalNoteCount": 1403,
+    "release": 1716987900000,
+    "release_en": 1748581500000
   },
   {
     "id": 4056,
     "musicId": 187,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1045
+    "totalNoteCount": 1045,
+    "release": 1717122600000,
+    "release_en": 1748716200000
   },
   {
     "id": 4057,
     "musicId": 244,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1049
+    "totalNoteCount": 1049,
+    "release": 1717986600000,
+    "release_en": 1749580200000
   },
   {
     "id": 4058,
     "musicId": 457,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 1016
+    "totalNoteCount": 1016,
+    "release": 1718715900000,
+    "release_en": 1750309500000
   },
   {
     "id": 4059,
     "musicId": 375,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 1035
+    "totalNoteCount": 1035,
+    "release": 1718850600000,
+    "release_en": 1750444200000
   },
   {
     "id": 4060,
     "musicId": 507,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1126
+    "totalNoteCount": 1126,
+    "release": 1718863200000,
+    "release_en": 1750456800000
   },
   {
     "id": 4061,
     "musicId": 151,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1070
+    "totalNoteCount": 1070,
+    "release": 1719714600000,
+    "release_en": 1751308200000
   },
   {
     "id": 4062,
     "musicId": 120,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 1212
+    "totalNoteCount": 1212,
+    "release": 1720492200000,
+    "release_en": 1752085800000
   },
   {
     "id": 4063,
     "musicId": 487,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 2555
+    "totalNoteCount": 2555,
+    "release": 1720504800000,
+    "release_en": 1752098400000
   },
   {
     "id": 4064,
     "musicId": 266,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1249
+    "totalNoteCount": 1249,
+    "release": 1721183400000,
+    "release_en": 1752777000000
   },
   {
     "id": 4065,
     "musicId": 41,
     "musicDifficulty": "append",
     "playLevel": 25,
-    "totalNoteCount": 1126
+    "totalNoteCount": 1126,
+    "release": 1722393000000,
+    "release_en": 1753986600000
   },
   {
     "id": 4066,
     "musicId": 169,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 1300
+    "totalNoteCount": 1300,
+    "release": 1722393000000,
+    "release_en": 1753986600000
   },
   {
     "id": 4067,
     "musicId": 474,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1267
+    "totalNoteCount": 1267,
+    "release": 1723035900000,
+    "release_en": 1754629500000
   },
   {
     "id": 4068,
     "musicId": 171,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1915
+    "totalNoteCount": 1915,
+    "release": 1723775400000,
+    "release_en": 1755369000000
   },
   {
     "id": 4069,
     "musicId": 224,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1388
+    "totalNoteCount": 1388,
+    "release": 1723170600000,
+    "release_en": 1754764200000
   },
   {
     "id": 4070,
     "musicId": 248,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1490
+    "totalNoteCount": 1490,
+    "release": 1724985000000,
+    "release_en": 1756578600000
   },
   {
     "id": 4071,
     "musicId": 174,
     "musicDifficulty": "append",
     "playLevel": 26,
-    "totalNoteCount": 1015
+    "totalNoteCount": 1015,
+    "release": 1726799400000,
+    "release_en": 1758393000000
   },
   {
     "id": 4072,
     "musicId": 339,
     "musicDifficulty": "append",
     "playLevel": 25,
-    "totalNoteCount": 855
+    "totalNoteCount": 855,
+    "release": 1728700200000,
+    "release_en": 1760293800000
   },
   {
     "id": 4073,
     "musicId": 489,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1207
+    "totalNoteCount": 1207,
+    "release": 1727622000000,
+    "release_en": 1759215600000
   },
   {
     "id": 4074,
     "musicId": 182,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1189
+    "totalNoteCount": 1189,
+    "release": 1725935400000,
+    "release_en": 1757529000000
   },
   {
     "id": 4075,
     "musicId": 488,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 2117
+    "totalNoteCount": 2117,
+    "release": 1729490400000,
+    "release_en": 1761084000000
   },
   {
     "id": 4076,
     "musicId": 193,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 817
+    "totalNoteCount": 817,
+    "release": 1730687400000,
+    "release_en": 1762284600000
   },
   {
     "id": 4077,
     "musicId": 543,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 2357
+    "totalNoteCount": 2357,
+    "release": 1728540000000,
+    "release_en": 1760133600000
   },
   {
     "id": 4078,
     "musicId": 194,
     "musicDifficulty": "append",
     "playLevel": 26,
-    "totalNoteCount": 1092
+    "totalNoteCount": 1092,
+    "release": 1731033000000,
+    "release_en": 1762630200000
   },
   {
     "id": 4079,
     "musicId": 76,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 945
+    "totalNoteCount": 945,
+    "release": 1760063400000,
+    "release_en": 1791657000000
   },
   {
     "id": 4080,
     "musicId": 548,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 989
+    "totalNoteCount": 989,
+    "release": 1732082400000,
+    "release_en": 1763679600000
   },
   {
     "id": 4081,
     "musicId": 105,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1054
+    "totalNoteCount": 1054,
+    "release": 1737426600000,
+    "release_en": 1769023800000
   },
   {
     "id": 4082,
     "musicId": 558,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1346
+    "totalNoteCount": 1346,
+    "release": 1735970400000,
+    "release_en": 1767567600000
   },
   {
     "id": 4083,
     "musicId": 280,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1233
+    "totalNoteCount": 1233,
+    "release": 1732933800000,
+    "release_en": 1764531000000
   },
   {
     "id": 4084,
     "musicId": 499,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1615
+    "totalNoteCount": 1615,
+    "release": 1735452000000,
+    "release_en": 1767049200000
   },
   {
     "id": 4085,
     "musicId": 554,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1429
+    "totalNoteCount": 1429,
+    "release": 1735797600000,
+    "release_en": 1767394800000
   },
   {
     "id": 4086,
     "musicId": 149,
     "musicDifficulty": "append",
     "playLevel": 24,
-    "totalNoteCount": 1020
+    "totalNoteCount": 1020,
+    "release": 1734661800000,
+    "release_en": 1766259000000
   },
   {
     "id": 4087,
     "musicId": 562,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1503
+    "totalNoteCount": 1503,
+    "release": 1735538400000,
+    "release_en": 1767135600000
   },
   {
     "id": 4088,
     "musicId": 10,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1205
+    "totalNoteCount": 1205,
+    "release": 1738895400000,
+    "release_en": 1770492600000
   },
   {
     "id": 4089,
     "musicId": 561,
     "musicDifficulty": "append",
     "playLevel": 34,
-    "totalNoteCount": 1404
+    "totalNoteCount": 1404,
+    "release": 1735624800000,
+    "release_en": 1767222000000
   },
   {
     "id": 4090,
     "musicId": 2,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1040
+    "totalNoteCount": 1040,
+    "release": 1733884200000,
+    "release_en": 1765481400000
   },
   {
     "id": 4091,
     "musicId": 227,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1406
+    "totalNoteCount": 1406,
+    "release": 1740709800000,
+    "release_en": 1772307000000
   },
   {
     "id": 4092,
     "musicId": 267,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1328
+    "totalNoteCount": 1328,
+    "release": 1736476200000,
+    "release_en": 1768073400000
   },
   {
     "id": 4093,
     "musicId": 132,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1001
+    "totalNoteCount": 1001,
+    "release": 1738290600000,
+    "release_en": 1769887800000
   },
   {
     "id": 4094,
     "musicId": 141,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1254
+    "totalNoteCount": 1254,
+    "release": 1740537000000,
+    "release_en": 1772134200000
   },
   {
     "id": 4095,
     "musicId": 220,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1792
+    "totalNoteCount": 1792,
+    "release": 1735266600000,
+    "release_en": 1766863800000
   },
   {
     "id": 4096,
     "musicId": 77,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1170
+    "totalNoteCount": 1170,
+    "release": 1760927400000,
+    "release_en": 1792521000000
   },
   {
     "id": 4097,
     "musicId": 555,
     "musicDifficulty": "append",
     "playLevel": 34,
-    "totalNoteCount": 1555
+    "totalNoteCount": 1555,
+    "release": 1739599200000,
+    "release_en": 1771196400000
   },
   {
     "id": 4098,
     "musicId": 100,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1102
+    "totalNoteCount": 1102,
+    "release": 1742351400000,
+    "release_en": 1773945000000
   },
   {
     "id": 4099,
     "musicId": 211,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1270
+    "totalNoteCount": 1270,
+    "release": 1745980200000,
+    "release_en": 1777573800000
   },
   {
     "id": 4100,
     "musicId": 292,
     "musicDifficulty": "append",
     "playLevel": 24,
-    "totalNoteCount": 791
+    "totalNoteCount": 791,
+    "release": 1743906600000,
+    "release_en": 1775500200000
   },
   {
     "id": 4101,
     "musicId": 605,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1043
+    "totalNoteCount": 1043,
+    "release": 1743314400000,
+    "release_en": 1774908000000
   },
   {
     "id": 4102,
     "musicId": 606,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1493
+    "totalNoteCount": 1493,
+    "release": 1744610400000,
+    "release_en": 1776204000000
   },
   {
     "id": 4103,
     "musicId": 69,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 999
+    "totalNoteCount": 999,
+    "release": 1747967400000,
+    "release_en": 1779561000000
   },
   {
     "id": 4104,
     "musicId": 160,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1163
+    "totalNoteCount": 1163,
+    "release": 1745289000000,
+    "release_en": 1776882600000
   },
   {
     "id": 4105,
     "musicId": 398,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1017
+    "totalNoteCount": 1017,
+    "release": 1744079400000,
+    "release_en": 1775673000000
   },
   {
     "id": 4106,
     "musicId": 101,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1335
+    "totalNoteCount": 1335,
+    "release": 1751250600000,
+    "release_en": 1782844200000
   },
   {
     "id": 4107,
     "musicId": 622,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 1782
+    "totalNoteCount": 1782,
+    "release": 1746424800000,
+    "release_en": 1778018400000
   },
   {
     "id": 4108,
     "musicId": 623,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1488
+    "totalNoteCount": 1488,
+    "release": 1746338400000,
+    "release_en": 1777932000000
   },
   {
     "id": 4109,
     "musicId": 624,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1599
+    "totalNoteCount": 1599,
+    "release": 1746252000000,
+    "release_en": 1777845600000
   },
   {
     "id": 4110,
     "musicId": 411,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1210
+    "totalNoteCount": 1210,
+    "release": 1746757800000,
+    "release_en": 1778351400000
   },
   {
     "id": 4111,
     "musicId": 424,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1357
+    "totalNoteCount": 1357,
+    "release": 1750645800000,
+    "release_en": 1782239400000
   },
   {
     "id": 4112,
     "musicId": 94,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1226
+    "totalNoteCount": 1226,
+    "release": 1748572200000,
+    "release_en": 1780165800000
   },
   {
     "id": 4113,
     "musicId": 384,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 754
+    "totalNoteCount": 754,
+    "release": 1749436200000,
+    "release_en": 1781029800000
   },
   {
     "id": 4114,
     "musicId": 627,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 938
+    "totalNoteCount": 938,
+    "release": 1748844000000,
+    "release_en": 1780437600000
   },
   {
     "id": 4115,
     "musicId": 257,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1450
+    "totalNoteCount": 1450,
+    "release": 1752546600000,
+    "release_en": 1784140200000
   },
   {
     "id": 4116,
     "musicId": 429,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1109
+    "totalNoteCount": 1109,
+    "release": 1766111400000,
+    "release_en": 1797708600000
   },
   {
     "id": 4117,
     "musicId": 635,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1178
+    "totalNoteCount": 1178,
+    "release": 1753250400000,
+    "release_en": 1784844000000
   },
   {
     "id": 4118,
     "musicId": 644,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1131
+    "totalNoteCount": 1131,
+    "release": 1753682400000,
+    "release_en": 1785276000000
   },
   {
     "id": 4119,
     "musicId": 256,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1207
+    "totalNoteCount": 1207,
+    "release": 1753929000000,
+    "release_en": 1785522600000
   },
   {
     "id": 4120,
     "musicId": 405,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1225
+    "totalNoteCount": 1225,
+    "release": 1754620200000,
+    "release_en": 1786213800000
   },
   {
     "id": 4121,
     "musicId": 583,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1126
+    "totalNoteCount": 1126,
+    "release": 1754485500000,
+    "release_en": 1786079100000
   },
   {
     "id": 4122,
     "musicId": 324,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1220
+    "totalNoteCount": 1220,
+    "release": 1751855400000,
+    "release_en": 1783449000000
   },
   {
     "id": 4123,
     "musicId": 647,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 2060
+    "totalNoteCount": 2060,
+    "release": 1755842400000,
+    "release_en": 1787436000000
   },
   {
     "id": 4124,
     "musicId": 368,
     "musicDifficulty": "append",
     "playLevel": 26,
-    "totalNoteCount": 1245
+    "totalNoteCount": 1245,
+    "release": 1757039400000,
+    "release_en": 1788633000000
   },
   {
     "id": 4125,
     "musicId": 45,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 1039
+    "totalNoteCount": 1039,
+    "release": 1756434600000,
+    "release_en": 1788028200000
   },
   {
     "id": 4126,
     "musicId": 311,
     "musicDifficulty": "append",
     "playLevel": 25,
-    "totalNoteCount": 717
+    "totalNoteCount": 717,
+    "release": 1758249000000,
+    "release_en": 1789842600000
   },
   {
     "id": 4127,
     "musicId": 235,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1765
+    "totalNoteCount": 1765,
+    "release": 1761877800000,
+    "release_en": 1793471400000
   },
   {
     "id": 4128,
     "musicId": 196,
     "musicDifficulty": "append",
     "playLevel": 24,
-    "totalNoteCount": 634
+    "totalNoteCount": 634,
+    "release": 1767061800000,
+    "release_en": 1798659000000
   },
   {
     "id": 4129,
     "musicId": 668,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 2173
+    "totalNoteCount": 2173,
+    "release": 1760162400000,
+    "release_en": 1791756000000
   },
   {
     "id": 4130,
     "musicId": 585,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1288
+    "totalNoteCount": 1288,
+    "release": 1759158000000,
+    "release_en": 1790751600000
   },
   {
     "id": 4131,
     "musicId": 584,
     "musicDifficulty": "append",
     "playLevel": 35,
-    "totalNoteCount": 1949
+    "totalNoteCount": 1949,
+    "release": 1763791200000,
+    "release_en": 1795388400000
   },
   {
     "id": 4132,
     "musicId": 671,
     "musicDifficulty": "append",
     "playLevel": 38,
-    "totalNoteCount": 2800
+    "totalNoteCount": 2800,
+    "release": 1763877600000,
+    "release_en": 1795474800000
   },
   {
     "id": 4133,
     "musicId": 300,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1105
+    "totalNoteCount": 1105,
+    "release": 1765333800000,
+    "release_en": 1796931000000
   },
   {
     "id": 4134,
     "musicId": 691,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 2334
+    "totalNoteCount": 2334,
+    "release": 1763964000000,
+    "release_en": 1795561200000
   },
   {
     "id": 4135,
     "musicId": 189,
     "musicDifficulty": "append",
     "playLevel": 25,
-    "totalNoteCount": 531
+    "totalNoteCount": 531,
+    "release": 1762741800000,
+    "release_en": 1794339000000
   },
   {
     "id": 4136,
     "musicId": 26,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 939
+    "totalNoteCount": 939,
+    "release": 1768962600000,
+    "release_en": 1800559800000
   },
   {
     "id": 4137,
     "musicId": 690,
     "musicDifficulty": "append",
     "playLevel": 28,
-    "totalNoteCount": 1171
+    "totalNoteCount": 1171,
+    "release": 1767420000000,
+    "release_en": 1799017200000
   },
   {
     "id": 4138,
     "musicId": 707,
     "musicDifficulty": "append",
     "playLevel": 33,
-    "totalNoteCount": 1448
+    "totalNoteCount": 1448,
+    "release": 1771653600000,
+    "release_en": 1803250800000
   },
   {
     "id": 4139,
     "musicId": 708,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 2206
+    "totalNoteCount": 2206,
+    "release": 1771826400000,
+    "release_en": 1803423600000
   },
   {
     "id": 4140,
     "musicId": 709,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 1666
+    "totalNoteCount": 1666,
+    "release": 1771740000000,
+    "release_en": 1803337200000
   },
   {
     "id": 4141,
     "musicId": 135,
     "musicDifficulty": "append",
     "playLevel": 35,
-    "totalNoteCount": 1723
+    "totalNoteCount": 1723,
+    "release": 1767925800000,
+    "release_en": 1799523000000
   },
   {
     "id": 4142,
     "musicId": 11,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 884
+    "totalNoteCount": 884,
+    "release": 1770690600000,
+    "release_en": 1802287800000
   },
   {
     "id": 4143,
     "musicId": 91,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 931
+    "totalNoteCount": 931,
+    "release": 1773887400000,
+    "release_en": 1805481000000
   },
   {
     "id": 4144,
     "musicId": 110,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1230
+    "totalNoteCount": 1230,
+    "release": 1776393000000,
+    "release_en": 1807986600000
   },
   {
     "id": 4145,
     "musicId": 107,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1495
+    "totalNoteCount": 1495,
+    "release": 1778985000000,
+    "release_en": 1810578600000
   },
   {
     "id": 4146,
     "musicId": 268,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1287
+    "totalNoteCount": 1287,
+    "release": 1780194600000,
+    "release_en": 1811788200000
   },
   {
     "id": 4147,
     "musicId": 522,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1029
+    "totalNoteCount": 1029,
+    "release": 1775701800000,
+    "release_en": 1807295400000
   },
   {
     "id": 4148,
     "musicId": 735,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 892
+    "totalNoteCount": 892,
+    "release": 1774850400000,
+    "release_en": 1806444000000
   },
   {
     "id": 4149,
     "musicId": 662,
     "musicDifficulty": "append",
     "playLevel": 27,
-    "totalNoteCount": 729
+    "totalNoteCount": 729,
+    "release": 1774703100000,
+    "release_en": 1806296700000
   },
   {
     "id": 4150,
     "musicId": 106,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1003
+    "totalNoteCount": 1003,
+    "release": 1781922600000,
+    "release_en": 1813516200000
   },
   {
     "id": 4152,
     "musicId": 740,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 944
+    "totalNoteCount": 944,
+    "release": 1778220000000,
+    "release_en": 1809813600000
   },
   {
     "id": 4153,
     "musicId": 456,
     "musicDifficulty": "append",
     "playLevel": 32,
-    "totalNoteCount": 1273
+    "totalNoteCount": 1273,
+    "release": 1783564200000,
+    "release_en": 1815157800000
   },
   {
     "id": 4155,
     "musicId": 744,
     "musicDifficulty": "append",
     "playLevel": 35,
-    "totalNoteCount": 1651
+    "totalNoteCount": 1651,
+    "release": 1782108000000,
+    "release_en": 1813701600000
   },
   {
     "id": 4156,
     "musicId": 745,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 1808
+    "totalNoteCount": 1808,
+    "release": 1782367200000,
+    "release_en": 1813960800000
   },
   {
     "id": 4157,
     "musicId": 746,
     "musicDifficulty": "append",
     "playLevel": 31,
-    "totalNoteCount": 1282
+    "totalNoteCount": 1282,
+    "release": 1782453600000,
+    "release_en": 1814047200000
   },
   {
     "id": 4161,
     "musicId": 755,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 2586
+    "totalNoteCount": 2586,
+    "release": 1780984800000,
+    "release_en": 1812578400000
   },
   {
     "id": 4162,
     "musicId": 756,
     "musicDifficulty": "append",
     "playLevel": 29,
-    "totalNoteCount": 1183
+    "totalNoteCount": 1183,
+    "release": 1782799200000,
+    "release_en": 1814392800000
   },
   {
     "id": 4175,
@@ -26569,7 +26867,9 @@
     "musicId": 813,
     "musicDifficulty": "append",
     "playLevel": 36,
-    "totalNoteCount": 2095
+    "totalNoteCount": 2095,
+    "release": 1791698400000,
+    "release_en": 1823292000000
   },
   {
     "id": 4247,
@@ -26611,7 +26911,9 @@
     "musicId": 814,
     "musicDifficulty": "append",
     "playLevel": 37,
-    "totalNoteCount": 1644
+    "totalNoteCount": 1644,
+    "release": 1790056800000,
+    "release_en": 1821650400000
   },
   {
     "id": 4307,
@@ -26723,27 +27025,35 @@
     "musicId": 136,
     "musicDifficulty": "append",
     "playLevel": 34,
-    "totalNoteCount": 1627
+    "totalNoteCount": 1627,
+    "release": 1786069800000,
+    "release_en": 1817663400000
   },
   {
     "id": 5376,
     "musicId": 783,
     "musicDifficulty": "append",
     "playLevel": 38,
-    "totalNoteCount": 2333
+    "totalNoteCount": 2333,
+    "release": 1793426400000,
+    "release_en": 1825020000000
   },
   {
     "id": 5377,
     "musicId": 730,
     "musicDifficulty": "append",
     "playLevel": 30,
-    "totalNoteCount": 1191
+    "totalNoteCount": 1191,
+    "release": 1790694000000,
+    "release_en": 1822287600000
   },
   {
     "id": 5378,
     "musicId": 603,
     "musicDifficulty": "append",
     "playLevel": 25,
-    "totalNoteCount": 950
+    "totalNoteCount": 950,
+    "release": 1792463400000,
+    "release_en": 1824057000000
   }
 ]
