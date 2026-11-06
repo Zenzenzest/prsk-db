@@ -22315,7 +22315,8 @@
     "charId": 17,
     "character": "Yoisaki Kanade",
     "unit": "Nightcord at 25:00",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/At_the_End_of_Darkness"
   },
   {
     "id": 1490,
@@ -22329,7 +22330,8 @@
     "charId": 18,
     "character": "Asahina Mafuyu",
     "unit": "Nightcord at 25:00",
-    "skillId": 7
+    "skillId": 7,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Touch_of_Warmth"
   },
   {
     "id": 1491,
@@ -22344,7 +22346,8 @@
     "character": "Megurine Luka",
     "unit": "Virtual Singers",
     "skillId": 19,
-    "sub_unit": "Nightcord at 25:00"
+    "sub_unit": "Nightcord at 25:00",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/To_Break_One%27s_Lock"
   },
   {
     "id": 1492,
@@ -22358,7 +22361,8 @@
     "charId": 19,
     "character": "Shinonome Ena",
     "unit": "Nightcord at 25:00",
-    "skillId": 3
+    "skillId": 3,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Keeping_One%27s_Resolve_in_Heart"
   },
   {
     "id": 1493,
@@ -22372,7 +22376,8 @@
     "charId": 20,
     "character": "Akiyama Mizuki",
     "unit": "Nightcord at 25:00",
-    "skillId": 5
+    "skillId": 5,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Between_Studying_and_Having_Fun"
   },
   {
     "id": 1494,
@@ -22386,6 +22391,21 @@
     "charId": 25,
     "character": "MEIKO",
     "unit": "Virtual Singers",
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Anniversary!!_2026_(MEIKO)"
+  },
+  {
+    "id": 1495,
+    "name": "Happy Birthday！！2027",
+    "jp_name": "Happy Birthday！！2026",
+    "attribute": "Cool",
+    "rarity": 5,
+    "card_type": "bday",
+    "jp_released": 1794063600000,
+    "en_released": 1825660800000,
+    "charId": 11,
+    "character": "Shinonome Akito",
+    "unit": "Vivid BAD SQUAD",
     "skillId": 14
   }
 ]

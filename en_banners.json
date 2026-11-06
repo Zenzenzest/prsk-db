@@ -11326,5 +11326,27 @@
     "keywords": [],
     "start": 1825052400000,
     "end": 1825657199000
+  },
+  {
+    "id": 889,
+    "name": "Akito Shinonome Happy Birthday 2027 Gacha",
+    "sekai_id": 4058,
+    "characters": [11],
+    "cards": [1495],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1825660800000,
+    "end": 1826265599000
+  },
+  {
+    "id": 890,
+    "name": "Akito Shinonome Happy Birthday Memories Gacha",
+    "sekai_id": 4059,
+    "characters": [11],
+    "cards": [1278, 1033, 790, 534, 318],
+    "banner_type": "Birthday",
+    "keywords": [],
+    "start": 1825660800000,
+    "end": 1826265599000
   }
 ]

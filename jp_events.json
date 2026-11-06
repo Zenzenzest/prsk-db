@@ -4522,6 +4522,20 @@
       "kana7",
       "kanade7"
     ],
-    "type": "Kanade 7th Focus Event"
+    "type": "Kanade 7th Focus Event",
+    "music_id": 761,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/A_Melody_for_You,_Someday"
+  },
+  {
+    "id": 224,
+    "name": "第3回チアフルカーニバルイベントテストイベント",
+    "unit": "mixed",
+    "cards": [],
+    "start": 1794225600000,
+    "end": 1794311999000,
+    "close": 1794376799000,
+    "event_type": "cheerful_carnival",
+    "keywords": [],
+    "type": "Test Event"
   }
 ]

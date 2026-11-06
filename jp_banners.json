@@ -10722,5 +10722,29 @@
     "cards": [1277, 1027, 784, 533, 312],
     "keywords": [],
     "en_id": 888
+  },
+  {
+    "id": 752,
+    "name": "[東雲彰人]HAPPY BIRTHDAY2026ガチャ",
+    "sekai_id": 4058,
+    "characters": [11],
+    "banner_type": "Birthday",
+    "start": 1794063600000,
+    "end": 1794668399000,
+    "cards": [1495],
+    "keywords": [],
+    "en_id": 889
+  },
+  {
+    "id": 753,
+    "name": "[東雲彰人]HAPPY BIRTHDAYメモリーズガチャ",
+    "sekai_id": 4059,
+    "characters": [11],
+    "banner_type": "Birthday",
+    "start": 1794063600000,
+    "end": 1794668399000,
+    "cards": [1278, 1033, 790, 534, 318],
+    "keywords": [],
+    "en_id": 890
   }
 ]

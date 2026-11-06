@@ -43236,5 +43236,85 @@
         "isWish": []
       }
     ]
+  },
+  {
+    "id": 752,
+    "gachaCardRarityRates": [
+      {
+        "id": 9,
+        "groupId": 4,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 10,
+        "groupId": 4,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 11,
+        "groupId": 4,
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "pick": {
+      "hasSlots": false,
+      "mechanic": null,
+      "slotCount": 0,
+      "rateUpTotalPercent": null,
+      "slots": []
+    },
+    "gachaDetails": [
+      {
+        "weight": 1,
+        "cardIds": [1495],
+        "isWish": []
+      }
+    ]
+  },
+  {
+    "id": 753,
+    "gachaCardRarityRates": [
+      {
+        "id": 9,
+        "groupId": 4,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 10,
+        "groupId": 4,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 11,
+        "groupId": 4,
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "pick": {
+      "hasSlots": false,
+      "mechanic": null,
+      "slotCount": 0,
+      "rateUpTotalPercent": null,
+      "slots": []
+    },
+    "gachaDetails": [
+      {
+        "weight": 1,
+        "cardIds": [318, 534, 790, 1033, 1278],
+        "isWish": []
+      }
+    ]
   }
 ]

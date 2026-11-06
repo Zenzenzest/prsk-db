@@ -890,5 +890,9 @@
   {
     "eventId": 223,
     "crystals": 450
+  },
+  {
+    "eventId": 224,
+    "crystals": 0
   }
 ]
