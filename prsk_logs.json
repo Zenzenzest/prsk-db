@@ -1051,8 +1051,20 @@
       "Added upcoming append release in Calendar",
       "Song will now moved to the top of the Song list in Chart Viewer when it gets a new append difficulty",
       "Added Append in Timeline",
-      "Automatically save Timeline zoom level","Fixed accessory not properly attached/not rendering"
+      "Automatically save Timeline zoom level",
+      "Fixed accessory not properly attached/not rendering"
     ],
     "date": 1793778187000
+  },
+  {
+    "version": "1.24.11",
+    "title": "Crystal Fixes, Model Viewer Fix and mobile layout adjustment",
+    "logs": [
+      "Fixed first-time COLORFUL+ purchase adding bonus crystals on top instead of converting part of the paid crystals to free (Deluxe 1st = 1690 paid + 4690 free, not 3380+1690 paid)",
+      "Fixed Golden Charm paid/free split (560 paid + 940 free, not the other way around)",
+      "Fixed custom hair (that has no main accessory) in dress up mode not working with optional accessories",
+      "Adjusted Mobile layout and remove constant opening of a modal just to change a costume"
+    ],
+    "date": 1793924501000
   }
 ]
