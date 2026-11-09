@@ -8295,14 +8295,12 @@
       "an5",
       "focus"
     ],
-    "start": 1796011200000,
-    "end": 1796011200000,
-    "type": "rerun_estimation",
-    "rerun": [1794020400000, 1795661999000]
+    "start": 1794686400000,
+    "end": 1795463999000
   },
   {
     "id": 638,
-    "name": "Good to go Gacha",
+    "name": "Good to Go! Gacha",
     "sekai_id": 861,
     "characters": [9, 10, 11],
     "cards": [1284, 1285, 1286],
@@ -8329,8 +8327,8 @@
     "cards": [945, 1067, 1028, 1175, 993, 1051, 956, 1123, 1097, 834],
     "banner_type": "Your Pick",
     "keywords": [],
-    "start": 1795723200000,
-    "end": 1796500799000
+    "start": 1794945600000,
+    "end": 1795723199000
   },
   {
     "id": 641,
@@ -8408,7 +8406,7 @@
   },
   {
     "id": 647,
-    "name": "Star-Chaser of Longing Gacha",
+    "name": "Longing Star Chasers Gacha",
     "sekai_id": 864,
     "characters": [1, 2, 3],
     "cards": [1289, 1290, 1291],

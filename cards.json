@@ -19113,7 +19113,7 @@
   },
   {
     "id": 1279,
-    "name": "When the Flower Blooms",
+    "name": "The Flower Blooms",
     "jp_name": "その花が咲く時",
     "attribute": "Cute",
     "rarity": 4,
@@ -19128,7 +19128,7 @@
   },
   {
     "id": 1280,
-    "name": "Happy, Happy Hospitality",
+    "name": "Happy Happy Hostess",
     "jp_name": "ハピハピハッピーなおもてなし",
     "attribute": "Cute",
     "rarity": 4,
@@ -19143,7 +19143,7 @@
   },
   {
     "id": 1281,
-    "name": "The Little Guardian",
+    "name": "A Little Guardian",
     "jp_name": "小さな守護者",
     "attribute": "Cute",
     "rarity": 4,
@@ -19159,7 +19159,7 @@
   },
   {
     "id": 1282,
-    "name": "What I Can Do for My Companions",
+    "name": "To Help A Friend",
     "jp_name": "仲間のためにできること",
     "attribute": "Happy",
     "rarity": 3,
@@ -19174,7 +19174,7 @@
   },
   {
     "id": 1283,
-    "name": "Endless Ideas",
+    "name": "A Flood Of Ideas",
     "jp_name": "止まらないアイディア",
     "attribute": "Pure",
     "rarity": 2,
@@ -19189,7 +19189,7 @@
   },
   {
     "id": 1284,
-    "name": "With Collected Weapons",
+    "name": "Wielding My Arsenal",
     "jp_name": "搔き集めた武器で",
     "attribute": "Mysterious",
     "rarity": 4,
@@ -19204,7 +19204,7 @@
   },
   {
     "id": 1285,
-    "name": "Be Thoroughly Prepared",
+    "name": "Diligent Preparation",
     "jp_name": "事前準備は万全に",
     "attribute": "Mysterious",
     "rarity": 4,
@@ -19219,7 +19219,7 @@
   },
   {
     "id": 1286,
-    "name": "Phone Consultation",
+    "name": "Calling For Advice",
     "jp_name": "電話越しの相談",
     "attribute": "Mysterious",
     "rarity": 4,
@@ -19265,7 +19265,7 @@
   },
   {
     "id": 1289,
-    "name": "True Feelings Carried by the Night Breeze",
+    "name": "Truth Lost To The Wind",
     "jp_name": "夜風さらう本音",
     "attribute": "Cute",
     "rarity": 4,
@@ -19280,7 +19280,7 @@
   },
   {
     "id": 1290,
-    "name": "Words Woven for You",
+    "name": "Words We Weave For You",
     "jp_name": "『あなた』に紡ぐ言葉",
     "attribute": "Cute",
     "rarity": 4,
@@ -19295,7 +19295,7 @@
   },
   {
     "id": 1291,
-    "name": "A Troublemaker on a Walk",
+    "name": "Walking An Oblivious Troublemaker",
     "jp_name": "お散歩中の困ったさん",
     "attribute": "Cute",
     "rarity": 4,
@@ -19341,7 +19341,7 @@
   },
   {
     "id": 1294,
-    "name": "Happy Birthday！！2026",
+    "name": "Happy Birthday! 2026",
     "jp_name": "Happy Birthday！！2025",
     "attribute": "Pure",
     "rarity": 5,
@@ -22406,6 +22406,7 @@
     "charId": 11,
     "character": "Shinonome Akito",
     "unit": "Vivid BAD SQUAD",
-    "skillId": 14
+    "skillId": 14,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Happy_Birthday!!_2026_(Akito)"
   }
 ]

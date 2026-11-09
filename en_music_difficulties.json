@@ -22548,6 +22548,46 @@
     "totalNoteCount": 1015
   },
   {
+    "id": 2996,
+    "musicId": 600,
+    "musicDifficulty": "easy",
+    "playLevel": 7,
+    "totalNoteCount": 142,
+    "release": 1794985500000
+  },
+  {
+    "id": 2997,
+    "musicId": 600,
+    "musicDifficulty": "normal",
+    "playLevel": 12,
+    "totalNoteCount": 303,
+    "release": 1794985500000
+  },
+  {
+    "id": 2998,
+    "musicId": 600,
+    "musicDifficulty": "hard",
+    "playLevel": 17,
+    "totalNoteCount": 509,
+    "release": 1794985500000
+  },
+  {
+    "id": 2999,
+    "musicId": 600,
+    "musicDifficulty": "expert",
+    "playLevel": 23,
+    "totalNoteCount": 701,
+    "release": 1794985500000
+  },
+  {
+    "id": 3000,
+    "musicId": 600,
+    "musicDifficulty": "master",
+    "playLevel": 28,
+    "totalNoteCount": 825,
+    "release": 1794985500000
+  },
+  {
     "id": 3001,
     "musicId": 601,
     "musicDifficulty": "easy",
@@ -25132,6 +25172,46 @@
     "release": 1793138400000
   },
   {
+    "id": 3386,
+    "musicId": 678,
+    "musicDifficulty": "easy",
+    "playLevel": 7,
+    "totalNoteCount": 186,
+    "release": 1794524400000
+  },
+  {
+    "id": 3387,
+    "musicId": 678,
+    "musicDifficulty": "normal",
+    "playLevel": 12,
+    "totalNoteCount": 289,
+    "release": 1794524400000
+  },
+  {
+    "id": 3388,
+    "musicId": 678,
+    "musicDifficulty": "hard",
+    "playLevel": 19,
+    "totalNoteCount": 566,
+    "release": 1794524400000
+  },
+  {
+    "id": 3389,
+    "musicId": 678,
+    "musicDifficulty": "expert",
+    "playLevel": 24,
+    "totalNoteCount": 747,
+    "release": 1794524400000
+  },
+  {
+    "id": 3390,
+    "musicId": 678,
+    "musicDifficulty": "master",
+    "playLevel": 28,
+    "totalNoteCount": 830,
+    "release": 1794524400000
+  },
+  {
     "id": 3421,
     "musicId": 685,
     "musicDifficulty": "easy",
@@ -26927,6 +27007,14 @@
     "playLevel": 31,
     "totalNoteCount": 1288,
     "release": 1790751600000
+  },
+  {
+    "id": 4135,
+    "musicId": 189,
+    "musicDifficulty": "append",
+    "playLevel": 25,
+    "totalNoteCount": 531,
+    "release": 1794218884254
   },
   {
     "id": 4155,
