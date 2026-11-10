@@ -263,5 +263,16 @@
       "Data source migration"
     ],
     "date": 1791085141000
+  },
+  {
+    "version": "2.2.12",
+    "title": "More minor things",
+    "logs": [
+      "Added terms and about because google wanted me to",
+      "Changed chart engine",
+      "Some Minor bug fixes",
+      "Asset source migration"
+    ],
+    "date": 1794283784000
   }
 ]
