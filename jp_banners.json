@@ -10746,5 +10746,52 @@
     "cards": [1278, 1033, 790, 534, 318],
     "keywords": [],
     "en_id": 890
+  },
+  {
+    "id": 754,
+    "name": "Captivate YOU！ガチャ",
+    "sekai_id": 4060,
+    "characters": [7, 8, 22],
+    "banner_type": "Permanent Gacha",
+    "start": 1794366000000,
+    "end": 1795143599000,
+    "cards": [1496, 1497, 1498],
+    "keywords": [
+      "mmj",
+      "more more jump",
+      "momojan",
+      "shizuku",
+      "shizuku7",
+      "shizu7",
+      "focus"
+    ],
+    "en_id": 891,
+    "event_id": 225
+  },
+  {
+    "id": 755,
+    "name": "[復刻]Hues of the Selfガチャ",
+    "sekai_id": 4061,
+    "characters": [17, 19, 26],
+    "banner_type": "Limited Gacha Rerun",
+    "start": 1794452400000,
+    "end": 1795229999000,
+    "cards": [1272, 1273, 1274],
+    "keywords": ["niigo", "nightcord", "n25", "focus", "ena6", "ena"],
+    "en_id": 892,
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 756,
+    "name": "[復刻]果てなき護るための戦いガチャ",
+    "sekai_id": 4062,
+    "characters": [2, 14, 22],
+    "banner_type": "Limited Gacha Rerun",
+    "start": 1794452400000,
+    "end": 1795229999000,
+    "cards": [1127, 1128, 1129],
+    "keywords": ["miyama", "miyajou", "white day", "wd", "wd4"],
+    "en_id": 893,
+    "tag": "Last Rerun"
   }
 ]

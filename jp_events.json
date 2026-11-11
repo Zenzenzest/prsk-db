@@ -4536,6 +4536,28 @@
     "close": 1794376799000,
     "event_type": "cheerful_carnival",
     "keywords": [],
-    "type": "Test Event"
+    "type": "Test Event",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/3rd_Cheerful_Carnival_Event_Test_Event"
+  },
+  {
+    "id": 225,
+    "name": "My Searing Light",
+    "unit": "mmj",
+    "cards": [1496, 1497, 1498, 1499, 1500],
+    "start": 1794376800000,
+    "end": 1795003199000,
+    "close": 1795154399000,
+    "event_type": "marathon",
+    "keywords": [
+      "mmj",
+      "more more jump",
+      "momojan",
+      "shizuku",
+      "shizuku7",
+      "shizu7",
+      "focus"
+    ],
+    "type": "Shizuku 7th Focus Event",
+    "music_id": 810
   }
 ]

@@ -66288,5 +66288,278 @@
             }
         ],
         "name": "フラッター・ヘム"
+    },
+    {
+        "id": 1496,
+        "charId": 8,
+        "costumes": [
+            {
+                "id": 2083057,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "08/2216",
+                "thumbnail": "cos2083_unique_head"
+            },
+            {
+                "id": 2083059,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "08/2216a",
+                "thumbnail": "cos2083_unique_head_01"
+            },
+            {
+                "id": 2083061,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "08/2216b",
+                "thumbnail": "cos2083_unique_head_02"
+            },
+            {
+                "id": 2083063,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "08/2216c",
+                "thumbnail": "cos2083_unique_head_03"
+            },
+            {
+                "id": 2083058,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2216",
+                "thumbnail": "cos2083_body"
+            },
+            {
+                "id": 2083060,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2216",
+                "thumbnail": "cos2083_body_01"
+            },
+            {
+                "id": 2083062,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2216",
+                "thumbnail": "cos2083_body_02"
+            },
+            {
+                "id": 2083064,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2216",
+                "thumbnail": "cos2083_body_03"
+            },
+            {
+                "id": 2083161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2216/a01",
+                "thumbnail": "cos2083_head"
+            },
+            {
+                "id": 2083162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2216/a01",
+                "thumbnail": "cos2083_head_01"
+            },
+            {
+                "id": 2083163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2216/a01",
+                "thumbnail": "cos2083_head_02"
+            },
+            {
+                "id": 2083164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2216/a01",
+                "thumbnail": "cos2083_head_03"
+            }
+        ],
+        "name": "MY BEST SELF"
+    },
+    {
+        "id": 1497,
+        "charId": 7,
+        "costumes": [
+            {
+                "id": 2084049,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "07/2215",
+                "thumbnail": "cos2084_unique_head"
+            },
+            {
+                "id": 2084051,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "07/2215a",
+                "thumbnail": "cos2084_unique_head_01"
+            },
+            {
+                "id": 2084053,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "07/2215b",
+                "thumbnail": "cos2084_unique_head_02"
+            },
+            {
+                "id": 2084055,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "07/2215c",
+                "thumbnail": "cos2084_unique_head_03"
+            },
+            {
+                "id": 2084050,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2215",
+                "thumbnail": "cos2084_body"
+            },
+            {
+                "id": 2084052,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2215",
+                "thumbnail": "cos2084_body_01"
+            },
+            {
+                "id": 2084054,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2215",
+                "thumbnail": "cos2084_body_02"
+            },
+            {
+                "id": 2084056,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2215",
+                "thumbnail": "cos2084_body_03"
+            },
+            {
+                "id": 2084161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2215/a01",
+                "thumbnail": "cos2084_head"
+            },
+            {
+                "id": 2084162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2215/a01",
+                "thumbnail": "cos2084_head_01"
+            },
+            {
+                "id": 2084163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2215/a01",
+                "thumbnail": "cos2084_head_02"
+            },
+            {
+                "id": 2084164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2215/a01",
+                "thumbnail": "cos2084_head_03"
+            }
+        ],
+        "name": "NON STOP GIRL"
+    },
+    {
+        "id": 1498,
+        "charId": 22,
+        "costumes": [
+            {
+                "id": 2085137,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "22/2214",
+                "thumbnail": "cos2085_unique_head"
+            },
+            {
+                "id": 2085139,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "22/2214a",
+                "thumbnail": "cos2085_unique_head_01"
+            },
+            {
+                "id": 2085141,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "22/2214b",
+                "thumbnail": "cos2085_unique_head_02"
+            },
+            {
+                "id": 2085143,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "22/2214c",
+                "thumbnail": "cos2085_unique_head_03"
+            },
+            {
+                "id": 2085138,
+                "colorId": 1,
+                "partType": "body",
+                "assetbundleName": "99/2214",
+                "thumbnail": "cos2085_body"
+            },
+            {
+                "id": 2085140,
+                "colorId": 2,
+                "partType": "body",
+                "assetbundleName": "99/2214",
+                "thumbnail": "cos2085_body_01"
+            },
+            {
+                "id": 2085142,
+                "colorId": 3,
+                "partType": "body",
+                "assetbundleName": "99/2214",
+                "thumbnail": "cos2085_body_02"
+            },
+            {
+                "id": 2085144,
+                "colorId": 4,
+                "partType": "body",
+                "assetbundleName": "99/2214",
+                "thumbnail": "cos2085_body_03"
+            },
+            {
+                "id": 2085161,
+                "colorId": 1,
+                "partType": "head",
+                "assetbundleName": "2214/a01",
+                "thumbnail": "cos2085_head"
+            },
+            {
+                "id": 2085162,
+                "colorId": 2,
+                "partType": "head",
+                "assetbundleName": "2214/a01",
+                "thumbnail": "cos2085_head_01"
+            },
+            {
+                "id": 2085163,
+                "colorId": 3,
+                "partType": "head",
+                "assetbundleName": "2214/a01",
+                "thumbnail": "cos2085_head_02"
+            },
+            {
+                "id": 2085164,
+                "colorId": 4,
+                "partType": "head",
+                "assetbundleName": "2214/a01",
+                "thumbnail": "cos2085_head_03"
+            }
+        ],
+        "name": "SWEET MELODY"
     }
 ]

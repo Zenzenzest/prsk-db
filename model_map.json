@@ -1,1 +1,554 @@
-{}
+{
+  "1483": {
+    "textures": {
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2211/ladies_l/sourceimages/tex_bdy_COM_2210_01_C.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2211/ladies_l/sourceimages/tex_bdy_COM_2210_01_H.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2211/ladies_l/sourceimages/tex_bdy_COM_2210_01_S.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/tex_chr_KEI_C_00_C.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/tex_ehl_KEI_C_00_C.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/faceSdf.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/tex_eye_KEI_C_00_C.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/tex_acc_KEI_C_2210_01_C.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/tex_chr_KEI_C_00_H.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/tex_acc_KEI_C_2210_01_H.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/tex_chr_KEI_C_00_S.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/sourceimages/tex_acc_KEI_C_2210_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211b/sourceimages/tex_acc_KEI_C_2210_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211b/sourceimages/tex_acc_KEI_C_2210_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211b/sourceimages/tex_acc_KEI_C_2210_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211c/sourceimages/tex_acc_KEI_C_2210_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211c/sourceimages/tex_acc_KEI_C_2210_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211c/sourceimages/tex_acc_KEI_C_2210_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2211/ladies_l/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211a/sourceimages/tex_acc_KEI_C_2210_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211a/sourceimages/tex_acc_KEI_C_2210_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211a/sourceimages/tex_acc_KEI_C_2210_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2211/ladies_l/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/03/2211/fbx/Hair.obj"
+  },
+  "1484": {
+    "textures": {
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2210/ladies_m/sourceimages/tex_bdy_COM_2209_01_C.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2210/ladies_m/sourceimages/tex_bdy_COM_2209_01_S.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2210/ladies_m/sourceimages/tex_bdy_COM_2209_01_H.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/tex_acc_KEI_A_2209_01_S.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/faceSdf.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/tex_acc_KEI_A_2209_01_H.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/tex_chr_KEI_A_00_S.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/tex_chr_KEI_A_00_C.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/tex_eye_KEI_A_00_C.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/tex_ehl_KEI_A_00_C.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/tex_chr_KEI_A_00_H.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/sourceimages/tex_acc_KEI_A_2209_01_C.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210b/sourceimages/tex_acc_KEI_A_2209_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210b/sourceimages/tex_acc_KEI_A_2209_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210b/sourceimages/tex_acc_KEI_A_2209_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210c/sourceimages/tex_acc_KEI_A_2209_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210c/sourceimages/tex_acc_KEI_A_2209_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210c/sourceimages/tex_acc_KEI_A_2209_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2210/ladies_m/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210a/sourceimages/tex_acc_KEI_A_2209_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210a/sourceimages/tex_acc_KEI_A_2209_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210a/sourceimages/tex_acc_KEI_A_2209_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2210/ladies_m/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/01/2210/fbx/Hair.obj"
+  },
+  "1485": {
+    "textures": {
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2209/ladies_l/sourceimages/tex_bdy_COM_2208_01_S.png",
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2209/ladies_l/sourceimages/tex_bdy_COM_2208_01_C.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2209/ladies_l/sourceimages/tex_bdy_COM_2208_01_H.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/tex_chr_MEI_00_S.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/tex_acc_MEI_2208_01_H.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/faceSdf.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/tex_acc_MEI_2208_01_S.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/tex_chr_MEI_00_H.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/tex_eye_MEI_00_C.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/tex_ehl_MEI_00_C.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/tex_chr_MEI_00_C.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/sourceimages/tex_acc_MEI_2208_01_C.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209b/sourceimages/tex_acc_MEI_2208_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209b/sourceimages/tex_acc_MEI_2208_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209b/sourceimages/tex_acc_MEI_2208_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209c/sourceimages/tex_acc_MEI_2208_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209c/sourceimages/tex_acc_MEI_2208_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209c/sourceimages/tex_acc_MEI_2208_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2209/ladies_l/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209a/sourceimages/tex_acc_MEI_2208_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209a/sourceimages/tex_acc_MEI_2208_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209a/sourceimages/tex_acc_MEI_2208_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2209/ladies_l/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/25/2209/fbx/Hair.obj"
+  },
+  "1489": {
+    "textures": {
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2218/ladies_s/sourceimages/tex_bdy_COM_2217_01_H.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2218/ladies_s/sourceimages/tex_bdy_COM_2217_01_S.png",
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2218/ladies_s/sourceimages/tex_bdy_COM_2217_01_C.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_acc_SCL_A_2217_01_C.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/faceSdf.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_acc_SCL_A_2217_01_H.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_chr_SCL_A_2217_C.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_chr_SCL_A_2217_S.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_acc_SCL_A_2217_01_S.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_chr_SCL_A_2217_H.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_eye_SCL_A_00_C.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_ehl_SCL_A_00_C.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218b/sourceimages/tex_acc_SCL_A_2217_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218b/sourceimages/tex_acc_SCL_A_2217_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218b/sourceimages/tex_acc_SCL_A_2217_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218c/sourceimages/tex_acc_SCL_A_2217_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218c/sourceimages/tex_acc_SCL_A_2217_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218c/sourceimages/tex_acc_SCL_A_2217_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218a/sourceimages/tex_acc_SCL_A_2217_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218a/sourceimages/tex_acc_SCL_A_2217_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218a/sourceimages/tex_acc_SCL_A_2217_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2218/ladies_s/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/fbx/Hair.obj"
+  },
+  "1489n": {
+    "textures": {
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218n/sourceimages/faceSdf.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218n/sourceimages/tex_chr_SCL_A_2217_C.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218n/sourceimages/tex_chr_SCL_A_2217_S.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218n/sourceimages/tex_chr_SCL_A_2217_H.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218n/sourceimages/tex_eye_SCL_A_00_C.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218n/sourceimages/tex_ehl_SCL_A_00_C.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2218/ladies_s/sourceimages/tex_bdy_COM_2217_01_H.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2218/ladies_s/sourceimages/tex_bdy_COM_2217_01_S.png",
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2218/ladies_s/sourceimages/tex_bdy_COM_2217_01_C.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_acc_SCL_A_2217_01_C.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_acc_SCL_A_2217_01_H.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/sourceimages/tex_acc_SCL_A_2217_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218b/sourceimages/tex_acc_SCL_A_2217_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218b/sourceimages/tex_acc_SCL_A_2217_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218b/sourceimages/tex_acc_SCL_A_2217_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218c/sourceimages/tex_acc_SCL_A_2217_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218c/sourceimages/tex_acc_SCL_A_2217_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218c/sourceimages/tex_acc_SCL_A_2217_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2218/ladies_s/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218a/sourceimages/tex_acc_SCL_A_2217_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218a/sourceimages/tex_acc_SCL_A_2217_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218a/sourceimages/tex_acc_SCL_A_2217_02_H.png"
+      }
+    },
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218n/fbx/Face.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218n/fbx/Hair.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/17/2218/fbx/Acc.obj",
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2218/ladies_s/Body.obj"
+  },
+  "1490": {
+    "textures": {
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2219/ladies_l/sourceimages/tex_bdy_COM_2218_01_S.png",
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2219/ladies_l/sourceimages/tex_bdy_COM_2218_01_C.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2219/ladies_l/sourceimages/tex_bdy_COM_2218_01_H.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_acc_SCL_B_2218_01_C.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_eye_SCL_B_00_C.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_chr_SCL_B_2218_C.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/faceSdf.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_acc_SCL_B_2218_01_H.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_ehl_SCL_B_00_C.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_chr_SCL_B_2218_S.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_acc_SCL_B_2218_01_S.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_chr_SCL_B_2218_H.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219b/sourceimages/tex_acc_SCL_B_2218_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219b/sourceimages/tex_acc_SCL_B_2218_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219b/sourceimages/tex_acc_SCL_B_2218_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219c/sourceimages/tex_acc_SCL_B_2218_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219c/sourceimages/tex_acc_SCL_B_2218_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219c/sourceimages/tex_acc_SCL_B_2218_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219a/sourceimages/tex_acc_SCL_B_2218_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219a/sourceimages/tex_acc_SCL_B_2218_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219a/sourceimages/tex_acc_SCL_B_2218_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2219/ladies_l/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/fbx/Hair.obj"
+  },
+  "1490n": {
+    "textures": {
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219n/sourceimages/tex_eye_SCL_B_00_C.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219n/sourceimages/tex_chr_SCL_B_2218_C.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219n/sourceimages/faceSdf.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219n/sourceimages/tex_ehl_SCL_B_00_C.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219n/sourceimages/tex_chr_SCL_B_2218_S.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219n/sourceimages/tex_chr_SCL_B_2218_H.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2219/ladies_l/sourceimages/tex_bdy_COM_2218_01_S.png",
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2219/ladies_l/sourceimages/tex_bdy_COM_2218_01_C.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2219/ladies_l/sourceimages/tex_bdy_COM_2218_01_H.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_acc_SCL_B_2218_01_C.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_acc_SCL_B_2218_01_H.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/sourceimages/tex_acc_SCL_B_2218_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219b/sourceimages/tex_acc_SCL_B_2218_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219b/sourceimages/tex_acc_SCL_B_2218_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219b/sourceimages/tex_acc_SCL_B_2218_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219c/sourceimages/tex_acc_SCL_B_2218_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219c/sourceimages/tex_acc_SCL_B_2218_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219c/sourceimages/tex_acc_SCL_B_2218_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2219/ladies_l/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219a/sourceimages/tex_acc_SCL_B_2218_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219a/sourceimages/tex_acc_SCL_B_2218_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219a/sourceimages/tex_acc_SCL_B_2218_02_H.png"
+      }
+    },
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219n/fbx/Face.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219n/fbx/Hair.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/18/2219/fbx/Acc.obj",
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2219/ladies_l/Body.obj"
+  },
+  "1491": {
+    "textures": {
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2217/ladies_l/sourceimages/tex_bdy_COM_2216_01_H.png",
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2217/ladies_l/sourceimages/tex_bdy_COM_2216_01_C.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2217/ladies_l/sourceimages/tex_bdy_COM_2216_01_S.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_chr_LUK_2216_S.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/faceSdf.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_chr_LUK_2216_C.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_acc_LUK_2216_01_C.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_eye_LUK_00_C.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_acc_LUK_2216_01_H.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_acc_LUK_2216_01_S.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_chr_LUK_2216_H.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_ehl_LUK_00_C.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217b/sourceimages/tex_acc_LUK_2216_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217b/sourceimages/tex_acc_LUK_2216_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217b/sourceimages/tex_acc_LUK_2216_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217c/sourceimages/tex_acc_LUK_2216_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217c/sourceimages/tex_acc_LUK_2216_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217c/sourceimages/tex_acc_LUK_2216_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217a/sourceimages/tex_acc_LUK_2216_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217a/sourceimages/tex_acc_LUK_2216_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217a/sourceimages/tex_acc_LUK_2216_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2217/ladies_l/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/fbx/Hair.obj"
+  },
+  "1491n": {
+    "textures": {
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217n/sourceimages/tex_chr_LUK_2216_S.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217n/sourceimages/faceSdf.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217n/sourceimages/tex_chr_LUK_2216_C.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217n/sourceimages/tex_eye_LUK_00_C.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217n/sourceimages/tex_chr_LUK_2216_H.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217n/sourceimages/tex_ehl_LUK_00_C.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2217/ladies_l/sourceimages/tex_bdy_COM_2216_01_H.png",
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2217/ladies_l/sourceimages/tex_bdy_COM_2216_01_C.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2217/ladies_l/sourceimages/tex_bdy_COM_2216_01_S.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_acc_LUK_2216_01_C.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_acc_LUK_2216_01_H.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/sourceimages/tex_acc_LUK_2216_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217b/sourceimages/tex_acc_LUK_2216_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217b/sourceimages/tex_acc_LUK_2216_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217b/sourceimages/tex_acc_LUK_2216_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217c/sourceimages/tex_acc_LUK_2216_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217c/sourceimages/tex_acc_LUK_2216_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217c/sourceimages/tex_acc_LUK_2216_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2217/ladies_l/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217a/sourceimages/tex_acc_LUK_2216_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217a/sourceimages/tex_acc_LUK_2216_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217a/sourceimages/tex_acc_LUK_2216_02_H.png"
+      }
+    },
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217n/fbx/Face.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217n/fbx/Hair.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/24/2217/fbx/Acc.obj",
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2217/ladies_l/Body.obj"
+  },
+  "1496": {
+    "textures": {
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2216/ladies_s/sourceimages/tex_bdy_COM_2215_01_C.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2216/ladies_s/sourceimages/tex_bdy_COM_2215_01_S.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2216/ladies_s/sourceimages/tex_bdy_COM_2215_01_H.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/tex_eye_IDL_D_00_C.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/tex_acc_IDL_D_2215_01_H.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/faceSdf.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/tex_chr_IDL_D_00_C.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/tex_acc_IDL_D_2215_01_C.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/tex_chr_IDL_D_00_S.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/tex_chr_IDL_D_00_H.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/tex_ehl_IDL_D_00_C.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/sourceimages/tex_acc_IDL_D_2215_01_S.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216b/sourceimages/tex_acc_IDL_D_2215_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216b/sourceimages/tex_acc_IDL_D_2215_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216b/sourceimages/tex_acc_IDL_D_2215_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216c/sourceimages/tex_acc_IDL_D_2215_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216c/sourceimages/tex_acc_IDL_D_2215_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216c/sourceimages/tex_acc_IDL_D_2215_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2216/ladies_s/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216a/sourceimages/tex_acc_IDL_D_2215_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216a/sourceimages/tex_acc_IDL_D_2215_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216a/sourceimages/tex_acc_IDL_D_2215_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2216/ladies_s/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/08/2216/fbx/Hair.obj"
+  },
+  "1497": {
+    "textures": {
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2215/ladies_m/sourceimages/tex_bdy_COM_2214_01_S.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2215/ladies_m/sourceimages/tex_bdy_COM_2214_01_H.png",
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2215/ladies_m/sourceimages/tex_bdy_COM_2214_01_C.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/tex_eye_IDL_C_00_C.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/tex_ehl_IDL_C_00_C.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/faceSdf.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/tex_chr_IDL_C_00_H.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/tex_acc_IDL_C_2214_01_H.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/tex_chr_IDL_C_00_S.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/tex_chr_IDL_C_00_C.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/tex_acc_IDL_C_2214_01_S.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/sourceimages/tex_acc_IDL_C_2214_01_C.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215b/sourceimages/tex_acc_IDL_C_2214_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215b/sourceimages/tex_acc_IDL_C_2214_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215b/sourceimages/tex_acc_IDL_C_2214_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215c/sourceimages/tex_acc_IDL_C_2214_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215c/sourceimages/tex_acc_IDL_C_2214_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215c/sourceimages/tex_acc_IDL_C_2214_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2215/ladies_m/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215a/sourceimages/tex_acc_IDL_C_2214_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215a/sourceimages/tex_acc_IDL_C_2214_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215a/sourceimages/tex_acc_IDL_C_2214_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2215/ladies_m/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/07/2215/fbx/Hair.obj"
+  },
+  "1498": {
+    "textures": {
+      "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2214/ladies_s/sourceimages/tex_bdy_COM_2213_01_C.png",
+      "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2214/ladies_s/sourceimages/tex_bdy_COM_2213_01_H.png",
+      "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2214/ladies_s/sourceimages/tex_bdy_COM_2213_01_S.png",
+      "ehlC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/tex_ehl_RIN_00_C.png",
+      "eyeC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/tex_eye_RIN_00_C.png",
+      "faceSdf": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/faceSdf.png",
+      "chrS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/tex_chr_RIN_2213_S.png",
+      "chrC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/tex_chr_RIN_2213_C.png",
+      "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/tex_acc_RIN_2213_01_S.png",
+      "chrH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/tex_chr_RIN_2213_H.png",
+      "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/tex_acc_RIN_2213_01_C.png",
+      "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/sourceimages/tex_acc_RIN_2213_01_H.png"
+    },
+    "variations": {
+      "02": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/02/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/02/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/02/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214b/sourceimages/tex_acc_RIN_2213_03_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214b/sourceimages/tex_acc_RIN_2213_03_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214b/sourceimages/tex_acc_RIN_2213_03_H.png"
+      },
+      "03": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/03/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/03/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/03/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214c/sourceimages/tex_acc_RIN_2213_04_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214c/sourceimages/tex_acc_RIN_2213_04_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214c/sourceimages/tex_acc_RIN_2213_04_H.png"
+      },
+      "01": {
+        "bodyS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/01/tex_body_S.png",
+        "bodyC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/01/tex_body_C.png",
+        "bodyH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/color_variation/body/99/2214/ladies_s/01/tex_body_H.png",
+        "accC": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214a/sourceimages/tex_acc_RIN_2213_02_C.png",
+        "accS": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214a/sourceimages/tex_acc_RIN_2213_02_S.png",
+        "accH": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214a/sourceimages/tex_acc_RIN_2213_02_H.png"
+      }
+    },
+    "bodyObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/body/99/2214/ladies_s/Body.obj",
+    "faceObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/fbx/Face.obj",
+    "accObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/fbx/Acc.obj",
+    "hairObj": "/home/azuriyale/Projects/prsk-db/archive/assets/model_assetbundles/characterv2/face/22/2214/fbx/Hair.obj"
+  }
+}

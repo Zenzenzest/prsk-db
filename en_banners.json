@@ -11346,5 +11346,53 @@
     "keywords": [],
     "start": 1825660800000,
     "end": 1826265599000
+  },
+  {
+    "id": 891,
+    "name": "Captivate YOU！ Gacha",
+    "sekai_id": 4060,
+    "characters": [7, 8, 22],
+    "cards": [1496, 1497, 1498],
+    "banner_type": "Permanent Gacha",
+    "keywords": [
+      "mmj",
+      "more more jump",
+      "momojan",
+      "shizuku",
+      "shizuku7",
+      "shizu7",
+      "focus"
+    ],
+    "start": 1825963200000,
+    "end": 1826740799000,
+    "event_id": 225
+  },
+  {
+    "id": 892,
+    "name": "[Rerun] Hues of the Self Gacha",
+    "sekai_id": 4061,
+    "characters": [17, 19, 26],
+    "cards": [1272, 1273, 1274],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": ["niigo", "nightcord", "n25", "focus", "ena6", "ena"],
+    "start": 1827547200000,
+    "end": 1827547200000,
+    "type": "rerun_estimation",
+    "rerun": [1825556400000, 1827197999000],
+    "tag": "1st Rerun"
+  },
+  {
+    "id": 893,
+    "name": "[Rerun] Eternal Combat Guardians Gacha",
+    "sekai_id": 4062,
+    "characters": [2, 14, 22],
+    "cards": [1127, 1128, 1129],
+    "banner_type": "Limited Gacha Rerun",
+    "keywords": ["miyama", "miyajou", "white day", "wd", "wd4"],
+    "start": 1827547200000,
+    "end": 1827547200000,
+    "type": "rerun_estimation",
+    "rerun": [1825556400000, 1827197999000],
+    "tag": "Last Rerun"
   }
 ]
