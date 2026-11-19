@@ -22421,7 +22421,8 @@
     "charId": 8,
     "character": "Hinomori Shizuku",
     "unit": "MORE MORE JUMP!",
-    "skillId": 4
+    "skillId": 4,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Embrace_the_Overflowing_Tears"
   },
   {
     "id": 1497,
@@ -22435,7 +22436,8 @@
     "charId": 7,
     "character": "Momoi Airi",
     "unit": "MORE MORE JUMP!",
-    "skillId": 10
+    "skillId": 10,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/What_I_Failed_to_See"
   },
   {
     "id": 1498,
@@ -22450,7 +22452,8 @@
     "character": "Kagamine Rin",
     "unit": "Virtual Singers",
     "skillId": 11,
-    "sub_unit": "MORE MORE JUMP!"
+    "sub_unit": "MORE MORE JUMP!",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Beyond_That_Sparkling_Smile"
   },
   {
     "id": 1499,
@@ -22464,7 +22467,8 @@
     "charId": 5,
     "character": "Hanasato Minori",
     "unit": "MORE MORE JUMP!",
-    "skillId": 9
+    "skillId": 9,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/My_Mind%27s_Already_Made_Up!"
   },
   {
     "id": 1500,
@@ -22478,6 +22482,7 @@
     "charId": 6,
     "character": "Kiritani Haruka",
     "unit": "MORE MORE JUMP!",
-    "skillId": 5
+    "skillId": 5,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Trusting_My_Teammates"
   }
 ]

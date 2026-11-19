@@ -11394,5 +11394,49 @@
     "type": "rerun_estimation",
     "rerun": [1825556400000, 1827197999000],
     "tag": "Last Rerun"
+  },
+  {
+    "id": 894,
+    "name": "Wonderlands×Showtime Memories Gacha",
+    "sekai_id": 4063,
+    "characters": [13, 14, 15, 16],
+    "cards": [1410, 1339, 1470, 1363],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1826740800000,
+    "end": 1827172799000
+  },
+  {
+    "id": 895,
+    "name": "[Limited 100 Pulls] Wonderlands×Showtime Memories: Training Support Prize Gacha",
+    "sekai_id": 4064,
+    "characters": [13, 14, 15, 16],
+    "cards": [791, 1156, 1279, 301],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1826740800000,
+    "end": 1827172799000
+  },
+  {
+    "id": 896,
+    "name": "[Beginner Support] Wonderlands×Showtime Memories: Grow-Up Gift Gacha",
+    "sekai_id": 4065,
+    "characters": [13, 14, 15, 16],
+    "cards": [928, 1280, 701, 572],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1826740800000,
+    "end": 1827172799000
+  },
+  {
+    "id": 897,
+    "name": "[Wonderlands×Showtime] 4★ Guaranteed  Gacha",
+    "sekai_id": 4066,
+    "characters": [13, 14, 15, 16],
+    "cards": [606, 700, 411, 957],
+    "banner_type": "4★ Guaranteed",
+    "keywords": [],
+    "start": 1826740800000,
+    "end": 1831103999000
   }
 ]

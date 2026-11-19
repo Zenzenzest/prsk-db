@@ -4508,6 +4508,19 @@
       "focus"
     ],
     "type": "Shizuku 7th Focus Event",
-    "music_id": 810
+    "music_id": 810,
+    "sekaipedia": "https://www.sekaipedia.org/wiki/My_Searing_Light"
+  },
+  {
+    "id": 226,
+    "name": "Wonderlands×Showtime Memories",
+    "unit": "wxs",
+    "cards": [],
+    "start": 1826751600000,
+    "end": 1827118799000,
+    "close": 1827183599000,
+    "event_type": "marathon",
+    "keywords": [],
+    "type": "Wonderlands×Showtime Memories Event"
   }
 ]

@@ -50840,5 +50840,189 @@
         "isWish": []
       }
     ]
+  },
+  {
+    "id": 894,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "pick": {
+      "hasSlots": false,
+      "mechanic": null,
+      "slotCount": 0,
+      "rateUpTotalPercent": null,
+      "slots": []
+    },
+    "gachaDetails": [
+      {
+        "weight": 138888,
+        "cardIds": [
+          96, 120, 121, 124, 126, 140, 141, 145, 146, 171, 182, 186, 229, 233,
+          234, 261, 270, 271, 357, 358, 411, 412, 428, 430, 451, 452, 501, 523,
+          524, 572, 573, 607, 608, 649, 650, 701, 702, 720, 792, 793, 855, 856,
+          884, 885, 886, 887, 928, 929, 957, 958, 995, 1035, 1036, 1050, 1123,
+          1133, 1157, 1158, 1169, 1170, 1171, 1172, 1280, 1281, 1340, 1341,
+          1411, 1412, 1471, 1472
+        ],
+        "isWish": []
+      },
+      {
+        "weight": 714286,
+        "cardIds": [
+          119, 144, 180, 232, 269, 356, 410, 450, 522, 565, 571, 606, 648, 700,
+          791, 854, 927, 956, 1034, 1156, 1196, 1229, 1279, 1339, 1363, 1410,
+          1470
+        ],
+        "isWish": []
+      }
+    ]
+  },
+  {
+    "id": 895,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "pick": {
+      "hasSlots": false,
+      "mechanic": null,
+      "slotCount": 0,
+      "rateUpTotalPercent": null,
+      "slots": []
+    },
+    "gachaDetails": [
+      {
+        "weight": 1,
+        "cardIds": [
+          96, 119, 120, 121, 124, 126, 140, 141, 144, 145, 146, 171, 182, 186,
+          229, 232, 233, 234, 261, 269, 270, 271, 356, 357, 358, 410, 411, 412,
+          428, 430, 450, 451, 452, 501, 522, 523, 524, 571, 572, 573, 606, 607,
+          608, 648, 649, 650, 700, 701, 702, 720, 791, 792, 793, 854, 855, 856,
+          927, 928, 929, 956, 957, 958, 995, 1034, 1035, 1036, 1050, 1123, 1133,
+          1156, 1157, 1158, 1279, 1280, 1281, 1339, 1340, 1341, 1410, 1411,
+          1412, 1470, 1471, 1472
+        ],
+        "isWish": []
+      }
+    ]
+  },
+  {
+    "id": 896,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "pick": {
+      "hasSlots": false,
+      "mechanic": null,
+      "slotCount": 0,
+      "rateUpTotalPercent": null,
+      "slots": []
+    },
+    "gachaDetails": [
+      {
+        "weight": 1,
+        "cardIds": [
+          96, 119, 120, 121, 124, 126, 140, 141, 144, 145, 146, 171, 182, 186,
+          229, 232, 233, 234, 261, 269, 270, 271, 356, 357, 358, 410, 411, 412,
+          428, 430, 450, 451, 452, 501, 522, 523, 524, 571, 572, 573, 606, 607,
+          608, 648, 649, 650, 700, 701, 702, 720, 791, 792, 793, 854, 855, 856,
+          927, 928, 929, 956, 957, 958, 995, 1034, 1035, 1036, 1050, 1123, 1133,
+          1156, 1157, 1158, 1279, 1280, 1281, 1339, 1340, 1341, 1410, 1411, 1412
+        ],
+        "isWish": []
+      }
+    ]
+  },
+  {
+    "id": 897,
+    "gachaCardRarityRates": [
+      {
+        "id": 16,
+        "groupId": 6,
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 100.0
+      }
+    ],
+    "pick": {
+      "hasSlots": false,
+      "mechanic": null,
+      "slotCount": 0,
+      "rateUpTotalPercent": null,
+      "slots": []
+    },
+    "gachaDetails": [
+      {
+        "weight": 1,
+        "cardIds": [
+          96, 119, 120, 121, 124, 126, 140, 141, 144, 145, 146, 171, 182, 186,
+          229, 232, 233, 234, 261, 269, 270, 271, 356, 357, 358, 410, 411, 412,
+          428, 430, 450, 451, 452, 501, 522, 523, 524, 571, 572, 573, 606, 607,
+          608, 648, 649, 650, 700, 701, 702, 720, 791, 792, 793, 854, 855, 856,
+          927, 928, 929, 956, 957, 958, 995, 1034, 1035, 1036, 1050, 1123, 1133,
+          1156, 1157, 1158, 1279, 1280, 1281
+        ],
+        "isWish": []
+      }
+    ]
   }
 ]
