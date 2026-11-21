@@ -108,10 +108,10 @@
     "id": 166,
     "seq": 138,
     "name": "5th Anniversary Login Campaign",
-    "startAt": 1796673600000,
-    "endAt": 1798631999000,
+    "startAt": 1796630400000,
+    "endAt": 1797595199000,
     "assetbundleName": "5th_anniversary",
-    "closeAt": 1798113600000,
+    "closeAt": 1797076800000,
     "limitedLoginBonusDetails": [
       {
         "resourceBoxId": 205,

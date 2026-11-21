@@ -3674,7 +3674,7 @@
   },
   {
     "id": 188,
-    "name": "In the Night Sky I Gaze Up At, the Stars Fade",
+    "name": "The Sky That Night Was Empty",
     "unit": "l/n",
     "cards": [1289, 1290, 1291, 1292, 1293],
     "start": 1796079600000,
@@ -4521,6 +4521,7 @@
     "close": 1827183599000,
     "event_type": "marathon",
     "keywords": [],
-    "type": "Wonderlands×Showtime Memories Event"
+    "type": "Wonderlands×Showtime Memories Event",
+    "sekaipedia": "https://www.sekaipedia.org/wiki/Wonderlands%C3%97Showtime_Memories"
   }
 ]
