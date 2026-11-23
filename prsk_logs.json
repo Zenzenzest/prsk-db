@@ -1076,5 +1076,16 @@
     "version": "1.24.13",
     "title": "Added KR and CN costumes",
     "date": 1794747339000
+  },
+  {
+    "version": "1.24.14",
+    "title": "Some fixes and adjustments",
+    "logs": [
+      "Added Card Types checkbox in stats-table",
+      "Fixed Attribute Sorting in stats-table",
+      "Added all card types in attribute distribution dropdown",
+      "Added Ena Mix in Rotations - Seasonal/Holiday - White Day and marked it as questionable"
+    ],
+    "date": 1795395707000
   }
 ]
