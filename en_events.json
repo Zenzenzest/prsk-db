@@ -4523,5 +4523,17 @@
     "keywords": [],
     "type": "Wonderlands×Showtime Memories Event",
     "sekaipedia": "https://www.sekaipedia.org/wiki/Wonderlands%C3%97Showtime_Memories"
+  },
+  {
+    "id": 227,
+    "name": "Leo/need Memories",
+    "unit": "l/n",
+    "cards": [],
+    "start": 1827183600000,
+    "end": 1827550799000,
+    "close": 1827615599000,
+    "event_type": "marathon",
+    "keywords": [],
+    "type": "Leo/need Memories Event"
   }
 ]

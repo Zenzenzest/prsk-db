@@ -11515,5 +11515,49 @@
     "banner_type": "Normal",
     "keywords": [],
     "characters": [1, 5, 9, 13, 17, 21]
+  },
+  {
+    "id": 917,
+    "name": "Leo/need Memories Gacha",
+    "sekai_id": 4068,
+    "characters": [1, 2, 3, 4],
+    "cards": [1434, 1289, 1483, 1333],
+    "banner_type": "Normal",
+    "keywords": [],
+    "start": 1827172800000,
+    "end": 1827604799000
+  },
+  {
+    "id": 918,
+    "name": "[Limited 100 Pulls] Leo/need Memories: Training Support Prize Gacha",
+    "sekai_id": 4069,
+    "characters": [1, 2, 3, 4],
+    "cards": [1261, 624, 1201, 773],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1827172800000,
+    "end": 1827604799000
+  },
+  {
+    "id": 919,
+    "name": "[Beginner Support] Leo/need Memories: Grow-Up Gift Gacha",
+    "sekai_id": 4070,
+    "characters": [1, 2, 3, 4],
+    "cards": [1202, 1334, 536, 715],
+    "banner_type": "Memories Gacha",
+    "keywords": [],
+    "start": 1827172800000,
+    "end": 1827604799000
+  },
+  {
+    "id": 920,
+    "name": "[Leo/need] 4★ Guaranteed  Gacha",
+    "sekai_id": 4071,
+    "characters": [1, 2, 3, 4],
+    "cards": [998, 1098, 576, 684],
+    "banner_type": "4★ Guaranteed",
+    "keywords": [],
+    "start": 1827172800000,
+    "end": 1831535999000
   }
 ]
