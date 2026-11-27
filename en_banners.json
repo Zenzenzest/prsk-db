@@ -11559,5 +11559,27 @@
     "keywords": [],
     "start": 1827172800000,
     "end": 1831535999000
+  },
+  {
+    "id": 922,
+    "name": "[Friend Invitation] 4★ Character Guaranteed Gacha",
+    "sekai_id": 824,
+    "start": 1796587200000,
+    "end": 1801468799000,
+    "cards": [958, 715, 391, 504, 608, 540],
+    "banner_type": "4★ Guaranteed",
+    "keywords": [],
+    "characters": [4, 8, 12, 15, 19, 24]
+  },
+  {
+    "id": 923,
+    "name": "2026 Black Friday 10x Free Gacha",
+    "sekai_id": 101181,
+    "start": 1795766400000,
+    "end": 1796673599000,
+    "cards": [1047, 1202, 1065, 1141, 1208, 1157],
+    "banner_type": "Free Pull",
+    "keywords": [],
+    "characters": [1, 6, 12, 15, 19, 21]
   }
 ]
